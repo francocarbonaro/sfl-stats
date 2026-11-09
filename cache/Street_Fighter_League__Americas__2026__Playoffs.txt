@@ -14,15 +14,15 @@
 }}
 
 |R2M1={{Match
-|opponent1={{TeamOpponent|Shopify Rebellion|score=}}
-|opponent2={{TeamOpponent|2Game Esports|score=}}
+|opponent1={{TeamOpponent|Shopify Rebellion|score=30}}
+|opponent2={{TeamOpponent|2Game Esports|score=50}}
 |date=
-|winner=
+|winner=2
 }}
 
 |R3M1={{Match
 |opponent1={{TeamOpponent|Bandits|score=}}
-|opponent2={{TeamOpponent||score=}}
+|opponent2={{TeamOpponent|2Game Esports|score=}}
 |date=
 |winner=
 }}
@@ -92,29 +92,33 @@
 }}
 }}
 |M2={{Match
-|opponent1={{TeamOpponent|2Game Esports|score=}}
-|opponent2={{TeamOpponent|Shopify Rebellion|score=}}
+|opponent1={{TeamOpponent|2Game Esports|score=20}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=20}}
 |date=
 |winner=
 |vod=
 |map1={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=shaka22|o1p1={{Chars|dhalsim}}|score1=0
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=2
+|winner=2
 }}
 |map2={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=Brayan_Job|o1p1={{Chars|deejay}}|score1=0
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2
+|winner=2
 }}
 |map3={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=Blaz|o1p1={{Chars|sagat}}|score1=3
+|t2p1=Punk|o2p1={{Chars|cammy|kimberly}}|score2=0
+|winner=1
 }}
 }}
-|M3={{Match
-|opponent1={{TeamOpponent|Shopify Rebellion|score=}}
+}}
+
+===Grand Finals===
+{{Matchlist|id=SFLUS26PGF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|Bandits|score=}}
 |opponent2={{TeamOpponent|2Game Esports|score=}}
 |date=
 |winner=
@@ -135,34 +139,8 @@
 |winner=
 }}
 }}
-}}
-
-===Grand Finals===
-{{Matchlist|id=SFLUS26PGF|width=450px|collapsed=false
-|M1={{Match
-|opponent1={{TeamOpponent|Bandits|score=}}
-|opponent2={{TeamOpponent||score=}}
-|date=
-|winner=
-|vod=
-|map1={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-|map2={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-|map3={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-}}
 |M2={{Match
-|opponent1={{TeamOpponent||score=}}
+|opponent1={{TeamOpponent|2Game Esports|score=}}
 |opponent2={{TeamOpponent|Bandits|score=}}
 |date=
 |winner=
@@ -185,7 +163,7 @@
 }}
 |M3={{Match
 |opponent1={{TeamOpponent|Bandits|score=}}
-|opponent2={{TeamOpponent||score=}}
+|opponent2={{TeamOpponent|2Game Esports|score=}}
 |date=
 |winner=
 |vod=
@@ -206,7 +184,7 @@
 }}
 }}
 |M4={{Match
-|opponent1={{TeamOpponent||score=}}
+|opponent1={{TeamOpponent|2Game Esports|score=}}
 |opponent2={{TeamOpponent|Bandits|score=}}
 |date=
 |winner=
