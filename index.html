@@ -424,6 +424,39 @@ function viewStandings(S) {
 function seriesBattlesOf(s, br) {
   return s.battles.filter(b => b.stage === "Playoffs" && b.round === br.round && br.t.every(t => !t || b.t.includes(t)));
 }
+// Series result as one score (e.g. 60-20), plus a status line.
+function seriesResult(s, br) {
+  const bs = seriesBattlesOf(s, br);
+  const side = (b, i) => { const k = b.t.indexOf(br.t[i]); return k < 0 ? 0 : b.score[k]; };
+  const total = [0, 1].map(i => bs.reduce((a, b) => a + side(b, i), 0));
+  const listed = br.score && br.score.every(x => x != null) ? br.score : null;
+  const byBattles = listed && Math.max(...listed) <= 5;
+  const target = byBattles ? null : s.targets?.[br.round];
+  const shown = listed && !byBattles ? listed : byBattles ? listed : total;
+  let status;
+  if (br.w != null) status = `${esc(br.t[br.w])} won the series`;
+  else if (target && bs.length) {
+    const lead = shown[0] === shown[1] ? null : shown[0] > shown[1] ? 0 : 1;
+    status = lead == null ? `Level at ${shown[0]}` : `${esc(br.t[lead])} leads, needs ${Math.max(0, target - shown[lead])} more`;
+  } else status = bs.length ? "In progress" : "Not played yet";
+  return { bs, shown, target, byBattles, status };
+}
+
+// One section per playoff series: the series score as a single number pair, then each battle
+// as played (team order as listed on Liquipedia).
+function seriesSection(s, br, hideRound) {
+  const r = seriesResult(s, br);
+  const team = i => `<span style="${br.w === i ? "font-weight:700" : ""}">${br.w === i ? "🏆 " : ""}${tLink(br.t[i], s.id)}</span>`;
+  return `<div class="card" style="padding:14px 16px">
+    <div class="muted" style="font-size:12px">${[isAll() ? esc(s.name) : "", hideRound ? "" : esc(br.round), r.target ? `First to ${r.target}` : r.byBattles ? "Battles won" : ""].filter(Boolean).join(" · ")}</div>
+    <div style="display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:12px;align-items:center;font-size:18px;margin:6px 0 2px">
+      <span>${team(0)}</span>
+      <span style="font-weight:700;font-size:22px">${r.shown[0]} – ${r.shown[1]}</span>
+      <span style="text-align:right">${team(1)}</span></div>
+    <div class="muted" style="font-size:12.5px;margin-bottom:${r.bs.length ? 10 : 0}px">${r.status}</div>
+    ${r.bs.length ? `<div class="grid2">${r.bs.map((b, n) => battleCard(b, { label: `Battle ${n + 1}` })).join("")}</div>` : ""}</div>`;
+}
+
 function seriesCard(s, br, withRound) {
   const bs = seriesBattlesOf(s, br);
   const side = (b, i) => { const k = b.t.indexOf(br.t[i]); return k < 0 ? 0 : b.score[k]; };
@@ -705,19 +738,34 @@ function viewTeams(S) {
 function viewTeam(S, t) {
   const back = `<a class="back" href="${href("teams")}">← All teams</a>`;
   if (!S.teams[t]) return back + `<div class="card"><h2>${esc(t)}</h2><p class="muted">No battles for this filter.</p></div>`;
-  return back + teamTable(S, t) + `<h3 class="sec">Battles</h3>` + S.teams[t].battles.map(battleCard).join("");
+  const all = S.teams[t].battles;
+  const regular = all.filter(b => b.stage !== "Playoffs");
+  const po = all.filter(b => b.stage === "Playoffs");
+  // Playoff battles shown per series (one score per series), in bracket order.
+  const series = [], covered = new Set();
+  for (const sid of [...new Set(po.map(b => b.sid))]) {
+    const s = SEASON[sid];
+    s.bracket.filter(br => br.t.includes(t))
+      .sort((a, b) => (ROUND_ORDER[a.round] || 0) - (ROUND_ORDER[b.round] || 0))
+      .forEach(br => { const bs = seriesBattlesOf(s, br); if (bs.length) { series.push(seriesSection(s, br)); bs.forEach(b => covered.add(b)); } });
+  }
+  const loose = po.filter(b => !covered.has(b));
+  return back + teamTable(S, t) +
+    (series.length || loose.length ? `<h3 class="sec">Playoffs</h3>` + series.join("") + loose.map(battleCard).join("") : "") +
+    (regular.length ? `<h3 class="sec">${po.length ? "Regular season battles" : "Battles"}</h3>` + regular.map(battleCard).join("") : "");
 }
 
 // ---------- matches ----------
-function battleCard(b) {
-  const w = b.score[0] > b.score[1] ? 0 : 1;
+function battleCard(b, opts) {
+  const label = opts && typeof opts === "object" ? opts.label : null;
+  const w = b.score[0] > b.score[1] ? 0 : b.score[1] > b.score[0] ? 1 : null;   // a battle can end level (20-20)
   const maps = b.maps.map(m => `<div class="mrow"><span class="slot">${SLOT_SHORT[m.n]}·${m.pts}</span>
       <span class="r"><span class="${m.w === 0 ? "w" : ""}">${pLink(m.p[0], b.sid)}</span> <span class="muted">${m.c[0].map(esc).join("/")}</span></span>
       <span class="mid"><span class="${m.w === 0 ? "w" : "l"}">${m.s[0]}</span>-<span class="${m.w === 1 ? "w" : "l"}">${m.s[1]}</span></span>
       <span><span class="${m.w === 1 ? "w" : ""}">${pLink(m.p[1], b.sid)}</span> <span class="muted">${m.c[1].map(esc).join("/")}</span></span></div>`).join("");
   return `<div class="battle"><div class="hd"><span>${w === 0 ? "🏆 " : ""}${tLink(b.t[0], b.sid)}</span>
       <span class="sc">${b.score[0]} – ${b.score[1]}</span><span>${tLink(b.t[1], b.sid)}${w === 1 ? " 🏆" : ""}</span></div>
-      <div class="muted" style="font-size:12px;margin-bottom:4px">${isAll() ? esc(SEASON[b.sid].name) + " · " : ""}${esc(b.round)}${b.date ? " · " + esc(b.date) : ""}</div>${maps}</div>`;
+      <div class="muted" style="font-size:12px;margin-bottom:4px">${label ? esc(label) : `${isAll() ? esc(SEASON[b.sid].name) + " · " : ""}${esc(b.round)}`}${b.date ? " · " + esc(b.date) : ""}</div>${maps}</div>`;
 }
 
 function viewMatches(S) {
@@ -731,7 +779,9 @@ function viewMatches(S) {
       const s = SEASON[bs[0].sid];
       const brs = s.bracket.filter(br => br.round === bs[0].round && seriesBattlesOf(s, br).length);
       const covered = new Set(brs.flatMap(br => seriesBattlesOf(s, br)));
-      cards = brs.map(br => seriesCard(s, br)).join("") + bs.filter(b => !covered.has(b)).map(battleCard).join("");
+      const rest = bs.filter(b => !covered.has(b));
+      return `<h3 class="sec">${esc(r)}</h3>` + brs.map(br => seriesSection(s, br, true)).join("") +
+        (rest.length ? `<div class="grid2">${rest.map(battleCard).join("")}</div>` : "");
     } else cards = bs.map(battleCard).join("");
     return `<h3 class="sec">${esc(r)} <span class="muted" style="font-weight:400">${esc(bs[0].date || "")}</span></h3>
     <div class="grid2">${cards}</div>`;
