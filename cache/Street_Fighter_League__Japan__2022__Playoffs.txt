@@ -1,0 +1,173 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2022: Playoffs}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Japan/2022
+|name2=Regular Season |link2=Street Fighter League/Japan/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Japan/2022/Playoffs
+|name4=Grand Finals |link4=Street Fighter League/Japan/2022/Grand Finals
+|This={{{This}}}
+}}
+==Results==
+{{Bracket|Bracket/2-1Q-U-2L1D-1Q|id=jKs1Cri2Vw
+<!-- WINNER'S ROUND 1 -->
+|R2M1={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star |score=0}}
+|opponent2={{TeamOpponent|SSK |score=2}}
+|winner=2
+}}
+
+<!-- LOSER'S ROUND 1 -->
+|R1M1={{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming |score=2}}
+|opponent2={{TeamOpponent|SNB |score=0}}
+|winner=1
+}}
+
+<!-- LOSER'S FINALS -->
+|R2M2={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star |score=2}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming |score=0}}
+|winner=1
+}}
+}}
+
+==Details==
+===Winners Finals===
+{{Matchlist|width=450px|collapsed=false|id=hAE4u2vjkW
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=1}}
+|opponent2={{TeamOpponent|SSK|score=2}}
+|winner=2
+|vod=https://youtu.be/oYV7Ct7rbrc?t=2503
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|poison}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|urien}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira |o1p1={{Chars|cammy}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Daigo|o1p1={{Chars|guile}}|score1=0
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=1}}
+|opponent2={{TeamOpponent|SSK|score=2}}
+|winner=2
+|vod=https://youtu.be/oYV7Ct7rbrc?t=4607
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo |o1p1={{Chars|guile}}|score1=0
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|poison}}|score1=0
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=3
+|winner=2
+}}
+}}
+}}
+===Losers Quarterfinals===
+{{Matchlist|width=450px|collapsed=false|id=EN68KHPjAr
+|M1={{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming|score=3}}
+|opponent2={{TeamOpponent|SNB|score=0}}
+|winner=1
+|vod=https://youtu.be/oYV7Ct7rbrc?t=9322
+|map1={{Map
+|t1p1=Torimeshi|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=Fujimura|o2p1={{Chars|luke}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Sako  |o1p1={{Chars|menat}}|score1=2
+|t2p1=Yamaguchi|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Tokido|o1p1={{Chars|luke}}|score1=3
+|t2p1=Momochi|o2p1={{Chars|cody}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming|score=2}}
+|opponent2={{TeamOpponent|SNB|score=2}}
+|winner=1
+|vod=https://youtu.be/oYV7Ct7rbrc?t=13504
+|map1={{Map
+|t1p1=Bonchan|o1p1={{Chars|luke}}|score1=0
+|t2p1=Fujimura|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Sako |o1p1={{Chars|luke}}|score1=1
+|t2p1=Momochi|o2p1={{Chars|cody}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Tokido|o1p1={{Chars|luke}}|score1=1
+|t2p1=Yamaguchi |o2p1={{Chars|luke}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Torimeshi |o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=Fujimura|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+}}
+}}
+===Losers Finals===
+{{Matchlist|width=450px|collapsed=false|id=5DS8AKpkrw
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=2}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming|score=1}}
+|winner=1
+|vod=https://youtu.be/oYV7Ct7rbrc?t=19718
+|map1={{Map
+|t1p1=Fuudo |o1p1={{Chars|mika}}|score1=2
+|t2p1=Sako|o2p1={{Chars|menat}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira  |o1p1={{Chars|cammy}}|score1=0
+|t2p1=Torimeshi |o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Daigo |o1p1={{Chars|guile}}|score1=3
+|t2p1=Tokido|o2p1={{Chars|luke}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=2}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming|score=1}}
+|winner=1
+|vod=https://youtu.be/oYV7Ct7rbrc?t=22507
+|map1={{Map
+|t1p1=Daigo|o1p1={{Chars|guile}}|score1=0
+|t2p1=Torimeshi |o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Akira |o1p1={{Chars|cammy}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|poison}}|score1=3
+|t2p1=Tokido |o2p1={{Chars|luke}}|score2=2
+|winner=1
+}}
+}}
+}}

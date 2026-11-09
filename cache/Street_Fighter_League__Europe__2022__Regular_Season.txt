@@ -1,0 +1,453 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2022: Regular Season}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Europe/2022
+|name2=Regular Season |link2=Street Fighter League/Europe/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Europe/2022/Playoffs
+|This={{{This}}}
+}}
+==Results==
+<onlyinclude>
+{{GroupTableStart|Street Fighter League Pro-EU 2022 Standings|width=400px}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=8|lose_m=2|points=285|bg=proceed}}
+{{GroupTableSlot|{{Team|Mouz}}|place=2|win_m=7|lose_m=3|points=275|bg=proceed}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=3|win_m=7|lose_m=3|points=255|bg=proceed}}
+{{GroupTableSlot|{{Team|Team GO}}|place=4|win_m=4|lose_m=6|points=210|bg=proceed}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=5|win_m=3|lose_m=6|points=130|bg=down}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=6|win_m=1|lose_m=7|points=70|bg=down}}
+{{GroupTableEnd}}
+</onlyinclude>
+<br/>
+==Details==
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|00 nation}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Team GO}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=KMAvo1t22w
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=1
+|vod=https://youtu.be/K4XkBCgeIRM?t=1832
+|map1={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=2 |t2p1=VegaPatch|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=1 |t2p1=Momi|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=3 |t2p1=Takamura|o2p1={{Chars|ken}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Reason Gaming}}
+|opponent2={{TeamOpponent|Team GO}}
+|winner=1
+|vod=https://youtu.be/K4XkBCgeIRM?t=5567
+|map1={{Map|t1p1=SoundBoi |o1p1={{Chars|cody}} |score1=2 |t2p1=JuniorLéo|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=MQS |o1p1={{Chars|fang}} |score1=2 |t2p1=Luffy|o2p1={{Chars|mika}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Shivs |o1p1={{Chars|menat}} |score1=1 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Shivs |o1p1={{Chars|menat}} |score1=1 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Team GO}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=ra6jZiBQKs
+|{{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|BMS ESPORTS}}
+|winner=1
+|vod=https://youtu.be/7O45WBBuA10?t=1774
+|map1={{Map|t1p1=Broski |o1p1={{Chars|oro}} |score1=2 |t2p1=TKR|o2p1={{Chars|chun}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Problem X |o1p1={{Chars|dhalsim}} |score1=0 |t2p1=Mister Crimson|o2p1={{Chars|dhalsim}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=The4philzz |o1p1={{Chars|falke}} |score1=3 |t2p1=Kilzyou|o2p1={{Chars|karin}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team GO}}
+|opponent2={{TeamOpponent|00 Nation}}
+|winner=2
+|vod=https://youtu.be/7O45WBBuA10?t=4843
+|map1={{Map|t1p1=Valmaster |o1p1={{Chars|chun}} |score1=2 |t2p1=DrGulag|o2p1={{Chars|laura}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Luffy |o1p1={{Chars|mika}} |score1=2 |t2p1=Rikemansbarnet|o2p1={{Chars|menat}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Akainu |o1p1={{Chars|guile}} |score1=1 |t2p1=Phenom|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Akainu |o1p1={{Chars|dan}} |score1=0 |t2p1=Phenom|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+|map5={{Map|t1p1= |o1p1= |score1= |t2p1= |o2p1= |score2= |winner=}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=2|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=3|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=3|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=WdeahHmtoi
+|{{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|Reason Gaming}}
+|winner=1
+|vod=https://youtu.be/yGJ4dD_2YnQ?t=1666
+|map1={{Map|t1p1=The4philzz |o1p1={{Chars|falke}} |score1=2 |t2p1=MQS|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Shakz |o1p1={{Chars|laura}} |score1=2 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Problem X |o1p1={{Chars|bison}} |score1=3 |t2p1=OneStepLayered|o2p1={{Chars|karin}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=1
+|vod=https://youtu.be/yGJ4dD_2YnQ?t=4756
+|map1={{Map|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=2 |t2p1=Takamura|o2p1={{Chars|akuma}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=TKR |o1p1={{Chars|chun}} |score1=2 |t2p1=VegaPatch|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=3 |t2p1=Momi|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|Team GO}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=sg12syGEFU
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|BMS ESPORTS}}
+|winner=2
+|map1={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=0 |t2p1=Kilzyou|o2p1={{Chars|karin}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=2 |t2p1=TKR|o2p1={{Chars|chun}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=0 |t2p1=Mister Crimson|o2p1={{Chars|dhalsim}} |score2=3 |winner=2}}
+|vod=https://youtu.be/iVeulyrBABo?t=1838
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team GO}}
+|opponent2={{TeamOpponent|MOUZ}}
+|winner=1
+|map1={{Map|t1p1=Valmaster |o1p1={{Chars|chun}} |score1=2 |t2p1=The4philzz|o2p1={{Chars|falke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Akainu |o1p1={{Chars|dan}} |score1=0 |t2p1=Broski|o2p1={{Chars|oro}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Luffy |o1p1={{Chars|mika}} |score1=3 |t2p1=Problem X|o2p1={{Chars|bison}} |score2=1 |winner=1}}
+|vod=https://youtu.be/iVeulyrBABo?t=5085
+}}
+}}
+{{box|break|padding=2em}}
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=HxJE1dQRdQ
+|{{Match
+|opponent1={{TeamOpponent|Reason Gaming}}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=1
+|map1={{Map|t1p1=OneStepLayered |o1p1={{Chars|karin}} |score1=2 |t2p1=Takamura|o2p1={{Chars|akuma}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Shivs |o1p1={{Chars|menat}} |score1=0 |t2p1=Momi|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=SoundBoi |o1p1={{Chars|cody}} |score1=3 |t2p1=VegaPatch|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|vod=https://youtu.be/MAZzaSW4D6M?t=1878
+}}
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|MOUZ}}
+|winner=1
+|map1={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=2 |t2p1=Shakz|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=1 |t2p1=The4Philzz|o2p1={{Chars|falke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=3 |t2p1=Broski|o2p1={{Chars|oro}} |score2=1 |winner=1}}
+|vod=https://youtu.be/MAZzaSW4D6M?t=5167
+}}
+}}
+{{box|break|padding=2em}}
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|Team GO}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=NvpSOxmdsL
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|Reason Gaming}}
+|winner=2
+|map1={{Map|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=0 |t2p1=MQS|o2p1={{Chars|fang}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=TKR |o1p1={{Chars|chun}} |score1=0 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=3 |t2p1=Shivs|o2p1={{Chars|menat}} |score2=0 |winner=1}}
+|map4={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=1 |t2p1=MQS|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|vod=https://youtu.be/W3iJUcn6jUc?t=5397
+}}
+|{{Match
+|opponent1={{TeamOpponent|Wild Blast}}
+|opponent2={{TeamOpponent|Team GO}}
+|winner=2
+|map1={{Map|t1p1=JimmY |o1p1={{Chars|ryu}} |score1=0 |t2p1=Akainu|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=VegaPatch |o1p1={{Chars|fang}} |score1=1 |t2p1=Luffy|o2p1={{Chars|mika}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Momi |o1p1={{Chars|cammy}} |score1=2 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=3 |winner=2}}
+|vod=https://youtu.be/W3iJUcn6jUc?t=1826
+}}
+}}
+{{box|break|padding=2em}}
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=wmA5UM5G67
+|{{Match
+|opponent1={{TeamOpponent|MOUZ }}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=1
+|map1={{Map|t1p1=Problem X |o1p1={{Chars|bison}} |score1=2 |t2p1=VegaPatch|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Broski |o1p1={{Chars|oro}} |score1=2 |t2p1=Momi|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=The4Philzz |o1p1={{Chars|falke}} |score1=3 |t2p1=Takamura|o2p1={{Chars|akuma}} |score2=0 |winner=1}}
+|vod=
+}}
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|Reason Gaming}}
+|winner=2
+|map1={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=2 |t2p1=Shivs|o2p1={{Chars|laura}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=2 |t2p1=MQS|o2p1={{Chars|fang}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=1 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=0 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=1 |winner=2}}
+|vod=
+}}
+}}
+{{box|break|padding=2em}}
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m1=|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team GO}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=87s6gKjIvJ
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|Team GO}}
+|winner=1
+|map1={{Map|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=2 |t2p1=JuniorLéo|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Linkexelo |o1p1={{Chars|necalli}} |score1=2 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=3 |t2p1=Luffy|o2p1={{Chars|rose}} |score2=1 |winner=1}}
+|vod=https://youtu.be/j3sUd9vnBa8?t=1795
+}}
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=1
+|map1={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=2 |t2p1=JimmY|o2p1={{Chars|ryu}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=1 |t2p1=VegaPatch|o2p1={{Chars|fang}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=3 |t2p1=Takamura|o2p1={{Chars|ken}} |score2=2 |winner=1}}
+|vod=https://youtu.be/j3sUd9vnBa8?t=5556
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|Team GO}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=igDtSYl0oO
+|{{Match
+|opponent1={{TeamOpponent|Team GO}}
+|opponent2={{TeamOpponent|Reason Gaming}}
+|winner=1
+|map1={{Map|t1p1=Akainu |o1p1={{Chars|guile}} |score1=2 |t2p1=MQS|o2p1={{Chars|fang}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Valmaster |o1p1={{Chars|chun}} |score1=2 |t2p1=OneStepLayered|o2p1={{Chars|karin}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Luffy |o1p1={{Chars|mika}} |score1=3 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+|vod=https://youtu.be/8eK1fvK24_o?t=1705
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|MOUZ}}
+|winner=1
+|map1={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=The4Philzz|o2p1={{Chars|falke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Linkexelo |o1p1={{Chars|necalli}} |score1=0 |t2p1=Broski|o2p1={{Chars|oro}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=3 |t2p1=Problem X|o2p1={{Chars|alex}} |score2=1 |winner=1}}
+|vod=https://youtu.be/8eK1fvK24_o?t=5099
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=1Vr4xadvUU
+|{{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|Reason Gaming}}
+|winner=1
+|map1={{Map|t1p1=The4philzz |o1p1={{Chars|falke}} |score1=2 |t2p1=OneStepLayered|o2p1={{Chars|karin}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Problem X |o1p1={{Chars|bison}} |score1=2 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Shakz |o1p1={{Chars|cammy}} |score1=0 |t2p1=Shivs|o2p1={{Chars|laura}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Problem X |o1p1={{Chars|bison}} |score1=1 |t2p1=SoundBoi|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+|vod=https://youtu.be/pqEBNGzjWdE?t=1873
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=1
+|map1={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=VegaPatch|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=TKR |o1p1={{Chars|chun}} |score1=2 |t2p1=Takamura|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=3 |t2p1=Momi|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+|vod=https://youtu.be/pqEBNGzjWdE?t=5338
+}}
+}}
+{{box|break|padding=2em}}
+===Week 11===
+{{GroupTableStart|Week 11 Score|width=400px}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team GO}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=3FJvasAbA9
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|Team GO}}
+|winner=1
+|map1={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=0 |t2p1=Akainu|o2p1={{Chars|dan}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=2 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=3 |t2p1=Luffy|o2p1={{Chars|rose}} |score2=0 |winner=1}}
+|vod=https://youtu.be/06CGtlNSzFQ?t=1789
+}}
+|{{Match
+|opponent1={{TeamOpponent|Reason Gaming}}
+|opponent2={{TeamOpponent|Wild Blast}}
+|winner=2
+|map1={{Map|t1p1=OneStepLayered |o1p1={{Chars|karin}} |score1=1 |t2p1=JimmY|o2p1={{Chars|ryu}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Shivs |o1p1={{Chars|menat}} |score1=2 |t2p1=Takamura|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=SoundBoi |o1p1={{Chars|cody}} |score1=2 |t2p1=Momi|o2p1={{Chars|cammy}} |score2=3 |winner=2}}
+|vod=https://youtu.be/06CGtlNSzFQ?t=5393
+}}
+}}
+{{box|break|padding=2em}}
+===Week 12===
+{{GroupTableStart|Week 12 Score|width=400px}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Team GO}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=eQ3YJm3jGd
+|{{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|Team GO}}
+|winner=1
+|map1={{Map|t1p1=Broski |o1p1={{Chars|oro}} |score1=2 |t2p1=Akainu|o2p1={{Chars|dan}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Problem X |o1p1={{Chars|bison}} |score1=0 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=The4Philzz |o1p1={{Chars|falke}} |score1=3 |t2p1=Luffy|o2p1={{Chars|mika}} |score2=2 |winner=1}}
+|vod=https://youtu.be/8lX6bTKFxj4?t=1800
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|00 Nation}}
+|winner=2
+|map1={{Map|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=1 |t2p1=Veggey|o2p1={{Chars|birdie}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Linkexelo |o1p1={{Chars|ibuki}} |score1=0 |t2p1=Rikemansbarnet|o2p1={{Chars|menat}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Phenom|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|vod=https://youtu.be/8lX6bTKFxj4?t=5095
+}}
+}}
+{{box|break|padding=2em}}
+===Week 13===
+{{GroupTableStart|Week 13 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Team GO}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=TpR79HVJxx
+|{{Match
+|opponent1={{TeamOpponent|Wild Blast}}
+|opponent2={{TeamOpponent|Team GO}}
+|winner=2
+|map1={{Map|t1p1=JimmY |o1p1={{Chars|ryu}} |score1=1 |t2p1=Luffy|o2p1={{Chars|rose}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Takamura |o1p1={{Chars|ken}} |score1=2 |t2p1=Akainu|o2p1={{Chars|guile}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Momi |o1p1={{Chars|cammy}} |score1=2 |t2p1=Valmaster|o2p1={{Chars|chun}} |score2=3 |winner=2}}
+|vod=https://youtu.be/1-aMVb6EXhs?t=1912
+}}
+|{{Match
+|opponent1={{TeamOpponent|Reason Gaming}}
+|opponent2={{TeamOpponent|BMS ESPORTS}}
+|winner=2
+|map1={{Map|t1p1=SoundBoi |o1p1={{Chars|cody}} |score1=0 |t2p1=Kilzyou|o2p1={{Chars|karin}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=MQS |o1p1={{Chars|fang}} |score1=0 |t2p1=TKR|o2p1={{Chars|chun}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Shivs |o1p1={{Chars|}} |score1=1 |t2p1=Mister Crimson|o2p1={{Chars|dhalsim}} |score2=3 |winner=2}}
+|vod=https://youtu.be/1-aMVb6EXhs?t=5464
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 14===
+{{GroupTableStart|Week 14 Score|width=400px}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Team GO}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=f0UMjBi8Qi
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|MOUZ}}
+|winner=2
+|map1={{Map|t1p1=Rikemansbarnet |o1p1={{Chars|menat}} |score1=1 |t2p1=The4philzz|o2p1={{Chars|falke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Veggey |o1p1={{Chars|birdie}} |score1=0 |t2p1=Shakz|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Phenom |o1p1={{Chars|luke}} |score1=2 |t2p1=Problem X|o2p1={{Chars|alex}} |score2=3 |winner=2}}
+|vod=https://youtu.be/GqZcrMx1QqE?t=1970
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team GO}}
+|opponent2={{TeamOpponent|BMS ESPORTS}}
+|winner=2
+|map1={{Map|t1p1=Valmaster |o1p1={{Chars|chun}} |score1=2 |t2p1=Kilzyou|o2p1={{Chars|karin}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Luffy |o1p1={{Chars|rose}} |score1=0 |t2p1=TKR|o2p1={{Chars|chun}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Akainu |o1p1={{Chars|guile}} |score1=0 |t2p1=Mister Crimson|o2p1={{Chars|dhalsim}} |score2=3 |winner=2}}
+|vod=https://youtu.be/GqZcrMx1QqE?t=5829
+}}
+}}
+{{box|break|padding=2em}}
+===Week 15===
+{{GroupTableStart|Week 15 Score|width=400px}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Wild Blast}}|place=3|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Reason Gaming}}|place=3|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=sQPc8m9s5g
+|{{Match
+|opponent1={{TeamOpponent|Wild Blast}}
+|opponent2={{TeamOpponent|MOUZ}}
+|winner=2
+|map1={{Map|t1p1=VegaPatch |o1p1={{Chars|juri}} |score1=1 |t2p1=The4Philzz|o2p1={{Chars|falke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=JimmY |o1p1={{Chars|ryu}} |score1=1 |t2p1=Broski|o2p1={{Chars|oro}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Momi |o1p1={{Chars|cammy}} |score1=0 |t2p1=Problem X|o2p1={{Chars|alex}} |score2=3 |winner=2}}
+|vod=https://youtu.be/JnU3z5Bs6KA?t=1962
+}}
+|{{Match
+|opponent1={{TeamOpponent|Reason Gaming}}
+|opponent2={{TeamOpponent|00 Nation}}
+|winner=2
+|map1={{Map|t1p1=OneStepLayered |o1p1={{Chars|karin}} |score1=1 |t2p1=DrGulag|o2p1={{Chars|laura}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=SoundBoi |o1p1={{Chars|cody}} |score1=1 |t2p1=Phenom|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Shivs |o1p1={{Chars|laura}} |score1=1 |t2p1=Rikemansbarnet|o2p1={{Chars|menat}} |score2=3 |winner=2}}
+|vod=https://youtu.be/JnU3z5Bs6KA?t=5404
+}}
+}}
+{{box|end}}

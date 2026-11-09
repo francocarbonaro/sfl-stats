@@ -1,0 +1,168 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2024: Playoffs}}{{HDB|phase=2}}
+{{SFL EU 2024 Tabs}}
+==Results==
+{{Bracket|Bracket/2L2D|id=k7J70EmHUR
+
+|R1M1={{Match
+|opponent1={{TeamOpponent|MOUZ |score=50}}
+|opponent2={{TeamOpponent|Wolves Esports |score=30}}
+}}
+
+|R2M1={{Match
+|opponent1={{TeamOpponent|AEGIS (French team) |score=50}}
+|opponent2={{TeamOpponent|MOUZ |score=30}}
+}}
+
+|R3M1={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas |score=70}}
+|opponent2={{TeamOpponent|AEGIS (French team) |score=30}}
+}}
+}}
+
+==Details==
+===Quarterfinals===
+{{Matchlist|width=450px|collapsed=false|id=scZiXmcWzG
+|M1={{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|Wolves Esports}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=77fSWZLp7-092pKG&t=4035
+|map1={{Map
+|t1p1=Valmaster|o1p1={{Chars|chun-li}}|score1=2
+|t2p1=Shakz|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Problem X|o1p1={{Chars|blanka}}|score1=2
+|t2p1=Alphen|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=EndingWalker|o1p1={{Chars|ed}}|score1=0
+|t2p1=Garnet|o2p1={{Chars|dhalsim}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Wolves Esports}}
+|opponent2={{TeamOpponent|MOUZ}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=ptbLiDLD2-QqYtOi&t=6889
+|map1={{Map
+|t1p1=Akainu|o1p1={{Chars|guile}}|score1=2
+|t2p1=Valmaster |o2p1={{Chars|chun-li}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Alphen|o1p1={{Chars|cammy}}|score1=1
+|t2p1=EndingWalker |o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Garnet|o1p1={{Chars|dhalsim}}|score1=0
+|t2p1=Problem X|o2p1={{Chars|bison}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+===Semifinals===
+{{Matchlist|width=450px|collapsed=false|id=pSo50PDDpb
+|M1={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)}}
+|opponent2={{TeamOpponent|MOUZ}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=U9yTaYV5BnkDEc7T&t=11909
+|map1={{Map
+|t1p1=Kilzyou|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Juicyjoe|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Takamura|o1p1={{Chars|ken}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|blanka}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=0
+|t2p1=EndingWalker|o2p1={{Chars|ed}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|AEGIS (French team)}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=dmbtyPux6AQkEK-j&t=14231
+|map1={{Map
+|t1p1=Valmaster|o1p1={{Chars|chun-li}}|score1=0
+|t2p1=Kusanagi|o2p1={{Chars|ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=EndingWalker|o1p1={{Chars|ed}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Problem X|o1p1={{Chars|blanka}}|score1=1
+|t2p1=Kilzyou|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+===Grand Finals===
+{{Matchlist|width=450px|collapsed=false|id=ozmNOohfp2
+|M1={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas}}
+|opponent2={{TeamOpponent|AEGIS (French team)}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=hAr0lIinKka0kXGs&t=19228
+|map1={{Map
+|t1p1=Big Bird|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Kusanagi|o2p1={{Chars|ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Takamura|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|ken}}|score1=3
+|t2p1=Kilzyou|o2p1={{Chars|cammy}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=XN2eGNvYlIvFnEpM&t=23420
+|map1={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=Phenom|o2p1={{Chars|cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Kilzyou|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Big Bird|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kusanagi |o1p1={{Chars|ryu}}|score1=3
+|t2p1=AngryBird|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas}}
+|opponent2={{TeamOpponent|AEGIS (French team)}}
+|vod=https://www.youtube.com/live/dWcaUO0jwhE?si=OR59KfjctfTPTMA5&t=25981
+|map1={{Map
+|t1p1=Big Bird|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Kilzyou|o2p1={{Chars|cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=0
+|winner=1
+}}
+}}
+}}

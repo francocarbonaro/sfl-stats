@@ -1,0 +1,169 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2023}}
+{{Street Fighter League Navbox}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2023
+|name2=Regular Season |link2=Street Fighter League/United States/2023/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2023/Playoffs
+|This={{{This}}}
+}}
+{{Infobox league
+|name=Street Fighter League Pro-US 2023
+|series=Street Fighter League
+|liquipediatier=1
+|image=SFL Pro-US 2023 allmode.png
+|icon=SFL Pro-US 2023 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United States
+|state=
+|venue=
+
+|game=sf6
+|sdate=2023-10-18
+|edate=2024-01-11
+
+|website=https://streetfighterleague.com/
+|prizepool=75,000
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|player_number=24
+|team_number=6
+|previous=Street Fighter League/United States/2022{{!}}SFL Pro-US 2022
+|next=Street Fighter League/United States/2024{{!}}SFL Pro-US 2024
+}}
+
+==Information==
+===Format===
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:500px;text-align:center;"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 1 || +5 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+*** 1st place team advance to the Grand Finals
+*** 2nd place team advance to the Semifinals
+*** 3rd and 4th teams advance to to the Quarterfinals
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2023|Street Fighter League World Championship 2023]]
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=RobTV|b1flag=us
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator 
+|b1=Vicious|b1flag=us
+|b2=Tasty Steve|b2flag=us
+}} 
+{{box|end|padding=2em}} 
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=6
+|tournament=Street_Fighter_League/United_States/2023/Playoffs
+|qualifies1=Street Fighter League/World Championship/2023|qualifies1name=SFL World Championship 2023
+|{{Slot|place=1|qualified1=yes|usdprize=60,000|{{Opponent|lastvs=|lastvsscore=}}}}
+|{{Slot|place=2|usdprize=15,000|{{Opponent|lastvs=|lastvsscore=}}}}
+|{{Slot|place=3|usdprize=|{{Opponent|lastvs=|lastvsscore=}}}}
+|{{Slot|place=4|usdprize=|{{Opponent|lastvs=|lastvsscore=}}}}
+|{{Slot|place=5|usdprize=|{{Opponent|UYU|wdl=4/6}}}}
+|{{Slot|place=6|usdprize=|{{Opponent|Endemic Esports|wdl=2/8}}}}
+}}
+
+==Results==
+===Regular Season===
+{{:Street Fighter League/United States/2023/Regular Season}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/United States/2023/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+===Playoffs===
+{{ShowBracket|id=ixg9Tyng1b}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/United States/2023/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Bandits
+|p1=MenaRD|p1flag=do|p1team=bandits
+|p2=Caba|p2flag=do|p2team=bandits
+|p3=Chris T|p3flag=am|p3team=OTF Gaming
+|p4=Xiao Hai|p4flag=cn|p4team=douyu
+}}
+{{TeamCard
+|team=Endemic
+|p1=Samurai|p1flag=us|p1team=
+|p2=ChrisCCH|p2flag=us|p2team=
+|p3=Reynald|p3flag=us|p3team=
+|p4=FlashMetroid|p4flag=us|p4team=Paragon
+}}
+{{TeamCard
+|team=NASR eSports
+|image=NASR eSports lightmode full.png
+|p1=AngryBird|p1flag=ae|p1team=NASR Esports
+|p2=Big Bird|p2flag=dz|p2team=NASR Esports
+|p3=Nephew|p3flag=us|p3team=
+|p4=Punk|p4flag=us|p4team=FlyQuest
+}}
+{{TeamCard
+|team=Versus Vortex
+|image=Versus Vortex Esports allmode.png
+|p1=Oil King|p1flag=tw|p1team=Twisted Minds
+|p2=DCQ|p2flag=cn|p2team=Bilibili Gaming 
+|p3=Xian|p3flag=sg|p3team=
+|p4=NL|p4flag=kr|p4team=Gumout
+}}
+{{TeamCard
+|team=Red Rooster
+|p1=Mono|p1flag=pr|p1team=Red Rooster Team
+|p2=Ajax Fidelity|p2flag=pr|p2team=Red Rooster Team
+|p3=BananaKen|p3flag=pr|p3team=
+|p4=PR Balrog|p4flag=pr|p4team=Team Beast
+}}
+{{TeamCard
+|team=UYU
+|image=UYU lightmode.png
+|p1=NuckleDu|p1flag=us|p1team=Shopify Rebellion
+|p2=Dual Kevin|p2flag=us|p2team=
+|p3=Zhen|p3flag=cn|p3team=Bilibili Gaming
+|p4=Vxbao|p4flag=cn|p4team=Bilibili Gaming
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+<!--===Articles===
+*{{ExternalMediaLink
+|date=
+|link=
+|title=
+|by=
+|of=
+}}-->
+===View Games=== 
+{{Streams |lang1=usuk |twitch1=capcomfighters |youtube1=c/CapcomFighters }} 
+
+==References==
+{{Reflist}}

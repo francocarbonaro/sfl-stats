@@ -1,0 +1,255 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2024}}
+{{Street Fighter League Navbox}}
+{{SFL JP 2024 Tabs}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-JP 2024
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-JP 2024 allmode.png
+|icon=Street Fighter League Pro-JP 2024 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=Japan
+
+|game=sf6
+|sdate=2024-08-16
+|edate=2025-02-11
+|type=Online/Offline
+
+|website=https://sf.esports.capcom.com/sfl/
+|facebook=CapcomFighters
+|twitter=CAPCOM_eSports
+|twitch=capcomfighters_jp
+|twitch2=capcomfighters
+|youtube=c/CapcomFightersJP
+|youtube2=@CapcomFighters
+|rulebook=https://sf.esports.capcom.com/sp/sfl/2024/rule/
+|bracket=
+
+|localcurrency=jpy
+|prizepool=8,000,000
+|player_number=48
+|team_number=12
+
+|previous=Street Fighter League/Japan/2023{{!}}SFL Pro-JP 2023
+|next=Street Fighter League/Japan/2025{{!}}SFL Pro-JP 2025
+}}
+'''Street Fighter League Pro-JP 2024''' ('''SFL Pro-JP 2024''') was the 7th season of professional Japanese ''Street Fighter'' team competition.
+
+==Information==
+===Format===
+*'''Game Format''' 
+**The league is made of 12 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 1 || +5 PTS
+|}
+
+* '''Regular Season'''
+** Teams are divided into Division S and Division F
+** Each division plays a double round-robin
+** Top 3 teams from each division advance to their respective divisions Playoffs
+*** 1st place team advance to the Playoffs Finals
+*** 2nd and 3rd teams advance to the Semifinals, with the 2nd place team having home advantage
+
+* '''Playoffs'''
+** Top 3 teams from each division play in a single-elimination bracket
+** All matches are First to 70 points
+** The winner of each division Playoffs advance to the Grand Finals
+
+* '''Grand Finals'''
+** Grand Finals is a match between the winners of Division S and Division F
+** Grand Finals is First to 90 points
+** The winner qualifies to the [[Street_Fighter_League/World_Championship/2024|SFL World Championship 2024]]
+
+===Broadcast Talent===
+{{Tabs dynamic
+|name1=Japanese
+|name2=English
+|This=1
+|content1=
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host|lang=jp
+|b1=Aru|b1flag=jp
+|b2=Shuhei Yamato|b2flag=jp
+|b3=Frieda|b3flag=jp
+}}
+{{BroadcasterCard
+|position=Commentator|lang=jp
+|b1=Hameko|b1flag=jp
+|b2=Haitani|b2flag=jp
+}}
+{{box|end|padding=2em}}
+|content2=
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator|lang=en
+|b1=Vicious  |b1flag=us|b1name=
+|b2=Saint Cola |b2flag=us|b2name=
+}}
+{{box|end|padding=2em}}
+}}
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=12|localcurrency=jpy
+|qualifies1=Street Fighter League/World Championship/2024|qualifies1name=SFL World Championship 2024
+|tournament1=Street Fighter League/Japan/2024/Regular Season
+|tournament2=Street Fighter League/Japan/2024/Playoffs
+|{{Slot|place=1|qualified1=yes|localprize=5,000,000}}
+|{{Slot|place=2|localprize=2,000,000}}
+|{{Slot|place=3-4|localprize=500,000}}
+|{{Slot|place=5-6}}
+|{{Slot|place=7-8}}
+|{{Slot|place=9-10}}
+|{{Slot|place=11-12}}
+|adjacentContent={{AwardPrizePool|cutafter=10
+|{{Slot|award=Season MVP|{{Opponent|Kawano|flag=jp|team=Good 8 Squad|usdprize=}}}}
+|{{Slot|award=Highest Point Award
+  |{{Opponent|Leshar|flag=kr|team=REJECT|usdprize=}}
+  |{{Opponent|Momochi|flag=jp|team=Shinobism Gaming|usdprize=}}
+  }}
+|{{Slot|award=Highest Win Rate Award
+  |{{Opponent|pugera|flag=jp|team=Good 8 Squad|usdprize=}}
+  |{{Opponent|Tokido|flag=jp|team=REJECT|usdprize=}}
+  |{{Opponent|Leshar|flag=kr|team=REJECT|usdprize=}}
+  }}
+|{{Slot|award=Outstanding Rookie|{{Opponent|Leshar|flag=kr|team=REJECT|usdprize=}}}}
+|{{Slot|award=Drive Impact Award
+  |{{Opponent|Tachikawa|flag=jp|team=Nagoya OJA BODY STAR|usdprize=}}
+  |{{Opponent|Tokido|flag=jp|team=REJECT|usdprize=}}
+  }}
+}}
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{box|start|padding=1em}}
+{{#section:Street Fighter League/Japan/2024/Regular Season|DivS}}
+{{box|break|padding=1em}}
+{{#section:Street Fighter League/Japan/2024/Regular Season|DivF}}
+{{box|end|padding=1em}}
+{{LPDB storage|true}}
+:
+<span style="line-height:24px;">&ensp;''[[/Regular Season|↪ Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=q7vNWjfDIA|matchWidth=180}}
+<span style="line-height:24px;">&nbsp;''[[/Playoffs#Details|&ensp; ↪ Click here for detailed information about the '''Playoffs''' matches.]]''
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=VARREL
+|p1=Mago|p1flag=jp|p1team=VARREL
+|p2=Mizuha|p2flag=jp|p2team=VARREL
+|p3=moke|p3flag=jp|p3team=VARREL
+|p4=daikoku|p4flag=jp|p4team=VARREL
+}}
+{{TeamCard
+|team=Good 8 Squad
+|p1=gachikun|p1flag=jp|p1team=Good 8 Squad
+|p2=Kawano|p2flag=jp|p2team=Good 8 Squad
+|p3=pugera|p3flag=jp|p3team=Good 8 Squad
+|p4=YHC-Mochi|p4flag=jp|p4team=
+}}
+{{TeamCard
+|team=CAG Osaka
+|p1=GO1|p1flag=jp|p1team=CAG
+|p2=Fenritti|p2flag=jp|p2team=CAG
+|p3=Eita|p3flag=jp|p3team=CAG
+|p4=Uryo|p4flag=jp|p4team=CAG
+}}
+{{TeamCard
+|team=Saishunkan Sol
+|link=Saishunkan Sol Kumamoto
+|p1=Nemo|p1flag=jp|p1team=GLOE
+|p2=Higuchi|p2flag=jp|p2team=ssk
+|p3=Daigo|p3flag=jp|p3team=team beast
+|p4=Fuudo|p4flag=jp|p4team=team beast
+}}
+{{TeamCard
+|team=DetonatioN FocusMe
+|p1=Itabashi Zangief|p1flag=jp|p1team=dfm
+|p2=Nauman|p2flag=jp|p2team=dfm
+|p3=John Takeuchi|p3flag=jp|p3team=dfm
+|p4=Machabo|p4flag=jp|p4team=
+}}
+{{TeamCard
+|team=Nagoya OJA BODY STAR
+|p1=KEI.B|p1flag=jp|p1team=filler
+|p2=Tachikawa|p2flag=jp|p2team=Burning Core Toyama
+|p3=Otani|p3flag=jp|p3team=Burning Core Toyama
+|p4=Mocchii|p4flag=jp|p4team=JOZ
+}}
+{{TeamCard
+|team=Team iXA
+|p1=Acqua|p1flag=jp|p1team=Team iXA
+|p2=Jazzy|p2flag=jp|p2team=Team iXA
+|p3=Hikaru|p3flag=jp|p3team=EVA:e
+|p4=Hibiki|p4flag=jp|p4team=SBI e-Sports
+}}
+{{TeamCard
+|team=FAV gaming
+|p1=sako|p1flag=jp|p1team=FAV gaming
+|p2=Ryusei|p2flag=jp|p2team=FAV gaming
+|p3=Ryukichi|p3flag=jp|p3team=FAV gaming
+|p4=ts|p4flag=jp|p4team=
+}}
+{{TeamCard
+|team=Shinobism Gaming
+|p1=Momochi|p1flag=jp|p1team=Victrix Pro
+|p2=Yamaguchi|p2flag=jp|p2team=Shinobism Gaming
+|p3=Fujimura|p3flag=jp|p3team=Shinobism Gaming
+|p4=Johnny|p4flag=jp|p4team=Shinobism Gaming
+}}
+{{TeamCard
+|team=REJECT
+|p1=Tokido|p1flag=jp|p1team=reject
+|p2=Akira|p2flag=jp|p2team=reject
+|p3=Torimeshi|p3flag=jp|p3team=reject
+|p4=Leshar|p4flag=kr|p4team=drx
+}}
+{{TeamCard
+|team=IBUSHIGIN
+|p1=Kakeru|p1flag=jp|p1team=IBUSHIGIN
+|p2=cosa|p2flag=jp|p2team=IBUSHIGIN
+|p3=Yanai|p3flag=jp|p3team=IBUSHIGIN
+|p4=Sasamo|p4flag=jp|p4team=IBUSHIGIN
+|c=Kiyomatsu|cflag=jp|cteam=IBUSHIGIN
+}}
+{{TeamCard
+|team=Crazy Raccoon
+|p1=Dogura|p1flag=jp|p1team=Crazy Raccoon
+|p2=Shuto|p2flag=jp|p2team=Crazy Raccoon
+|p3=Kazunoko|p3flag=jp|p3team=Crazy Raccoon
+|p4=Bonchan|p4flag=jp|p4team=Crazy Raccoon
+|c=Tachikawa|cflag=jp|cteam=Burning Core Toyama
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+===View Games=== 
+{{Streams |lang1=jp |twitch1=capcomfighters_jp |youtube1=c/CapcomFightersJP
+|lang2=usuk |twitch2=capcomfighters |youtube2=@CapcomFighters}}
+
+===Trivia===
+* Was named the '''Japan eSports Awards 2024 eSports Competition Award'''.<ref>{{cite web|url=https://x.com/esportsawardsJP/status/1879448550037446833|title=◤ 日本eスポーツアワード2024　 eスポーツオーガナイザー部門  ◢|author='''Japan eSports Awards'''|language={{Flag|jp}} Japanese}}</ref>
+
+==References==
+{{Reflist}}

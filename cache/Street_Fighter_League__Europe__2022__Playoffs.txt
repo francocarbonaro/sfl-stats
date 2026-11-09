@@ -1,0 +1,131 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2022: Playoffs}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Europe/2022
+|name2=Regular Season |link2=Street Fighter League/Europe/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Europe/2022/Playoffs
+|This={{{This}}}
+}}
+==Results==
+{{Bracket|Bracket/4|id=A7MPippqlv
+<!-- SEMIFINALS -->
+|R1M1={{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|Team GO}}
+|date=2022-01-23 |finished=yes
+|map1={{Map
+|t1p1=Kilzyou |o1p1={{Chars|karin}} |score1=2
+|t2p1=Luffy |o2p1={{Chars|mika}} |score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=TKR |o1p1={{Chars|chun}} |score1=0
+|t2p1=Valmaster |o2p1={{Chars|chun}} |score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mister Crimson |o1p1={{Chars|dhalsim}} |score1=3
+|t2p1=Akainu |o2p1={{Chars|guile}} |score2=0
+|winner=1
+}}
+|vod=https://youtu.be/zMoaSvaw59I?t=1972
+}}
+
+|R1M2={{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|00 Nation}}
+|date=2022-01-23 |finished=yes
+|map1={{Map
+|t1p1=Problem X |o1p1={{Chars|bison}} |score1=2
+|t2p1=Rikemansbarnet |o2p1={{Chars|menat}} |score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Broski |o1p1={{Chars|oro}} |score1=2
+|t2p1=Veggey |o2p1={{Chars|birdie}} |score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=The4Philzz |o1p1={{Chars|falke}} |score1=3
+|t2p1=Phenom |o2p1={{Chars|luke}} |score2=0
+|winner=1
+}}
+|vod=https://youtu.be/zMoaSvaw59I?t=5031
+}}
+
+<!-- FINALS -->
+|R2M1={{Match
+|opponent1={{TeamOpponent|BMS ESPORTS |score=0}}
+|opponent2={{TeamOpponent|MOUZ |score=2}}
+<!-- 
+|date= |finished=yes
+|map1={{Map
+|t1p1=|t2p1=
+|o1p1={{Chars|}}|o2p1={{Chars|}}
+|score1=|score2=|winner=
+}}
+|map2={{Map
+|t1p1=|t2p1=
+|o1p1={{Chars|}}|o2p1={{Chars|}}
+|score1=|score2=|winner=
+}}
+|map3={{Map
+|t1p1=|t2p1=
+|o1p1={{Chars|}}|o2p1={{Chars|}}
+|score1=|score2=|winner=
+}}
+|map4={{Map
+|t1p1=|t2p1=
+|o1p1={{Chars|}}|o2p1={{Chars|}}
+|score1=|score2=|winner=
+}}
+|map5={{Map
+|t1p1=|t2p1=
+|o1p1={{Chars|}}|o2p1={{Chars|}}
+|score1=|score2=|winner=
+}} -->
+}}
+}}
+
+==Details==
+{{Matchlist |title=Grand Finals |width=450px|collapsed=false|id=PpjiZ7LxCX
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|MOUZ}}
+|vod=https://www.youtube.com/live/yqP4XiEcC_s?feature=share&t=2023
+|map1={{Map
+|t1p1=TKR|o1p1={{Chars|chun}}|score1=0
+|t2p1=Broski|o2p1={{Chars|oro}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=The4Philzz|o2p1={{Chars|falke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|karin}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|bison}}|score2=3
+|winner=2
+}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|MOUZ}}
+|vod=https://www.youtube.com/live/yqP4XiEcC_s?feature=share&t=4888
+|map1={{Map
+|t1p1=Kilzyou|o1p1={{Chars|karin}}|score1=2
+|t2p1=The4Philzz|o2p1={{Chars|falke}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=TKR|o1p1={{Chars|chun}}|score1=0
+|t2p1=Broski|o2p1={{Chars|oro}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=Problem X|o2p1={{Chars|bison}}|score2=3
+|winner=2
+}}
+}}
+}}

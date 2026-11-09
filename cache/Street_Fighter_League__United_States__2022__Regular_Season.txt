@@ -1,0 +1,458 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2022: Regular Season}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2022
+|name2=Regular Season |link2=Street Fighter League/United States/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2022/Playoffs
+|This={{{This}}}
+}}
+==Results==
+<onlyinclude>
+{{GroupTableStart|Street Fighter League Pro-US 2022 Standings|width=400px}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=8|lose_m=2|points=275|bg=proceed}}
+{{GroupTableSlot|{{Team|Endemic}}|place=2|win_m=6|lose_m=4|points=245|bg=proceed}}
+{{GroupTableSlot|{{Team|UYU}}|place=3|win_m=5|lose_m=5|points=205|bg=proceed}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=4|win_m=5|lose_m=5|points=190|bg=proceed}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=5|win_m=3|lose_m=7|points=170|bg=down}}
+{{GroupTableSlot|{{Team|Panda}}|place=6|win_m=3|lose_m=7|points=165|bg=down}}
+{{GroupTableEnd}}
+</onlyinclude>
+<br/>
+==Details==
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=1|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Panda}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=izblQ9Htr0
+|{{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=1
+|vod=https://youtu.be/xcDUU6OA4aY?t=2296
+|map1={{Map|t1p1=Justakid |o1p1={{Chars|juri}} |score1=2 |t2p1=Shine|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Samurai |o1p1={{Chars|luke}} |score1=2 |t2p1=GamerBee|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=2 |t2p1=IDom|o2p1={{Chars|poison}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=1 |t2p1=IDom|o2p1={{Chars|poison}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR X Bandits}}
+|opponent2={{TeamOpponent|Panda}}
+|winner=1
+|vod=https://youtu.be/xcDUU6OA4aY?t=5927
+|map1={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=2 |t2p1=JB|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Big Bird |o1p1={{Chars|ken}} |score1=2 |t2p1=Nephew|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=2 |t2p1=Punk|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=1 |t2p1=Punk|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map5={{Map|t1p1= |o1p1= |score1= |t2p1= |o2p1= |score2= |winner=}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=VtqvzgkVfX
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=2
+|vod=https://www.youtube.com/watch?v=Z3XvA2-Fqdg
+|map1={{Map|t1p1=Xian |o1p1={{Chars|seth}} |score1=1 |t2p1=Mono|o2p1={{Chars|fang}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Oil King |o1p1={{Chars|rashid}} |score1=2 |t2p1=Smug|o2p1={{Chars|balrog}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=0 |t2p1=Ajax Fidelity|o2p1={{Chars|ed}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|NASR X Bandits}}
+|winner=2
+|vod=https://youtu.be/Z3XvA2-Fqdg?t=4740
+|map1={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=1 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nuckledu |o1p1={{Chars|guile}} |score1=0 |t2p1=BigBird|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Idom |o1p1={{Chars|laura}} |score1=3 |t2p1=AngryBird|o2p1={{Chars|zeku}} |score2=2 |winner=1}}
+|map4={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=0 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+|map5={{Map|t1p1= |o1p1= |score1= |t2p1= |o2p1= |score2= |winner=}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|Panda}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=dAV0FsZGb5
+|{{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming}}
+|opponent2={{TeamOpponent|NASR X Bandits}}
+|winner=2
+|vod=https://www.youtube.com/watch?v=-vDQC8JnaOc
+|map1={{Map|t1p1=Samurai |o1p1={{Chars|luke}} |score1=0 |t2p1=Big Bird|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Filipinoman |o1p1={{Chars|rose}} |score1=0 |t2p1=Caba|o2p1={{Chars|guile}} |score2=2 |winner=1}}
+|map3={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=3 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=0 |winner=2}}
+|map4={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=0 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Panda}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=1
+|vod=https://youtu.be/-vDQC8JnaOc?t=4579
+|map1={{Map|t1p1=Kami |o1p1={{Chars|luke}} |score1=2 |t2p1=GamerBee|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Nephew |o1p1={{Chars|kolin}} |score1=0 |t2p1=Nuckledu|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Punk |o1p1={{Chars|luke}} |score1=3 |t2p1=Idom|o2p1={{Chars|poison}} |score2=2 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|Endemic}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Panda}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=IflFb5ugmn
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|map1={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=1 |t2p1=Ajax Fidelity|o2p1={{Chars|Ed}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=NuckleDu |o1p1={{Chars|cammy}} |score1=2 |t2p1=Mono|o2p1={{Chars|Fang}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=3 |t2p1=HotDog29|o2p1={{Chars|Bison}} |score2=2 |winner=1}}
+|vod=https://youtu.be/K2J7JV7-Pmw?t=1996
+}}
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Panda}}
+|winner=1
+|map1={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=2 |t2p1=Nephew|o2p1={{Chars|kolin}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Oil King |o1p1={{Chars|luke}} |score1=0 |t2p1=JB|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|urien}} |score1=3 |t2p1=Punk|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|vod=https://youtu.be/K2J7JV7-Pmw?t=4787
+}}
+}}
+{{box|break|padding=2em}}
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=UGOJc7lHc6
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|winner=2
+|map1={{Map|t1p1=HotDog29 |o1p1={{Chars|bison}} |score1=1 |t2p1=Justakid|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|ed}} |score1=2 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Mono |o1p1={{Chars|fang}} |score1=0 |t2p1=ChrisCCH|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|vod=https://youtu.be/tQ3QeMbDfv4?t=2157
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=1
+|map1={{Map|t1p1=NuckleDu |o1p1={{Chars|g}} |score1=2 |t2p1=NL|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=GamerBee |o1p1={{Chars|lucia}} |score1=1 |t2p1=DCQ|o2p1={{Chars|urien}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=3 |t2p1=Xian|o2p1={{Chars|seth}} |score2=1 |winner=1}}
+|vod=https://youtu.be/tQ3QeMbDfv4?t=4773
+}}
+}}
+{{box|break|padding=2em}}
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Panda}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=g81PyF6pXv
+|{{Match
+|opponent1={{TeamOpponent|Panda}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|winner=2
+|map1={{Map|t1p1=Kami |o1p1={{Chars|luke}} |score1=0 |t2p1=Justakid|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=JB |o1p1={{Chars|rashid}} |score1=0 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Punk |o1p1={{Chars|luke}} |score1=3 |t2p1=ChrisCCH|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Punk |o1p1={{Chars|luke}} |score1=0 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+|vod=https://youtu.be/vJBaKLIWMR8?t=1891
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR X Bandits}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=
+|map1={{Map|t1p1=Big Bird |o1p1={{Chars|ken}} |score1=2 |t2p1=Xian|o2p1={{Chars|seth}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Caba |o1p1={{Chars|g}} |score1=2 |t2p1=NL|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=3 |t2p1=DCQ|o2p1={{Chars|urien}} |score2=1 |winner=1}}
+|vod=https://youtu.be/vJBaKLIWMR8?t=4941
+}}
+}}
+{{box|break|padding=2em}}
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=BlDKJzEGFg
+|{{Match
+|opponent1={{TeamOpponent|NASR X Bandits}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|map1={{Map|t1p1=Caba |o1p1={{Chars|g}} |score1=0 |t2p1=Ajax Fidelity|o2p1={{Chars|ed}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=2 |t2p1=Smug|o2p1={{Chars|balrog}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=3 |t2p1=HotDog29|o2p1={{Chars|bison}} |score2=0 |winner=1}}
+|vod=https://youtu.be/7q2BBlgwm94?t=1392
+}}
+|{{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=2
+|map1={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=2 |t2p1=Oil King|o2p1={{Chars|seth}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Filipinoman |o1p1={{Chars|rose}} |score1=2 |t2p1=Xian|o2p1={{Chars|seth}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Justakid |o1p1={{Chars|juri}} |score1=2 |t2p1=DCQ|o2p1={{Chars|urien}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Filipinoman |o1p1={{Chars|rose}} |score1=0 |t2p1=DCQ|o2p1={{Chars|urien}} |score2=1 |winner=2}}
+|vod=https://youtu.be/7q2BBlgwm94?t=3684
+}}
+}}
+{{box|break|padding=2em}}
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|Endemic}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Panda Global}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=sVlM6jkj02
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|Panda Global}}
+|winner=1
+|map1={{Map|t1p1=HotDog29 |o1p1={{Chars|bison}} |score1=0 |t2p1=JB |o2p1={{Chars|rashid}} |score2= |winner=2}}
+|map2={{Map|t1p1=Mono |o1p1={{Chars|fang}} |score1=2 |t2p1=Nephew|o2p1={{Chars|kolin}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|ed}} |score1=3 |t2p1=Punk|o2p1={{Chars|ken}} |score2=1 |winner=1}}
+|map4={{Map|t1p1= |o1p1= |score1= |t2p1= |o2p1= |score2= |winner=}}
+|vod=https://youtu.be/eRa7W-Ytdck?t=1966
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|winner=1
+|map1={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=2 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=GamerBee |o1p1={{Chars|lucia}} |score1=2 |t2p1=Filipinoman|o2p1={{Chars|rose}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=3 |t2p1=ChrisCCH|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|vod=https://youtu.be/eRa7W-Ytdck?t=4771
+}}
+}}
+{{box|break|padding=2em}}
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Panda}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=YRuVx34sZT
+|{{Match
+|opponent1={{TeamOpponent|Panda}}
+|opponent2={{TeamOpponent|Nasr X Bandits}}
+|winner=2
+|map1={{Map|t1p1=Nephew |o1p1={{Chars|kolin}} |score1=1 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=JB |o1p1={{Chars|rashid}} |score1=1 |t2p1=Big Bird|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Punk |o1p1={{Chars|luke}} |score1=2 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|vod=https://youtu.be/BQ-rhjk0fEE?t=2334
+}}
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|map1={{Map|t1p1=DCQ |o1p1={{Chars|urien}} |score1=2 |t2p1=Mono|o2p1={{Chars|fang}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Oil King |o1p1={{Chars|rashid}} |score1=0 |t2p1=Smug|o2p1={{Chars|balrog}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=3 |t2p1=Ajax Fidelity|o2p1={{Chars|ed}} |score2=2 |winner=1}}
+|vod=https://youtu.be/BQ-rhjk0fEE?t=5536
+}}
+}}
+{{box|break|padding=2em}}
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|UYU}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Panda}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=DerOdXHLjm
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Panda}}
+|winner=1
+|map1={{Map|t1p1=Oil King |o1p1={{Chars|rashid}} |score1=2 |t2p1=Nephew|o2p1={{Chars|kolin}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=1 |t2p1=Punk|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|urien}} |score1=3 |t2p1=JB|o2p1={{Chars|rashid}} |score2=2 |winner=1}}
+|vod=https://youtu.be/x58HgNNMIko?t=2087
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|NASR X Bandits}}
+|winner=2
+|map1={{Map|t1p1=NuckleDu |o1p1={{Chars|g}} |score1=1 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=0 |t2p1=AngryBird|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=3 |t2p1=Big Bird|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map4={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=1 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|vod=https://youtu.be/x58HgNNMIko?t=5548
+}}
+}}
+{{box|break|padding=2em}}
+===Week 11===
+{{GroupTableStart|Week 11 Score|width=400px}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=QUFMCM1zbb
+|{{Match
+|opponent1={{TeamOpponent|NASR X Bandits}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|winner=1
+|map1={{Map|t1p1=Caba |o1p1={{Chars|guile}} |score1=2 |t2p1=Justakid|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=2 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=3 |t2p1=ChrisCCH|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|vod=https://youtu.be/u6GU0_uRGoA?t=2058
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=1
+|map1={{Map|t1p1=GamerBee |o1p1={{Chars|lucia}} |score1=1 |t2p1=NL|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=0 |t2p1=Xian|o2p1={{Chars|seth}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=3 |t2p1=Oil King|o2p1={{Chars|seth}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=IDom |o1p1={{Chars|poison}} |score1=1 |t2p1=DCQ|o2p1={{Chars|urien}} |score2=0 |winner=1}}
+|vod=https://youtu.be/u6GU0_uRGoA?t=4849
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 12===
+{{GroupTableStart|Week 12 Score|width=400px}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=1|win_m=1|lose_m=0|points=|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=2|win_m=1|lose_m=0|points=|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=3|win_m=0|lose_m=1|points=|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=ojRcK1NmIy
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|map1={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=0 |t2p1=Mono|o2p1={{Chars|fang}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nuckledu |o1p1={{Chars|g}} |score1=0 |t2p1=Ajax Fidelity|o2p1={{Chars|ed}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|laura}} |score1=3 |t2p1=HotDog29|o2p1={{Chars|bison}} |score2=2 |winner=1}}
+|map4={{Map|t1p1=IDom |o1p1={{Chars|g}} |score1=1 |t2p1=Mono|o2p1={{Chars|fang}} |score2=0 |winner=1}}
+|vod=https://youtu.be/C0A1VsokkBw?t=2025
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR X Bandits}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=1
+|map1={{Map|t1p1=Big Bird |o1p1={{Chars|ken}} |score1=2 |t2p1=DCQ|o2p1={{Chars|urien}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=1 |t2p1=Xian|o2p1={{Chars|seth}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=3 |t2p1=NL|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|vod=https://youtu.be/C0A1VsokkBw?t=5258
+}}
+}}
+{{box|break|padding=2em}}
+===Week 13===
+{{GroupTableStart|Week 13 Score|width=400px}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Panda}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=3|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=AUuHgSOILn
+|{{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|map1={{Map|t1p1=Justakid |o1p1={{Chars|juri}} |score1=2 |t2p1=Mono|o2p1={{Chars|fang}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=0 |t2p1=HotDog29|o2p1={{Chars|bison}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Filipinoman |o1p1={{Chars|rose}} |score1=3 |t2p1=Ajax Fidelity|o2p1={{Chars|ed}} |score2=2 |winner=1}}
+|vod=https://youtu.be/VMeSRVYypX8?t=2006
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Panda}}
+|winner=2
+|map1={{Map|t1p1=GamerBee |o1p1={{Chars|lucia}} |score1=2 |t2p1=JB|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=NuckleDu |o1p1={{Chars|guile}} |score1=2 |t2p1=Nephew|o2p1={{Chars|kolin}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=IDom |o1p1={{Chars|poison}} |score1=2 |t2p1=Punk|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Shine |o1p1={{Chars|cody}} |score1=0 |t2p1=Punk|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+|vod=https://youtu.be/VMeSRVYypX8?t=5165
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 14===
+{{GroupTableStart|Week 14 Score|width=400px}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|NASR X Bandits}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Panda}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=gPqJXj4Hmr
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|NASR X Bandits}}
+|winner=1
+|map1={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|ed}} |score1=2 |t2p1=Caba|o2p1={{Chars|guile}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=HotDog29 |o1p1={{Chars|bison}} |score1=1 |t2p1=Big Bird|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Smug |o1p1={{Chars|g}} |score1=3 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|vod=https://youtu.be/m-wLOf4UTW4?t=2114
+}}
+|{{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming}}
+|opponent2={{TeamOpponent|Panda}}
+|winner=1
+|map1={{Map|t1p1=Justakid |o1p1={{Chars|juri}} |score1=2 |t2p1=JB|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Samurai |o1p1={{Chars|luke}} |score1=2 |t2p1=Kami|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=ChrisCCH |o1p1={{Chars|luke}} |score1=3 |t2p1=Punk|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|vod=https://youtu.be/m-wLOf4UTW4?t=4964
+}}
+}}
+{{box|break|padding=2em}}
+===Week 15===
+{{GroupTableStart|Week 15 Score|width=400px}}
+{{GroupTableSlot|{{Team|UYU}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Panda}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=3|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Counter Logic Gaming}}|place=4|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=namKzgucOy
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|winner=1
+|map1={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=2 |t2p1=Justakid|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Oil King |o1p1={{Chars|rashid}} |score1=2 |t2p1=Filipinoman|o2p1={{Chars|rose}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|urien}} |score1=3 |t2p1=ChrisCCH|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|vod=https://www.youtube.com/live/_vqRAf9U0Uc?feature=share&t=2028
+}}
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|Panda}}
+|winner=2
+|map1={{Map|t1p1=Mono |o1p1={{Chars|fang}} |score1=1 |t2p1=Punk|o2p1={{Chars|necalli}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=HotDog29 |o1p1={{Chars|bison}} |score1=2 |t2p1=Kami|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|ed}} |score1=2 |t2p1=Nephew|o2p1={{Chars|kolin}} |score2=3 |winner=2}}
+|vod=https://www.youtube.com/live/_vqRAf9U0Uc?feature=share&t=4806
+}}
+}}
+{{box|end}}

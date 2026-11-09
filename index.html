@@ -1,0 +1,783 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SFL Stats</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f4f3f0;
+  --surface-1: #fcfcfb;
+  --surface-2: #efeee9;
+  --border: #e0ded7;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #7c7b76;
+  --accent: #2a78d6;
+  --good: #1a7f37;
+  --bad: #c33a3a;
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --series-3: #1baf7a;
+  --series-4: #eda100;
+  --other: #b5b3ac;
+  --row-up: rgba(42,120,214,.07);
+  --row-down: rgba(195,58,58,.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #111110; --surface-1: #1a1a19; --surface-2: #242422; --border: #33332f;
+    --text-primary: #f0efec; --text-secondary: #c3c2b7; --text-muted: #8f8e86;
+    --accent: #3987e5; --good: #4cc26a; --bad: #e66767;
+    --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70; --series-4: #c98500; --other: #5c5b56;
+    --row-up: rgba(57,135,229,.10); --row-down: rgba(230,103,103,.08);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111110; --surface-1: #1a1a19; --surface-2: #242422; --border: #33332f;
+  --text-primary: #f0efec; --text-secondary: #c3c2b7; --text-muted: #8f8e86;
+  --accent: #3987e5; --good: #4cc26a; --bad: #e66767;
+  --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70; --series-4: #c98500; --other: #5c5b56;
+  --row-up: rgba(57,135,229,.10); --row-down: rgba(230,103,103,.08);
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--text-primary);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+a { color: var(--accent); text-decoration: none; cursor: pointer; }
+a:hover { text-decoration: underline; }
+header { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--border); }
+.bar { max-width: 1100px; margin: 0 auto; padding: 12px 16px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+h1 { font-size: 17px; margin: 0; letter-spacing: -.01em; white-space: nowrap; }
+nav { display: flex; gap: 2px; flex-wrap: wrap; }
+nav a { padding: 6px 10px; border-radius: 6px; color: var(--text-secondary); font-weight: 500; white-space: nowrap; }
+nav a:hover { background: var(--surface-2); text-decoration: none; }
+nav a.on { background: var(--surface-1); color: var(--text-primary); box-shadow: 0 0 0 1px var(--border); }
+.controls { margin-left: auto; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+select { font: inherit; font-size: 13px; padding: 5px 8px; border-radius: 7px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-primary); }
+.seg { display: flex; border: 1px solid var(--border); border-radius: 7px; overflow: hidden; }
+.seg button { border: 0; background: transparent; color: var(--text-secondary); padding: 5px 10px; font: inherit; font-size: 13px; cursor: pointer; }
+.seg button.on { background: var(--surface-1); color: var(--text-primary); font-weight: 600; }
+main { max-width: 1100px; margin: 0 auto; padding: 20px 16px 60px; }
+.card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 16px; }
+.card h2 { font-size: 15px; margin: 0 0 4px; }
+.card .sub { color: var(--text-muted); font-size: 12.5px; margin: 0 0 12px; }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 7px 8px; text-align: left; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { font-size: 11.5px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); font-weight: 600; }
+th.sort { cursor: pointer; user-select: none; }
+th.sort:hover { color: var(--text-primary); }
+th.sorted::after { content: " ▾"; }
+td.n, th.n { text-align: right; }
+tr:last-child td { border-bottom: 0; }
+tr.up td { background: var(--row-up); }
+tr.down td { background: var(--row-down); }
+.pos { color: var(--good); } .neg { color: var(--bad); }
+.muted { color: var(--text-muted); }
+.w { color: var(--good); font-weight: 600; } .l { color: var(--bad); font-weight: 600; }
+.chip { display: inline-block; padding: 1px 7px; border-radius: 99px; background: var(--surface-2); font-size: 12px; margin: 1px 2px 1px 0; color: var(--text-secondary); }
+.badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 6px; border-radius: 4px; border: 1px solid var(--border); color: var(--text-secondary); vertical-align: 1px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 16px; }
+.tile { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+.tile .k { font-size: 12px; color: var(--text-muted); }
+.tile .v { font-size: 24px; font-weight: 650; letter-spacing: -.02em; }
+.tile .d { font-size: 12px; color: var(--text-secondary); }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); gap: 16px; }
+.grid2.wide { grid-template-columns: repeat(auto-fit, minmax(min(100%, 500px), 1fr)); }
+.grid2 > * { min-width: 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12.5px; color: var(--text-secondary); margin: 6px 0 2px; }
+.sw { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 5px; vertical-align: -1px; }
+.srow { display: grid; grid-template-columns: 150px 1fr 44px; align-items: center; gap: 10px; margin: 8px 0; }
+.srow .name { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.stack { display: flex; gap: 2px; height: 22px; }
+.stack div { height: 100%; min-width: 2px; }
+.stack div:first-child { border-radius: 4px 0 0 4px; }
+.stack div:last-child { border-radius: 0 4px 4px 0; }
+.stack div:only-child { border-radius: 4px; }
+.stack .lbl { font-size: 11px; color: #fff; text-shadow: 0 0 3px rgba(0,0,0,.55); padding-left: 5px; line-height: 22px; overflow: hidden; white-space: nowrap; font-weight: 600; display: block; }
+.cols { display: flex; align-items: flex-end; gap: 6px; height: 150px; border-bottom: 1px solid var(--border); padding-top: 18px; }
+.col { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 100%; cursor: default; min-width: 0; }
+.col .b { width: 100%; max-width: 34px; background: var(--series-1); border-radius: 4px 4px 0 0; }
+.col .b.zero { height: 2px !important; background: var(--text-muted); opacity: .5; border-radius: 1px; }
+.col .t { font-size: 11px; color: var(--text-secondary); margin-bottom: 2px; }
+.xl { display: flex; gap: 6px; font-size: 10.5px; color: var(--text-muted); margin-top: 4px; }
+.xl span { flex: 1; text-align: center; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; min-width: 0; }
+#tip { position: fixed; pointer-events: none; z-index: 20; background: var(--surface-1); color: var(--text-primary); border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 12.5px; box-shadow: 0 6px 20px rgba(0,0,0,.15); display: none; max-width: 280px; }
+.cross td, .cross th { text-align: center; font-size: 12.5px; }
+.cross td.self { background: var(--surface-2); }
+.battle { border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; margin-bottom: 10px; background: var(--surface-1); }
+.battle .hd { display: grid; grid-template-columns: minmax(0,1fr) auto minmax(0,1fr); gap: 10px; font-weight: 600; margin-bottom: 6px; }
+.battle .hd .sc { text-align: center; }
+.battle .hd span:last-child { text-align: right; }
+.mrow { display: grid; grid-template-columns: 38px minmax(0,1fr) 52px minmax(0,1fr); gap: 8px; font-size: 13px; padding: 3px 0; align-items: baseline; }
+.mrow .r { text-align: right; }
+.mrow > span { overflow-wrap: anywhere; }
+.mrow .mid { text-align: center; font-weight: 600; }
+.mrow .slot { color: var(--text-muted); font-size: 11.5px; overflow-wrap: normal; white-space: nowrap; }
+.back { display: inline-block; margin-bottom: 12px; }
+.note { font-size: 12.5px; color: var(--text-muted); }
+h3.sec { font-size: 15px; margin: 22px 0 10px; }
+footer { max-width: 1100px; margin: 0 auto; padding: 0 16px 30px; font-size: 12px; color: var(--text-muted); }
+@media (max-width: 640px) {
+  html, body { overflow-x: hidden; }
+  .controls { margin-left: 0; }
+  nav { flex-wrap: nowrap; overflow-x: auto; min-width: 0; flex: 1 1 100%; }
+  .srow { grid-template-columns: 96px 1fr 36px; }
+  .mrow { grid-template-columns: 36px minmax(0,1fr) 34px minmax(0,1fr); font-size: 12px; gap: 6px; }
+  .mrow .slot { font-size: 10.5px; }
+  .battle .hd { font-size: 13px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>SFL Stats</h1>
+    <nav id="nav">
+      <a data-v="standings">Standings</a>
+      <a data-v="players">Players</a>
+      <a data-v="teams">Teams</a>
+      <a data-v="characters">Characters</a>
+      <a data-v="matches">Matches</a>
+    </nav>
+    <div class="controls">
+      <select id="league" aria-label="League"></select>
+      <select id="season" aria-label="Season"></select>
+      <div class="seg" id="stage">
+        <button data-s="Regular Season">Regular season</button>
+        <button data-s="Playoffs">Playoffs</button>
+        <button data-s="All">Both</button>
+      </div>
+    </div>
+  </div>
+</header>
+<main id="app"></main>
+<footer id="foot"></footer>
+<div id="tip"></div>
+<script src="data.js"></script>
+<script>
+const D = window.SFL;
+const SEASONS = D.seasons;                       // newest first
+const SEASON = Object.fromEntries(SEASONS.map(s => [s.id, s]));
+SEASONS.forEach(s => s.battles.forEach(b => b.sid = s.id));
+const SLOT_NAME = { 1: "1st match", 2: "2nd match", 3: "3rd match", 4: "Tiebreaker" };
+const SLOT_SHORT = { 1: "M1", 2: "M2", 3: "M3", 4: "TB" };
+// Japan 2022 had a double-elimination bracket before its semifinal/final.
+const ROUND_ORDER = { "Losers Quarterfinal": 0.2, "Losers Final": 0.4, "Winners Final": 0.6, "Quarterfinals": 1, "Semifinals": 2, "Grand Finals": 3 };
+const LEAGUES = D.leagues;
+
+let stage = "Regular Season";
+try { stage = localStorage.getItem("sfl-stage") || stage; } catch (e) {}
+let season = SEASONS[0].id;   // a season id like "jp-2025", or "<league>-all"; set from the URL in render()
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const pct = (w, l) => (w + l ? Math.round(100 * w / (w + l)) + "%" : "–");
+const signed = n => (n > 0 ? `<span class="pos">+${n}</span>` : n < 0 ? `<span class="neg">${n}</span>` : "0");
+const enc = s => encodeURIComponent(s);
+const href = (view, arg, s = season) => `#${s}/${view}${arg ? "/" + enc(arg) : ""}`;
+const pLink = (p, s) => p ? `<a href="${href("player", p, s)}">${esc(p)}</a>` : `<span class="muted" title="Not recorded on Liquipedia">unknown</span>`;
+const tLink = (t, s) => t ? `<a href="${href("team", t, s)}">${esc(t)}</a>` : `<span class="muted">TBD</span>`;
+const isAll = () => season.endsWith("-all");
+const curLeague = () => season.split("-")[0];
+const LS = () => SEASONS.filter(s => s.league === curLeague());   // seasons of the current league, newest first
+const allId = () => curLeague() + "-all";
+const yr = sid => SEASON[sid]?.year ?? sid;
+const seasonLabel = id => id.endsWith("-all") ? `${LEAGUES[id.split("-")[0]]} · all seasons` : SEASON[id].name;
+const gameBadge = id => SEASON[id]?.game === "SFV" ? ` <span class="badge" title="Played on Street Fighter V">SFV</span>` : "";
+const abbr = t => {
+  const w = t.replace(/[^A-Za-z0-9 ]/g, "").split(" ").filter(Boolean);
+  return w.length === 1 ? w[0].slice(0, 4).toUpperCase() : w.map(x => x[0]).join("").slice(0, 4).toUpperCase();
+};
+const shortRound = b => b.stage === "Playoffs"
+  ? ({ "Quarterfinals": "QF", "Semifinals": "SF", "Grand Finals": "GF" }[b.round] || b.round)
+  : b.round.replace(/^Day /, "D").replace(/^Week /, "W");
+
+// Colours: each season's roster order (1st–4th listed player). Fixed per entity, never by rank.
+function rosterColor(sid, team, player) {
+  const i = (SEASON[sid]?.rosters[team] || []).indexOf(player);
+  return i >= 0 && i < 4 ? `var(--series-${i + 1})` : "var(--other)";
+}
+
+// ---------- playoff results ----------
+function playoffInfo(sid, team) {
+  const s = SEASON[sid];
+  const ms = s.bracket.filter(b => b.t.includes(team));
+  if (!ms.length) return null;
+  const entry = Math.min(...ms.map(b => ROUND_ORDER[b.round] || 0));
+  const lost = ms.find(b => b.w !== null && b.w !== undefined && b.t[b.w] !== team);
+  let result;
+  if (s.champion === team) result = "🏆 Champion";
+  else if (lost) result = { "Grand Finals": "Runner-up", "Semifinals": "Lost in semifinals", "Quarterfinals": "Lost in quarterfinals", "Losers Final": "Lost in losers final", "Losers Quarterfinal": "Lost in losers quarterfinal" }[lost.round] || "Eliminated";
+  else result = "In playoffs";
+  // Seeds only mean something when teams entered the bracket at different rounds (not in 2022).
+  const entries = new Set(s.bracket.flatMap(b => b.t).filter(Boolean).map(t =>
+    Math.min(...s.bracket.filter(b => b.t.includes(t)).map(b => ROUND_ORDER[b.round] || 0))));
+  const seed = entries.size > 1 ? ({ 3: "seeded to Grand Final", 2: "seeded to Semifinals", 1: "from Quarterfinals" }[entry] || "") : "";
+  // How far the team got: champion > runner-up > semifinal loser > quarterfinal loser.
+  // Teams still alive rank by the round they've reached.
+  const furthest = Math.max(...ms.map(b => ROUND_ORDER[b.round] || 0));
+  const rank = s.champion === team ? 100 : lost ? 60 + 10 * (ROUND_ORDER[lost.round] || 0) : 85 + furthest;
+  return { entry, result, seed, rank, alive: !lost && s.champion !== team };
+}
+
+// Label for a team without a playoff result: the bracket may simply not exist yet.
+const noPlayoffs = sid => SEASON[sid].bracket.length ? "Missed playoffs" : "Season in progress";
+
+// Regular-season order for one season, regardless of the stage filter.
+function regularSeasonOrder(sid) {
+  const st = {};
+  SEASON[sid].battles.filter(b => b.stage === "Regular Season").forEach(b => b.t.forEach((t, i) => {
+    const x = st[t] ??= { name: t, pf: 0, rd: 0 };
+    x.pf += b.score[i]; x.rd += b.score[i] > b.score[1 - i] ? 1 : -1;
+  }));
+  return Object.values(st).sort((a, b) => b.pf - a.pf || (playoffInfo(sid, b.name)?.entry || 0) - (playoffInfo(sid, a.name)?.entry || 0) || b.rd - a.rd);
+}
+
+// Final placement for one season: playoff teams by how far they went, then everyone else by regular season.
+function finalPlacement(sid) {
+  const rs = regularSeasonOrder(sid);
+  const rows = rs.map((t, i) => ({ ...t, rsRank: i + 1, po: playoffInfo(sid, t.name) }));
+  rows.sort((a, b) => (b.po?.rank || 0) - (a.po?.rank || 0) || a.rsRank - b.rsRank);
+  const better = (o, r) => o.po && r.po ? o.po.rank > r.po.rank : o.po ? true : r.po ? false : o.rsRank < r.rsRank;
+  rows.forEach(r => { r.place = r.po?.alive ? null : 1 + rows.filter(o => better(o, r)).length; });
+  return rows;
+}
+const ordinal = n => n + ({ 1: "st", 2: "nd", 3: "rd" }[n % 100 > 10 && n % 100 < 14 ? 0 : n % 10] || "th");
+
+// ---------- aggregation ----------
+function selectedBattles() {
+  const ss = isAll() ? LS() : [SEASON[season]];
+  return ss.flatMap(s => s.battles).filter(b => stage === "All" || b.stage === stage);
+}
+
+function compute() {
+  const bs = selectedBattles();
+  const teams = {}, players = {}, chars = {}, teamSeasonPts = {};
+  const T = t => teams[t] ??= { name: t, w: 0, l: 0, pf: 0, pa: 0, battles: [], seasons: new Set() };
+  const P = p => players[p] ??= { name: p, battleKeys: new Set(), sw: 0, sl: 0, gw: 0, gl: 0, pf: 0, pa: 0,
+    slots: { 1: [0, 0, 0, 0], 2: [0, 0, 0, 0], 3: [0, 0, 0, 0], 4: [0, 0, 0, 0] }, chars: {}, log: [], perBattle: [], stints: {} };
+  bs.forEach((b, bi) => {
+    const win = b.score[0] > b.score[1] ? 0 : 1;
+    [0, 1].forEach(i => {
+      const t = T(b.t[i]);
+      t.pf += b.score[i]; t.pa += b.score[1 - i];
+      i === win ? t.w++ : t.l++;
+      t.battles.push(b); t.seasons.add(b.sid);
+      const k = b.sid + "|" + b.t[i];
+      teamSeasonPts[k] = (teamSeasonPts[k] || 0) + b.score[i];
+    });
+    const earned = {};
+    b.maps.forEach(m => {
+      [0, 1].forEach(i => {
+        if (!m.p[i]) return;   // player not recorded on Liquipedia
+        const p = P(m.p[i]);
+        const won = m.w === i;
+        const st = p.stints[b.sid + "|" + b.t[i]] ??= { sid: b.sid, team: b.t[i], pf: 0, pa: 0, sw: 0, sl: 0, a3: [0, 0], chars: {}, battles: new Set() };
+        p.battleKeys.add(bi); st.battles.add(bi);
+        if (won) { p.sw++; st.sw++; p.pf += m.pts; st.pf += m.pts; } else { p.sl++; st.sl++; p.pa += m.pts; st.pa += m.pts; }
+        p.gw += m.s[i]; p.gl += m.s[1 - i];
+        const sl = p.slots[m.n] || (p.slots[m.n] = [0, 0, 0, 0]);
+        sl[won ? 0 : 1]++; sl[won ? 2 : 3] += m.pts;
+        if (m.n === 3) st.a3[won ? 0 : 1]++;
+        const key = bi + "|" + m.p[i];
+        earned[key] ??= { p: m.p[i], i, pts: 0 };
+        if (won) earned[key].pts += m.pts;
+        for (const ch of m.c[i]) {
+          (p.chars[ch] ??= [0, 0])[won ? 0 : 1]++;
+          st.chars[ch] = 1;
+          const cc = chars[ch] ??= { name: ch, w: 0, l: 0, players: {} };
+          won ? cc.w++ : cc.l++;
+          cc.players[m.p[i]] = (cc.players[m.p[i]] || 0) + 1;
+        }
+        p.log.push({ b, m, i, won, opp: m.p[1 - i], oppTeam: b.t[1 - i] });
+      });
+    });
+    for (const e of Object.values(earned)) players[e.p].perBattle.push({ b, pts: e.pts, i: e.i });
+  });
+  const order = Object.fromEntries(LS().map((s, i) => [s.id, i]));
+  for (const p of Object.values(players)) {
+    const st = Object.values(p.stints).sort((a, b) => order[a.sid] - order[b.sid]);
+    p.team = st[0].team; p.sid = st[0].sid;
+    p.teamPts = st.reduce((a, x) => a + (teamSeasonPts[x.sid + "|" + x.team] || 0), 0);
+    p.seasons = new Set(st.map(x => x.sid));
+    p.teams = [...new Set([...st].reverse().map(x => x.team))];
+  }
+  for (const t of Object.values(teams)) {
+    t.rd = t.w - t.l;
+    t.po = !isAll() ? playoffInfo(season, t.name) : null;
+    t.titles = LS().filter(s => s.champion === t.name && t.seasons.has(s.id)).length;
+  }
+  // Regular season: points, then playoff seed (reflects the league's own tiebreak), then battle differential.
+  // Playoffs / Both: final placement, because playoff points just reflect how many rounds a team played.
+  let standings = Object.values(teams).sort((x, y) => y.pf - x.pf || (y.po?.entry || 0) - (x.po?.entry || 0) || y.rd - x.rd);
+  if (!isAll() && stage !== "Regular Season") {
+    const fp = finalPlacement(season).map(r => r.name);
+    standings = standings.sort((x, y) => fp.indexOf(x.name) - fp.indexOf(y.name));
+  }
+  return { bs, teams, players, chars, standings, teamSeasonPts };
+}
+
+// ---------- tooltip ----------
+const tip = document.getElementById("tip");
+document.addEventListener("mousemove", e => {
+  const el = e.target.closest("[data-tip]");
+  if (!el) { tip.style.display = "none"; return; }
+  tip.innerHTML = el.dataset.tip;
+  tip.style.display = "block";
+  const r = tip.getBoundingClientRect();
+  let x = e.clientX + 14, y = e.clientY + 14;
+  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 14;
+  if (y + r.height > innerHeight - 8) y = e.clientY - r.height - 14;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+});
+
+// ---------- sortable tables ----------
+function sortable(id, cols, rows, initial) {
+  let key = initial, dir = -1;
+  const draw = () => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const sorted = [...rows].sort((a, b) => {
+      const x = cols[key].v(a), y = cols[key].v(b);
+      return (typeof x === "string" ? x.localeCompare(y) : x - y) * dir;
+    });
+    el.innerHTML = `<table><thead><tr>${cols.map((c, i) =>
+      `<th class="${c.n ? "n " : ""}${c.v ? "sort" : ""} ${i === key ? "sorted" : ""}" data-i="${i}" ${c.t ? `title="${esc(c.t)}"` : ""}>${c.h}</th>`).join("")}</tr></thead>
+      <tbody>${sorted.map((r, ri) => `<tr>${cols.map(c => `<td class="${c.n ? "n" : ""}">${c.f(r, ri)}</td>`).join("")}</tr>`).join("")}</tbody></table>`;
+    el.querySelectorAll("th.sort").forEach(th => th.onclick = () => {
+      const i = +th.dataset.i;
+      if (i === key) dir = -dir; else { key = i; dir = typeof cols[i].v(rows[0]) === "string" ? 1 : -1; }
+      draw();
+    });
+  };
+  if (rows.length) draw(); else document.getElementById(id).innerHTML = `<p class="muted">No games for this filter yet.</p>`;
+}
+const empty = `<div class="card"><p class="muted">No games for this filter yet.</p></div>`;
+
+// ---------- standings ----------
+// Regular-season tables: one per division (Japan 2024+), one per stage (Japan 2023), otherwise one.
+function seasonGroups(s) {
+  const divs = Object.keys(s.divisions || {});
+  if (divs.length) return divs.map(d => ({ name: d, has: b => b.div === d }));
+  if ((s.phases || []).length) return s.phases.map(p => ({ name: p, has: b => b.phase === p }));
+  return [{ name: "", has: () => true }];
+}
+
+function tableFor(bs) {
+  const st = {};
+  bs.forEach(b => b.t.forEach((t, i) => {
+    const x = st[t] ??= { name: t, w: 0, l: 0, pf: 0, pa: 0 };
+    x.pf += b.score[i]; x.pa += b.score[1 - i];
+    b.score[i] > b.score[1 - i] ? x.w++ : x.l++;
+  }));
+  const rows = Object.values(st);
+  rows.forEach(t => { t.rd = t.w - t.l; t.po = playoffInfo(season, t.name); });
+  return rows.sort((x, y) => y.pf - x.pf || (y.po?.entry || 0) - (x.po?.entry || 0) || y.rd - x.rd);
+}
+
+function viewStandings(S) {
+  if (isAll()) return viewAllTime(S);
+  if (stage !== "Regular Season") return viewPlayoffs(S);
+  if (!S.standings.length) return empty;
+  const s = SEASON[season];
+  const groups = seasonGroups(s);
+  const lastPhase = s.phases?.length ? s.phases[s.phases.length - 1] : null;
+
+  const tables = groups.map(g => {
+    const bs = S.bs.filter(g.has);
+    const rows = tableFor(bs);
+    // Playoff colouring only on the table that decides qualification.
+    const showPO = (!lastPhase || g.name === lastPhase) && s.bracket.length > 0;
+    const body = rows.map((t, i) => `<tr class="${showPO ? (t.po ? "up" : "down") : ""}">
+      <td>${i + 1}</td><td><b>${tLink(t.name)}</b></td>
+      <td class="n">${t.w}-${t.l}</td><td class="n"><b>${t.pf}</b></td>
+      <td class="n">${t.pf}-${t.pa} (${signed(t.pf - t.pa)})</td><td class="n">${signed(t.rd)}</td>
+      <td>${t.po ? `${esc(t.po.result)} ${t.po.seed ? `<span class="muted">· ${esc(t.po.seed)}</span>` : ""}` : `<span class="muted">${noPlayoffs(season)}</span>`}</td></tr>`).join("");
+    const names = rows.map(r => r.name);
+    const meet = (a, b) => bs.filter(x => x.t.includes(a) && x.t.includes(b)).map(x => {
+      const i = x.t.indexOf(a), sc = x.score[i], o = x.score[1 - i];
+      return `<span class="${sc > o ? "w" : "l"}" data-tip="<b>${esc(a)} ${sc}–${o} ${esc(b)}</b><br>${esc(x.round)} · ${esc(x.date || "")}">${sc}-${o}</span>`;
+    }).join("<br>");
+    const cross = `<table class="cross"><thead><tr><th></th>${names.map(t => `<th title="${esc(t)}">${abbr(t)}</th>`).join("")}</tr></thead>
+      <tbody>${names.map(a => `<tr><td style="text-align:left;font-weight:600">${tLink(a)}</td>${names.map(b => a === b ? `<td class="self"></td>` : `<td>${meet(a, b) || "–"}</td>`).join("")}</tr>`).join("")}</tbody></table>`;
+    return { g, rows, body, cross };
+  });
+
+  const intro = `<div class="card"><h2>${esc(s.name)} standings${gameBadge(season)}</h2>
+    <p class="sub" style="margin:0">${s.champion ? `Champion: <b>${esc(s.champion)}</b> · ` : ""}Ranked by points (sum of battle scores); ties go to the better playoff seed, then battle differential. Tiebreaker match worth ${s.points[4]} pts this season.${groups.length > 1 && !lastPhase ? ` Teams play only within their division.` : ""}${lastPhase ? ` Two stages: the ${esc(lastPhase)} decided the playoff spots.` : ""}</p></div>`;
+  const head = `<tr><th>#</th><th>Team</th><th class="n">Battles</th><th class="n">Points</th><th class="n">Game</th><th class="n">RD</th><th>Playoffs</th></tr>`;
+  return intro + tables.map(x => `<div class="card">${x.g.name ? `<h2>${esc(x.g.name)}</h2>` : ""}
+      <div class="scroll"><table><thead>${head}</thead><tbody>${x.body}</tbody></table></div></div>`).join("") +
+    `<p class="note" style="margin:-6px 0 16px">Game = points earned − points conceded. RD = battles won − battles lost.</p>` +
+    tables.map(x => `<div class="card"><h2>Head to head${x.g.name ? " · " + esc(x.g.name) : ""}</h2><p class="sub">Row team's score first, one line per meeting.</p>
+      <div class="scroll">${x.cross}</div></div>`).join("");
+}
+
+function viewPlayoffs(S) {
+  const s = SEASON[season];
+  const poBattles = s.battles.filter(b => b.stage === "Playoffs");
+  const seriesBattles = br => poBattles.filter(b => b.round === br.round && br.t.every(t => !t || b.t.includes(t)));
+  // Series score: Liquipedia's listed total when given; small numbers are battle wins (2022 format).
+  const seriesScore = br => {
+    const bs = seriesBattles(br);
+    if (br.score && br.score.every(x => x != null)) return { sc: br.score, unit: Math.max(...br.score) <= 5 ? "battles" : "pts" };
+    if (!bs.length) return null;
+    return { sc: br.t.map(t => bs.reduce((a, b) => a + (b.t.indexOf(t) >= 0 ? b.score[b.t.indexOf(t)] : 0), 0)), unit: "pts" };
+  };
+  const series = {};   // team → [won, lost]
+  s.bracket.forEach(br => br.t.forEach((t, i) => { if (!t || br.w == null) return; (series[t] ??= [0, 0])[br.w === i ? 0 : 1]++; }));
+  const poPts = {};
+  poBattles.forEach(b => b.t.forEach((t, i) => { const x = poPts[t] ??= [0, 0, 0, 0]; x[0] += b.score[i]; x[1] += b.score[1 - i]; x[b.score[i] > b.score[1 - i] ? 2 : 3]++; }));
+
+  const fp = finalPlacement(season);
+  const rows = fp.map(r => `<tr class="${r.po ? (r.po.rank === 100 ? "up" : "") : "down"}">
+      <td><b>${r.place ? ordinal(r.place) : `<span class="muted">–</span>`}</b></td>
+      <td><b>${tLink(r.name)}</b></td>
+      <td>${r.po ? `${esc(r.po.result)} ${r.po.seed ? `<span class="muted">· ${esc(r.po.seed)}</span>` : ""}` : `<span class="muted">${noPlayoffs(season)}</span>`}</td>
+      <td class="n">${series[r.name] ? series[r.name].join("-") : r.po ? "0-0" : "–"}</td>
+      <td class="n">${poPts[r.name] ? `${poPts[r.name][2]}-${poPts[r.name][3]}` : "–"}</td>
+      <td class="n">${poPts[r.name] ? `${poPts[r.name][0]}-${poPts[r.name][1]}` : "–"}</td>
+      <td class="n">${ordinal(r.rsRank)} <span class="muted">· ${r.pf} pts</span></td></tr>`).join("");
+
+  const rounds = [...new Set(s.bracket.map(b => b.round))].sort((a, b) => (ROUND_ORDER[a] || 0) - (ROUND_ORDER[b] || 0));
+  const bracketHtml = rounds.map(r => `<div><h3 class="sec" style="margin-top:6px">${esc(r)}</h3>${s.bracket.filter(b => b.round === r).map(br => {
+      const ss = seriesScore(br), bs = seriesBattles(br);
+      const side = i => `<div style="display:flex;justify-content:space-between;gap:10px;padding:3px 0;${br.w === i ? "font-weight:650" : br.w != null ? "color:var(--text-muted)" : ""}">
+          <span>${br.w === i ? "🏆 " : ""}${tLink(br.t[i])}</span><span>${ss ? ss.sc[i] : "–"}</span></div>`;
+      return `<div class="battle">${side(0)}${side(1)}
+        <div class="muted" style="font-size:12px;margin-top:4px">${br.w == null ? "Not decided yet" : `${esc(br.t[br.w])} won the series`}${ss ? ` · ${ss.unit === "battles" ? "battles won" : "series points"}` : ""}${bs.length ? ` · ${bs.length} battle${bs.length > 1 ? "s" : ""}` : ""}</div>
+        ${bs.length ? `<details style="margin-top:6px"><summary class="note" style="cursor:pointer">Show games</summary>${bs.map(battleCard).join("")}</details>` : ""}</div>`;
+    }).join("")}</div>`).join("");
+
+  return `<div class="card"><h2>${esc(s.name)} final standings${gameBadge(season)}</h2>
+    <p class="sub">${s.champion ? `Champion: <b>${esc(s.champion)}</b>. ` : "Playoffs still in progress. "}Ranked by how far each team went in the playoffs, then by regular-season finish. Playoff points aren't used for ranking: teams that play more rounds simply rack up more.</p>
+    <div class="scroll"><table><thead><tr><th>Place</th><th>Team</th><th>Playoff result</th><th class="n" title="Playoff series won-lost">Series</th><th class="n">Battles</th><th class="n" title="Points scored-conceded in playoff battles">Playoff pts</th><th class="n">Regular season</th></tr></thead><tbody>${rows}</tbody></table></div></div>
+    <div class="card"><h2>Bracket</h2><p class="sub">Each series is played as several battles until one team reaches the target score. Click "Show games" for the sets.</p>
+    <div class="grid2">${bracketHtml || `<p class="muted">No playoff bracket yet.</p>`}</div></div>`;
+}
+
+function viewAllTime(S) {
+  const runnerUp = s => { const gf = [...s.bracket].reverse().find(b => b.round === "Grand Finals" && b.w != null); return gf ? tLink(gf.t[1 - gf.w], s.id) : `<span class="muted">–</span>`; };
+  const topSeed = s => {
+    const st = {};
+    s.battles.filter(b => b.stage === "Regular Season").forEach(b => b.t.forEach((t, i) => st[t] = (st[t] || 0) + b.score[i]));
+    const top = Object.entries(st).sort((a, b) => b[1] - a[1])[0];
+    return top ? `${tLink(top[0], s.id)} <span class="muted">${top[1]} pts</span>` : "–";
+  };
+  const champs = LS().map(s => `<tr><td><a href="${href("standings", "", s.id)}">${esc(s.name)}</a>${gameBadge(s.id)}</td>
+    <td>${s.champion ? `🏆 <b>${tLink(s.champion, s.id)}</b>` : `<span class="muted">playoffs in progress</span>`}</td>
+    <td>${runnerUp(s)}</td><td>${topSeed(s)}</td></tr>`).join("");
+  if (S.standings.length) setTimeout(() => sortable("attable", [
+    { h: "Team", v: r => r.name, f: r => `<b>${esc(r.name)}</b>` },
+    { h: "Seasons", n: 1, v: r => r.seasons.size, f: r => [...r.seasons].map(yr).sort().join(", ") },
+    { h: "Battles", n: 1, v: r => r.w - r.l, f: r => `${r.w}-${r.l}` },
+    { h: "Win %", n: 1, v: r => r.w / (r.w + r.l), f: r => pct(r.w, r.l) },
+    { h: "Points", n: 1, v: r => r.pf, f: r => `<b>${r.pf}</b>` },
+    { h: "Pts / battle", n: 1, v: r => r.pf / (r.w + r.l), f: r => (r.pf / (r.w + r.l)).toFixed(1) },
+    { h: "Titles", n: 1, v: r => r.titles, f: r => r.titles ? "🏆".repeat(r.titles) : `<span class="muted">–</span>` },
+  ], S.standings, stage === "Regular Season" ? 4 : 6));
+  return `<div class="card"><h2>Champions by season</h2><p class="sub">Click a season to open its standings.</p>
+    <div class="scroll"><table><thead><tr><th>Season</th><th>Champion</th><th>Runner-up</th><th>Most regular-season points</th></tr></thead><tbody>${champs}</tbody></table></div></div>
+    <div class="card"><h2>All-time team table</h2><p class="sub">Every season combined, by team name as listed on Liquipedia (renamed orgs count separately). Tiebreakers were worth 5 pts in 2022–2024 and 10 pts after.</p>
+    <div class="scroll" id="attable"></div></div>`;
+}
+
+// ---------- players ----------
+const slotRec = s => s && s[0] + s[1] ? `${s[0]}-${s[1]}` : `<span class="muted">–</span>`;
+const share = p => p.teamPts ? Math.round(100 * p.pf / p.teamPts) + "%" : "–";
+
+function playerCols() {
+  const cols = [
+    { h: "#", f: (r, i) => `<span class="muted">${i + 1}</span>` },
+    { h: "Player", v: r => r.name, f: r => `<b>${pLink(r.name)}</b>` },
+    { h: isAll() ? "Latest team" : "Team", v: r => r.team, f: r => `<span class="muted">${esc(r.team)}</span>` },
+    { h: "Points", n: 1, v: r => r.pf, f: r => `<b>${r.pf}</b>`, t: "Team points won by this player's sets" },
+    { h: "Share", n: 1, v: r => r.pf / (r.teamPts || 1), f: share, t: "Share of their team's points" },
+    { h: "Net", n: 1, v: r => r.pf - r.pa, f: r => signed(r.pf - r.pa), t: "Points won minus points given up in lost sets" },
+    { h: "Sets", n: 1, v: r => r.sw - r.sl, f: r => `${r.sw}-${r.sl}` },
+    { h: "Win %", n: 1, v: r => r.sw / Math.max(1, r.sw + r.sl), f: r => pct(r.sw, r.sl) },
+    { h: "Games", n: 1, v: r => r.gw - r.gl, f: r => `${r.gw}-${r.gl}` },
+    { h: "3rd match", n: 1, v: r => r.slots[3][0] - r.slots[3][1], f: r => slotRec(r.slots[3]), t: "Record in the 20-point first-to-3 anchor match" },
+    { h: "Battles", n: 1, v: r => r.battleKeys.size, f: r => r.battleKeys.size },
+    { h: "Pts / battle", n: 1, v: r => r.pf / Math.max(1, r.battleKeys.size), f: r => (r.pf / Math.max(1, r.battleKeys.size)).toFixed(1) },
+  ];
+  if (isAll()) cols.push({ h: "Seasons", n: 1, v: r => r.seasons.size, f: r => r.seasons.size });
+  cols.push({ h: "Characters", f: r => Object.entries(r.chars).sort((a, b) => b[1][0] + b[1][1] - a[1][0] - a[1][1]).slice(0, 4).map(([c]) => `<span class="chip">${esc(c)}</span>`).join("") });
+  return cols;
+}
+
+function viewPlayers(S) {
+  const ps = Object.values(S.players);
+  if (!ps.length) return empty;
+  const minSets = isAll() ? 15 : 4;
+  const top = [...ps].sort((a, b) => b.pf - a.pf)[0];
+  const net = [...ps].sort((a, b) => (b.pf - b.pa) - (a.pf - a.pa))[0];
+  const best = ps.filter(p => p.sw + p.sl >= minSets).sort((a, b) => b.sw / (b.sw + b.sl) - a.sw / (a.sw + a.sl) || b.sw - a.sw)[0];
+  const anchors = ps.filter(p => p.slots[3][0] + p.slots[3][1] >= 2).sort((a, b) => (b.slots[3][0] - b.slots[3][1]) - (a.slots[3][0] - a.slots[3][1]) || b.slots[3][0] - a.slots[3][0])[0];
+  const tile = (k, p, v) => p ? `<div class="tile"><div class="k">${k}</div><div class="v">${v}</div><div class="d">${pLink(p.name)} · ${esc(p.team)}</div></div>` : "";
+  setTimeout(() => sortable("ptable", playerCols(), ps, 3));
+  return `<div class="tiles">
+      ${tile("Most points", top, top.pf + " pts")}
+      ${tile("Best net points", net, (net.pf - net.pa > 0 ? "+" : "") + (net.pf - net.pa))}
+      ${tile(`Best set win % (${minSets}+ sets)`, best, best && pct(best.sw, best.sl))}
+      ${tile("Best 3rd-match record", anchors, anchors && `${anchors.slots[3][0]}-${anchors.slots[3][1]}`)}
+    </div>
+    <div class="card"><h2>Player leaderboard · ${esc(seasonLabel(season))}</h2>
+    <p class="sub">Points = what each player's set wins put on the board (1st/2nd match 10, 3rd match 20, tiebreaker 5 or 10). ${isAll() ? "Career totals across every season; players who changed their tag are merged. " : ""}Click a column to sort, a name for the full breakdown.</p>
+    <div class="scroll" id="ptable"></div></div>`;
+}
+
+function viewPlayer(S, name) {
+  const p = S.players[name];
+  const back = `<a class="back" href="${href("players")}">← All players</a>`;
+  // Seasons this player appears in, grouped by league (a few players have played in more than one).
+  const played = SEASONS.filter(s => s.battles.some(b => b.maps.some(m => m.p.includes(name))));
+  const lgs = [...new Set(played.map(s => s.league))];
+  const lbl = id => id.endsWith("-all") ? "Career" : yr(id);
+  const switcher = `<div class="note" style="margin:-4px 0 14px">${lgs.map(lg => `${esc(LEAGUES[lg])}: ` +
+    [...played.filter(s => s.league === lg).map(s => s.id), lg + "-all"].map(id =>
+      id === season ? `<b>${lbl(id)}</b>` : `<a href="${href("player", name, id)}">${lbl(id)}</a>`).join(" · ")).join("<br>")}</div>`;
+  if (!p) return back + `<div class="card"><h2>${esc(name)}</h2><p class="muted">No sets for this filter.</p></div>` + switcher;
+  const rank = Object.values(S.players).sort((a, b) => b.pf - a.pf).findIndex(x => x.name === name) + 1;
+  const order = Object.fromEntries(LS().map((s, i) => [s.id, i]));
+  const stints = Object.values(p.stints).sort((a, b) => order[a.sid] - order[b.sid]);
+
+  // Chart: per battle for one season, per season for the career view.
+  let colsHtml, xl, chartTitle;
+  if (isAll()) {
+    chartTitle = "Points per season";
+    const bySeason = [...stints].reverse();
+    const max = Math.max(20, ...bySeason.map(x => x.pf));
+    colsHtml = bySeason.map(x => `<div class="col" data-tip="<b>${esc(SEASON[x.sid].name)}</b> · ${esc(x.team)}<br>${x.pf} pts · sets ${x.sw}-${x.sl}<br>${x.battles.size} battles"><div class="t">${x.pf}</div><div class="b ${x.pf ? "" : "zero"}" style="height:${100 * x.pf / max}%"></div></div>`).join("");
+    xl = bySeason.map(x => `<span>${yr(x.sid)}<br>${abbr(x.team)}</span>`).join("");
+  } else {
+    chartTitle = "Points earned per battle";
+    const max = Math.max(20, ...p.perBattle.map(x => x.pts));
+    colsHtml = p.perBattle.map(x => {
+      const opp = x.b.t[1 - x.i];
+      const sets = p.log.filter(l => l.b === x.b).map(l => `${SLOT_SHORT[l.m.n]} vs ${esc(l.opp)}: <b class="${l.won ? "w" : "l"}">${l.m.s[l.i]}-${l.m.s[1 - l.i]}</b>`).join("<br>");
+      const t = `<b>${esc(x.b.round)} vs ${esc(opp)}</b><br>${sets}<br>Earned <b>${x.pts}</b> pts · team ${x.b.score[x.i]}-${x.b.score[1 - x.i]}`;
+      return `<div class="col" data-tip="${esc(t)}"><div class="t">${x.pts}</div><div class="b ${x.pts ? "" : "zero"}" style="height:${100 * x.pts / max}%"></div></div>`;
+    }).join("");
+    xl = p.perBattle.map(x => `<span title="${esc(x.b.t[1 - x.i])}">${shortRound(x.b)}<br>${abbr(x.b.t[1 - x.i])}</span>`).join("");
+  }
+
+  const slotRows = [1, 2, 3, 4].filter(n => p.slots[n][0] + p.slots[n][1]).map(n => {
+    const [w, l, pw, pl] = p.slots[n];
+    return `<tr><td>${SLOT_NAME[n]}</td><td class="n">${w}-${l}</td><td class="n">${pct(w, l)}</td><td class="n">${pw}</td><td class="n">${pl}</td></tr>`;
+  }).join("");
+  const charRows = Object.entries(p.chars).sort((a, b) => b[1][0] + b[1][1] - a[1][0] - a[1][1]).map(([c, [w, l]]) =>
+    `<tr><td>${esc(c)}</td><td class="n">${w + l}</td><td class="n">${w}-${l}</td><td class="n">${pct(w, l)}</td></tr>`).join("");
+  const log = p.log.map(l => `<tr>
+      ${isAll() ? `<td>${yr(l.b.sid)}</td>` : ""}<td>${esc(l.b.round)}</td><td>${SLOT_SHORT[l.m.n]}</td>
+      <td>${pLink(l.opp)} <span class="muted">${esc(l.oppTeam)}</span></td>
+      <td>${l.m.c[l.i].map(esc).join(" → ")} <span class="muted">vs</span> ${l.m.c[1 - l.i].map(esc).join(" → ")}</td>
+      <td class="n"><span class="${l.won ? "w" : "l"}">${l.won ? "W" : "L"} ${l.m.s[l.i]}-${l.m.s[1 - l.i]}</span></td>
+      <td class="n">${l.won ? "+" + l.m.pts : `<span class="muted">0</span>`}</td></tr>`).join("");
+
+  let middle;
+  if (isAll()) {
+    const seasonRows = stints.map(x => {
+      const tp = S.teamSeasonPts[x.sid + "|" + x.team] || 0;
+      const po = playoffInfo(x.sid, x.team);
+      return `<tr><td><a href="${href("player", name, x.sid)}">${yr(x.sid)}</a>${gameBadge(x.sid)}</td><td>${tLink(x.team, x.sid)}</td>
+        <td class="n"><b>${x.pf}</b></td><td class="n">${tp ? Math.round(100 * x.pf / tp) + "%" : "–"}</td><td class="n">${x.sw}-${x.sl}</td>
+        <td class="n">${slotRec(x.a3)}</td><td class="n">${x.battles.size}</td><td>${Object.keys(x.chars).map(c => `<span class="chip">${esc(c)}</span>`).join("")}</td>
+        <td class="muted">${po ? esc(po.result) : noPlayoffs(x.sid)}</td></tr>`;
+    }).join("");
+    middle = `<div class="card"><h2>Season by season</h2><p class="sub">Click a year for that season's breakdown.</p>
+      <div class="scroll"><table><thead><tr><th>Season</th><th>Team</th><th class="n">Pts</th><th class="n">Share</th><th class="n">Sets</th><th class="n">3rd match</th><th class="n">Battles</th><th>Characters</th><th>Team result</th></tr></thead><tbody>${seasonRows}</tbody></table></div></div>
+      <div class="grid2">
+        <div class="card"><h2>${chartTitle}</h2><p class="sub">Hover a bar for detail.</p><div class="cols">${colsHtml}</div><div class="xl">${xl}</div></div>
+        <div class="card"><h2>Characters</h2><table><thead><tr><th>Character</th><th class="n">Sets</th><th class="n">Record</th><th class="n">Win %</th></tr></thead><tbody>${charRows}</tbody></table></div>
+      </div>`;
+  } else {
+    const key = season + "|" + p.team;
+    const mates = Object.values(S.players).filter(x => x.stints[key]).map(x => ({ name: x.name, pf: x.stints[key].pf })).sort((a, b) => b.pf - a.pf);
+    const tp = p.teamPts;
+    const shareBar = mates.map(m => `<div style="flex:${Math.max(m.pf, 0.0001)};background:${rosterColor(season, p.team, m.name)}" data-tip="<b>${esc(m.name)}</b>: ${m.pf} pts (${Math.round(100 * m.pf / (tp || 1))}%)">${m.pf >= tp * .12 ? `<span class="lbl">${esc(m.name)}</span>` : ""}</div>`).join("");
+    middle = `<div class="grid2">
+      <div class="card"><h2>${chartTitle}</h2><p class="sub">Hover a bar for the sets behind it.</p><div class="cols">${colsHtml}</div><div class="xl">${xl}</div></div>
+      <div class="card"><h2>Share of team points</h2><p class="sub">${esc(p.team)}, ${tp} pts total.</p>
+        <div class="stack" style="height:28px">${shareBar}</div>
+        <div class="legend">${mates.map(m => `<span><span class="sw" style="background:${rosterColor(season, p.team, m.name)}"></span>${esc(m.name)} ${m.pf}</span>`).join("")}</div>
+        <table style="margin-top:14px"><thead><tr><th>Character</th><th class="n">Sets</th><th class="n">Record</th><th class="n">Win %</th></tr></thead><tbody>${charRows}</tbody></table></div>
+    </div>`;
+  }
+
+  return back + `<div class="card" style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;align-items:baseline">
+      <div><h2 style="font-size:22px">${esc(name)}</h2><span class="muted">${isAll() ? p.teams.map(esc).join(" → ") : tLink(p.team)} · ${Object.keys(p.chars).slice(0, 5).join(", ")}</span></div>
+      <span class="muted">#${rank} in points · ${esc(seasonLabel(season))}${stage !== "All" ? " · " + stage.toLowerCase() : ""}</span></div>
+    ${switcher}
+    <div class="tiles">
+      <div class="tile"><div class="k">Points for team</div><div class="v">${p.pf}</div><div class="d">${share(p)} of team points${isAll() ? "" : ` (${p.teamPts})`}</div></div>
+      <div class="tile"><div class="k">Net points</div><div class="v">${p.pf - p.pa > 0 ? "+" : ""}${p.pf - p.pa}</div><div class="d">${p.pa} pts given up in losses</div></div>
+      <div class="tile"><div class="k">Sets</div><div class="v">${p.sw}-${p.sl}</div><div class="d">${pct(p.sw, p.sl)} win rate</div></div>
+      <div class="tile"><div class="k">Games</div><div class="v">${p.gw}-${p.gl}</div><div class="d">${pct(p.gw, p.gl)} of games won</div></div>
+      <div class="tile"><div class="k">${isAll() ? "Seasons · battles" : "Battles played"}</div><div class="v">${isAll() ? p.seasons.size + " · " : ""}${p.battleKeys.size}</div><div class="d">${(p.pf / Math.max(1, p.battleKeys.size)).toFixed(1)} pts per battle</div></div>
+    </div>
+    ${middle}
+    <div class="card"><h2>By match slot</h2><p class="sub">Where the team put this player in the order, and how it went.</p>
+      <div class="scroll"><table><thead><tr><th>Slot</th><th class="n">Record</th><th class="n">Win %</th><th class="n">Pts won</th><th class="n">Pts lost</th></tr></thead><tbody>${slotRows}</tbody></table></div></div>
+    <div class="card"><h2>Every set</h2>
+      <div class="scroll"><table><thead><tr>${isAll() ? "<th>Season</th>" : ""}<th>Round</th><th>Slot</th><th>Opponent</th><th>Characters</th><th class="n">Result</th><th class="n">Pts</th></tr></thead><tbody>${log}</tbody></table></div></div>`;
+}
+
+// ---------- teams ----------
+function teamSegments(S, t) {
+  // Season view: roster order and colours. Career view: top 4 contributors, then everyone else.
+  const ps = Object.values(S.players).map(p => ({
+    p: p.name, pts: Object.values(p.stints).filter(x => x.team === t).reduce((a, x) => a + x.pf, 0),
+  })).filter(x => x.pts > 0);
+  if (!isAll()) {
+    const ro = SEASON[season].rosters[t] || [];
+    const pos = n => { const i = ro.indexOf(n); return i < 0 ? 99 : i; };
+    return ps.sort((a, b) => pos(a.p) - pos(b.p)).map(x => ({ ...x, color: rosterColor(season, t, x.p) }));
+  }
+  ps.sort((a, b) => b.pts - a.pts);
+  const top = ps.slice(0, 4).map((x, i) => ({ ...x, color: `var(--series-${i + 1})` }));
+  const rest = ps.slice(4).reduce((a, x) => a + x.pts, 0);
+  if (rest) top.push({ p: `Others (${ps.length - 4})`, pts: rest, color: "var(--other)" });
+  return top;
+}
+
+function teamTable(S, t) {
+  const T = S.teams[t];
+  const rows = Object.values(S.players).filter(p => Object.values(p.stints).some(x => x.team === t)).map(p => {
+    const st = Object.values(p.stints).filter(x => x.team === t);
+    const sum = k => st.reduce((a, x) => a + x[k], 0);
+    const a3 = st.reduce((a, x) => [a[0] + x.a3[0], a[1] + x.a3[1]], [0, 0]);
+    return { name: p.name, pf: sum("pf"), sw: sum("sw"), sl: sum("sl"), a3, battles: st.reduce((a, x) => a + x.battles.size, 0),
+      chars: [...new Set(st.flatMap(x => Object.keys(x.chars)))], seasons: st.map(x => x.sid) };
+  }).sort((a, b) => b.pf - a.pf);
+  const segs = teamSegments(S, t);
+  const color = n => segs.find(x => x.p === n)?.color || "var(--other)";
+  const trs = rows.map(r => `<tr><td><span class="sw" style="background:${color(r.name)}"></span>${pLink(r.name)}</td>
+      <td class="n"><b>${r.pf}</b></td><td class="n">${r.sw}-${r.sl}</td><td class="n">${slotRec(r.a3)}</td><td class="n">${r.battles}</td>
+      ${isAll() ? `<td class="muted">${r.seasons.map(yr).sort().join(", ")}</td>` : ""}
+      <td>${r.chars.slice(0, 4).map(c => `<span class="chip">${esc(c)}</span>`).join("")}</td></tr>`).join("");
+  return `<div class="card"><h2>${tLink(t)}</h2><p class="sub">${T.w}-${T.l} in battles · ${T.pf} pts${T.po ? " · " + esc(T.po.result) : ""}${isAll() && T.titles ? " · " + "🏆".repeat(T.titles) : ""}</p>
+    <div class="scroll"><table><thead><tr><th>Player</th><th class="n">Pts</th><th class="n">Sets</th><th class="n">3rd match</th><th class="n">Battles</th>${isAll() ? "<th>Seasons</th>" : ""}<th>Characters</th></tr></thead><tbody>${trs}</tbody></table></div></div>`;
+}
+
+function viewTeams(S) {
+  const names = S.standings.map(t => t.name);
+  if (!names.length) return empty;
+  const maxPts = Math.max(...S.standings.map(t => t.pf));
+  const rows = names.map(t => {
+    const segs = teamSegments(S, t);
+    return `<div class="srow"><div class="name">${tLink(t)}</div>
+      <div class="stack" style="width:${100 * S.teams[t].pf / (maxPts || 1)}%">${segs.map(x =>
+        `<div style="flex:${x.pts};background:${x.color}" data-tip="<b>${esc(x.p)}</b> · ${esc(t)}<br>${x.pts} pts (${Math.round(100 * x.pts / S.teams[t].pf)}% of team)">${x.pts >= maxPts * .1 ? `<span class="lbl">${esc(x.p)}</span>` : ""}</div>`).join("")}</div>
+      <div style="text-align:right;font-weight:600">${S.teams[t].pf}</div></div>`;
+  }).join("");
+  return `<div class="card"><h2>Where each team's points came from · ${esc(seasonLabel(season))}</h2><p class="sub">Each segment is one player's points. Hover for detail.</p>${rows}
+    <p class="note">${isAll() ? "Career view: each team's top four scorers, then everyone else in gray." : "Colors follow roster order within each team; names are on the segments and in the tables below."}</p></div>
+    <div class="grid2 wide">${names.map(t => teamTable(S, t)).join("")}</div>`;
+}
+
+function viewTeam(S, t) {
+  const back = `<a class="back" href="${href("teams")}">← All teams</a>`;
+  if (!S.teams[t]) return back + `<div class="card"><h2>${esc(t)}</h2><p class="muted">No battles for this filter.</p></div>`;
+  return back + teamTable(S, t) + `<h3 class="sec">Battles</h3>` + S.teams[t].battles.map(battleCard).join("");
+}
+
+// ---------- matches ----------
+function battleCard(b) {
+  const w = b.score[0] > b.score[1] ? 0 : 1;
+  const maps = b.maps.map(m => `<div class="mrow"><span class="slot">${SLOT_SHORT[m.n]}·${m.pts}</span>
+      <span class="r"><span class="${m.w === 0 ? "w" : ""}">${pLink(m.p[0], b.sid)}</span> <span class="muted">${m.c[0].map(esc).join("/")}</span></span>
+      <span class="mid"><span class="${m.w === 0 ? "w" : "l"}">${m.s[0]}</span>-<span class="${m.w === 1 ? "w" : "l"}">${m.s[1]}</span></span>
+      <span><span class="${m.w === 1 ? "w" : ""}">${pLink(m.p[1], b.sid)}</span> <span class="muted">${m.c[1].map(esc).join("/")}</span></span></div>`).join("");
+  return `<div class="battle"><div class="hd"><span>${w === 0 ? "🏆 " : ""}${tLink(b.t[0], b.sid)}</span>
+      <span class="sc">${b.score[0]} – ${b.score[1]}</span><span>${tLink(b.t[1], b.sid)}${w === 1 ? " 🏆" : ""}</span></div>
+      <div class="muted" style="font-size:12px;margin-bottom:4px">${isAll() ? esc(SEASON[b.sid].name) + " · " : ""}${esc(b.round)}${b.date ? " · " + esc(b.date) : ""}</div>${maps}</div>`;
+}
+
+function viewMatches(S) {
+  if (!S.bs.length) return empty;
+  const groups = {};
+  S.bs.forEach(b => (groups[(isAll() ? SEASON[b.sid].name + " · " : "") + (b.div ? b.div + " · " : "") + b.round] ??= []).push(b));
+  return Object.entries(groups).map(([r, bs]) => `<h3 class="sec">${esc(r)} <span class="muted" style="font-weight:400">${esc(bs[0].date || "")}</span></h3>
+    <div class="grid2">${bs.map(battleCard).join("")}</div>`).join("");
+}
+
+// ---------- characters ----------
+function viewCharacters(S) {
+  const cs = Object.values(S.chars);
+  setTimeout(() => sortable("ctable", [
+    { h: "Character", v: r => r.name, f: r => `<b>${esc(r.name)}</b>` },
+    { h: "Sets", n: 1, v: r => r.w + r.l, f: r => r.w + r.l },
+    { h: "Record", n: 1, v: r => r.w - r.l, f: r => `${r.w}-${r.l}` },
+    { h: "Win %", n: 1, v: r => r.w / (r.w + r.l), f: r => pct(r.w, r.l) },
+    { h: "Played by", f: r => Object.entries(r.players).sort((a, b) => b[1] - a[1]).slice(0, 6).map(([p, n]) => `${pLink(p)} <span class="muted">${n}</span>`).join(", ") },
+  ], cs, 1));
+  const mixed = isAll() ? " The 2022 season was played on Street Fighter V, so its characters are included here too." : "";
+  return `<div class="card"><h2>Characters · ${esc(seasonLabel(season))}${isAll() ? "" : gameBadge(season)}</h2><p class="sub">A set counts for every character the player used in it (counter-pick switches included).${mixed}</p><div class="scroll" id="ctable"></div></div>`;
+}
+
+// ---------- router ----------
+// URL: #<season>/<view>/<arg>   e.g. #2025/player/Punk   or   #all/players
+function parseHash() {
+  const parts = location.hash.slice(1).split("/").filter(Boolean);
+  let s = SEASONS[0].id;
+  if (parts[0] && /^\d{4}$/.test(parts[0]) && SEASON["us-" + parts[0]]) parts[0] = "us-" + parts[0];   // old links
+  if (parts[0] === "all") parts[0] = "us-all";
+  if (parts[0] && (SEASON[parts[0]] || (parts[0].endsWith("-all") && LEAGUES[parts[0].split("-")[0]]))) s = parts.shift();
+  return { s, view: parts[0] || "standings", arg: parts[1] ? decodeURIComponent(parts.slice(1).join("/")) : "" };
+}
+
+const seasonSel = document.getElementById("season");
+const leagueSel = document.getElementById("league");
+leagueSel.innerHTML = Object.entries(LEAGUES).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join("");
+leagueSel.onchange = () => {
+  // Switching league opens its newest season; player/team pages fall back to the list view.
+  const { view } = parseHash();
+  const v = view === "player" ? "players" : view === "team" ? "teams" : view;
+  location.hash = `${SEASONS.find(s => s.league === leagueSel.value).id}/${v}`;
+};
+function fillSeasons() {
+  seasonSel.innerHTML = LS().map(s => `<option value="${s.id}">${s.year}${s.game === "SFV" ? " (SFV)" : ""} · ${esc(s.name)}</option>`).join("") + `<option value="${allId()}">All seasons (career)</option>`;
+}
+seasonSel.onchange = () => {
+  const { view, arg } = parseHash();
+  location.hash = `${seasonSel.value}/${view}${arg ? "/" + enc(arg) : ""}`;
+};
+
+function render() {
+  const { s, view, arg } = parseHash();
+  season = s;
+  leagueSel.value = curLeague();
+  fillSeasons();
+  seasonSel.value = s;
+  const S = compute();
+  const v = { standings: viewStandings, players: viewPlayers, characters: viewCharacters, matches: viewMatches, teams: viewTeams };
+  let html;
+  if (view === "player") html = viewPlayer(S, arg);
+  else if (view === "team") html = viewTeam(S, arg);
+  else html = (v[view] || viewStandings)(S);
+  document.getElementById("app").innerHTML = html;
+  const navKey = view === "player" ? "players" : view === "team" ? "teams" : view;
+  document.querySelectorAll("#nav a").forEach(a => { a.href = href(a.dataset.v); a.classList.toggle("on", a.dataset.v === navKey); });
+  document.querySelectorAll("#stage button").forEach(b => b.classList.toggle("on", b.dataset.s === stage));
+  document.title = `SFL Stats · ${seasonLabel(season)}`;
+  const src = isAll() ? "https://liquipedia.net/fighters/Street_Fighter_League" : SEASON[season].source;
+  document.querySelector("h1").textContent = "SFL Stats · " + LEAGUES[curLeague()];
+  document.getElementById("foot").innerHTML = `Data: <a href="${src}" target="_blank" rel="noopener">Liquipedia</a> (CC-BY-SA) · updated ${esc(D.updated)} · refresh with <code>python3 update.py</code>`;
+}
+document.querySelectorAll("#stage button").forEach(b => b.onclick = () => {
+  stage = b.dataset.s;
+  try { localStorage.setItem("sfl-stage", stage); } catch (e) {}
+  render();
+});
+addEventListener("hashchange", () => { render(); scrollTo(0, 0); });
+render();
+</script>
+</body>
+</html>

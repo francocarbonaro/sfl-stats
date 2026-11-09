@@ -1,0 +1,181 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2023}}
+{{Street Fighter League Navbox}}
+{{SFL JP 2023 Tabs}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-JP 2023
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-JP 2023 allmode.png
+|icon=Street Fighter League Pro-JP 2023 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=Japan
+|game=sf6
+|sdate=2023-07-07
+|edate=2024-01-13
+|website=https://sf.esports.capcom.com/
+|rulebook=https://sf.esports.capcom.com/sp/sfl/2023/rule/
+|bracket=https://sf.esports.capcom.com/ranking/sfl2023/
+|localcurrency=jpy
+|prizepool=8,000,000
+|facebook=CapcomFighters
+|twitter=CAPCOM_eSports
+|twitch=capcomfighters_jp
+|youtube=c/CapcomFightersJP
+|player_number=36
+|team_number=9
+|previous=Street Fighter League/Japan/2022{{!}}SFL Pro-JP 2022
+|next=Street Fighter League/Japan/2024{{!}}SFL Pro-JP 2024
+}}
+
+==Information==
+===Format===
+*'''Game Format''' 
+**The league is made of 9 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:500px;text-align:center;"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 1 || +5 PTS
+|}
+
+*'''First Stage'''
+** Single round-robin
+** Top 6 teams advance to the Second Stage
+*'''Second Stage'''
+** Round-robin
+** Top 4 teams advance to the Playoffs
+*** 1st place team advance to the Grand Finals
+*** 2nd place team advance to the Semifinals
+*** 3rd and 4th teams advance to the Quarterfinals
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 70 points
+** Grand Finals is First to 90 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2023|Street Fighter League World Championship 2023]]
+
+===Broadcast Talent===
+{{broadcasterCard
+|position=Commentator
+|b1=Hameko|b1flag=jp
+|b2=Nanai|b2flag=jp
+|b3=Aru|b3flag=jp
+|b4=Shuhei Yamato|b4flag=jp
+}}
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=9|localcurrency=jpy
+|qualifies1=Street Fighter League/World Championship/2023|qualifies1name=SFL World Championship 2023
+|tournament=Street Fighter League/Japan/2023/Playoffs
+|{{Slot|place=1|qualified1=true|localprize=5,000,000}}
+|{{Slot|place=2|localprize=2,000,000}}
+|{{Slot|place=3|localprize=1,000,000}}
+|{{Slot|place=4|localprize=0}}
+|{{Slot|place=5|localprize=0|{{Opponent|CYCLOPS athlete gaming|wdl=4/6}}}}
+|{{Slot|place=6|localprize=0|{{Opponent|Shinobism Gaming|wdl=4/6}}}}
+|{{Slot|place=7|localprize=0|{{Opponent|Nagoya Oja Body Star|wdl=3/5}}}}
+|{{Slot|place=8|localprize=0|{{Opponent|Good 8 Squad|wdl=3/5}}}}
+|{{Slot|place=9|localprize=0|{{Opponent|Team iXA|wdl=3/5}}}}
+}}
+
+==Results==
+===First Stage===
+{{:Street Fighter League/Japan/2023/Regular Season}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Japan/2023/Regular Season|Click here for detailed information about the '''First Stage''' matches.]]''</span>
+===Second Stage===
+{{:Street Fighter League/Japan/2023/Second Stage}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Japan/2023/Second Stage|Click here for detailed information about the '''Second Stage''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=cJ9aLQgCF2}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Japan/2023/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=GyoGun
+|p1=Mago|p1flag=jp|p1team=gyogun
+|p2=Machabo|p2flag=jp|p2team=gyogun
+|p3=Moke|p3flag=jp|p3team=gyogun
+|p4=Mizuha|p4flag=jp|p4team=gyogun
+}}
+{{TeamCard
+|team=Good 8 Squad
+|p1=Gachikun|p1flag=jp|p1team=Good 8 Squad
+|p2=Kawano|p2flag=jp|p2team=Good 8 Squad
+|p3=Pugera|p3flag=jp|p3team=Good 8 Squad
+|p4=Tachikawa |p4flag=jp|p4team=Burning Core
+}}
+{{TeamCard
+|team=CYCLOPS athlete gaming
+|p1=GO1|p1flag=jp|p1team=cyclops
+|p2=Fenritti|p2flag=jp|p2team=cyclops
+|p3=Kazunoko|p3flag=jp|p3team=burning core
+|p4=Dogura|p4flag=jp|p4team=crazy raccoon
+}}
+{{TeamCard
+|team=Saishunkan Sol Kumamoto
+|p1=Shuto|p1flag=jp|p1team=Saishunkan Sol Kumamoto
+|p2=Higuchi|p2flag=jp|p2team=Saishunkan Sol Kumamoto
+|p3=Nemo|p3flag=jp|p3team=wellplayed rizest
+|p4=Sasamo|p4flag=jp|p4team=ibushigin
+|s1=Kabe|s1flag=jp|s1team=ibushigin 
+}}
+{{TeamCard
+|team=DetonatioN FocusMe
+|p1=Itabashi Zangief|p1flag=jp|p1team=DetonatioN FocusMe
+|p2=Nauman|p2flag=jp|p2team=DetonatioN FocusMe
+|p3=John Takeuchi|p3flag=jp|p3team=DetonatioN FocusMe
+|p4=Fuudo|p4flag=jp|p4team=Team Razer
+|c=Tachikawa|cflag=jp|cteam=Burning Core
+}}
+{{TeamCard
+|team=Nagoya OJA BODY STAR
+|p1=Akira|p1flag=jp|p1team=Nagoya OJA
+|p2=Torimeshi|p2flag=jp|p2team=Creative Gaming
+|p3=KEI.B|p3flag=jp|p3team=
+|p4=Oniki|p4flag=jp|p4team=Nagoya OJA
+}}
+{{TeamCard
+|team=Team iXA
+|p1=stormKUBO|p1flag=jp|p1team=Team iXA
+|p2=ACQUA|p2flag=jp|p2team=Team iXA
+|p3=Kichipa|p3flag=jp|p3team=AZ Laplace
+|p4=Jazzy|p4flag=jp|p4team=
+}}
+{{TeamCard
+|team=FAV gaming
+|p1=Sako|p1flag=jp|p1team=FAV Gaming
+|p2=Ryusei|p2flag=jp|p2team=FAV gaming
+|p3=Tokido|p3flag=jp|p3team=REJECT
+|p4=Bonchan|p4flag=jp|p4team=Red Bull eSports
+}}
+{{TeamCard
+|team=Shinobism Gaming
+|p1=Momochi|p1flag=jp|p1team=Victrix Pro
+|p2=Fujimura|p2flag=jp|p2team=Shinobism Gaming
+|p3=Yamaguchi|p3flag=jp|p3team=Shinobism Gaming
+|p4=Johnny|p4flag=jp|p4team=Shinobism Gaming
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+===View Games=== 
+{{Streams |lang1=jp |twitch1=capcomfighters_jp |youtube1=c/CapcomFightersJP }}
+
+==References==
+{{Reflist}}

@@ -1,0 +1,173 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2022}}
+{{Street Fighter League Navbox}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Japan/2022
+|name2=Regular Season |link2=Street Fighter League/Japan/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Japan/2022/Playoffs
+|name4=Grand Finals |link4=Street Fighter League/Japan/2022/Grand Finals
+|This={{{This}}}
+}}
+{{Infobox league
+|name=Street Fighter League Pro-JP 2022
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-JP 2022 allmode.png
+|icon=Street Fighter League Pro-JP 2022 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=Japan
+|game=sfv
+|version=Champion Edition
+|sdate=2022-10-10
+|edate=2023-01-21
+|format=
+|website=https://sf.esports.capcom.com/
+|localcurrency=jpy
+|prizepool=8,000,000
+|facebook=CapcomFighters
+|twitter=CAPCOM_eSports
+|twitch=capcomfighters_jp
+|youtube=c/CapcomFightersJP
+|smashgg=
+|bracket=
+|rulebook=
+|player_number=32
+|team_number=8
+|previous=Street Fighter League/Japan/2021{{!}}SFL Pro-JP 2021
+|next=Street Fighter League/Japan/2023{{!}}SFL Pro-JP 2023
+}}
+
+==Information==
+===Format===
+====Regular Season====
+*The league is made of 8 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+*In each battle one team is the home team and the other the away team
+**The away team must declare the player order and character selection before the battle begins
+**The home team is able to choose the players and character selection as the battle progresses
+
+*Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:500px;text-align:center;"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || {{Abbr/Bo3}} || +10 PTS
+|-
+| 2nd Match || {{Abbr/Bo3}} || +10 PTS
+|-
+| 3rd Match || {{Abbr/Bo5}} || +20 PTS
+|-
+| Tie Breaker || {{Abbr/Bo1}} || +5 PTS
+|}
+
+*Top 5 teams advance to the next stage
+**The 1st place team directly qualifies to the Grand Finals
+**The 2nd to 5th teams advance to the Playoffs
+
+====Playoffs & Grand Finals====
+*Head-to-head team matchups determined based on each team's Regular Season placements
+*Winner qualifies to the [[Street_Fighter_League/World_Championship/2022|Street Fighter League World Championship 2022]]
+
+===Broadcast Talent===
+{{broadcasterCard
+|position=Commentator
+|b1=Aru|b1flag=jp|b1name=Ryutaro Noda
+|b2=Hameko|b2flag=jp|b2name=
+|b3=
+}}
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=jpy|cutafter=8
+|qualifies1=Street Fighter League/World Championship/2022|qualifies1name=SFL World Championship 2022
+|{{Slot|place=1|qualified1=yes|localprize=5,000,000|{{Opponent|Good 8 Squad|lastvs=Saishunkan Sol Kumamoto|lastvsscore=3-0}}}}
+|{{Slot|place=2|localprize=2,000,000|{{Opponent|Saishunkan Sol Kumamoto|lastvs=Good 8 Squad|lastvsscore=0-3}}}}
+|{{Slot|place=3|localprize=1,000,000|{{Opponent|Nagoya Oja Body Star|lastvs=Saishunkan Sol Kumamoto|lastvsscore=1-2}}}}
+|{{Slot|place=4|localprize=0|{{Opponent|V6 Plus FAV gaming|lastvs=Nagoya Oja Body Star|lastvsscore=0-2}}}}
+|{{Slot|place=5|localprize=0|{{Opponent|Shinobism Gaming|lastvs=V6 Plus FAV gaming|lastvsscore=0-2}}}}
+|{{Slot|place=6|localprize=0|{{Opponent|GyoGun|wdl=4/10}}}}
+|{{Slot|place=7|localprize=0|{{Opponent|Commufa DetonatioN|wdl=5/9}}}}
+|{{Slot|place=8|localprize=0|{{Opponent|Team iXA|wdl=1/13}}}}
+}}
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Good 8 Squad
+|p1=gachikun|p1flag=jp|p1team=Good 8 Squad
+|p2=Kawano|p2flag=jp|p2team=Good 8 Squad
+|p3=Pugera|p3flag=jp|p3team=Good 8 Squad
+|p4=Dogura|p4flag=jp|p4team=CYCLOPS athlete gaming
+}}
+{{TeamCard
+|team=Saishunkan Sol Kumamoto
+|p1=Higuchi|p1flag=jp|p1team=Saishunkan Sol Kumamoto
+|p2=Shuto|p2flag=jp|p2team=Saishunkan Sol Kumamoto
+|p3=YHC-Mochi|p3flag=jp|p3team=
+|p4=Nemo|p4flag=jp|p4team=Wellplayed Rizest
+}}
+{{TeamCard
+|team=Nagoya Oja Body Star 
+|p1=Akira|p1flag=jp|p1team=Nagoya OJA
+|p2=Narikun|p2flag=jp|p2team=Answer.M.Gaming
+|p3=Daigo|p3flag=jp|p3team=Team Beast
+|p4=Fuudo|p4flag=jp|p4team=Team Beast
+}}
+{{TeamCard
+|team=V6 Plus FAV gaming
+|p1=Sako|p1flag=jp|p1team=fav gaming
+|p2=Tokido|p2flag=jp|p2team=rohto
+|p3=Bonchan|p3flag=jp|p3team=red bull esports
+|p4=Torimeshi|p4flag=jp|p4team=Creative Gaming
+}}
+{{TeamCard
+|team=Shinobism Gaming
+|p1=Momochi|p1flag=jp|p1team=Victrix Pro
+|p2=Fujimura|p2flag=jp|p2team=Shinobism Gaming
+|p3=Yamaguchi|p3flag=jp|p3team=Shinobism Gaming
+|p4=Johnny|p4flag=jp|p4team=Shinobism Gaming
+}}
+{{TeamCard
+|team=GyoGun
+|p1=Mago|p1flag=jp|p1team=GyoGun
+|p2=Machabo|p2flag=jp|p2team=GyoGun
+|p3=Moke|p3flag=jp|p3team=GyoGun
+|p4=Mizuha|p4flag=jp|p4team=GyoGun
+}}
+{{TeamCard
+|team=Commufa DetonatioN
+|image=DetonatioN Gaming White.png
+|p1=Itabashi Zangief|p1flag=jp|p1team=DetonatioN Gaming
+|p2=Nauman|p2flag=jp|p2team=DetonatioN Gaming
+|p3=John Takeuchi|p3flag=jp|p3team=DetonatioN Gaming
+|p4=Uryo|p4flag=jp|p4team=
+}}
+{{TeamCard
+|team=Team iXA
+|p1=stormKUBO|p1flag=jp|p1team=Team iXA
+|p2=Gunfight|p2flag=fr|p2team=Team iXA
+|p3=Inaba|p3flag=jp|p3team=Team iXA
+|p4=Crusher|p4flag=jp|p4team=
+}}
+{{TeamCard columns end}}
+
+==Results==
+===Regular Season===
+{{:Street Fighter League/Japan/2022/Regular Season}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Japan/2022/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=jKs1Cri2Vw}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Japan/2022/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+===Grand Finals===
+{{ShowBracket|id=q8psiDghkP}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Japan/2022/Grand Finals|Click here for detailed information about the '''Grand Finals''' matches.]]''</span>
+
+==Additional Content==
+===View Games=== 
+{{Streams |lang1=jp |twitch1=capcomfighters_jp |youtube1=c/CapcomFightersJP }}
+
+==References==
+{{Reflist}}

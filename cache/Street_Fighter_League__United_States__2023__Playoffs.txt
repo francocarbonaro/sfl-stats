@@ -1,0 +1,169 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2023: Playoffs}}{{HDB|phase=2}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2023
+|name2=Regular Season |link2=Street Fighter League/United States/2023/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2023/Playoffs
+|This={{{This}}}
+}}
+==Results==
+{{Bracket|Bracket/2L2D|id=ixg9Tyng1b
+|R1M1={{Match
+|opponent1={{TeamOpponent|Versus Vortex |score=50}}
+|opponent2={{TeamOpponent|Red Rooster Team |score=10}}
+}}
+|R2M1={{Match
+|opponent1={{TeamOpponent|Bandits Gaming |score=50}}
+|opponent2={{TeamOpponent|Versus Vortex |score=30}}
+}}
+|R3M1={{Match
+|opponent1={{TeamOpponent|NASR eSports |score=50}}
+|opponent2={{TeamOpponent|Bandits Gaming  |score=70}}
+}}
+}}
+
+==Details==
+===Quarterfinals===
+{{Matchlist|width=450px|collapsed=false|id=Hjh0aETeBn
+|M1={{Match
+|opponent1={{TeamOpponent|Versus Vortex|score=2}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=1}}
+|vod=https://youtu.be/1vUw0i5amK8?t=2269
+|map1={{Map
+|t1p1=Oil King |o1p1={{Chars|ken}} |score1=1
+|t2p1=Ajax Fidelity |o2p1={{Chars|juri}} |score2=2 
+|winner=2
+}}
+|map2={{Map
+|t1p1=NL |o1p1={{Chars|luke}} |score1=2
+|t2p1=PR Balrog |o2p1={{Chars|juri}} |score2=0 
+|winner=1
+}}
+|map3={{Map
+|t1p1=Xian |o1p1={{Chars|dj}} |score1=3
+|t2p1=BananaKen |o2p1={{Chars|jp}} |score2=1 
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Red Rooster Team|score=0}}
+|opponent2={{TeamOpponent|Versus Vortex|score=2}}
+|vod=https://youtu.be/1vUw0i5amK8?t=4561
+|map1={{Map
+|t1p1=BananaKen|o1p1={{Chars|jp}}|score1=0
+|t2p1=NL|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Ajax Fidelity|o1p1={{Chars|juri}}|score1=0
+|t2p1=DCQ|o2p1={{Chars|jp}}|score2=2
+|winner=2
+}}
+}}
+}}
+===Semifinals===
+{{Matchlist|width=450px|collapsed=false|id=BFeyRlXie4
+|M1={{Match
+|opponent1={{TeamOpponent|Bandits|score=2}}
+|opponent2={{TeamOpponent|Versus Vortex|score=1}}
+|vod=https://youtu.be/1vUw0i5amK8?t=6593
+|map1={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|jp}}|score1=1
+|t2p1=Xian|o2p1={{Chars|dj}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=2
+|t2p1=NL|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=3
+|t2p1=DCQ|o2p1={{Chars|jp}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Versus Vortex|score=1}}
+|opponent2={{TeamOpponent|Bandits|score=2}}
+|vod=https://youtu.be/1vUw0i5amK8?t=8992
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|dj}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=NL|o1p1={{Chars|luke}}|score1=2
+|t2p1=Xiao Hai|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|jp}}|score1=0
+|t2p1=MenaRD|o2p1={{Chars|blanka}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+===Grand Finals===
+{{Matchlist|width=450px|collapsed=false|id=9t8Sy0x7a3
+|M1={{Match
+|opponent1={{TeamOpponent|NASR eSports|score=2}}
+|opponent2={{TeamOpponent|Bandits|score=1}}
+|vod=https://youtu.be/1vUw0i5amK8?t=11834
+|map1={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Xiao Hai|o2p1={{Chars|juri}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Big Bird|o1p1={{Chars|marisa}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|ken}}|score1=1
+|t2p1=MenaRD|o2p1={{Chars|luke}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Bandits|score=2}}
+|opponent2={{TeamOpponent|NASR eSports|score=1}}
+|vod=https://youtu.be/1vUw0i5amK8?t=13826
+|map1={{Map
+|t1p1=Chris T|o1p1={{Chars|ken}}|score1=2
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|juri}}|score1=2
+|t2p1=Big Bird|o2p1={{Chars|marisa}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|luke}}|score1=2
+|t2p1=AngryBird|o2p1={{Chars|ken}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|NASR eSports|score=1}}
+|opponent2={{TeamOpponent|Bandits|score=2}}
+|vod=https://youtu.be/1vUw0i5amK8?t=15886
+|map1={{Map
+|t1p1=Big Bird|o1p1={{Chars|marisa}}|score1=2
+|t2p1=Chris T|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Xiao Hai|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|ken}}|score1=2
+|t2p1=MenaRD|o2p1={{Chars|luke}}|score2=3
+|winner=2
+}}
+}}
+}}

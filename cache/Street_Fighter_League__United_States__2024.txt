@@ -1,0 +1,156 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2024}}
+{{Street Fighter League Navbox}}
+{{SFL US 2024 Tabs}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-US 2024
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-US 2024 allmode.png
+|icon=Street Fighter League Pro-US 2024 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United States
+
+|game=sf6
+|sdate=2024-10-16
+|edate=2025-02-22
+
+|website=https://streetfighterleague.com/
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|bracket=
+
+|localcurrency=
+|prizepool=75000
+|player_number=24
+|team_number=6
+
+|previous=Street Fighter League/United States/2023{{!}}SFL Pro-US 2023
+|next=Street Fighter League/United States/2025{{!}}SFL Pro-US 2025
+}}
+'''Street Fighter League Pro-US 2024''' ('''SFL Pro-US 2024''') was the 7th season of professional American ''Street Fighter'' team competition.
+
+==Information==
+===Format===
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 1 || +5 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2024|Street Fighter League World Championship 2024]]
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=RobTV|b1flag=us
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator 
+|b1=Rynge|b1flag=us
+|b2=Vicious|b2flag=us
+|b3=Sajam|b3flag=us
+}} 
+{{box|end|padding=2em}}
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=6
+|qualifies1=Street Fighter League/World Championship/2024|qualifies1name=SFL World Championship 2024
+|tournament1=Street_Fighter_League/United_States/2024/Regular_Season|tournament2=Street_Fighter_League/United_States/2024/Playoffs
+|{{Slot|place=1|qualified1=yes|usdprize=60,000}}
+|{{Slot|place=2|usdprize=15,000}}
+|{{Slot|place=3}}
+|{{Slot|place=4}}
+|{{Slot|place=5}}
+|{{Slot|place=6}}
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/United States/2024/Regular Season}}
+{{LPDB storage|true}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/United States/2024/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=TJkUJBy4n8|matchWidth=180}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/United States/2024/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=FlyQuest
+|p1=Punk|p1flag=us|p1team=FlyQuest
+|p2=ChrisCCH|p2flag=us|p2team=
+|p3=Psycho|p3flag=us|p3team=
+|p4=Shine|p4flag=us|p4team=|p4link=Shine (Sean Simpson)
+}}
+{{TeamCard
+|team=Cloud9
+|p1=JB|p1flag=us|p1team=Cloud9
+|p2=Lexx|p2flag=us|p2team=Cloud9
+|p3=NoahTheProdigy|p3flag=us|p3team=Twisted Minds
+|p4=Booce|p4flag=us|p4team=Run The Sticks!
+}}
+{{TeamCard
+|team=Bandits
+|p1=Caba|p1flag=do|p1team=Bandits Gaming
+|p2=MenaRD|p2flag=do|p2team=
+|p3=LuiMan20|p3flag=do|p3team=
+|p4=Zhen|p4flag=cn|p4team=
+}}
+{{TeamCard
+|team=Red Rooster
+|p1=Mono|p1flag=pr|p1team=Red Rooster Team
+|p2=Ajax Fidelity|p2flag=pr|p2team=Red Rooster Team
+|p3=Uriel Velorio|p3flag=mx|p3team=
+|p4=Brutus|p4flag=ca|p4team=
+}}
+{{TeamCard
+|team=Shopify Rebellion
+|p1=NuckleDu|p1flag=us|p1team=Shopify Rebellion
+|p2=Dual Kevin|p2flag=us|p2team=
+|p3=Sayff|p3flag=ca|p3team=Team Vitality
+|p4=HotDog29|p4flag=hk|p4team=Talon Esports
+}}
+{{TeamCard
+|team=Fighting Spirit
+|p1=Oil King|p1flag=tw|p1team=Twisted Minds
+|p2=NL|p2flag=kr|p2team=Team Falcons
+|p3=Xian|p3flag=sg|p3team=Gaimin Gladiators
+|p4=DCQ|p4flag=cn|p4team=Team Falcons
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+===View Games=== 
+{{Streams |lang1=usuk |twitch1=Capcomfighters |youtube1=c/CapcomFighters }} 
+
+==References==
+{{Reflist}}

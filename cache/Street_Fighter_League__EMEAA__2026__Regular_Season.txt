@@ -1,0 +1,766 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EMEAA 2026: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{tabs static 
+|name1=Overview |link1={{BASEPAGENAME}}
+|name2=Regular Season |link2={{BASEPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{BASEPAGENAME}}/Playoffs 
+}} 
+==Results==
+{{box|start|padding=2em}}
+<onlyinclude>
+{{GroupTableLeague|title=SFL Pro-EMEAA 2026 Standings
+|width=400px|show_g=false|show_p=true|diff=false
+|tournament=Street Fighter League/EMEAA/2026/Regular Season
+|pbg1=up|pbg2=stayup|pbg3=stay|pbg4=stay|pbg5=down|pbg6=down
+|finished=yes
+|tiebreaker1=points
+|tiebreaker2=series
+|tiebreaker3=h2h series
+|win_p=0 |tie_p=0 |lose_p=0
+|{{TeamOpponent|Red Dunes Esports}}
+|{{TeamOpponent|MOUZ}}
+|{{TeamOpponent|Team Falcons}}
+|{{TeamOpponent|Yesports}}
+|{{TeamOpponent|MVS}}
+|{{TeamOpponent|GTW}}
+|40-0_p=40
+|0-40_p=0
+|10-30_p=10
+|30-10_p=30
+|20-30_p=20
+|30-20_p=30
+}}
+</onlyinclude>
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/EMEAA/2026/Regular Season
+|team1=Red Dunes Esports
+|team2=MOUZ
+|team3=Team Falcons
+|team4=Yesports
+|team5=MVS
+|team6=GTW
+|double=true
+}}
+{{box|end}}
+
+==Details==
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Day 1}}=====
+{{Matchlist |title=Day 1|id=fWtrrVLZXO|collapsed=false||width=325px
+|M1header=September 2, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|MVS|score=30}}
+|opponent2={{TeamOpponent|MOUZ|score=10}}
+|date=2026-09-02
+|winner=
+|vod=https://www.youtube.com/live/6bGhoFGkFCw?si=E9zZRm4Q76YaT7SG&t=1984
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|Luke}}|score1=2
+|t2p1=DCQ|o2p1={{Chars|JP}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=1
+|t2p1=Problem X|o2p1={{Chars|Alex}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Ed}}|score1=3
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=10}}
+|opponent2={{TeamOpponent|Yesports|score=30}}
+|date=2026-09-02
+|winner=
+|vod=https://www.youtube.com/live/6bGhoFGkFCw?si=7_vEFTi2L0QCdtZd&t=5448
+|map1={{Map
+|t1p1=Vxbao|o1p1={{Chars|Mai}}|score1=1
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Rainpro|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Micky|o1p1={{Chars|Mai}}|score1=1
+|t2p1=HotDog29|o2p1={{Chars|Alex}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=30}}
+|opponent2={{TeamOpponent|GTW|score=10}}
+|date=2026-09-02
+|winner=
+|vod=https://www.youtube.com/live/6bGhoFGkFCw?si=RcjupvHfj0REIc9b&t=8579
+|map1={{Map
+|t1p1=AngryBird|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=Zhen|o2p1={{Chars|Sagat}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Xian|o2p1={{Chars|Kimberly}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Big Bird|o1p1={{Chars|Viper}}|score1=3
+|t2p1=Bravery|o2p1={{Chars|Cammy}}|score2=2
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Yesports|score=10}}
+|opponent2={{TeamOpponent|MVS|score=30}}
+|date=2026-09-02
+|winner=
+|vod=https://www.youtube.com/live/6bGhoFGkFCw?si=YxxTcnzz0R4akqB8&t=11857
+|map1={{Map
+|t1p1=Keekuma|o1p1={{Chars|Chun-li}}|score1=2
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=HotDog29|o1p1={{Chars|Alex}}|score1=0
+|t2p1=NL|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Leshar|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|GTW|score=30}}
+|opponent2={{TeamOpponent|Team Falcons|score=10}}
+|date=2026-09-02
+|winner=1
+|vod=https://www.youtube.com/live/6bGhoFGkFCw?si=t0AHp01X9PaLnEVr&t=15042
+|map1={{Map
+|t1p1=Hope|o1p1={{Chars|aki}}|score1=2
+|t2p1=Vxbao|o2p1={{Chars|bison}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Bravery|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Xiao Hai|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Zhen|o1p1={{Chars|sagat}}|score1=3
+|t2p1=Micky|o2p1={{Chars|cammy|mai}}|score2=2
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|MOUZ|score=0}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=40}}
+|date=2026-09-02
+|winner=2
+|vod=https://www.youtube.com/live/6bGhoFGkFCw?si=Fm3malen-fCUs7qI&t=17892
+|map1={{Map
+|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=0
+|t2p1=Phenom|o2p1={{Chars|cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Problem X|o1p1={{Chars|alex}}|score1=0
+|t2p1=AngryBird|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=1
+|t2p1=Big Bird|o2p1={{Chars|viper}}|score2=3
+|winner=2
+}} 
+}}
+}}
+{{box|break|padding=2em}}
+====={{HiddenSort|Day 2}}=====
+{{Matchlist |title=Day 2|id=0qzdouxxX0|collapsed=false||width=325px
+|M1header=September 3, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|MOUZ|score=30}}
+|opponent2={{TeamOpponent|Yesports|score=20}}
+|date=2026-09-03
+|winner=
+|vod=
+|map1={{Map
+|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=2
+|t2p1=Rainpro|o2p1={{Chars|guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=2
+|t2p1=HotDog29|o2p1={{Chars|alex|bison}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|jp}}|score1=1
+|t2p1=Chris Wong|o2p1={{Chars|luke}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Problem X|o1p1={{Chars|alex}}|score1=2
+|t2p1=Keekuma|o2p1={{Chars|chun-li|mai}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=30}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=10}}
+|date=2026-09-03
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Micky|o1p1={{Chars|mai}}|score1=2
+|t2p1=Juicyjoe|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kusanagi|link=Kusanagi (French Player)|o1p1={{Chars|ryu}}|score1=0
+|t2p1=AngryBird|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|bison}}|score1=3
+|t2p1=Big Bird|o2p1={{Chars|viper}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|MVS|score=10}}
+|opponent2={{TeamOpponent|GTW|score=30}}
+|date=2026-09-03
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=0
+|t2p1=Hope|o2p1={{Chars|aki}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Kilzyou|o1p1={{Chars|mai}}|score1=2
+|t2p1=Zhen|o2p1={{Chars|sagat}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|terry}}|score1=1
+|t2p1=Xian|o2p1={{Chars|kimberly}}|score2=3
+|winner=2
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=10}}
+|opponent2={{TeamOpponent|MOUZ|score=30}}
+|date=2026-09-03
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Micky|o1p1={{Chars|Mai}}|score1=2
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kusanagi|link=Kusanagi (French Player)|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=DCQ|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|Alex}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=30}}
+|opponent2={{TeamOpponent|MVS|score=10}}
+|date=2026-09-03
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|ED}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=AngryBird|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|Viper}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Big Bird|o1p1={{Chars|Viper}}|score1=3
+|t2p1=NL|o2p1={{Chars|Luke}}|score2=2
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Yesports|score=20}}
+|opponent2={{TeamOpponent|GTW|score=30}}
+|date=2026-09-03
+|winner=2
+|vod=
+|map1={{Map
+|t2p1=Hope|o2p1={{Chars|AKI}}|score2=0
+|t1p1=HotDog29|o1p1={{Chars|Bison}}|score1=2
+|winner=1
+}}
+|map2={{Map
+|t1p1=Rainpro|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Xian|o2p1={{Chars|Kimberly}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Zhen|o2p1={{Chars|Bison}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Keekuma|o1p1={{Chars|Chun-li}}|score1=0
+|t2p1=Bravery|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 3}}=====
+{{Matchlist |title=Day 3|id=fB1ciSztKb|collapsed=false||width=325px
+|M1header=September 4, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=30}}
+|opponent2={{TeamOpponent|Yesports|score=20}}
+|date=2026-09-04
+|winner=
+|vod=
+|map1={{Map
+|t1p1=AngryBird|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=HotDog29|o2p1={{Chars|Alex}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|jp}}|score1=1
+|t2p1=Keekuma|o2p1={{Chars|Chun-li}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=BigBird|o1p1={{Chars|Viper}}|score1=3
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Rainpro|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|GTW|score=10}}
+|opponent2={{TeamOpponent|MOUZ|score=30}}
+|date=2026-09-04
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Bravery|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Xian|o1p1={{Chars|Kimberly}}|score1=2
+|t2p1=DCQ|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=10}}
+|opponent2={{TeamOpponent|MVS|score=30}}
+|date=2026-09-04
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Vxbao|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|Viper}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Micky|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|GTW|score=30}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=10}}
+|date=2026-09-04
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Bravery|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hope|o1p1={{Chars|Aki}}|score1=2
+|t2p1=AngryBird|o2p1={{Chars|Ryu|Akuma}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=3
+|t2p1=BigBird|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|MOUZ|score=10}}
+|opponent2={{TeamOpponent|MVS|score=30}}
+|date=2026-09-04
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Problem X|o1p1={{Chars|Alex}}|score1=2
+|t2p1=Leshar|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=NL|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|JP}}|score1=1
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Yesports|score=40}}
+|opponent2={{TeamOpponent|Team Falcons|score=0}}
+|date=2026-09-04
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Rainpro|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Vxbao|o2p1={{Chars|Bison}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Micky|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=HotDog29|o1p1={{Chars|Alex}}|score1=3
+|t2p1=Xiao Hai|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 4}}=====
+{{Matchlist |title=Day 4|id=G1ZgB622WS|collapsed=false||width=325px
+|M1header=September 5, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=20}}
+|opponent2={{TeamOpponent|GTW|score=30}}
+|date=2026-09-05
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Micky|o1p1={{Chars|Mai}}|score1=1
+|t2p1=Xian|o2p1={{Chars|Kimberly}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Kusanagi|link=Kusanagi (French player)|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=Hope|o2p1={{Chars|AKI}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Xiao Hai|o1p1={{Chars|Bison}}|score1=3
+|t2p1=Zhen|o2p1={{Chars|Sagat}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Vxbao|o1p1={{Chars|Jamie}}|score1=0
+|t2p1=Bravery|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|MVS|score=30}}
+|opponent2={{TeamOpponent|Yesports|score=10}}
+|date=2026-09-05
+|winner=
+|vod=
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Rainpro|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Leshar|o1p1={{Chars|ED}}|score1=0
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=3
+|t2p1=HotDog29|o2p1={{Chars|Alex}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=30}}
+|opponent2={{TeamOpponent|MOUZ|score=20}}
+|date=2026-09-05
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Problem X|o2p1={{Chars|Alex}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Big Bird|o1p1={{Chars|Viper}}|score1=2
+|t2p1=DCQ|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|GTW|score=30}}
+|opponent2={{TeamOpponent|Yesports|score=20}}
+|date=2026-09-05
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Hope|o1p1={{Chars|AKI}}|score1=2
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=2
+|t2p1=HotDog29|o2p1={{Chars|Alex}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Xian|o1p1={{Chars|Kimberly}}|score1=2
+|t2p1=Rainpro|o2p1={{Chars|Guile}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Bravery|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Keekuma|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|MVS|score=40}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=0}}
+|date=2026-09-05
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Leshar|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Viper}}|score1=2
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Big Bird|o2p1={{Chars|Viper}}|score2=2
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|MOUZ|score=30}}
+|opponent2={{TeamOpponent|Team Falcons|score=10}}
+|date=2026-09-05
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=DCQ|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Vxbao|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Micky|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Problem X|o1p1={{Chars|Alex}}|score1=3
+|t2p1=Xiao Hai|o2p1={{Chars|Bison}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 5}}=====
+{{Matchlist |title=Day 5|id=1TVBnkgIBJ|collapsed=false||width=325px
+|M1header=September 6, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=30}}
+|opponent2={{TeamOpponent|Team Falcons|score=10}}
+|date=2026-09-06
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=1
+|t2p1=Kusanagi|link=Kusanagi (French Player)|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Big Bird|o1p1={{Chars|Viper}}|score1=2
+|t2p1=Micky|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=3
+|t2p1=Xiao Hai|o2p1={{Chars|Bison|Ryu}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|GTW|score=30}}
+|opponent2={{TeamOpponent|MVS|score=10}}
+|date=2026-09-06
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|Kimberly}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=2
+|t2p1=NL|o2p1={{Chars|Luke}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hope|o1p1={{Chars|aki}}|score1=3
+|t2p1=Kilzyou|o2p1={{Chars|mai|cammy}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Yesports|score=30}}
+|opponent2={{TeamOpponent|MOUZ|score=10}}
+|date=2026-09-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=HotDog29|o1p1={{Chars|Alex|Bison}}|score1=1
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Rainpro|o1p1={{Chars|Guile}}|score1=3
+|t2p1=Problem X|o2p1={{Chars|Alex}}|score2=0
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|MVS|score=10}}
+|opponent2={{TeamOpponent|Team Falcons|score=30}}
+|date=2026-09-06
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|luke}}|score1=2
+|t2p1=Vxbao|o2p1={{Chars|bison}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=0
+|t2p1=Xiao Hai|o2p1={{Chars|mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|viper}}|score1=1
+|t2p1=Micky|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|MOUZ|score=10}}
+|opponent2={{TeamOpponent|GTW|score=30}}
+|date=2026-09-06
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=1
+|t2p1=Zhen|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=2
+|t2p1=Xian|o2p1={{Chars|kimberly}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=1
+|t2p1=Hope|o2p1={{Chars|aki}}|score2=3
+|winner=2
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Yesports|score=0}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=40}}
+|date=2026-09-06
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=1
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Keekuma|o1p1={{Chars|Chun-Li}}|score1=0
+|t2p1=AngryBird|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=HotDog29|o1p1={{Chars|Alex}}|score1=2
+|t2p1=Big Bird|o2p1={{Chars|Viper}}|score2=3
+|winner=2
+}}
+}}
+}}
+{{box|end|padding=2em}}

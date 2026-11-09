@@ -1,0 +1,149 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2023: Playoffs}}{{HDB|phase=2}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Europe/2023
+|name2=Regular Season |link2=Street Fighter League/Europe/2023/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Europe/2023/Playoffs
+|This={{{This}}}
+}}
+==Results==
+{{Bracket|Bracket/2L2D|id=hedrSLglhk
+|R1M1={{Match
+|opponent1={{TeamOpponent|00Nation |score=60}}
+|opponent2={{TeamOpponent|BK ROG Esports |score=20}}
+|date=2024-01-27
+}}
+
+|R2M1={{Match
+|opponent1={{TeamOpponent|Mouz |score=0}}
+|opponent2={{TeamOpponent|00Nation |score=50}}
+|date=2024-01-27
+}}
+
+|R3M1={{Match
+|opponent1={{TeamOpponent|BMS Esports  |score=20}}
+|opponent2={{TeamOpponent|00Nation |score=70}}
+|date=2024-02-03
+}}
+}}
+
+==Details==
+===Quarterfinals===
+{{Matchlist|title=Quarterfinals Matches|width=450px|collapsed=false|id=oNZsD7sOVo
+|M1={{Match
+|opponent1={{TeamOpponent|00Nation|score=2}}
+|opponent2={{TeamOpponent|BK ROG Esports|score=1}}
+|date=2024-01-27
+|vod=https://youtu.be/LhTBTKIl6UE?t=2163
+|map1={{Map
+|t1p1=Rikemansbarnet  |o1p1={{Chars|juri}} |score1= 0
+|t2p1=Kayne  |o2p1={{Chars|jamie}} |score2=2 |winner=2
+}}
+|map2={{Map
+|t1p1=Phenom |o1p1={{Chars|ken}} |score1=2 
+|t2p1=Nassim-Claw |o2p1={{Chars|honda}} |score2=1 |winner=1
+}}
+|map3={{Map
+|t1p1=Lord Venom |o1p1={{Chars|jp}} |score1=3 
+|t2p1=Luffy |o2p1={{Chars|Manon}} |score2=0 |winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|BK ROG Esports|score=1}}
+|opponent2={{TeamOpponent|00Nation|score=2}}
+|date=2024-01-27
+|vod=https://youtu.be/LhTBTKIl6UE?t=4820
+|map1={{Map
+|t1p1=Nassim-Claw|o1p1={{Chars|honda}}|score1=2
+|t2p1=Veggey |o2p1={{Chars|zangief}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Luffy |o1p1={{Chars|manon}}|score1=1
+|t2p1=Phenom |o2p1={{Chars|ken}} |score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Kayne |o1p1={{Chars|jamie}}|score1=0
+|t2p1=Lord Venom |o2p1={{Chars|jp}} |score2=3|winner=2
+}}
+}}
+}}
+===Semifinals===
+{{Matchlist|title=Semifinals Matches|width=450px|collapsed=false|id=YmSSQsMony
+|M1={{Match
+|opponent1={{TeamOpponent|Mouz|score=0}}
+|opponent2={{TeamOpponent|00Nation|score=3}}
+|date=2024-01-27
+|vod=https://youtu.be/LhTBTKIl6UE?t=8929
+|map1={{Map
+|t1p1=Broski|o1p1={{Chars|jp}}|score1=0
+|t2p1=Veggey|o2p1={{Chars|zangief}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=1
+|t2p1=Phenom|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Problem X|o1p1={{Chars|marisa}}|score1=1
+|t2p1=Lord Venom|o2p1={{Chars|jp}}|score2=3|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|00Nation|score=1}}
+|opponent2={{TeamOpponent|Mouz|score=0}}
+|date=2024-01-27
+|vod=https://youtu.be/LhTBTKIl6UE?t=11583
+|map1={{Map
+|t2p1=MysticSmash|o2p1={{Chars|dj}}|score2=0
+|t1p1=Phenom|o1p1={{Chars|ken}}|score1=2|winner=1
+}}
+}}
+}}
+
+===Grand Finals===
+{{Matchlist|title=Grand Finals Matches|width=450px|collapsed=false|id=ceHcZ60dEa
+|M1={{Match
+|opponent1={{TeamOpponent|BMS Esports|score=0}}
+|opponent2={{TeamOpponent|00Nation|score=3}}
+|date=2024-02-03
+|vod=https://youtu.be/R20F_OwvtkA?t=2139
+|map1={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=Rikemansbarnet |o2p1={{Chars|juri}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Kilzyou|o1p1={{Chars|juri}}|score1=1
+|t2p1=Phenom|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Valmaster|o1p1={{Chars|chun}}|score1=1
+|t2p1=Lord Venom|o2p1={{Chars|jp}}|score2=3|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|00Nation|score=1}}
+|opponent2={{TeamOpponent|BMS Esports|score=2}}
+|date=2024-02-03
+|vod=https://youtu.be/R20F_OwvtkA?t=5494
+|map1={{Map
+|t1p1=Rikemansbarnet |o1p1={{Chars|juri}} |score1=1
+|t2p1=Mister Crimson |o2p1={{Chars|dhalsim}} |score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Phenom |o1p1={{Chars|ken}}|score1=0
+|t2p1=Valmaster |o2p1={{Chars|chun}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Lord Venom |o1p1={{Chars|jp}}|score1=3
+|t2p1=Kilzyou |o2p1={{Chars|juri}}|score2=1|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|BMS Esports|score=0}}
+|opponent2={{TeamOpponent|00Nation|score=1}}
+|date=2024-02-03
+|vod=https://youtu.be/R20F_OwvtkA?t=8550
+|map1={{Map
+|t1p1=Valmaster |o1p1={{Chars|chun}}|score1=0
+|t2p1=Phenom |o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+}}
+}}

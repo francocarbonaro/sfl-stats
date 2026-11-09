@@ -1,0 +1,839 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2025: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{tabs static 
+|name1=Overview |link1={{BASEPAGENAME}}
+|name2=Regular Season |link2={{BASEPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{BASEPAGENAME}}/Playoffs 
+}} 
+==Results==
+{{box|start|padding=2em}}
+<onlyinclude>
+{{GroupTableLeague|title=SFL Pro-EU 2025 Standings
+|width=400px|show_g=false|show_p=true|diff=false
+|tournament=Street Fighter League/Europe/2025/Regular Season
+|pbg1=up|pbg2=stayup|pbg3=stay|pbg4=stay|pbg5=down|pbg6=down
+|tiebreaker1=points
+|tiebreaker2=series
+|tiebreaker3=h2h series
+|win_p=0 |tie_p=0 |lose_p=0
+|{{TeamOpponent|Wolves Esports}}               |temp_p1=|bg1=
+|{{TeamOpponent|Ninjas In Pyjamas}}            |temp_p2=|bg2=
+|{{TeamOpponent|AEGIS (French Team)}}             |temp_p3=|bg3=
+|{{TeamOpponent|MOUZ}}  |temp_p4=|bg4=
+|{{TeamOpponent|Solary}}                |temp_p5=|bg5=
+|{{TeamOpponent|Goliath Gaming}}               |temp_p6=|bg6=
+|40-0_p=40
+|0-40_p=0
+|10-30_p=10
+|30-10_p=30
+|20-30_p=20
+|30-20_p=30
+}}
+</onlyinclude>
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Europe/2025/Regular Season
+|team1=Wolves Esports
+|team2=Ninjas In Pyjamas
+|team3=AEGIS (French Team)
+|team4=MOUZ
+|team5=Solary
+|team6=Goliath Gaming
+|double=true
+}}
+{{box|end}}
+
+==Details==
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Episode 1}}=====
+{{Matchlist |title=Episode 1|id=jL6TpWxDyz|collapsed=false
+|M1header=November 22, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Ninjas In Pyjamas|score=40}}
+|opponent2={{TeamOpponent|Solary|score=0}}
+|date=November 22, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=HeyyPepito|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|Mai}}|score1=2
+|t2p1=vWsym|o2p1={{Chars|Ryu|Akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|Akuma}}|score1=3
+|t2p1=Senor Power|o2p1={{Chars|Mai|Cammy}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Goliath Gaming|score=0}}
+|opponent2={{TeamOpponent|MOUZ|score=40}}
+|date=November 22, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=ChuX|o1p1={{Chars|JP}}|score1=0
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=JoKeR JoKeZ|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Garnet|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=JabhiM|o1p1={{Chars|Terry}}|score1=0
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Wolves Esports|score=30}}
+|opponent2={{TeamOpponent|AEGIS (French Team)|score=10}}
+|date=November 22, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Infexious|o1p1={{Chars|Marisa}}|score1=0
+|t2p1=gamein99|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Kusanagi|o1p1={{Chars|Terry}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hurricane|o1p1={{Chars|Cammy}}|score1=3
+|t2p1=Kilzyou|o2p1={{Chars|Juri}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+====={{HiddenSort|Episode 2}}=====
+{{Matchlist |title=Episode 2|id=Orbh7v73xm|collapsed=false
+|M1header=November 22, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|MOUZ|score=30}}
+|opponent2={{TeamOpponent|Wolves Esports|score=10}}
+|date=November 22, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Problem X|o1p1={{Chars|Bison}}|score1=0
+|t2p1=Kusanagi|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Takamura|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Hurricane|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=10}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=30}}
+|date=November 22, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=2
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Valmaster|o1p1={{Chars|Elena}}|score1=0
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=0
+|t2p1=Big Bird|o2p1={{Chars|Rashid}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Solary|score=40}}
+|opponent2={{TeamOpponent|Goliath Gaming|score=0}}
+|date=November 22, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Akainu|o1p1={{Chars|Guile}}|score1=2
+|t2p1=MarkTheShark|o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=HeyyPepito|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=ChuX|o2p1={{Chars|Mai|JP}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=vWsym|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=JabhiM|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 3}}=====
+{{Matchlist |title=Episode 3|id=SFL25Eu1E3|collapsed=false
+|M1header=November 23, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=20}}
+|opponent2={{TeamOpponent|MOUZ|score=30}}
+|date=November 23, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Valmaster|o1p1={{Chars|Elena}}|score1=2
+|t2p1=Lexx|o2p1={{Chars|Bison|Guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|Sagat|Bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=2
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=gamein99|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Garnet|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Wolves Esports|score=30}}
+|opponent2={{TeamOpponent|Solary|score=20}}
+|date=November 23, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Kusanagi|o1p1={{Chars|Terry}}|score1=0
+|t2p1=HeyyPepito|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hurricane|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Senor Power|o2p1={{Chars|Mai|Ryu}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Takamura|o1p1={{Chars|Ken}}|score1=3
+|t2p1=vWsym|o2p1={{Chars|Akuma|Ryu}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Infexious|o1p1={{Chars|Marisa}}|score1=2
+|t2p1=Akainu|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=40}}
+|opponent2={{TeamOpponent|Goliath Gaming|score=0}}
+|date=November 23, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=MarkTheShark|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=JoKeR JoKeZ|o2p1={{Chars|Ed|Cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=ChuX|o2p1={{Chars|Mai|JP}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 4}}=====
+{{Matchlist |title=Episode 4|id=SFL25Eu1E4|collapsed=false
+|M1header=November 23, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Goliath Gaming|score=10}}
+|opponent2={{TeamOpponent|Wolves Esports|score=30}}
+|date=November 23, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=JabhiM|o1p1={{Chars|Terry}}|score1=2
+|t2p1=Takamura|o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=MarkTheShark|o1p1={{Chars|Ken}}|score1=1
+|t2p1=Hurricane|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ChuX|o1p1={{Chars|JP}}|score1=2
+|t2p1=Kusanagi|o2p1={{Chars|Ryu|Terry}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Solary|score=10}}
+|opponent2={{TeamOpponent|AEGIS (French team)|score=30}}
+|date=November 23, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Senor Power|o1p1={{Chars|Cammy|Ryu}}|score1=2
+|t2p1=Valmaster|o2p1={{Chars|Elena|Chun-li}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=HeyyPepito|o1p1={{Chars|Ken}}|score1=0
+|t2p1=Mister Crimson|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=vWsym|o1p1={{Chars|Akuma|Terry}}|score1=1
+|t2p1=Kilzyou|o2p1={{Chars|Mai|Cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|MOUZ|score=40}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=0}}
+|date=November 23, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Problem X|o1p1={{Chars|Sagat}}|score1=2
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=3
+|t2p1=Big Bird|o2p1={{Chars|Rashid}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 5}}=====
+{{Matchlist |title=Episode 5|id=SFL27Eu1E5|collapsed=false
+|M1header=November 24, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=30}}
+|opponent2={{TeamOpponent|Goliath Gaming|score=10}}
+|date=November 24, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=ChuX|o2p1={{Chars|M. Bison}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Valmaster|o1p1={{Chars|Chun-Li}}|score1=1
+|t2p1=JoKeRJoKeZ|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=3
+|t2p1=JabhiM|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=30}}
+|opponent2={{TeamOpponent|Wolves Esports|score=10}}
+|date=November 24, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Hurricane|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=Kusanagi|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Infexious|o2p1={{Chars|Marisa}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|MOUZ|score=30}}
+|opponent2={{TeamOpponent|Solary|score=10}}
+|date=November 24, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Problem X|o1p1={{Chars|M. Bison}}|score1=0
+|t2p1=vWsym|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Senor Power|o2p1={{Chars|Cammy|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=HeyyPepito|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 6}}=====
+{{Matchlist |title=Episode 6|id=SFL27EuEp6|collapsed=false
+|M1header=November 24, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Solary|score=20}}
+|opponent2={{TeamOpponent|Ninjas In Pyjamas|score=30}}
+|date=November 24, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=HeyyPepito|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=BigBird|o2p1={{Chars|Rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Senor Power|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=vWsym|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=AngryBird|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Akainu|o1p1={{Chars|Guile}}|score1=1
+|t2p1=Phenom|o2p1={{Chars|Mai|Cammy}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|MOUZ|score=40}}
+|opponent2={{TeamOpponent|Goliath Gaming|score=0}}
+|date=November 24, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=2
+|t2p1=MarkTheShark|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Garnet|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=JoKeRJoKeZ|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=JabhiM|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=30}}
+|opponent2={{TeamOpponent|Wolves Esports|score=20}}
+|date=November 24, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Gamein|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Kusanagi|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Valmaster|o1p1={{Chars|Kimberly}}|score1=0
+|t2p1=Takamura|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Hurricane|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=Infexious|o2p1={{Chars|Marisa}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 7}}=====
+{{Matchlist |title=Episode 7|id=SFL25EuEp7|collapsed=false
+|M1header=November 26, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Wolves Esports|score=10}}
+|opponent2={{TeamOpponent|MOUZ|score=30}}
+|date=November 26, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Hurricane|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Takamura|o1p1={{Chars|Ken}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|Sagat}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Infexious|o1p1={{Chars|Marisa}}|score1=1
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=0}}
+|opponent2={{TeamOpponent|AEGIS (French team)|score=40}}
+|date=November 26, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Gamein99|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Big Bird|o1p1={{Chars|Rashid}}|score1=0
+|t2p1=Mister Crimson|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|fnished=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Goliath Gaming|score=10}}
+|opponent2={{TeamOpponent|Solary|score=30}}
+|date=November 26, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=JabhiM|o1p1={{Chars|Terry}}|score1=2
+|t2p1=Akainu|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=MarkTheShark|o1p1={{Chars|Ken}}|score1=0
+|t2p1=Senor Power|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ChuX|o1p1={{Chars|JP}}|score1=1
+|t2p1=vWsym|o2p1={{Chars|Ryu|Akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 8}}=====
+{{Matchlist |title=Episode 8|id=SFL25Eu1E8|collapsed=false
+|M1header=November 26, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|MOUZ|score=20}}
+|opponent2={{TeamOpponent|AEGIS (French team)|score=30}}
+|date=November 26, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Problem X|o1p1={{Chars|M. Bison}}|score1=2
+|t2p1=Valmaster|o2p1={{Chars|Kimberly |Elena}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=0
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Garnet|o1p1={{Chars|Dhalsim}}|score1=0
+|t2p1=Gamein99|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Solary|score=0}}
+|opponent2={{TeamOpponent|Wolves Esports|score=40}}
+|date=November 26, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=HeyyPepito|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=Infexious|o2p1={{Chars|Marisa}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Senor Power|o1p1={{Chars|Mai|Cammy}}|score1=1
+|t2p1=Takamura|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=vWsym|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Kusanagi|o2p1={{Chars|Terry|Ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Goliath Gaming|score=0}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=40}}
+|date=November 26, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=JoKeR JoKeZ|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=MarkTheShark|o1p1={{Chars|Ken}}|score1=0
+|t2p1=Phenom|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=JabhiM|o1p1={{Chars|Terry}}|score1=0
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 9}}=====
+{{Matchlist |title=Episode 9|id=SFL25Eu1E9|collapsed=false
+|M1header=November 27, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Goliath Gaming|score=0}}
+|opponent2={{TeamOpponent|AEGIS (French team)|score=40}}
+|date=November 27, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=ChuX|o1p1={{Chars|Mai}}|score1=1
+|t2p1=Gamein99|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=JoKeR JoKeZ|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Mister Crimson|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=JabhiM|o1p1={{Chars|Terry}}|score1=0
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Wolves Esports|score=10}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=30}}
+|date=November 27, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Hurricane|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kusanagi|o1p1={{Chars|Terry}}|score1=1
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Infexious|o1p1={{Chars|Marisa}}|score1=0
+|t2p1=BigBird|o2p1={{Chars|Rashid}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Solary|score=0}}
+|opponent2={{TeamOpponent|Mouz|score=40}}
+|date=November 27, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=vWsym|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Senor Power|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Problem X|o2p1={{Chars|M. Bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=HeyyPepito|o1p1={{Chars|Ken}}|score1=1
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Episode 10}}=====
+{{Matchlist |title=Episode 10|id=SFL25Eu1E0|collapsed=false
+|M1header=November 27, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Wolves Esports|score=40}}
+|opponent2={{TeamOpponent|Goliath Gaming|score=0}}
+|date=November 27, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Kusanagi|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=JoKeR JoKeZ|o2p1={{Chars|Cammy|ED}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Takamura|o1p1={{Chars|Ken}}|score1=2
+|t2p1=MarkTheShark|o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hurricane|o1p1={{Chars|Cammy}}|score1=3
+|t2p1=ChuX|o2p1={{Chars|JP|Mai}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=30}}
+|opponent2={{TeamOpponent|Solary|score=10}}
+|date=November 27, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Kilzyou|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Senor Power|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Valmaster|o1p1={{Chars|Elena}}|score1=1
+|t2p1=vWsym|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=3
+|t2p1=Akainu|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=10}}
+|opponent2={{TeamOpponent|Mouz|score=30}}
+|date=November 27, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|Sagat}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=BigBird|o1p1={{Chars|Rashid}}|score1=1
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|finished=skip
+}}
+}}
+}}
+{{box|end|padding=2em}}

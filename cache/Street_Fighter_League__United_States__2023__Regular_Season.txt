@@ -1,0 +1,428 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2023: Regular Season}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2023
+|name2=Regular Season |link2=Street Fighter League/United States/2023/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2023/Playoffs
+|This={{{This}}}
+}}
+==Results==
+<onlyinclude>
+{{GroupTableStart|SFL Pro-US 2023 Standings|width=400px}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=1|win_m=10|lose_m=0|points=290|bg=seedup}}
+{{GroupTableSlot|{{Team|Bandits}}|place=2|win_m=6|lose_m=4|points=235|bg=stayup}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=3|win_m=6|lose_m=4|points=230|bg=up}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=4|win_m=3|lose_m=7|points=195|bg=up}}
+{{GroupTableSlot|{{Team|UYU}}|place=5|win_m=4|lose_m=6|points=190|bg=down}}
+{{GroupTableSlot|{{Team|Endemic}}|place=6|win_m=2|lose_m=8|points=120|bg=down}}
+{{GroupTableEnd}}
+</onlyinclude>
+<br/>
+
+==Details==
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Bandits}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=Px8LqA9WaT
+|{{Match
+|opponent1={{TeamOpponent|Versus Vortex}}
+|opponent2={{TeamOpponent|Red Rooster}}
+|winner=2
+|vod=https://www.youtube.com/live/8qzz8TzZfTs?si=697O9Pn5gxDZ3A3F&t=1914s
+|map1={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=0 |t2p1=PR Balrog|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Xian |o1p1={{Chars|dee jay}} |score1=1 |t2p1=Ajax Fidelity|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|jp}} |score1=2 |t2p1=BananaKen|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=2
+|vod=https://www.youtube.com/live/8qzz8TzZfTs?si=697O9Pn5gxDZ3A3F&t=4583s
+|map1={{Map|t1p1=Vxbao |o1p1={{Chars|jp}} |score1=2 |t2p1=ChrisCCH|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Dual Kevin |o1p1={{Chars|luke}} |score1=2 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=NuckleDu |o1p1={{Chars|guile}} |score1=1 |t2p1=Reynald|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Zhen |o1p1={{Chars|dee jay}} |score1=0 |t2p1=FlashMetroid|o2p1={{Chars|blanka}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR eSports}}
+|opponent2={{TeamOpponent|Bandits}}
+|winner=1
+|vod=https://www.youtube.com/live/8qzz8TzZfTs?si=697O9Pn5gxDZ3A3F&t=7624s
+|map1={{Map|t1p1=Big Bird |o1p1={{Chars|marisa}} |score1=2 |t2p1=Caba|o2p1={{Chars|guile}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Punk |o1p1={{Chars|cammy}} |score1=2 |t2p1=Xiao Hai|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=1 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Nephew |o1p1={{Chars|juri}} |score1=1 |t2p1=ChrisT|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|Bandits}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=7JmfwQf6qQ
+|{{Match
+|opponent1={{TeamOpponent|NASR eSports}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=1
+|vod=https://www.youtube.com/live/PZIuV_GuCe4?si=KFA2-FC-LbOikA7v&t=1908
+|map1={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=2 |t2p1=Reynald|o2p1={{Chars|jp}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Big Bird |o1p1={{Chars|marisa}} |score1=1 |t2p1=ChrisCCH|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Punk |o1p1={{Chars|cammy}} |score1=3 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Bandits Gaming}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|vod=https://www.youtube.com/live/PZIuV_GuCe4?si=sXcN1SPN6-TvzSq9&t=4392
+|map1={{Map|t1p1=Xiao Hai |o1p1={{Chars|ken}} |score1=2 |t2p1=Ajax Fidelity|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Caba |o1p1={{Chars|guile}} |score1=2 |t2p1=PR Balrog|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=3 |t2p1=BananaKen|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Versus Vortex}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=1
+|vod=https://www.youtube.com/live/PZIuV_GuCe4?si=PzkNzzQXeseArkoO&t=6617
+|map1={{Map|t1p1=DCQ |o1p1={{Chars|jp}} |score1=2 |t2p1=Dual Kevin|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=2 |t2p1=Vxbao|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Xian |o1p1={{Chars|dj}} |score1=2 |t2p1=NuckleDu|o2p1={{Chars|guile}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Oil King |o1p1={{Chars|ken}} |score1=1 |t2p1=Zhen|o2p1={{Chars|dj}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=T0zqT7MorZ
+|{{Match
+|opponent1={{TeamOpponent|Bandits}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=2
+|vod=https://www.youtube.com/live/dAYa1ys5ahE?si=xhyt32oe6JJ77s9P&t=2071
+|map1={{Map|t1p1=Xiao Hai |o1p1={{Chars|juri}} |score1=0 |t2p1=Vxbao|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Caba |o1p1={{Chars|guile}} |score1=1 |t2p1=Zhen|o2p1={{Chars|dj}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|jp}} |score1=3 |t2p1=NuckleDu|o2p1={{Chars|guile}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Chris T |o1p1={{Chars|ken}} |score1=0 |t2p1=Dual Kevin|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|NASR eSports}}
+|winner=2
+|vod=https://www.youtube.com/live/dAYa1ys5ahE?si=NsjpP2LWB7KdG9VH&t=5292
+|map1={{Map|t1p1=BananaKen |o1p1={{Chars|jp}} |score1=2 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Mono |o1p1={{Chars|dj}} |score1=0 |t2p1=Big Bird|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=PR Balrog |o1p1={{Chars|juri}} |score1=2 |t2p1=Punk|o2p1={{Chars|cammy}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Versus Vortex}}
+|winner=2
+|vod=https://www.youtube.com/live/dAYa1ys5ahE?si=wg3EcAjsQmsYMSlB&t=8057
+|map1={{Map|t1p1=Reynald |o1p1={{Chars|jp}} |score1=0 |t2p1=Xian|o2p1={{Chars|dj}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=ChrisCCH |o1p1={{Chars|ken}} |score1=0 |t2p1=NL|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Samurai |o1p1={{Chars|luke}} |score1=0 |t2p1=DCQ|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|Bandits}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=MNk0vdkOmj
+|{{Match
+|opponent1={{TeamOpponent|Versus Vortex}}
+|opponent2={{TeamOpponent|NASR eSports}}
+|winner=2
+|vod=https://www.youtube.com/live/mz4zZgvmGFc?si=Rg1t4DEDnF6bsx5l&t=1850
+|map1={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=2 |t2p1=Nephew|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Xian |o1p1={{Chars|dj}} |score1=2 |t2p1=Big Bird|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|jp}} |score1=2 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Oil King |o1p1={{Chars|rashid}} |score1=0 |t2p1=Punk|o2p1={{Chars|cammy}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|vod=https://www.youtube.com/live/mz4zZgvmGFc?si=NSvLBM2Z28NKze1g&t=4765
+|map1={{Map|t1p1=NuckleDu |o1p1={{Chars|guile}} |score1=2 |t2p1=PR Balrog|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Dual Kevin |o1p1={{Chars|luke}} |score1=2 |t2p1=Ajax Fidelity|o2p1={{Chars|juri}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Vxbao |o1p1={{Chars|jp}} |score1=2 |t2p1=BananaKen|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Zhen |o1p1={{Chars|dj}} |score1=1 |t2p1=Mono|o2p1={{Chars|dj}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Bandits}}
+|winner=2
+|vod=https://www.youtube.com/live/mz4zZgvmGFc?si=obM7aBp6RZFqzdXM&t=7668
+|map1={{Map|t1p1=Flash Metroid |o1p1={{Chars|blanka}} |score1=0 |t2p1=Xiao Hai|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Samurai |o1p1={{Chars|luke}} |score1=1 |t2p1=Chris T|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=ChrisCCH |o1p1={{Chars|ken}} |score1=0 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=WnD9mbDZIB
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=2
+|vod=https://www.youtube.com/live/_L4wVb-IVos?si=A16iGPQ5WIF3um6G&t=1931
+|map1={{Map|t1p1=ChrisCCH |o1p1={{Chars|ken}} |score1=1 |t2p1=PR Balrog|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Flash Metroid |o1p1={{Chars|blanka}} |score1=1 |t2p1=Ajax Fidelity|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Reynald |o1p1={{Chars|jp}} |score1=1 |t2p1=BananaKen|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR eSports}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=1
+|vod=https://www.youtube.com/live/_L4wVb-IVos?si=SsmgoaCjC047gQOF&t=4548
+|map1={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=2 |t2p1=Zhen|o2p1={{Chars|dj}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Big Bird |o1p1={{Chars|marisa}} |score1=1 |t2p1=NuckleDu|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Punk |o1p1={{Chars|cammy}} |score1=3 |t2p1=Vxbao|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Bandits}}
+|opponent2={{TeamOpponent|Versus Vortex}}
+|winner=2
+|vod=https://www.youtube.com/live/_L4wVb-IVos?si=uZzrEg8b3iHqYxb6&t=7138
+|map1={{Map|t1p1=Xiao Hai |o1p1={{Chars|jp}} |score1=2 |t2p1=Xian|o2p1={{Chars|dj}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Caba |o1p1={{Chars|guile}} |score1=0 |t2p1=NL|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=0 |t2p1=DCQ|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|UYU}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Bandits}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=aljBocrYbE
+|{{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=2
+|vod=https://www.youtube.com/live/-7rPI3rDaBE?si=H05ZaEHRFS8NjZWa&t=2059
+|map1={{Map|t1p1=Reynald |o1p1={{Chars|jp}} |score1=0 |t2p1=Nuckledu|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Samurai |o1p1={{Chars|luke}} |score1=2 |t2p1=Zhen|o2p1={{Chars|dj}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Flash Metroid |o1p1={{Chars|blanka}} |score1=1 |t2p1=Vxbao|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|Versus Vortex}}
+|winner=2
+|vod=https://www.youtube.com/live/-7rPI3rDaBE?si=xIsGo4xjYsC2bjxh&t=4750
+|map1={{Map|t1p1=PR Balrog |o1p1={{Chars|juri}} |score1=1 |t2p1=Xian|o2p1={{Chars|dj}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|juri}} |score1=0 |t2p1=Oil King|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=BananaKen |o1p1={{Chars|jp}} |score1=3 |t2p1=NL|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Mono |o1p1={{Chars|dj}} |score1=0 |t2p1=DCQ|o2p1={{Chars|jp}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Bandits}}
+|opponent2={{TeamOpponent|NASR eSports}}
+|winner=2
+|vod=https://www.youtube.com/live/-7rPI3rDaBE?si=S5vuu5vFzlWgtAlW&t=7915
+|map1={{Map|t1p1=Chris T |o1p1={{Chars|ken}} |score1=2 |t2p1=Big Bird|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Xiaohai |o1p1={{Chars|juri}} |score1=0 |t2p1=Punk|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=2 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=TwftsZUdHL
+|{{Match
+|opponent1={{TeamOpponent|NASR eSports}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=1
+|vod=https://www.youtube.com/live/KqnrxNv0RPM?si=Jdvggn3SJ3mNxXIp&t=2100s
+|map1={{Map|t1p1=Punk |o1p1={{Chars|cammy}} |score1=2 |t2p1=ChrisCCH|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Big Bird |o1p1={{Chars|marisa}} |score1=1 |t2p1=Reynald|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=3 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|Bandits}}
+|winner=2
+|vod=https://www.youtube.com/live/KqnrxNv0RPM?si=Jdvggn3SJ3mNxXIp&t=4930s
+|map1={{Map|t1p1=Mono |o1p1={{Chars|dee jay}} |score1=0 |t2p1=Caba|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=PR Balrog |o1p1={{Chars|juri}} |score1=2 |t2p1=XiaoHai|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=BananaKen |o1p1={{Chars|jp}} |score1=2 |t2p1=MenaRD|o2p1={{Chars|blanka}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Versus Vortex}}
+|winner=2
+|vod=https://www.youtube.com/live/KqnrxNv0RPM?si=Jdvggn3SJ3mNxXIp&t=7638s
+|map1={{Map|t1p1=Dual Kevin |o1p1={{Chars|luke}} |score1=1 |t2p1=Xian|o2p1={{Chars|dee jay}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Vxbao |o1p1={{Chars|jp}} |score1=0 |t2p1=DCQ|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=NuckleDu |o1p1={{Chars|guile}} |score1=2 |t2p1=NL|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|Bandits}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|UYU}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=dMle13u52w
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Bandits}}
+|winner=2
+|vod=https://www.youtube.com/live/VFg89yEDpC8?si=solXYm3j6FJ9qgAu&t=1749s
+|map1={{Map|t1p1=Zhen |o1p1={{Chars|dee jay}} |score1=2 |t2p1=Caba|o2p1={{Chars|guile}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Dual Kevin |o1p1={{Chars|luke}} |score1=1 |t2p1=XiaoHai|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Vxbao |o1p1={{Chars|jp}} |score1=0 |t2p1=MenaRD|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Versus Vortex}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=2
+|vod=https://www.youtube.com/live/VFg89yEDpC8?si=solXYm3j6FJ9qgAu&t=4321s
+|map1={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=2 |t2p1=ChrisCCH|o2p1={{Chars|ken}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Xian |o1p1={{Chars|dee jay}} |score1=2 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|jp}} |score1=1 |t2p1=Reynald|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Oil King |o1p1={{Chars|ken}} |score1=0 |t2p1=FlashMetroid|o2p1={{Chars|blanka}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR eSports}}
+|opponent2={{TeamOpponent|Red Rooster Team}}
+|winner=1
+|vod=https://www.youtube.com/live/VFg89yEDpC8?si=solXYm3j6FJ9qgAu&t=7135s
+|map1={{Map|t1p1=Punk |o1p1={{Chars|cammy}} |score1=1 |t2p1=Ajax Fidelity|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nephew |o1p1={{Chars|juri}} |score1=1 |t2p1=PR Balrog|o2p1={{Chars|juri}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=3 |t2p1=BananaKen|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Big Bird |o1p1={{Chars|marisa}} |score1=1 |t2p1=Mono|o2p1={{Chars|dee jay}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Endemic}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=cQNvWMezRC
+|{{Match
+|opponent1={{TeamOpponent|Bandits}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=1
+|vod=https://www.youtube.com/live/q9iB1Iz1_iA?si=CV6maWJQKi6nVEki&t=2135s
+|map1={{Map|t1p1=Chris T |o1p1={{Chars|ken}} |score1=1 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=XiaoHai |o1p1={{Chars|juri}} |score1=1 |t2p1=Reynald|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=3 |t2p1=ChrisCCH|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map4={{Map|t1p1=Caba |o1p1={{Chars|guile}} |score1=1 |t2p1=Flash Metroid|o2p1={{Chars|blanka}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|NASR eSports}}
+|opponent2={{TeamOpponent|Versus Vortex}}
+|winner=1
+|vod=https://www.youtube.com/live/q9iB1Iz1_iA?si=CV6maWJQKi6nVEki&t=5475s
+|map1={{Map|t1p1=Punk |o1p1={{Chars|cammy}} |score1=2 |t2p1=NL|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Big Bird |o1p1={{Chars|marisa}} |score1=2 |t2p1=Xian|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=3 |t2p1=DCQ|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|UYU}}
+|winner=2
+|vod=https://www.youtube.com/live/q9iB1Iz1_iA?si=CV6maWJQKi6nVEki&t=9152s
+|map1={{Map|t1p1=PR Balrog |o1p1={{Chars|juri}} |score1=0 |t2p1=Dual Kevin|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|juri}} |score1=2 |t2p1=NuckleDu|o2p1={{Chars|guile}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=BananaKen |o1p1={{Chars|jp}} |score1=1 |t2p1=Vxbao|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|Versus Vortex}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|NASR eSports}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster Team}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|UYU}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Endemic}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Bandits}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=ADZUeZsgzQ
+|{{Match
+|opponent1={{TeamOpponent|Red Rooster Team}}
+|opponent2={{TeamOpponent|Endemic}}
+|winner=1
+|vod=https://www.youtube.com/live/JXiAk--xcLU?si=6NaMRigS3mEjq7ZJ&t=4876
+|map1={{Map|t1p1=PR Balrog |o1p1={{Chars|juri}} |score1=0 |t2p1=ChrisCCH|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Ajax Fidelity |o1p1={{Chars|juri}} |score1=0 |t2p1=Reynald|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=BananaKen |o1p1={{Chars|jp}} |score1=3 |t2p1=Samurai|o2p1={{Chars|luke}} |score2=2 |winner=1}}
+|map4={{Map|t1p1=Mono |o1p1={{Chars|dj}} |score1=1 |t2p1=Flash Metroid|o2p1={{Chars|blanka}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Versus Vortex}}
+|opponent2={{TeamOpponent|Bandits}}
+|winner=1
+|vod=https://www.youtube.com/live/JXiAk--xcLU?si=nGxJoPLxTWgm3kWG&t=7977
+|map1={{Map|t1p1=Xian |o1p1={{Chars|dj}} |score1=0 |t2p1=Xiao Hai|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=NL |o1p1={{Chars|luke}} |score1=2 |t2p1=Chris T|o2p1={{Chars|ken}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=DCQ |o1p1={{Chars|jp}} |score1=3 |t2p1=MenaRD|o2p1={{Chars|blanka}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|NASR eSports}}
+|winner=2
+|vod=https://www.youtube.com/live/JXiAk--xcLU?si=id1fayNv8ge5pPBB&t=2162
+|map1={{Map|t1p1=Dual Kevin |o1p1={{Chars|luke}} |score1=0 |t2p1=Big Bird|o2p1={{Chars|marisa}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=NuckleDu |o1p1={{Chars|guile}} |score1=0 |t2p1=AngryBird|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Zhen |o1p1={{Chars|dj}} |score1=3 |t2p1=Punk|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map4={{Map|t1p1=Vxbao |o1p1={{Chars|jp}} |score1=0 |t2p1=Nephew|o2p1={{Chars|juri}} |score2=1 |winner=2}}
+}}
+}}
+{{box|end|padding=2em}}

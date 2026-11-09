@@ -1,0 +1,164 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2024}}
+{{Street Fighter League Navbox}}
+{{SFL EU 2024 Tabs}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-EU 2024
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-EU 2024 allmode.png
+|icon=Street Fighter League Pro-EU 2024 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=Europe
+
+|game=sf6
+|sdate=2024-11-15
+|edate=2024-11-26
+
+|website=https://streetfighterleagueeurope.com/
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|bracket=
+
+|localcurrency=eur
+|prizepool=75,000
+|player_number=24
+|team_number=6
+
+|previous=Street Fighter League/Europe/2023{{!}}SFL Pro-EU 2023
+|next=Street Fighter League/Europe/2025{{!}}SFL Pro-EU 2025
+}}
+'''Street Fighter League Pro-EU 2024''' ('''SFL Pro-EU 2024''') was the 3rd season of professional European ''Street Fighter'' team competition.
+
+==Information==
+===Format===
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 1 || +5 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+*** 1st place team advance to the Grand Finals
+*** 2nd place team advance to the Semifinals
+*** 3rd and 4th teams advance to to the Quarterfinals
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2024|Street Fighter League World Championship 2024]]
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=Logan Sama|b1flag=gb
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator 
+|b1=Damascus|b1flag=fr
+|b2=Jammerz|b2flag=gb
+|b3=Yipes|b3flag=us
+}} 
+{{box|end|padding=2em}}
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=eur|cutafter=6
+|qualifies1=Street Fighter League/World Championship/2024|qualifies1name=SFL World Championship 2024
+|tournament1=Street Fighter League/Europe/2024/Playoffs
+|{{Slot|localprize=60,000|qualified1=yes}}
+|{{Slot|localprize=15,000}}
+|{{Slot}}
+|{{Slot}}
+|{{Slot|{{Opponent|Reason Gaming|wdl=1/9}}}}
+|{{Slot|{{Opponent|Guild Esports|wdl=1/9}}}}
+|adjacentContent={{AwardPrizePool
+|{{Slot|award=First Leg MVP|{{Opponent|AngryBird|flag=ae|team=Ninjas in Pyjamas|usdprize=}}}}
+|{{Slot|award=Second Leg MVP|{{Opponent|AngryBird|flag=ae|team=Ninjas in Pyjamas|usdprize=}}}}
+|{{Slot|award=Playoffs MVP|{{Opponent|Phenom|flag=no|team=Ninjas in Pyjamas|usdprize=}}}}
+}}
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/Europe/2024/Regular Season}}
+{{LPDB storage|true}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2024/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=k7J70EmHUR}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2024/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=AEGIS|link=AEGIS (French team)
+|p1=Mister Crimson|p1flag=|p1team=AEGIS (French Team)
+|p2=Kilzyou|p2flag=|p2team=karmine corp
+|p3=Takamura|p3flag=|p3team=
+|p4=Kusanagi|p4flag=|p4team=|p4link=Kusanagi (French Player)
+}}
+{{TeamCard
+|team=Guild Esports
+|p1=Rainpro|p1flag=hk|p1team=Guild Esports
+|p2=imstilldadaddy|p2flag=gb|p2team=
+|p3=Samoel|p3flag=es|p3team=
+|p4=Gamein99|p4flag=be|p4team=
+}}
+{{TeamCard
+|team=MOUZ
+|p1=Problem X|p1flag=uk|p1team=mouz
+|p2=EndingWalker|p2flag=uk|p2team=mouz
+|p3=Valmaster|p3flag=fr|p3team=
+|p4=Juicyjoe|p4flag=sw|p4team=
+}}
+{{TeamCard
+|team=Ninjas in Pyjamas
+|p1=Phenom|p1flag=no|p1team=NIP
+|p2=Veggey|p2flag=no|p2team=NIP
+|p3=BigBird|p3flag=ae|p3team=Red Bull eSports
+|p4=AngryBird|p4flag=ae|p4team=
+}}
+{{TeamCard
+|team=Reason Gaming
+|p1=Boltstrike|p1flag=uk|p1team=reason
+|p2=Shivs|p2flag=uk|p2team=
+|p3=JoKeR JoKeZ|p3flag=uk|p3team=
+|p4=Xerna|p4flag=nl|p4team=Regal Zaibatsu
+}}
+{{TeamCard
+|team=Wolves Esports
+|p1=Shakz|p1flag=uk|p1team=
+|p2=Garnet|p2flag=it|p2team=SaveYourGames
+|p3=Akainu|p3flag=fr|p3team=
+|p4=Alphen|p4flag=fr|p4team=
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+===View Games=== 
+{{Streams |lang1=usuk |twitch1=Capcomfighters |youtube1=c/CapcomFighters }} 
+
+==References==
+{{Reflist}}

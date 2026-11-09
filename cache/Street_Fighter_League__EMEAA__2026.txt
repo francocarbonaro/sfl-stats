@@ -1,0 +1,173 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EMEAA 2026}}
+{{Street Fighter League Navbox}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-EMEAA 2026
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-EMEAA 2026 allmode.png
+|icon=Street Fighter League Pro-EMEAA 2026 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United States
+|country2=United Kingdom
+|city=Los Angeles
+|city2=London
+
+|game=sf6
+|sdate=2026-09-02
+|edate=2026-10-24
+
+|website=https://www.streetfighterleague.com/
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|bracket=
+
+|localcurrency=
+|prizepool=100000
+|player_number=24
+|team_number=6
+
+|previous=Street Fighter League/Europe/2025{{!}}SFL Pro-EU 2025
+|next=
+}}
+{{tabs static 
+|name1=Overview |link1={{FULLPAGENAME}}
+|name2=Regular Season |link2={{FULLPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{FULLPAGENAME}}/Playoffs 
+}} 
+'''Street Fighter League Pro-EMEAA 2026''' ('''SFL Pro-EMEAA 2026''') was the 5th season of professional European ''Street Fighter'' team competition. 
+
+Unlike the [[Street Fighter League/Europe/2025|previous season]], this edition also included teams from Asia.
+
+==Format==
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 2 || +10 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2026|Street Fighter League World Championship 2026]]
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=6|qualifies1=Street Fighter League/World Championship/2026|qualifies1name=SFL World Championship 2026
+|tournament1={{FULLPAGENAME}}/Regular Season 
+|tournament2={{FULLPAGENAME}}/Playoffs
+|{{Slot|usdprize=60,000|{{Slot|qualified1=yes}}}}
+|{{Slot|usdprize=30,000|{{Opponent|}}}}
+|{{Slot|usdprize=10,000|{{Opponent|}}}}
+|{{Slot|{{Opponent|}}}}
+|{{Slot|{{Opponent|}}}}
+|{{Slot|{{Opponent|}}}}
+<!-- |adjacentContent={{AwardPrizePool
+|{{Slot|award=First Phase MVP|{{Opponent||chars=|flag=|team=|usdprize=}}}}
+|{{Slot|award=Second Phase MVP|{{Opponent||chars=|flag=|team=|usdprize=}}}}
+}} -->
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/EMEAA/2026/Regular Season}}
+{{LPDB storage|true}}
+<span style="line-height:24px;">&nbsp;''[[Street Fighter League/EMEAA/2026/Regular Season|&ensp;↪ Click here for detailed information about the '''Regular Season''' matches.]]''</span> 
+===Playoffs===
+{{ShowBracket|id=cFwOiPprT6}}
+<span style="line-height:24px;">&nbsp;''[[Street Fighter League/EMEAA/2026/Playoffs|&ensp;↪ Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamParticipants|showplayerinfo=true
+|{{Opponent|Red Dunes Esports
+  |players={{Persons
+    |{{Person|AngryBird|flag=|team=}}
+    |{{Person|Big Bird|flag=|team=}}
+    |{{Person|Phenom|flag=|team=}}
+    |{{Person|Juicyjoe|flag=|team=}}
+  }}
+}}
+|{{Opponent|MOUZ
+  |players={{Persons
+    |{{Person|Problem X|flag=|team=}}
+    |{{Person|EndingWalker|flag=|team=}}
+    |{{Person|Lexx|flag=|team=}}
+    |{{Person|DCQ|flag=|team=}}
+  }}
+}}
+|{{Opponent|Team Falcons
+  |players={{Persons
+    |{{Person|Kusanagi|link=Kusanagi (French Player)|flag=|team=}}
+    |{{Person|Xiao Hai|flag=|team=}}
+    |{{Person|Micky|flag=|team=}}
+    |{{Person|Vxbao|flag=|team=All Gamers}}
+  }}
+}}
+|{{Opponent|Yesports
+  |players={{Persons
+    |{{Person|Chris Wong|flag=|team=}}
+    |{{Person|HotDog29|flag=|team=}}
+    |{{Person|Rainpro|flag=|team=}}
+    |{{Person|Keekuma|flag=|team=}}
+  }}
+}}
+|{{Opponent|MVS
+  |players={{Persons
+    |{{Person|Mister Crimson|flag=|team=}}
+    |{{Person|Kilzyou|flag=|team=All Gamers}}
+    |{{Person|NL|flag=|team=}}
+    |{{Person|Leshar|flag=|team=}}
+  }}
+}}
+|{{Opponent|GTW
+  |players={{Persons
+    |{{Person|Xian|flag=|team=}}
+    |{{Person|Hope|flag=|team=}}
+    |{{Person|Zhen|flag=|team=}}
+    |{{Person|Bravery|flag=|team=}}
+  }}
+}}
+}}
+
+==Additional Content==
+===Streams=== 
+{{Streams |lang1=usuk |twitch1=Capcomfighters |youtube1=c/CapcomFighters }} 
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=Logan Sama
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator 
+|b1=Tyrant|b1link=Tyrant (UK player)
+|b2=Jammerz
+|b3=
+|b4=
+}} 
+{{box|end|padding=2em}}
+
+==References==
+{{Reflist}}

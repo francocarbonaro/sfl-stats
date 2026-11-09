@@ -1,0 +1,1629 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2024: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{SFL JP 2024 Tabs}}
+==Results==
+===Division S===
+{{box|start|padding=2em}}
+<section begin="DivS"/>{{GroupTableLeague|title=Division S
+|width=420px|show_g=false|show_p=true|diff=false
+|tournament=Street Fighter League/Japan/2024/Regular Season
+|pbg1=seedup|pbg2=up|pbg3=up|pbg4=down|pbg5=down|pbg6=down
+|win_p=0|tie_p=0|lose_p=0
+|40-0_p=40|30-10_p=30|25-20_p=25|20-25_p=20|10-30_p=10|0-40_p=0
+|roundtitle=Week
+|round1edate=2024-08-17|round2edate=2024-08-28|round3edate=2024-09-04
+|round4edate=2024-09-11|round5edate=2024-09-21|round6edate=2024-10-05
+|round7edate=2024-10-23|round8edate=2024-10-30|round9edate=2024-11-06
+|edate=2024-11-20
+|{{TeamOpponent|Good 8 Squad}}           |bg1=seedup
+|{{TeamOpponent|ibushigin}}         	 |bg2=up
+|{{TeamOpponent|Saishunkan Sol Kumamoto}}|bg3=up
+|{{TeamOpponent|Shinobism Gaming}}		|bg4=down
+|{{TeamOpponent|Nagoya Oja Body Star}}	|bg5=down
+|{{TeamOpponent|Detonation focusme}}	|bg6=down
+}}<section end="DivS"/>
+:
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Japan/2024/Regular Season
+|team1=Good 8 Squad
+|team2=ibushigin
+|team3=Saishunkan Sol Kumamoto
+|team4=Shinobism Gaming
+|team5=Nagoya Oja Body Star
+|team6=Detonation focusme
+|double=true
+}}
+{{box|end}}
+
+===Division F===
+{{box|start|padding=2em}}
+<section begin="DivF"/>{{GroupTableLeague|title=Division F
+|width=420px|show_g=false|show_p=true|diff=false
+|tournament=Street Fighter League/Japan/2024/Regular Season
+|pbg1=seedup|pbg2=up|pbg3=up|pbg4=down|pbg5=down|pbg6=down
+|win_p=0|tie_p=0|lose_p=0
+|40-0_p=40|30-10_p=30|25-20_p=25|20-25_p=20|10-30_p=10|0-40_p=0
+|roundtitle=Week
+|round1edate=2024-08-21|round2edate=2024-08-31|round3edate=2024-09-07
+|round4edate=2024-09-19|round5edate=2024-10-02|round6edate=2024-10-09
+|round7edate=2024-10-26|round8edate=2024-11-02|round9edate=2024-11-16
+|edate=2024-11-23
+|{{TeamOpponent|REJECT}}          |bg1=seedup
+|{{TeamOpponent|Crazy Raccoon}}   |bg2=up
+|{{TeamOpponent|Team iXA}}        |bg3=up
+|{{TeamOpponent|CAG osaka}}  	|bg4=down
+|{{TeamOpponent|VARREL}}     	|bg5=down
+|{{TeamOpponent|FAV gaming}} 	|bg6=down
+}}<section end="DivF"/>
+:
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Japan/2024/Regular Season
+|team1=REJECT
+|team2=Crazy Raccoon
+|team3=Team iXA
+|team4=CAG osaka
+|team5=VARREL
+|team6=FAV gaming
+|double=true
+}}
+{{box|end}}
+
+==Details==
+{{Toggle group start|state=show}}
+{{tabs dynamic|hide-showall=true
+|name1=Division S|icon1=results
+|name2=Division F|icon2=results
+}}
+{{tabs dynamic/tab|1}}
+===Division S===
+{{box|start|padding=2em}}
+===={{HiddenSort|Week 1}}====
+{{Matchlist|collapsed=false|title=Week 1 Matches|width=330px |id=5UpbuE6MT0
+|M1={{Match
+|opponent1={{TeamOpponent|score=25|Detonation focusme}}
+|opponent2={{TeamOpponent|score=20|Nagoya Oja Body Star}}
+|date=2024-08-16
+|winner=1
+|vod=https://www.youtube.com/watch?v=uxje4K6ncHA&t=2540s
+|map1={{Map
+|t1p1=Machabo|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Mocchii|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Nauman|o1p1={{Chars|ken}}|score1=2
+|t2p1=Otani|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=2
+|t2p1=KEI.B|o2p1={{Chars|bison}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Machabo|o1p1={{Chars|akuma}}|score1=1
+|t2p1=KEI.B|o2p1={{Chars|bison}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|Good 8 Squad}}
+|opponent2={{TeamOpponent|score=0|Shinobism Gaming}}
+|date=2024-08-16
+|winner=1
+|vod=https://www.youtube.com/watch?v=uxje4K6ncHA&t=7982s
+|map1={{Map
+|t1p1=YHC-Mochi|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=Momochi|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Fujimura|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Johnny|o2p1={{Chars|marisa}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=25|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|score=20|ibushigin}}
+|date=2024-08-16
+|winner=1
+|vod=https://www.youtube.com/watch?v=uxje4K6ncHA&t=12360s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=2
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Yanai|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Kakeru|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=1
+|t2p1=Kakeru|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 2}}====
+{{Matchlist|collapsed=false|title=Week 2 Matches|width=330px |id=i4iEQQncrl
+|M1={{Match
+|opponent1={{TeamOpponent|score=30|Shinobism Gaming}}
+|opponent2={{TeamOpponent|score=10|Detonation focusme}}
+|winner=1
+|vod=https://www.youtube.com/watch?v=jdZyF0FVTBk&t=2452s
+|date=2024-08-27
+|map1={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|ed}}|score1=0
+|t2p1=John Takeuchi|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fujimura|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Itabashi Zangief|o2p1={{Chars|zangief}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=3
+|t2p1=Machabo|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=20|ibushigin}}
+|opponent2={{TeamOpponent|score=25|Nagoya Oja Body Star}}
+|winner=2
+|vod=https://www.youtube.com/watch?v=jdZyF0FVTBk&t=6660s
+|date=2024-08-27
+|map1={{Map
+|t1p1=cosa|o1p1={{Chars|ken}}|score1=2
+|t2p1=Tachikawa|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kakeru|o1p1={{Chars|akuma}}|score1=2
+|t2p1=KEI.B|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Sasamo|o1p1={{Chars|ed}}|score1=1
+|t2p1=Otani|o2p1={{Chars|ken}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Kakeru|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Tachikawa|o2p1={{Chars|ed}}|score2=1
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=30|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|score=10|Good 8 Squad}}
+|winner=1
+|vod=https://www.youtube.com/watch?v=jdZyF0FVTBk&t=11701s
+|date=2024-08-27
+|map1={{Map
+|t1p1=Nemo|o1p1={{Chars|bison}}|score1=1
+|t2p1=pugera|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=2
+|t2p1=gachikun|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=3
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 3}}====
+{{Matchlist|collapsed=false|title=Week 3 Matches|width=330px |id=CMHUSV9LCP
+|M1={{Match
+|opponent1={{TeamOpponent|score=30|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|score=10|Saishunkan Sol Kumamoto}}
+|date=2024-09-03
+|winner=1
+|vod=https://www.youtube.com/live/Vqi53ifYFpo?si=chaS78PdGtsYgBO4&t=2839
+|map1={{Map
+|t1p1=KEI.B|o1p1={{Chars|bison}}|score1=2
+|t2p1=Daigo|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Otani|o1p1={{Chars|ken}}|score1=1
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Tachikawa|o1p1={{Chars|manon}}|score1=3
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|Good 8 Squad}}
+|opponent2={{TeamOpponent|score=0|Detonation focusme}}
+|date=2024-09-03
+|winner=1
+|vod=https://www.youtube.com/live/Vqi53ifYFpo?si=-yQIYsl961BvWwJj&t=7301
+|map1={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Itabashi Zangief|o2p1={{Chars|zangief}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=pugera|o1p1={{Chars|bison}}|score1=3
+|t2p1=Machabo|o2p1={{Chars|akuma}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=20|Shinobism Gaming}}
+|opponent2={{TeamOpponent|score=25|ibushigin}}
+|date=2024-09-03
+|winner=2
+|vod=https://www.youtube.com/live/Vqi53ifYFpo?si=97MCtLOVTeOK-Ycz&t=11049
+|map1={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|ed}}|score1=0
+|t2p1=cosa|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fujimura|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=3
+|t2p1=Kakeru|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=0
+|t2p1=Kakeru|o2p1={{Chars|akuma}}|score2=1
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 4}}====
+{{Matchlist|collapsed=false|title=Week 4 Matches|width=330px |id=Kp6XHG9SWC
+|M1={{Match
+|opponent1={{TeamOpponent|score=30|Good 8 Squad}}
+|opponent2={{TeamOpponent|score=10|Nagoya Oja Body Star}}
+|date=2024-09-10
+|winner=1
+|vod=https://www.youtube.com/watch?v=v0VLPfTZoJk&t=2675s
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=2
+|t2p1=otani|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=0
+|t2p1=KEI.B|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=pugera|o1p1={{Chars|bison}}|score1=3
+|t2p1=Mocchii|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=30|Shinobism Gaming}}
+|opponent2={{TeamOpponent|score=10|Saishunkan Sol Kumamoto}}
+|date=2024-09-10
+|winner=1
+|vod=https://www.youtube.com/watch?v=v0VLPfTZoJk&t=6320s
+|map1={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|ed}}|score1=2
+|t2p1=Daigo|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Johnny|o1p1={{Chars|marisa}}|score1=0
+|t2p1=Nemo|o2p1={{Chars|blanka}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=3
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=30|ibushigin}}
+|opponent2={{TeamOpponent|score=10|Detonation focusme}}
+|date=2024-09-10
+|winner=1
+|vod=https://www.youtube.com/watch?v=v0VLPfTZoJk&t=10178s
+|map1={{Map
+|t1p1=Yanai|o1p1={{Chars|bison}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Sasamo|o1p1={{Chars|ed}}|score1=1
+|t2p1=Machabo|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kakeru|o1p1={{Chars|bison}}|score1=3
+|t2p1=Itabashi Zangief|o2p1={{Chars|zangief}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 5}}====
+{{Matchlist|collapsed=false|title=Week 5 Matches|width=330px |id=oYkJqcW0bg
+|M1={{Match
+|opponent1={{TeamOpponent|score=10|ibushigin}}
+|opponent2={{TeamOpponent|score=30|Good 8 Squad}}
+|date=2024-09-20
+|winner=2
+|vod=https://www.youtube.com/watch?v=80Ip0PmR4eU&t=2356s
+|map1={{Map
+|t1p1=Sasamo|o1p1={{Chars|ed}}|score1=0
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=cosa|o1p1={{Chars|ken}}|score1=2
+|t2p1=Kawano|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kakeru|o1p1={{Chars|bison}}|score1=1
+|t2p1=gachikun|o2p1={{Chars|rashid}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=10|Detonation focusme}}
+|opponent2={{TeamOpponent|score=30|Saishunkan Sol Kumamoto}}
+|date=2024-09-20
+|winner=2
+|vod=https://www.youtube.com/watch?v=80Ip0PmR4eU&t=6517s
+|map1={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|zangief}}|score1=0
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Machabo|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=0|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|score=40|Shinobism Gaming}}
+|date=2024-09-20
+|winner=2
+|vod=https://www.youtube.com/watch?v=80Ip0PmR4eU&t=10092s
+|map1={{Map
+|t1p1=Otani|o1p1={{Chars|ken}}|score1=0
+|t2p1=Yamaguchi|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Tachikawa|o1p1={{Chars|manon}}|score1=0
+|t2p1=Momochi|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|bison}}|score1=1
+|t2p1=Fujimura|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 6}}====
+{{Matchlist|collapsed=false|title=Week 6 Matches|width=330px |id=zW0kcjEVvu
+|M1={{Match
+|opponent1={{TeamOpponent|score=0|ibushigin}}
+|opponent2={{TeamOpponent|score=40|Saishunkan Sol Kumamoto}}
+|date=2024-10-04
+|winner=2
+|vod=https://www.youtube.com/watch?v=L1j0Hke6N4g&t=2166s
+|map1={{Map
+|t1p1=Kakeru|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Nemo|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Yanai|o1p1={{Chars|bison}}|score1=0
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=cosa|o1p1={{Chars|ken}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|Shinobism Gaming}}
+|opponent2={{TeamOpponent|score=0|Good 8 Squad}}
+|date=2024-10-04
+|winner=1
+|vod=https://www.youtube.com/watch?v=L1j0Hke6N4g&t=6704s
+|map1={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=2
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|ed}}|score1=2
+|t2p1=Kawano|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fujimura|o1p1={{Chars|akuma}}|score1=3
+|t2p1=gachikun|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=30|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|score=10|Detonation focusme}}
+|date=2024-10-04
+|winner=1
+|vod=https://www.youtube.com/watch?v=L1j0Hke6N4g&t=10357s
+|map1={{Map
+|t1p1=Otani|o1p1={{Chars|ken}}|score1=2
+|t2p1=Itabashi Zangief|o2p1={{Chars|zangief}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=KEI.B|o1p1={{Chars|bison}}|score1=0
+|t2p1=Machabo|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Tachikawa|o1p1={{Chars|ed}}|score1=3
+|t2p1=John Takeuchi|o2p1={{Chars|rashid}}|score2=2
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 7}}====
+{{Matchlist|collapsed=false|title=Week 7 Matches|width=330px |id=eIS96Ja07F
+|M1={{Match
+|opponent1={{TeamOpponent|score=30|Good 8 Squad}}
+|opponent2={{TeamOpponent|score=10|Saishunkan Sol Kumamoto}}
+|date=2024-10-22
+|winner=1
+|vod=https://www.youtube.com/watch?v=GvCQ6UpWGRs&t=2244s
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=pugera|o1p1={{Chars|bison}}|score1=3
+|t2p1=Daigo|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=25|Detonation focusme}}
+|opponent2={{TeamOpponent|score=20|Shinobism Gaming}}
+|date=2024-10-22
+|winner=1
+|vod=https://www.youtube.com/watch?v=GvCQ6UpWGRs&t=6026s
+|map1={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=1
+|t2p1=Fujimura|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nauman|o1p1={{Chars|ken}}|score1=1
+|t2p1=Yamaguchi|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Machabo|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Momochi|o2p1={{Chars|ed}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Machabo|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Momochi|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=0|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|score=40|ibushigin}}
+|date=2024-10-22
+|winner=2
+|vod=https://www.youtube.com/watch?v=GvCQ6UpWGRs&t=10597s
+|map1={{Map
+|t1p1=Otani|o1p1={{Chars|ken}}|score1=0
+|t2p1=Kakeru|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=KEI.B|o1p1={{Chars|bison}}|score1=0
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Tachikawa|o1p1={{Chars|ed}}|score1=2
+|t2p1=cosa|o2p1={{Chars|ken}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 8}}====
+{{Matchlist|collapsed=false|title=Week 8 Matches|width=330px |id=T8EaLyq7cm
+|M1={{Match
+|opponent1={{TeamOpponent|score=30|ibushigin}}
+|opponent2={{TeamOpponent|score=10|Shinobism Gaming}}
+|date=2024-10-29
+|winner=1
+|vod=https://www.youtube.com/watch?v=gODfd2PeIQY&t=2204s
+|map1={{Map
+|t1p1=Sasamo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Fujimura|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=cosa|o1p1={{Chars|ken}}|score1=0
+|t2p1=Momochi|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kakeru|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Yamaguchi|o2p1={{Chars|ed}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|score=0|Nagoya Oja Body Star}}
+|date=2024-10-29
+|winner=1
+|vod=https://www.youtube.com/watch?v=gODfd2PeIQY&t=5732s
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Tachikawa|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Nemo|o1p1={{Chars|bison}}|score1=2
+|t2p1=Otani|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=3
+|t2p1=KEI.B|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=25|Detonation focusme}}
+|opponent2={{TeamOpponent|score=20|Good 8 Squad}}
+|date=2024-10-29
+|winner=1
+|vod=https://www.youtube.com/watch?v=gODfd2PeIQY&t=9459s
+|map1={{Map
+|t1p1=Nauman|o1p1={{Chars|ken}}|score1=1
+|t2p1=Kawano|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Pugera|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|zangief}}|score1=3
+|t2p1=gachikun|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|zangief}}|score1=1
+|t2p1=gachikun|o2p1={{Chars|rashid}}|score2=0
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 9}}====
+{{Matchlist|collapsed=false|title=Week 9 Matches|width=330px |id=lQk7U3vaGF
+|M1={{Match
+|opponent1={{TeamOpponent|score=20|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|score=25|Good 8 Squad}}
+|date=2024-11-05
+|winner=2
+|vod=https://www.youtube.com/watch?v=CSH0lOjMnvM&t=2169s
+|map1={{Map
+|t1p1=Tachikawa|o1p1={{Chars|ed}}|score1=0
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mocchii|o1p1={{Chars|akuma}}|score1=0
+|t2p1=gachikun|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|bison}}|score1=3
+|t2p1=Kawano|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Mocchii|o1p1={{Chars|akuma}}|score1=0
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=1
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=0|Detonation focusme}}
+|opponent2={{TeamOpponent|score=40|ibushigin}}
+|date=2024-11-05
+|winner=2
+|vod=https://www.youtube.com/watch?v=CSH0lOjMnvM&t=6150s
+|map1={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|zangief}}|score1=0
+|t2p1=Kakeru|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Machabo|o1p1={{Chars|akuma}}|score1=1
+|t2p1=cosa|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Nauman|o1p1={{Chars|ken}}|score1=1
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=30|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|score=10|Shinobism Gaming}}
+|date=2024-11-05
+|winner=1
+|vod=https://www.youtube.com/watch?v=CSH0lOjMnvM&t=10144s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=1
+|t2p1=Johnny|o2p1={{Chars|marisa}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Momochi|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Daigo|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Yamaguchi|o2p1={{Chars|ed}}|score2=2
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 10}}====
+{{Matchlist|collapsed=false|title=Week 10 Matches|width=330px |id=vtYXJ3vVxj
+|M1={{Match
+|opponent1={{TeamOpponent|score=10|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|score=30|Detonation focusme}}
+|winner=2
+|date=2024-11-19
+|vod=https://www.youtube.com/watch?v=roqijn6LiK4&t=2284s
+|map1={{Map
+|t1p1=Nemo|o1p1={{Chars|bison}}|score1=2
+|t2p1=Itabashi Zangief|o2p1={{Chars|zangief}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=1
+|t2p1=Machabo|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=2
+|t2p1=John Takeuchi|o2p1={{Chars|rashid}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=20|Shinobism Gaming}}
+|opponent2={{TeamOpponent|score=25|Nagoya Oja Body Star}}
+|winner=2
+|date=2024-11-19
+|vod=https://www.youtube.com/watch?v=roqijn6LiK4&t=7413s
+|map1={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|ed}}|score1=0
+|t2p1=Mocchii|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fujimura|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Otani|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=3
+|t2p1=KEI.B|o2p1={{Chars|bison}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Momochi|o1p1={{Chars|ed}}|score1=0
+|t2p1=Tachikawa|o2p1={{Chars|manon}}|score2=1
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=20|Good 8 Squad}}
+|opponent2={{TeamOpponent|score=25|ibushigin}}
+|winner=2
+|date=2024-11-19
+|vod=https://www.youtube.com/watch?v=roqijn6LiK4&t=12465s
+|map1={{Map
+|t1p1=YHC-Mochi|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=Yanai|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=pugera|o1p1={{Chars|bison}}|score1=0
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=3
+|t2p1=Kakeru|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=1
+|winner=2
+}}
+}}
+
+}}
+{{box|end|padding=2em}}
+{{tabs dynamic/tab|2}}
+
+===Division F===
+{{box|start|padding=2em}}
+===={{HiddenSort|Week 1}}====
+{{Matchlist|collapsed=false|title=Week 1 Matches|width=330px |id=6bAq0Mexvj
+|M1={{Match
+|opponent1={{TeamOpponent|score=10|REJECT}}
+|opponent2={{TeamOpponent|score=30|Team iXA}}
+|date=2024-08-20
+|winner=2
+|vod=https://www.youtube.com/watch?v=WIOmSCC2_20&t=2441s
+|map1={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=Jazzy|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Torimeshi|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=Acqua|o2p1={{Chars|blanka}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|aki}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=skip
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=30|CAG osaka}}
+|opponent2={{TeamOpponent|score=10|VARREL}}
+|date=2024-08-20
+|winner=1
+|vod=https://www.youtube.com/watch?v=WIOmSCC2_20&t=6963s
+|map1={{Map
+|t1p1=Uryo|o1p1={{Chars|jamie}}|score1=0
+|t2p1=Mago|o2p1={{Chars|juri}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=2
+|t2p1=moke|o2p1={{Chars|chunli}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|chunli}}|score1=3
+|t2p1=daikoku|o2p1={{Chars|guile}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=skip
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=30|Crazy Raccoon}}
+|opponent2={{TeamOpponent|score=10|FAV gaming}}
+|date=2024-08-20
+|winner=1
+|vod=https://www.youtube.com/watch?v=WIOmSCC2_20&t=11702s
+|map1={{Map
+|t1p1=Bonchan|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Ryusei|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=shuto|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Ryukichi|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kazunoko|o1p1={{Chars|cammy}}|score1=3
+|t2p1=ts|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=skip
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 2}}====
+{{Matchlist|collapsed=false|title=Week 2 Matches|width=330px |id=k9JHyoXdpK
+|M1={{Match
+|opponent1={{TeamOpponent|score=10|VARREL}}
+|opponent2={{TeamOpponent|score=30|REJECT}}
+|date=2024-08-30
+|winner=2
+|vod=https://www.youtube.com/watch?v=aCwngfwv5Hg&t=2448s
+|map1={{Map
+|t1p1=moke|o1p1={{Chars|chunli}}|score1=0
+|t2p1=Torimeshi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mago|o1p1={{Chars|juri}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Mizuha|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=0|FAV gaming}}
+|opponent2={{TeamOpponent|score=40|Team iXA}}
+|date=2024-08-30
+|winner=2
+|vod=https://www.youtube.com/watch?v=aCwngfwv5Hg&t=6175s
+|map1={{Map
+|t1p1=ts|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Jazzy|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=sako|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Hibiki|o2p1={{Chars|lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|ken}}|score1=1
+|t2p1=Hikaru|o2p1={{Chars|aki}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=0|Crazy Raccoon}}
+|opponent2={{TeamOpponent|score=40|CAG osaka}}
+|date=2024-08-30
+|winner=2
+|vod=https://www.youtube.com/watch?v=aCwngfwv5Hg&t=9836s
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=0
+|t2p1=GO1|o2p1={{Chars|cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Bonchan|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Uryo|o2p1={{Chars|jamie}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Fenritti|o2p1={{Chars|blanka}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 3}}====
+{{Matchlist|collapsed=false|title=Week 3 Matches|width=330px |id=lCZfUfxxCS
+|M1={{Match
+|opponent1={{TeamOpponent|score=20|Team iXA}}
+|opponent2={{TeamOpponent|score=25|Crazy Raccoon}}
+|date=2024-09-06
+|winner=2
+|vod=https://www.youtube.com/watch?v=vBd5QBub1aA&t=2356s
+|map1={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Acqua|o1p1={{Chars|blanka}}|score1=2
+|t2p1=Shuto|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hibiki|o1p1={{Chars|lily}}|score1=0
+|t2p1=Dogura|o2p1={{Chars|bison}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=0
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=1
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=20|CAG osaka}}
+|opponent2={{TeamOpponent|score=25|REJECT}}
+|date=2024-09-06
+|winner=2
+|vod=https://www.youtube.com/watch?v=vBd5QBub1aA&t=6238s
+|map1={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|chunli}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=0
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=1
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=40|VARREL}}
+|opponent2={{TeamOpponent|score=0|FAV gaming}}
+|date=2024-09-06
+|winner=1
+|vod=https://www.youtube.com/watch?v=vBd5QBub1aA&t=11629s
+|map1={{Map
+|t1p1=Mago|o1p1={{Chars|juri}}|score1=2
+|t2p1=Ryukichi|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mizuha|o1p1={{Chars|cammy}}|score1=2
+|t2p1=sako|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=daikoku|o1p1={{Chars|guile}}|score1=3
+|t2p1=Ryusei|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 4}}====
+{{Matchlist|collapsed=false|title=Week 4 Matches|width=330px |id=4G9stJYtyy
+|M1={{Match
+|opponent1={{TeamOpponent|score=20|CAG osaka}}
+|opponent2={{TeamOpponent|score=25|Team iXA}}
+|date=2024-09-18
+|winner=2
+|vod=https://www.youtube.com/live/BIq2NdVqtzc?si=G1xzUGmkYD6A3aUB&t=2705
+|map1={{Map
+|t1p1=Uryo|o1p1={{Chars|jamie}}|score1=0
+|t2p1=Hikaru|o2p1={{Chars|aki}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Hibiki|o2p1={{Chars|lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=3
+|t2p1=Acqua|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=0
+|t2p1=Hikaru|o2p1={{Chars|aki}}|score2=1
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=0|VARREL}}
+|opponent2={{TeamOpponent|score=40|Crazy Raccoon}}
+|date=2024-09-18
+|winner=2
+|vod=https://www.youtube.com/live/BIq2NdVqtzc?si=qZ1Uvk3GGtdGjvPX&t=6803
+|map1={{Map
+|t1p1=Mago|o1p1={{Chars|juri}}|score1=1
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=daikoku|o1p1={{Chars|guile}}|score1=1
+|t2p1=Dogura|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mizuha|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=0|FAV gaming}}
+|opponent2={{TeamOpponent|score=40|REJECT}}
+|date=2024-09-18
+|winner=2
+|vod=https://www.youtube.com/live/BIq2NdVqtzc?si=j7YRqX5Wflwo6w2B&t=10877
+|map1={{Map
+|t1p1=ts|o1p1={{Chars|ken}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Ryusei|o1p1={{Chars|bison}}|score1=1
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|ken}}|score1=1
+|t2p1=Akira|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 5}}====
+{{Matchlist|collapsed=false|title=Week 5 Matches|width=330px |id=KDfw1wOCkk
+|M1={{Match
+|opponent1={{TeamOpponent|score=20|FAV gaming}}
+|opponent2={{TeamOpponent|score=25|CAG osaka}}
+|date=2024-10-01
+|winner=2
+|vod=https://www.youtube.com/watch?v=BnZWdVRSA-o&t=2288s
+|map1={{Map
+|t1p1=Ryukichi|o1p1={{Chars|ken}}|score1=1
+|t2p1=GO1|o2p1={{Chars|chunli}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=sako|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Uryo|o2p1={{Chars|jamie}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ts|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Fenritti|o2p1={{Chars|blanka}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=ts|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Uryo|o2p1={{Chars|jamie}}|score2=1
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=30|REJECT}}
+|opponent2={{TeamOpponent|score=10|Crazy Raccoon}}
+|date=2024-10-01
+|winner=1
+|vod=https://www.youtube.com/watch?v=BnZWdVRSA-o&t=6395s
+|map1={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=1
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=20|Team iXA}}
+|opponent2={{TeamOpponent|score=25|VARREL}}
+|date=2024-10-01
+|winner=2
+|vod=https://www.youtube.com/watch?v=BnZWdVRSA-o&t=10325s
+|map1={{Map
+|t1p1=Jazzy|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Mizuha|o2p1={{Chars|cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|lily}}|score1=0
+|t2p1=daikoku|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=3
+|t2p1=moke|o2p1={{Chars|chunli}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=0
+|t2p1=moke|o2p1={{Chars|chunli}}|score2=1
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 6}}====
+{{Matchlist|collapsed=false|title=Week 6 Matches|width=330px |id=T5soiuSaXw
+|M1={{Match
+|opponent1={{TeamOpponent|score=20|FAV gaming}}
+|opponent2={{TeamOpponent|score=25|Crazy Raccoon}}
+|date=2024-10-08
+|winner=2
+|vod=https://www.youtube.com/watch?v=0HvVaoxp26A&t=2251s
+|map1={{Map
+|t1p1=Sako|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Shuto|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=ts|o1p1={{Chars|ken}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|ken}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Ryukichi|o1p1={{Chars|ken}}|score1=0
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=1
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|VARREL}}
+|opponent2={{TeamOpponent|score=0|CAG osaka}}
+|date=2024-10-08
+|winner=1
+|vod=https://www.youtube.com/watch?v=0HvVaoxp26A&t=6374s
+|map1={{Map
+|t1p1=Mizuha|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Uryo|o2p1={{Chars|jamie}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Moke|o1p1={{Chars|chunli}}|score1=2
+|t2p1=Fenritti|o2p1={{Chars|blanka}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Mago|o1p1={{Chars|juri}}|score1=3
+|t2p1=GO1|o2p1={{Chars|chunli}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=10|Team iXA}}
+|opponent2={{TeamOpponent|score=30|REJECT}}
+|date=2024-10-08
+|winner=2
+|vod=https://www.youtube.com/watch?v=0HvVaoxp26A&t=10393s
+|map1={{Map
+|t1p1=Acqua|o1p1={{Chars|blanka}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|lily}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|dhalsim}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=2
+|t2p1=Akira|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 7}}====
+{{Matchlist|collapsed=false|title=Week 7 Matches|width=330px |id=AMhh2thnk6
+|M1={{Match
+|opponent1={{TeamOpponent|score=0|CAG osaka}}
+|opponent2={{TeamOpponent|score=40|Crazy Raccoon}}
+|date=2024-10-25
+|winner=2
+|vod=https://www.youtube.com/live/oGs-eArrAUs?si=9YYPzZKaBhnhJovc&t=2680
+|map1={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=0
+|t2p1=Dogura|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Uryo|o1p1={{Chars|jamie}}|score1=1
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|REJECT}}
+|opponent2={{TeamOpponent|score=0|VARREL}}
+|date=2024-10-25
+|winner=1
+|vod=https://www.youtube.com/watch?v=oGs-eArrAUs&t=6511s
+|map1={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=Mizuha|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Moke|o2p1={{Chars|chun-li}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=3
+|t2p1=Mago|o2p1={{Chars|juri}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=25|Team iXA}}
+|opponent2={{TeamOpponent|score=20|FAV gaming}}
+|date=2024-10-25
+|winner=1
+|vod=https://www.youtube.com/watch?v=oGs-eArrAUs&t=10666s
+|map1={{Map
+|t1p1=Jazzy|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Ryukichi|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=ACQUA|o1p1={{Chars|blanka}}|score1=1
+|t2p1=ts|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=3
+|t2p1=Ryusei|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=1
+|t2p1=Ryukichi|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 8}}====
+{{Matchlist|collapsed=false|title=Week 8 Matches|width=330px |id=WVOZsG1BRu
+|M1={{Match
+|opponent1={{TeamOpponent|score=10|FAV gaming}}
+|opponent2={{TeamOpponent|score=30|VARREL}}
+|date=2024-11-01
+|winner=2
+|vod=https://www.youtube.com/watch?v=gQT3co-WMgY&t=2193s
+|map1={{Map
+|t1p1=Ryusei|o1p1={{Chars|jp}}|score1=2
+|t2p1=daikoku|o2p1={{Chars|guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Ryukichi|o1p1={{Chars|ken}}|score1=1
+|t2p1=Mizuha|o2p1={{Chars|cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ts|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Mago|o2p1={{Chars|juri}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=40|Crazy Raccoon}}
+|opponent2={{TeamOpponent|score=0|Team iXA}}
+|date=2024-11-01
+|winner=1
+|vod=https://www.youtube.com/watch?v=gQT3co-WMgY&t=6158s
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|manon}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=2
+|t2p1=Acqua|o2p1={{Chars|blanka}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Hibiki|o2p1={{Chars|lily}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=40|REJECT}}
+|opponent2={{TeamOpponent|score=0|CAG osaka}}
+|date=2024-11-01
+|winner=1
+|vod=https://www.youtube.com/watch?v=gQT3co-WMgY&t=10540s
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Fenritti|o2p1={{Chars|blanka}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=GO1|o2p1={{Chars|chunli}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=3
+|t2p1=Eita|o2p1={{Chars|akuma}}|score2=1
+|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 9}}====
+{{Matchlist|collapsed=false|title=Week 9 Matches|width=330px |id=BqyHdMmjz4
+|M1={{Match
+|opponent1={{TeamOpponent|score=40|REJECT}}
+|opponent2={{TeamOpponent|score=0|FAV gaming}}
+|date=2024-11-15
+|winner=1
+|vod=https://www.youtube.com/watch?v=EIL5peIDm10&t=2186s
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=2
+|t2p1=ts|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=Ryusei|o2p1={{Chars|jp}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=3
+|t2p1=Ryukichi|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=20|Team iXA}}
+|opponent2={{TeamOpponent|score=25|CAG osaka}}
+|date=2024-11-15
+|winner=2
+|vod=https://www.youtube.com/watch?v=EIL5peIDm10&t=6041s
+|map1={{Map
+|t1p1=Acqua|o1p1={{Chars|blanka}}|score1=2
+|t2p1=Eita|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|lily}}|score1=2
+|t2p1=Fenritti|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=2
+|t2p1=GO1|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Hikaru|o1p1={{Chars|aki}}|score1=0
+|t2p1=GO1|o2p1={{Chars|cammy}}|score2=1
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=10|Crazy Raccoon}}
+|opponent2={{TeamOpponent|score=30|VARREL}}
+|date=2024-11-15
+|winner=2
+|vod=https://www.youtube.com/watch?v=EIL5peIDm10&t=10605s
+|map1={{Map
+|t1p1=Shuto|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Daikoku|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kazunoko|o1p1={{Chars|cammy}}|score1=1
+|t2p1=Moke|o2p1={{Chars|chunli}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Bonchan|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Mago|o2p1={{Chars|juri}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Week 10}}====
+{{Matchlist|collapsed=false|title=Week 10 Matches|width=330px |id=wCvTnAH148
+|M1={{Match
+|opponent1={{TeamOpponent|score=30|CAG osaka}}
+|opponent2={{TeamOpponent|score=10|FAV gaming}}
+|date=2024-11-22
+|winner=1
+|vod=https://www.youtube.com/watch?v=ghPNl-Y4sRg&t=2274s
+|map1={{Map
+|t1p1=Fenritti|o1p1={{Chars|blanka}}|score1=2
+|t2p1=Ryusei|o2p1={{Chars|jp}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Ryukichi|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|cammy}}|score1=3
+|t2p1=ts|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|score=25|Crazy Raccoon}}
+|opponent2={{TeamOpponent|score=20|REJECT}}
+|date=2024-11-22
+|winner=1
+|vod=https://www.youtube.com/watch?v=ghPNl-Y4sRg&t=6398s
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Akira|o2p1={{Chars|cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Shuto|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|dhalsim}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=0
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|score=0|VARREL}}
+|opponent2={{TeamOpponent|score=40|Team iXA}}
+|date=2024-11-22
+|winner=2
+|vod=https://www.youtube.com/watch?v=ghPNl-Y4sRg&t=11831s
+|map1={{Map
+|t1p1=Moke|o1p1={{Chars|chunli}}|score1=1
+|t2p1=Acqua|o2p1={{Chars|blanka}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mizuha|o1p1={{Chars|cammy}}|score1=1
+|t2p1=Hibiki|o2p1={{Chars|lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mago|o1p1={{Chars|juri}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|aki}}|score2=3
+|winner=2
+}}
+}}
+}}
+{{box|end|padding=2em}}
+{{tabs dynamic/end}}

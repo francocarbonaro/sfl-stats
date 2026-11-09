@@ -1,0 +1,183 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2023}}
+{{Street Fighter League Navbox}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Europe/2023
+|name2=Regular Season |link2=Street Fighter League/Europe/2023/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Europe/2023/Playoffs
+|This={{{This}}}
+}}
+{{Infobox league
+|name=Street Fighter League Pro-EU 2023
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-EU 2023 allmode.png
+|icon=Street Fighter League Pro-EU 2023 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United Kingdom
+|city=London
+|venue=
+
+|game=sf6
+|sdate=2023-11-17
+|edate=2024-02-01
+
+|website=https://streetfighterleagueeurope.com/
+|prizepool=75,000
+|localcurrency=eur
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|player_number=24
+|team_number=6
+|previous=Street Fighter League/Europe/2022{{!}}SFL Pro-EU 2022
+|next=Street Fighter League/Europe/2024{{!}}SFL Pro-EU 2024
+}}
+
+==Information==
+===Format===
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:500px;text-align:center;"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 1 || +5 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+*** 1st place team advance to the Grand Finals
+*** 2nd place team advance to the Semifinals
+*** 3rd and 4th teams advance to to the Quarterfinals
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2023|Street Fighter League World Championship 2023]]
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=Logan Sama|b1flag=gb
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator 
+|b1=Jammerz|b1flag=gb
+|b2=F-Word|b2flag=gb
+}} 
+{{box|end|padding=2em}} 
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=eur|cutafter=6
+|qualifies1=Street Fighter League/World_Championship/2023|qualifies1name=SFL World Championship 2023
+|tournament1={{FULLPAGENAME}}/Playoffs
+|{{Slot|place=1|qualified1=yes|localprize=60,000}}
+|{{Slot|place=2|localprize=15,000}}
+|{{Slot|place=3}}
+|{{Slot|place=4}}
+|{{Slot|place=5|{{Opponent|Wolves Esports|wdl=3/7}}}}
+|{{Slot|place=6|{{Opponent|Guild Esports|wdl=2/8}}}}
+|adjacentContent={{AwardPrizePool
+|{{Slot|award=Going Phase MVP|{{Opponent|Phenom|flag=no|team=00nation|usdprize=}}}}
+|{{Slot|award=Return Phase MVP|{{Opponent|MysticSmash|flag=gb|team=mouz|usdprize=}}}}
+|{{Slot|award=Playoffs MVP|{{Opponent|Lord Venom|flag=pl|team=00 nation|usdprize=}}}}
+}}
+}}
+
+==Results==
+===Regular Season===
+{{:Street Fighter League/Europe/2023/Regular Season}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2023/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=hedrSLglhk}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2023/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=MOUZ
+|p1=EndingWalker|p1flag=gb|p1team=M80
+|p2=MysticSmash|p2flag=gb|p2team=
+|p3=Problem X|p3flag=gb|p3team=MOUZ
+|p4=Broski|p4flag=gb|p4team=
+}}
+{{TeamCard
+|team=Wolves Esports
+|p1=Popi|p1flag=se|p1team=
+|p2=The4philzz|p2flag=gb|p2team=
+|p3=Shakz|p3flag=gb|p3team=
+|p4=Shivs|p4flag=gb|p4team=
+}}
+{{TeamCard
+|team=BK ROG Esports
+|p1=Luffy|p1flag=fr|p1team=BK ROG Esports
+|p2=Kayne|p2flag=fr|p2team=
+|p3=Nassim-Claw|p3flag=fr|p3team=
+|p4=Kusanagi|p4flag=fr|p4team=|p4link=Kusanagi (French Player)
+}}
+{{TeamCard
+|team=BMS ESPORTS
+|p1=Kilzyou|p1flag=fr|p1team=
+|p2=Mister Crimson|p2flag=fr|p2team=Team Falcons
+|p3=Akainu|p3flag=fr|p3team=AEGIS (french team)
+|p4=Valmaster|p4flag=fr|p4team=Team Falcons
+}}
+{{TeamCard
+|team=00 Nation
+|p1=Phenom|p1flag=no|p1team=00 Nation 
+|p2=Veggey|p2flag=no|p2team=00 Nation 
+|p3=Lord Venom|p3flag=pl|p3team=
+|p4=Rikemansbarnet|p4flag=se|p4team=
+}}
+{{TeamCard
+|team=Guild Esports
+|p1=JoKeR JoKeZ|p1flag=gb|p1team=Guild Esports
+|p2=VegaPatch|p2flag=es|p2team=Guild Esports
+|p3=Suleymon|p3flag=gb|p3team=Guild Esports
+|p4=Takamura|p4flag=be|p4team=Guild Esports
+}}
+{{TeamCard columns end}}
+
+<!--==Results==
+===Regular Season===
+{{:Street Fighter League/Europe/2022/Regular Season}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2022/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>-->
+
+<!--===Playoffs===
+{{:Street Fighter League/Europe/2022/Playoffs}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2022/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>-->
+
+==Additional Content==
+<!--===Articles===
+*{{ExternalMediaLink
+|date=
+|link=
+|title=
+|by=
+|of=
+}}-->
+===View Games=== 
+{{Streams |lang1=usuk |twitch1=capcomfighters |youtube1=c/CapcomFighters
+|lang2=fr |youtube2=@CapcomFrance}}
+
+==References==
+{{Reflist}}

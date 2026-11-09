@@ -1,0 +1,753 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2024: Regular Season}}{{HDB|phase=1}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2024
+|name2=Regular Season |link2=Street Fighter League/United States/2024/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2024/Playoffs
+|This={{{This}}}
+}}
+==Results==
+<onlyinclude>
+{{GroupTableLeague|title=SFL Pro-US 2024 Standings
+|width=400px|show_g=false|show_p=true|diff=false
+|tiebreaker1=points
+|tournament=Street Fighter League/United States/2024/Regular Season
+|pbg1=up|pbg2=stayup|pbg3=stay|pbg4=stay|pbg5=down|pbg6=down
+|win_p=0 |tie_p=0 |lose_p=0
+|{{TeamOpponent|FlyQuest}}|temp_p1=290
+|{{TeamOpponent|Fighting Spirit}}|temp_p2=220|temp_tie2=2
+|{{TeamOpponent|Cloud9}}|temp_p3=220|temp_tie3=1
+|{{TeamOpponent|Bandits}}|temp_p4=220|temp_tie4=0
+|{{TeamOpponent|Shopify Rebellion}}|temp_p5=200
+|{{TeamOpponent|Red Rooster}}|temp_p6=85
+}}
+</onlyinclude>
+<br/>
+
+==Details==
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 1 Matches|width=400px|id=VpgzNBHAAB
+|M1={{Match
+|opponent1={{TeamOpponent|Fighting Spirit|score=1}}
+|opponent2={{TeamOpponent|Cloud9|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/MgSXwRnOOlg?si=GusAv7BbhbV_Fzsp&t=2025
+|date=2024-10-16
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|dee jay}}|score1=1
+|t2p1=Booce|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=2
+|t2p1=Lexx|o2p1={{Chars|guile}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=1
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=3|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=1}}
+|opponent2={{TeamOpponent|FlyQuest|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/MgSXwRnOOlg?si=hf1njP_p9WuLeHCw&t=4928
+|date=2024-10-16
+|map1={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=0
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Mono|o1p1={{Chars|aki}}|score1=2
+|t2p1=Shine|o2p1={{Chars|kimberly}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=Brutus|o1p1={{Chars|zangief}}|score1=2
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=2}}
+|opponent2={{TeamOpponent|Bandits|score=1}}
+|winner=1
+|vod=https://www.youtube.com/live/MgSXwRnOOlg?si=PPolsywRgyIrcgS5&t=7922
+|date=2024-10-16
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Sayff|o1p1={{Chars|ken}}|score1=0
+|t2p1=Zhen|o2p1={{Chars|bison}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=3
+|t2p1=MenaRD|o2p1={{Chars|zangief}}|score2=1|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 2 Matches|width=400px|id=BWat73KSxO
+|M1={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=3}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=0}}
+|winner=1
+|date=2024-10-23
+|vod=https://www.youtube.com/live/8F-UWsVrotA?si=vjA0R5Jz9_HuvXBq&t=1857
+|map1={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=HotDog29|o2p1={{Chars|bison}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=2
+|t2p1=Sayff|o2p1={{Chars|ken}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=NuckleDu|o2p1={{Chars|guile}}|score2=0|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Bandits|score=2}}
+|opponent2={{TeamOpponent|Cloud9|score=2}}
+|winner=1
+|vod=https://www.youtube.com/live/8F-UWsVrotA?si=Vl86cbsALzrQnVoH&t=4413
+|date=2024-10-23
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|bison}}|score1=1
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=1
+|t2p1=Booce|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=3
+|t2p1=NoahTheProdigy|o2p1={{Chars|luke}}|score2=0|winner=1
+}}
+|map4={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=1
+|t2p1=Booce|o2p1={{Chars|ken}}|score2=0|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Fighting Spirit|score=2}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=1}}
+|winner=1
+|vod=https://www.youtube.com/live/8F-UWsVrotA?si=xtcdPYfRnA2CGoy9&t=7774
+|date=2024-10-23
+|map1={{Map
+|t1p1=Oil King|o1p1={{Chars|rashid}}|score1=1
+|t2p1=Uriel Velorio|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Brutus|o2p1={{Chars|zangief}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=3
+|t2p1=Ajax Fidelity|o2p1={{Chars|ed}}|score2=0|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|Bandits}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 3 Matches|width=400px|id=P41V6e6m6g
+|M1={{Match
+|opponent1={{TeamOpponent|Bandits|score=3}}
+|opponent2={{TeamOpponent|Red Rooster|score=0}}
+|winner=1
+|vod=https://www.youtube.com/live/SWiR9YIJkMo?si=KcBRUsJfnYmZDr26&t=2195
+|date=2024-10-30
+|map1={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=2
+|t2p1=Mono|o2p1={{Chars|aki}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=LuiMan20|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=Ajax Fidelity|o2p1={{Chars|ed}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=3
+|t2p1=Uriel Velorio|o2p1={{Chars|ken}}|score2=1|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Cloud9|score=2}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=1}}
+|winner=1
+|date=2024-10-30
+|vod=https://www.youtube.com/live/SWiR9YIJkMo?si=qK47D5SbdP6A3TA-&t=5082
+|map1={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|guile}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=0
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Booce|o1p1={{Chars|ken}}|score1=3
+|t2p1=HotDog29|o2p1={{Chars|bison}}|score2=1|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=2}}
+|opponent2={{TeamOpponent|Fighting Spirit|score=2}}
+|winner=1
+|date=2024-10-30
+|vod=https://www.youtube.com/live/SWiR9YIJkMo?si=sfVlHBDIz9YoASKH&t=8004
+|map1={{Map
+|t1p1=Psycho|o1p1={{Chars|kim}}|score1=0
+|t2p1=Oil King|o2p1={{Chars|rashid}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=0
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=DCQ|o2p1={{Chars|bison}}|score2=1|winner=1
+}}
+|map4={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=1
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=0|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 4 Matches|width=400px|id=GBzi3vg3nP
+|M1={{Match
+|opponent1={{TeamOpponent|Fighting Spirit|score=3}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=0}}
+|winner=1
+|date=2024-11-06
+|vod=https://www.youtube.com/live/kJ1yoZwTXt0?si=YFGLkilTc4kPW8qB&t=1859
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|deejay}}|score1=2
+|t2p1=Nuckledu|o2p1={{Chars|guile}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=2
+|t2p1=HotDog29|o2p1={{Chars|bison}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=2}}
+|opponent2={{TeamOpponent|Cloud9|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/kJ1yoZwTXt0?si=_5_1INfcyRtIYps1&t=4546
+|date=2024-11-06
+|map1={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=2
+|t2p1=NoahTheProdigy|o2p1={{Chars|luke}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Ajax Fidelity|o1p1={{Chars|ed}}|score1=2
+|t2p1=Lexx|o2p1={{Chars|guile}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=Brutus|o1p1={{Chars|zangief}}|score1=0
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=3|winner=2
+}}
+|map4={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=0
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=1|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=1}}
+|opponent2={{TeamOpponent|Bandits|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/kJ1yoZwTXt0?si=EaxEPpMi9zZ7-a6Y&t=7311
+|date=2024-11-06
+|map1={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=1
+|t2p1=LuiMan20|o2p1={{Chars|dhalsim}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=2
+|t2p1=MenaRD|o2p1={{Chars|zangief}}|score2=3|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Bandits}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 5 Matches|width=400px|id=KfkohT0Amk
+|M1={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=1}}
+|opponent2={{TeamOpponent|Cloud9|score=3}}
+|winner=2
+|vod=https://youtu.be/pS4vCHqLy7g?si=0AsISNOYzETxZ6Y3&t=2079
+|date=2024-11-13
+|map1={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=0
+|t2p1=Lexx|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Shine|o1p1={{Chars|kimberly}}|score1=0
+|t2p1=Booce|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=1|winner=1
+}}
+|map4={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Lexx|o2p1={{Chars|guile}}|score2=1|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=3}}
+|opponent2={{TeamOpponent|Red Rooster|score=0}}
+|winner=1
+|vod=https://youtu.be/pS4vCHqLy7g?si=jrEWWcHxUaV9_ptA&t=4876
+|date=2024-11-13
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|guile}}|score1=2
+|t2p1=Brutus|o2p1={{Chars|zangief}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=HotDog29|o1p1={{Chars|bison}}|score1=2
+|t2p1=Mono|o2p1={{Chars|aki}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=3
+|t2p1=Ajax Fidelity|o2p1={{Chars|ed}}|score2=0|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Bandits|score=1}}
+|opponent2={{TeamOpponent|Fighting Spirit|score=2}}
+|winner=2
+|vod=https://youtu.be/pS4vCHqLy7g?si=jS75s5ynR4g0Pveu&t=7309
+|date=2024-11-13
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|dee jay}}|score1=2
+|t2p1=Xian|o2p1={{Chars|dee jay}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=LuiMan20|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=DCQ|o2p1={{Chars|bison}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|Zangief|blanka}}|score1=2
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=3|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 6 Matches|width=400px|id=UtGpTVht2i
+|M1={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=3}}
+|opponent2={{TeamOpponent|Red Rooster|score=0}}
+|winner=1
+|vod=https://www.youtube.com/live/X-e4GM9ejZQ?si=buWsGHtFe7uH-GpT&t=1896
+|date=2024-11-20
+|map1={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Uriel Velorio|o2p1={{Chars|ken}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Shine|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=Ajax Fidelity|o2p1={{Chars|ed}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=3
+|t2p1=Brutus|o2p1={{Chars|zangief}}|score2=0|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Cloud9|score=0}}
+|opponent2={{TeamOpponent|Fighting Spirit|score=3}}
+|winner=2
+|vod=https://www.youtube.com/live/X-e4GM9ejZQ?si=pzQVjCzs-Dcy9__s&t=4106
+|date=2024-11-20
+|map1={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=1
+|t2p1=Oil King|o2p1={{Chars|rashid}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=NoahTheProdigy|o1p1={{Chars|luke}}|score1=0
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Booce|o1p1={{Chars|ken}}|score1=2
+|t2p1=DCQ|o2p1={{Chars|bison|jp}}|score2=3|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Bandits|score=3}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=1}}
+|winner=1
+|vod=https://www.youtube.com/live/X-e4GM9ejZQ?si=vtAf85mYefIL7ChG&t=6812
+|date=2024-11-20
+|map1={{Map
+|t1p1=MenaRD|o1p1={{Chars|zangief}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|deejay|cammy}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=2
+|t2p1=Sayff|o2p1={{Chars|ken}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Zhen|o1p1={{Chars|bison}}|score1=0
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=3|winner=2
+}}
+|map4={{Map
+|t1p1=MenaRD|o1p1={{Chars|zangief}}|score1=1
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=0|winner=1
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Bandits}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 7 Matches|width=400px|id=i235Ed0ws8
+|M1={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=2}}
+|opponent2={{TeamOpponent|FlyQuest|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/QyG8G4mo_cs?si=jeZlLttA4llmEHvO&t=2021
+|date=2024-11-27
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=2
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Sayff|o1p1={{Chars|ken}}|score1=2
+|t2p1=Punk|o2p1={{Chars|akuma|cammy}}|score2=3|winner=2
+}}
+|map4={{Map
+|t1p1=NuckleDu|o1p1={{Chars|cammy}}|score1=0
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=1|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Cloud9|score=3}}
+|opponent2={{TeamOpponent|Bandits|score=0}}
+|winner=1
+|vod=https://www.youtube.com/live/QyG8G4mo_cs?si=XCtHwtpdvdvhD09M&t=4688
+|date=2024-11-27
+|map1={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=2
+|t2p1=Zhen|o2p1={{Chars|bison}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Booce|o1p1={{Chars|ken}}|score1=3
+|t2p1=MenaRD|o2p1={{Chars|blanka}}|score2=0|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=1}}
+|opponent2={{TeamOpponent|Fighting Spirit|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/QyG8G4mo_cs?si=DZGOPU7S3qGvBPAx&t=7561
+|date=2024-11-27
+|map1={{Map
+|t1p1=Brutus|o1p1={{Chars|zangief}}|score1=2
+|t2p1=Oil King|o2p1={{Chars|rashid}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Ajax Fidelity|o1p1={{Chars|ed}}|score1=1
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=1
+|t2p1=DCQ|o2p1={{Chars|jp}}|score2=3|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|Bandits}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 8 Matches|width=400px|id=zB0smLz0tE
+|M1={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=0}}
+|opponent2={{TeamOpponent|Bandits|score=3}}
+|winner=2
+|vod=https://www.youtube.com/live/SnlHkmi3Mts?si=vxWLpN84EjAIUCxT&t=1954
+|date=2024-12-04
+|map1={{Map
+|t1p1=Ajax Fidelity|o1p1={{Chars|ed}}|score1=0
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Mono|o1p1={{Chars|aki}}|score1=0
+|t2p1=LuiMan20|o2p1={{Chars|dhalsim}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=2
+|t2p1=MenaRD|o2p1={{Chars|akuma|blanka}}|score2=3|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Fighting Spirit|score=1}}
+|opponent2={{TeamOpponent|FlyQuest|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/SnlHkmi3Mts?si=WJrXh4QI8EkYbRbX&t=4701
+|date=2024-12-04
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=0
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Oil King|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Shine|o2p1={{Chars|ed|kim}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=2
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=1}}
+|opponent2={{TeamOpponent|Cloud9|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/SnlHkmi3Mts?si=KJKltZ0673sl_8Lr&t=7592
+|date=2024-12-04
+|map1={{Map
+|t1p1=Nuckledu|o1p1={{Chars|cammy}}|score1=1
+|t2p1=Lexx|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=HotDog29|o1p1={{Chars|bison}}|score1=2
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Booce|o2p1={{Chars|ken}}|score2=3|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Bandits}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 9 Matches|width=400px|id=9DGuEKvUxY
+|M1={{Match
+|opponent1={{TeamOpponent|Bandits|score=1}}
+|opponent2={{TeamOpponent|FlyQuest|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/jaeh0Q9heV8?si=81BwX74QYr8r34wN&t=2076
+|date=2024-12-11
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|dee jay}}|score1=0
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=LuiMan20|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|zangief}}|score1=0
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=3}}
+|opponent2={{TeamOpponent|Fighting Spirit|score=0}}
+|winner=1
+|vod=https://www.youtube.com/live/jaeh0Q9heV8?si=KOC9Rsuto19eN4yZ&t=4454
+|date=2024-12-11
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|dee jay}}|score1=2
+|t2p1=Xian|o2p1={{Chars|dee jay}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=HotDog29|o1p1={{Chars|bison}}|score1=2
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=3
+|t2p1=DCQ|o2p1={{Chars|bison}}|score2=0|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Cloud9|score=2}}
+|opponent2={{TeamOpponent|Red Rooster|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/jaeh0Q9heV8?si=kLthlaxP96CPRCnI&t=6922
+|date=2024-12-11
+|map1={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Brutus|o2p1={{Chars|zangief}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=2
+|t2p1=Uriel Velorio|o2p1={{Chars|ken}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Booce|o1p1={{Chars|ken}}|score1=2
+|t2p1=Ajax Fidelity|o2p1={{Chars|ed}}|score2=3|winner=2
+}}
+|map4={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=0
+|t2p1=Ajax Fidelity|o2p1={{Chars|ed}}|score2=1|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|FlyQuest}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Shopify Rebellion}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Bandits}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Fighting Spirit}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Red Rooster}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Cloud9}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|title=Week 10 Matches|width=400px|id=5Mvh8EbaHm
+|M1={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=1}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/awVo6bA_Zck?si=VCtmuy-_kndiDvxB&t=2176
+|date=2024-12-18
+|map1={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=2
+|t2p1=Sayff|o2p1={{Chars|ken}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Ajax Fidelity|o1p1={{Chars|ed}}|score1=0
+|t2p1=Nuckledu|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Brutus|o1p1={{Chars|zangief}}|score1=1
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=3|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Cloud9|score=0}}
+|opponent2={{TeamOpponent|FlyQuest|score=3}}
+|winner=2
+|vod=https://www.youtube.com/live/awVo6bA_Zck?si=7dAfafU_BuG9aawt&t=4976
+|date=2024-12-18
+|map1={{Map
+|t1p1=Booce|o1p1={{Chars|ken}}|score1=0
+|t2p1=Shine|o2p1={{Chars|chun}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=0
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Lexx|o1p1={{Chars|guile}}|score1=2
+|t2p1=Punk|o2p1={{Chars|terry}}|score2=3|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Fighting Spirit|score=1}}
+|opponent2={{TeamOpponent|Bandits|score=2}}
+|winner=2
+|vod=https://www.youtube.com/live/awVo6bA_Zck?si=Ri4W7fvLJTG20kZ9&t=8251
+|date=2024-12-18
+|map1={{Map
+|t1p1=Oil King|o1p1={{Chars|rashid}}|score1=2
+|t2p1=LuiMan20|o2p1={{Chars|dhalsim}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=1
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=2
+|t2p1=MenaRD|o2p1={{Chars|blanka}}|score2=3|winner=2
+}}
+}}
+}}
+{{box|end|padding=2em}}

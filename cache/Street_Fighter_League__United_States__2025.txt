@@ -1,0 +1,179 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2025}}
+{{Street Fighter League Navbox}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-US 2025
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-US 2025 allmode.png
+|icon=Street Fighter League Pro-US 2025 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United States
+
+|game=sf6
+|sdate=2025-11-13
+|edate=2025-12-07
+
+|website=https://streetfighterleague.com/
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|bracket=
+
+|localcurrency=
+|prizepool=100000
+|player_number=28
+|team_number=7
+
+|previous=Street Fighter League/United States/2024{{!}}SFL Pro-US 2024
+|next=Street Fighter League/Americas/2026{{!}}SFL Pro-Americas 2026
+}}
+{{tabs static 
+|name1=Overview |link1={{FULLPAGENAME}}
+|name2=Regular Season |link2={{FULLPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{FULLPAGENAME}}/Playoffs 
+}} 
+'''Street Fighter League Pro-US 2025''' ('''SFL Pro-US 2025''') is the 8th season of professional American ''Street Fighter'' team competition.
+
+==Format==
+*'''Game Format''' 
+**The league is made of 7 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 2 || +10 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2025|Street Fighter League World Championship 2025]]
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=7|qualifies1=Street Fighter League/World Championship/2025|qualifies1name=SFL World Championship 2025
+|tournament1={{PAGENAME}}/Regular Season
+|tournament2={{PAGENAME}}/Playoffs
+|{{Slot|place=1|qualified1=yes|usdprize=60,000}}
+|{{Slot|place=2|usdprize=30,000}}
+|{{Slot|place=3|usdprize=10,000}}
+|{{Slot|place=4}}
+|{{Slot|place=5}}
+|{{Slot|place=6}}
+|{{Slot|place=7}}
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/United States/2025/Regular Season}}{{LPDB storage|true}}
+<span style="line-height:24px;">&ensp;''[[Street Fighter League/United States/2025/Regular Season|↪ Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=SFLUS25PLO|matchWidth=180}}
+<span style="line-height:24px;">&emsp;''[[/Playoffs|↪ Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=FlyQuest
+|p1=Punk|p1flag=|p1team=FlyQuest
+|p2=Nephew|p2flag=|p2team=Team Liquid
+|p3=Psycho|p3flag=|p3team=
+|p4=Riddles|p4flag=|p4team=
+}}
+{{TeamCard
+|team=Bandits
+|p1=MenaRD|p1flag=|p1team=Weibo Gaming
+|p2=Caba|p2flag=|p2team=Bandits Gaming
+|p3=ChrisT|p3flag=|p3team=Al Qadsiah
+|p4=Booce_Lee|p4flag=|p4team=
+}}
+{{TeamCard
+|team=Shopify Rebellion
+|p1=NuckleDu|p1flag=|p1team=Shopify Rebellion
+|p2=JAK|p2flag=|p2team=Shopify Rebellion
+|p3=Dual Kevin|p3flag=|p3team=
+|p4=Shine|p4flag=|p4team=|p4link=Shine (Sean Simpson)
+}}
+{{TeamCard
+|team=Red Rooster
+|p1=Mono|p1flag=|p1team=Red Rooster Team
+|p2=Crossover|p2flag=|p2team=Santo Domingo Tigers
+|p3=Chris Wong|p3flag=|p3team=Team Falcons
+|p4=Craime|p4flag=|p4team=Team Falcons
+}}
+{{TeamCard
+|team=2Game Esports
+|p1=Blaz|p1flag=cl|p1team=2Game_Esports
+|p2=shaka22|p2flag=ar|p2team=
+|p3=Brayan_Job|p3flag=br|p3team=2Game_Esports
+|p4=JUNINHO-RAS|p4flag=br|p4team=2Game_Esports
+}}
+{{TeamCard
+|team=Team Falcons
+|p1=Xian|p1flag=sg|p1team=Gaimin Gladiators
+|p2=DCQ|p2flag=cn|p2team=
+|p3=NL|p3flag=kr|p3team=Team Falcons
+|p4=Oil King|p4flag=tw|p4team=T1
+}}
+{{TeamCard
+|team=KuaiShou Gaming
+|p1=Xiaohai|p1flag=cn|p1team=Team Falcons
+|p2=Vxbao|p2flag=cn|p2team=KuaiShou Gaming
+|p3=Zhen|p3flag=cn|p3team=KuaiShou Gaming
+|p4=micky|p4flag=hk|p4team=ESAHK
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+===Streams=== 
+{{Streams |lang1=usuk|lang2=esmx |twitch1=Capcomfighters |youtube1=c/CapcomFighters|twitch2=CapcomLATAM|youtube2=@CapcomLATAM }}
+
+===Broadcast Talent===
+{{Tabs dynamic
+|name1=English
+|name2=Spanish
+|This=1
+|content1=
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=RobTV
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator|lang=usuk
+|b1=Rynge
+|b2=Vicious
+|b3=Tasty Steve
+}} 
+{{box|end|padding=2em}}
+|content2=
+{{BroadcasterCard 
+|position=Commentator |lang=esmx
+|b1=DanteLinkX
+|b2=JorgePo
+}} 
+{{box|end|padding=2em}}
+}}
+
+==References==
+{{Reflist}}

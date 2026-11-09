@@ -1,0 +1,152 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2022: Grand Finals}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Japan/2022
+|name2=Regular Season |link2=Street Fighter League/Japan/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Japan/2022/Playoffs
+|name4=Grand Finals |link4=Street Fighter League/Japan/2022/Grand Finals
+}}
+==Results==
+{{Bracket|Bracket/2L1D|id=q8psiDghkP
+|R1M1={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star |score=1}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto |score=2}}
+|winner=2
+}}
+|R2M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad |score=2}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto |score=0}}
+|winner=1
+}}
+}}
+
+==Details==
+===Semi Finals===
+{{Matchlist|width=450px|collapsed=false|id=7m1WepRsPS
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=3}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=0}}
+|vod=https://www.youtube.com/live/25gclL6Lvf4?feature=share&t=2202
+|map1={{Map
+|t1p1=Daigo|o1p1={{Chars|guile}}|score1=2
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira |o1p1={{Chars|cammy}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|gill}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|poison}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=1}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=2}}
+|vod=https://www.youtube.com/live/25gclL6Lvf4?feature=share&t=5201
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|poison}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|urien}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira |o1p1={{Chars|cammy}}|score1=1
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Daigo|o1p1={{Chars|guile}}|score1=0
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star|score=1}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=3}}
+|vod=https://www.youtube.com/live/25gclL6Lvf4?feature=share&t=8201
+|map1={{Map
+|t1p1=Daigo|o1p1={{Chars|guile}}|score1=1
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Akira |o1p1={{Chars|cammy}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|poison}}|score1=2
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Daigo|o1p1={{Chars|guile}}|score1=0
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=2
+|winner=2
+}}
+}}
+}}
+===Grand Finals===
+{{Matchlist|width=450px|collapsed=false|id=vgOfj7TDQr
+|M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad |score=2}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=1}}
+|vod=https://www.youtube.com/live/25gclL6Lvf4?feature=share&t=17970
+|map1={{Map
+|t1p1=Gachikun |o1p1={{Chars|rashid}}|score1=1
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Pugera |o1p1={{Chars|balrog}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kawano|o1p1={{Chars|luke}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=2}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=1}}
+|vod=https://www.youtube.com/live/25gclL6Lvf4?feature=share&t=20640
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=2
+|t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Gachikun |o1p1={{Chars|rashid}}|score1=1
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Pugera|o1p1={{Chars|balrog}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|urien}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=1}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=1}}
+|winner=1
+|vod=https://www.youtube.com/live/25gclL6Lvf4?feature=share&t=24777
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Pugera |o1p1={{Chars|balrog}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|urien}}|score2=1
+|winner=1
+}}
+}}
+}}
+• Due to Good 8 Squad accumulating enough points to win the entire set, the third match was never played.<ref>[https://www.eventhubs.com/news/2022/sep/09/sfl-pro-jp-2022-results/ SFL Pro JP on EventHubs]</ref>
+==References==
+{{reflist}}

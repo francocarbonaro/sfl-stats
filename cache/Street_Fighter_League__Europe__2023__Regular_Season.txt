@@ -1,0 +1,392 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2023: Regular Season}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Europe/2023
+|name2=Regular Season |link2=Street Fighter League/Europe/2023/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Europe/2023/Playoffs
+|This={{{This}}}
+}}
+==Results==
+<onlyinclude>
+{{GroupTableStart|SFL Pro-EU 2023 Standings|width=400px}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=8|lose_m=2|points=285|bg=up}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=2|win_m=6|lose_m=4|points=225|bg=stayup}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=3|win_m=6|lose_m=4|points=215|bg=stay}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=4|win_m=5|lose_m=5|points=205|bg=stay}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=5|win_m=3|lose_m=7|points=160|bg=down}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=6|win_m=2|lose_m=8|points=130|bg=down}}
+{{GroupTableEnd}}
+</onlyinclude>
+<br/>
+
+==Details==
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=XAjMItbL9Z
+|{{Match
+|opponent1={{TeamOpponent|Guild Esports}}
+|opponent2={{TeamOpponent|BMS ESPORTS}}
+|vod=https://www.youtube.com/live/AzJ2BzAYK0Q?si=AcvFv6OaZitYDyVf&t=1962
+|map1={{Map|t1p1=Takamura|o1p1={{Chars|ken}}|score1=2|t2p1=Kilzyou|o2p1={{Chars|juri}}|score2=1|winner=1}}
+|map2={{Map|t1p1=JoKeR JoKeZ|o1p1={{Chars|cammy}}|score1=0|t2p1=Valmaster|o2p1={{Chars|chun}}|score2=2|winner=2}}
+|map3={{Map|t1p1=VegaPatch|o1p1={{Chars|chun}}|score1=2|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BK ROG Esports}}
+|opponent2={{TeamOpponent|Wolves Esports}}
+|vod=https://www.youtube.com/live/AzJ2BzAYK0Q?si=v8txdSmWtCPnfKYe&t=6075
+|map1={{Map|t1p1=Kayne|o1p1={{Chars|ken}}|score1=2|t2p1=Popi|o2p1={{Chars|chun}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Nassim-Claw|o1p1={{Chars|honda}}|score1=2|t2p1=Shakz|o2p1={{Chars|luke}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Kusanagi|o1p1={{Chars|luke}}|score1=3|t2p1=The4philzz|o2p1={{Chars|jp}}|score2=2|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|MOUZ}}
+|opponent2={{TeamOpponent|00 Nation}}
+|winner=2
+|vod=https://www.youtube.com/live/AzJ2BzAYK0Q?si=8ClDEPtpjpjQwjYj&t=10475
+|map1={{Map|t1p1=MysticSmash|o1p1={{Chars|dj}}|score1=2|t2p1=Rikemansbarnet|o2p1={{Chars|juri}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Problem X|o1p1={{Chars|marisa}}|score1=2|t2p1=Lord Venom|o2p1={{Chars|jp}}|score2=1|winner=1}}
+|map3={{Map|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=2|t2p1=Phenom|o2p1={{Chars|ken}}|score2=3|winner=2}}
+|map4={{Map|t1p1=Problem X|o1p1={{Chars|marisa}}|score1=0|t2p1=Lord Venom|o2p1={{Chars|jp}}|score2=1|winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|BMS ESPORTS}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=6F5HbgX1cC
+|{{Match
+|opponent1={{TeamOpponent|Wolves Esports}}
+|opponent2={{TeamOpponent|MOUZ}}
+|vod=https://youtu.be/FS6Bgt7TE5o?si=RSXcSUXMhJFBKiqu&t=1785
+|map1={{Map|t1p1=Shivs|o1p1={{Chars|juri}}|score1=2|t2p1=Broski|o2p1={{Chars|jp}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Popi|o1p1={{Chars|cammy}}|score1=1|t2p1=EndingWalker|o2p1={{Chars|ken}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Shakz|o1p1={{Chars|luke}}|score1=2|t2p1=MysticSmash|o2p1={{Chars|dj}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|Guild Esports}}
+|vod=https://youtu.be/FS6Bgt7TE5o?si=Ldslmo4z90m-kZ2L&t=5508
+|map1={{Map|t1p1=Rikemansbarnet|o1p1={{Chars|juri}}|score1=1|t2p1=Suleymon|o2p1={{Chars|kimberly}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Veggey|o1p1={{Chars|zangief}}|score1=0|t2p1=JoKeR JoKeZ|o2p1={{Chars|cammy}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Phenom|o1p1={{Chars|ken}}|score1=2|t2p1=Takamura|o2p1={{Chars|ken}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS ESPORTS}}
+|opponent2={{TeamOpponent|BK ROG Esports}}
+|vod=https://youtu.be/FS6Bgt7TE5o?si=PfAWY811Q4LP0-ya&t=9058
+|map1={{Map|t1p1=Akainu|o1p1={{Chars|guile}}|score1=2|t2p1=Nassim-Claw|o2p1={{Chars|honda}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Kilzyou|o1p1={{Chars|juri}}|score1=2|t2p1=Kusanagi|o2p1={{Chars|luke}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Valmaster|o1p1={{Chars|chun}}|score1=3|t2p1=Kayne|o2p1={{Chars|ken}}|score2=2|winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|00Nation}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|MOUZ}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=acOIKyarD6
+|{{Match
+|opponent1={{TeamOpponent|00Nation}}
+|opponent2={{TeamOpponent|Wolves Esports}}
+|vod=
+|map1={{Map|t1p1=Rikemansbarnet|o1p1={{Chars|juri}}|score1=2|t2p1=Shivs|o2p1={{Chars|juri}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Lord Venom|o1p1={{Chars|jp}}|score1=2|t2p1=Popi|o2p1={{Chars|cammy}}|score2=0|winner=1}}
+|map3={{Map|t1p1=Phenom|o1p1={{Chars|ken}}|score1=3|t2p1=The4philzz|o2p1={{Chars|jp}}|score2=0|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Mouz}}
+|opponent2={{TeamOpponent|BMS Esports}}
+|vod=
+|map1={{Map|t1p1=MysticSmash|o1p1={{Chars|dj}}|score1=0|t2p1=Kilzyou|o2p1={{Chars|juri}}|score2=2|winner=2}}
+|map2={{Map|t1p1=EndingWalker|o1p1={{Chars|ken}}|score1=2|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=0|winner=1}}
+|map3={{Map|t1p1=Problem X|o1p1={{Chars|marisa}}|score1=3|t2p1=Valmaster|o2p1={{Chars|chun-li}}|score2=2|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Guild Esports}}
+|opponent2={{TeamOpponent|BK ROG Esports}}
+|vod=
+|map1={{Map|t1p1=Vegapatch|o1p1={{Chars|chun}}|score1=0|t2p1=Kayne|o2p1={{Chars|ken}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Takamura|o1p1={{Chars|ken}}|score1=0|t2p1=Kusanagi|o2p1={{Chars|luke}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Suleymon|o1p1={{Chars|kimberly}}|score1=2|t2p1=Nassim-Claw|o2p1={{Chars|honda}}|score2=3|winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Mouz}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=W5jHFqNWSz
+|{{Match
+|opponent1={{TeamOpponent|BK ROG Esports}}
+|opponent2={{TeamOpponent|Mouz}}
+|vod=
+|map1={{Map|t1p1=Kayne|o1p1={{Chars|ken}}|score1=0|t2p1=EndingWalker|o2p1={{Chars|ryu}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Kusanagi|o1p1={{Chars|luke}}|score1=1|t2p1=Broski|o2p1={{Chars|jp}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Nassim Claw|o1p1={{Chars|honda}}|score1=3|t2p1=Problem X|o2p1={{Chars|marisa}}|score2=0|winner=1}}
+|map4={{Map|t1p1=Kayne|o1p1={{Chars|ken}}|score1=0|t2p1=EndingWalker|o2p1={{Chars|ken}}|score2=1|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS Esports}}
+|opponent2={{TeamOpponent|00 Nation}}
+|vod=
+|map1={{Map|t1p1=Akainu|o1p1={{Chars|guile}}|score1=0|t2p1=Rikemansbarnet|o2p1={{Chars|juri}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Kilzyou|o1p1={{Chars|juri}}|score1=0|t2p1=Lord_Venom|o2p1={{Chars|jp}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Valmaster|o1p1={{Chars|chun-li}}|score1=2|t2p1=Phenom|o2p1={{Chars|ken}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Wolves Esports}}
+|opponent2={{TeamOpponent|Guild Esports}}
+|vod=
+|map1={{Map|t1p1=Shakz|o1p1={{Chars|luke}}|score1=2|t2p1=Suleymon|o2p1={{Chars|kim}}|score2=1|winner=1}}
+|map2={{Map|t1p1=The4philzz|o1p1={{Chars|jp}}|score1=1|t2p1=Vegapatch|o2p1={{Chars|chun-li}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Popi|o1p1={{Chars|cammy}}|score1=3|t2p1=Takamura|o2p1={{Chars|ken}}|score2=2|winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=up}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=2|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|Mouz}}|place=3|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=4|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=5|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=6|win_m=0|lose_m=1|points=0|bg=down}}
+
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=1L4G1sZGct
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|BK ROG Esports}}
+|vod=
+|map1={{Map|t1p1=Rikemansbarnet|o1p1={{Chars|juri}}|score1=0|t2p1=Kayne|o2p1={{Chars|jamie}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Phenom|o1p1={{Chars|ken}}|score1=2|t2p1=Kusanagi|o2p1={{Chars|luke}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Lord_Venom|o1p1={{Chars|jp}}|score1=3|t2p1=Nassim Claw|o2p1={{Chars|honda}}|score2=0|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Guild Esports}}
+|opponent2={{TeamOpponent|Mouz}}
+|vod=
+|map1={{Map|t1p1=JoKeR JoKeZ|o1p1={{Chars|cammy}}|score1=2|t2p1=Broski|o2p1={{Chars|jp}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Takamura|o1p1={{Chars|ken}}|score1=1|t2p1=Problem X|o2p1={{Chars|marisa}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Vegapatch|o1p1={{Chars|chun-li}}|score1=1|t2p1=MysticSmash|o2p1={{Chars|deejay}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Wolves Esports}}
+|opponent2={{TeamOpponent|BMS Esports}}
+|vod=
+|map1={{Map|t1p1=Shakz|o1p1={{Chars|luke}}|score1=0|t2p1=Kilzyou|o2p1={{Chars|juri}}|score2=2|winner=2}}
+|map2={{Map|t1p1=The4philzz|o1p1={{Chars|jp}}|score1=0|t2p1=Valmaster|o2p1={{Chars|chun-li}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Popi|o1p1={{Chars|cammy}}|score1=0|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=3|winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=up}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=2|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=3|win_m=1|lose_m=0|points=25|bg=up}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=4|win_m=0|lose_m=1|points=20|bg=down}}
+{{GroupTableSlot|{{Team|Mouz}}|place=5|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=6|win_m=0|lose_m=1|points=0|bg=down}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=n2Rpfha2pE
+|{{Match
+|opponent1={{TeamOpponent|BMS Esports}}
+|opponent2={{TeamOpponent|Guild Esports}}
+|vod=
+|map1={{Map|t1p1=Akainu|o1p1={{Chars|guile}}|score1=2|t2p1=JoKeR JoKeZ|o2p1={{Chars|cammy}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=2|t2p1=Vegapatch|o2p1={{Chars|chun-li}}|score2=0|winner=1}}
+|map3={{Map|t1p1=Kilzyou|o1p1={{Chars|juri}}|score1=3|t2p1=Suleymon|o2p1={{Chars|kim}}|score2=1|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Wolves Esports}}
+|opponent2={{TeamOpponent|BK ROG Esports}}
+|winner=2
+|vod=
+|map1={{Map|t1p1=Shakz|o1p1={{Chars|luke}}|score1=2|t2p1=Kayne|o2p1={{Chars|ken}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Shivs|o1p1={{Chars|juri}}|score1=2|t2p1=Nassim Claw|o2p1={{Chars|honda}}|score2=1|winner=1}}
+|map3={{Map|t1p1=The4Philzz|o1p1={{Chars|jp}}|score1=0|t2p1=Kusanagi|o2p1={{Chars|luke}}|score2=3|winner=2}}
+|map4={{Map|t1p1=Shivs|o1p1={{Chars|manon}}|score1=0|t2p1=Kusanagi|o2p1={{Chars|luke}}|score2=1|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|00 Nation}}
+|opponent2={{TeamOpponent|Mouz}}
+|vod=
+|map1={{Map|t1p1=Rikemansbarnet|o1p1={{Chars|juri}}|score1=1|t2p1=Problem X|o2p1={{Chars|marisa}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Phenom|o1p1={{Chars|ken}}|score1=2|t2p1=MysticSmash|o2p1={{Chars|deejay}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Lord_Venom|o1p1={{Chars|jp}}|score1=3|t2p1=EndingWalker|o2p1={{Chars|ryu}}|score2=2|winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=up}}
+{{GroupTableSlot|{{Team|Mouz}}|place=1|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|00 Nation}}|place=2|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=4|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=4|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=6|win_m=0|lose_m=1|points=0|bg=down}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=ESDkL7wQu3
+|{{Match
+|opponent1={{TeamOpponent|Mouz}}
+|opponent2={{TeamOpponent|Wolves Esports}}
+|vod=
+|map1={{Map|t1p1=MysticSmash|o1p1={{Chars|deejay}}|score1=2|t2p1=Shivs|o2p1={{Chars|juri}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Broski|o1p1={{Chars|jp}}|score1=1|t2p1=Shakz|o2p1={{Chars|luke}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Problem X|o1p1={{Chars|blanka}}|score1=3|t2p1=Popi|o2p1={{Chars|cammy}}|score2=0|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Guild Esports}}
+|opponent2={{TeamOpponent|00 Nation}}
+|vod=
+|map1={{Map|t1p1=JoKeR JoKeZ|o1p1={{Chars|cammy}}|score1=0|t2p1=Lord_Venom|o2p1={{Chars|jp}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Vegapatch|o1p1={{Chars|chun-li}}|score1=2|t2p1=Rikemansbarnet|o2p1={{Chars|juri}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Suleymon|o1p1={{Chars|kim}}|score1=0|t2p1=Phenom|o2p1={{Chars|ken}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BK ROG Esports}}
+|opponent2={{TeamOpponent|BMS Esports}}
+|vod=
+|map1={{Map|t1p1=Luffy|o1p1={{Chars|manon}}|score1=1|t2p1=Kilzyou|o2p1={{Chars|juri}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Nassim Claw|o1p1={{Chars|honda}}|score1=1|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Kayne|o1p1={{Chars|jamie}}|score1=1|t2p1=Valmaster|o2p1={{Chars|chun-li}}|score2=3|winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=1|win_m=1|lose_m=0|points=40|bg=up}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=2|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=3|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=4|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|Mouz}}|place=5|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|00Nation}}|place=6|win_m=0|lose_m=1|points=0|bg=down}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=6DxaXBspp7
+|{{Match
+|opponent1={{TeamOpponent|Wolves Esports}}
+|opponent2={{TeamOpponent|00 Nation}}
+|vod=
+|map1={{Map|t1p1=The4Philzz|o1p1={{Chars|jp}}|score1=2|t2p1=Rikemansbarnet|o2p1={{Chars|juri}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Shivs|o1p1={{Chars|juri}}|score1=2|t2p1=Lord_Venom|o2p1={{Chars|jp}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Shakz|o1p1={{Chars|luke}}|score1=3|t2p1=Phenom|o2p1={{Chars|ken}}|score2=1|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS Esports}}
+|opponent2={{TeamOpponent|Mouz}}
+|vod=
+|map1={{Map|t1p1=Valmaster|o1p1={{Chars|chun-li}}|score1=2|t2p1=EndingWalker|o2p1={{Chars|ken}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Kilzyou|o1p1={{Chars|juri}}|score1=1|t2p1=MysticSmash|o2p1={{Chars|deejay}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Mister Crimson|o1p1={{Chars|dhalsim}}|score1=3|t2p1=Problem X|o2p1={{Chars|marisa}}|score2=2|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BK ROG Esports}}
+|opponent2={{TeamOpponent|Guild Esports}}
+|vod=
+|map1={{Map|t1p1=Nassim Claw|o1p1={{Chars|honda}}|score1=2|t2p1=Suleymon|o2p1={{Chars|kim}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Kayne|o1p1={{Chars|ken}}|score1=0|t2p1=Takamura|o2p1={{Chars|ken}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Kusanagi|o1p1={{Chars|luke}}|score1=3|t2p1=JoKeR JoKeZ|o2p1={{Chars|cammy}}|score2=1|winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=1|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|mouz}}|place=2|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=3|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|00Nation}}|place=4|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=5|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=6|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=BzHAu4nF87
+|{{Match
+|opponent1={{TeamOpponent|Mouz}}
+|opponent2={{TeamOpponent|BK ROG Esports}}
+|vod=
+|map1={{Map|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=2|t2p1=Kayne|o2p1={{Chars|ken}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Broski|o1p1={{Chars|jp}}|score1=0|t2p1=Nassim Claw|o2p1={{Chars|honda}}|score2=2|winner=2}}
+|map3={{Map|t1p1=MysticSmash|o1p1={{Chars|deejay}}|score1=3|t2p1=Kusanagi|o2p1={{Chars|luke}}|score2=2|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|00Nation}}
+|opponent2={{TeamOpponent|BMS Esports}}
+|vod=
+|map1={{Map|t1p1=Rikemansbarnet|o1p1={{Chars|juri}}|score1=1|t2p1=Kilzyou|o2p1={{Chars|juri}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Phenom|o1p1={{Chars|ken}}|score1=2|t2p1=Mister Crimson|o2p1={{Chars|dhalsim}}|score2=1|winner=1}}
+|map3={{Map|t1p1=Lord_Venom|o1p1={{Chars|jp}}|score1=2|t2p1=Valmaster|o2p1={{Chars|chun-li}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Guild Esports}}
+|opponent2={{TeamOpponent|Wolves Esports}}
+|vod=
+|map1={{Map|t1p1=Vegapatch|o1p1={{Chars|chun-li}}|score1=2|t2p1=Shivs|o2p1={{Chars|juri}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Takamura|o1p1={{Chars|ken}}|score1=0|t2p1=Shakz|o2p1={{Chars|luke}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Suleymon|o1p1={{Chars|kim}}|score1=2|t2p1=The4Philzz|o2p1={{Chars|jp}}|score2=3|winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|BK ROG Esports}}|place=1|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|Guild Esports}}|place=2|win_m=1|lose_m=0|points=30|bg=up}}
+{{GroupTableSlot|{{Team|BMS Esports}}|place=3|win_m=1|lose_m=0|points=25|bg=up}}
+{{GroupTableSlot|{{Team|Wolves Esports}}|place=4|win_m=0|lose_m=1|points=20|bg=down}}
+{{GroupTableSlot|{{Team|00Nation}}|place=5|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableSlot|{{Team|Mouz}}|place=6|win_m=0|lose_m=1|points=10|bg=down}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=cKeGOfdXa9
+|{{Match
+|opponent1={{TeamOpponent|BK ROG Esports}}
+|opponent2={{TeamOpponent|00Nation}}
+|vod=
+|map1={{Map|t1p1=Nassim Claw|o1p1={{Chars|honda}}|score1=2|t2p1=Rikemansbarnet|o2p1={{Chars|juri}}|score2=0|winner=1}}
+|map2={{Map|t1p1=Kusanagi|o1p1={{Chars|luke}}|score1=0|t2p1=Lord_Venom|o2p1={{Chars|jp}}|score2=2|winner=2}}
+|map3={{Map|t1p1=Luffy|o1p1={{Chars|manon}}|score1=3|t2p1=Phenom|o2p1={{Chars|ken}}|score2=1|winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Mouz}}
+|opponent2={{TeamOpponent|Guild Esports}}
+|vod=
+|map1={{Map|t1p1=EndingWalker|o1p1={{Chars|ryu}}|score1=0|t2p1=Takamura|o2p1={{Chars|ken}}|score2=2|winner=2}}
+|map2={{Map|t1p1=Problem X|o1p1={{Chars|marisa}}|score1=2|t2p1=JoKeR JoKeZ|o2p1={{Chars|cammy}}|score2=1|winner=1}}
+|map3={{Map|t1p1=MysticSmash|o1p1={{Chars|deejay}}|score1=0|t2p1=Vegapatch|o2p1={{Chars|chun-li}}|score2=3|winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|BMS Esports}}
+|opponent2={{TeamOpponent|Wolves Esports}}
+|vod=
+|map1={{Map|t1p1=Valmaster|o1p1={{Chars|kim}}|score1=2|t2p1=The4Philzz|o2p1={{Chars|jp}}|score2=1|winner=1}}
+|map2={{Map|t1p1=Kilzyou|o1p1={{Chars|cammy}}|score1=2|t2p1=Popi|o2p1={{Chars|cammy}}|score2=0|winner=1}}
+|map3={{Map|t1p1=Akainu|o1p1={{Chars|guile}}|score1=1|t2p1=Shakz|o2p1={{Chars|luke}}|score2=3|winner=2}}
+|map4={{Map|t1p1=Akainu|o1p1={{Chars|guile}}|score1=1|t2p1=Shakz|o2p1={{Chars|manon}}|score2=0|winner=1}}
+}}
+}}
+{{box|end|padding=2em}}

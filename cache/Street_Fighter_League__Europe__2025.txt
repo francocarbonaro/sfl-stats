@@ -1,0 +1,162 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2025}}
+{{Street Fighter League Navbox}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-EU 2025
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-EU 2025 allmode.png
+|icon=Street Fighter League Pro-EU 2025 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=Europe
+
+|game=sf6
+|sdate=2025-11-22
+|edate=2025-11-29
+
+|website=https://streetfighterleagueeurope.com/
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|bracket=
+
+|localcurrency=
+|prizepool=100000
+|player_number=24
+|team_number=6
+
+|previous=Street Fighter League/Europe/2024{{!}}SFL Pro-EU 2024
+|next=Street Fighter League/EMEAA/2026{{!}}SFL Pro-EMEAA 2026
+}}
+{{tabs static 
+|name1=Overview |link1={{FULLPAGENAME}}
+|name2=Regular Season |link2={{FULLPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{FULLPAGENAME}}/Playoffs 
+}} 
+'''Street Fighter League Pro-EU 2025''' ('''SFL Pro-EU 2025''') is the 4th season of professional European ''Street Fighter'' team competition.
+
+==Format==
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 2 || +10 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2025|Street Fighter League World Championship 2025]]
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=6|qualifies1=Street Fighter League/World Championship/2025|qualifies1name=SFL World Championship 2025
+|tournament1={{FULLPAGENAME}}/Regular Season 
+|tournament2=Street Fighter League/Europe/2025/Playoffs
+|{{Slot|usdprize=60,000|{{Slot|qualified1=yes}}}}
+|{{Slot|usdprize=30,000|{{Opponent|}}}}
+|{{Slot|usdprize=10,000|{{Opponent|}}}}
+|{{Slot|{{Opponent|}}}}
+|{{Slot|{{Opponent|}}}}
+|{{Slot|{{Opponent|}}}}
+|adjacentContent={{AwardPrizePool
+|{{Slot|award=First Phase MVP|{{Opponent|EndingWalker|chars=ryu|flag=|team=|usdprize=}}}}
+|{{Slot|award=Second Phase MVP|{{Opponent|EndingWalker|chars=ryu|flag=|team=|usdprize=}}}}
+}}
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/Europe/2025/Regular Season}}{{LPDB storage|true}}
+<span style="line-height:24px;">&ensp;''[[Street Fighter League/Europe/2025/Regular Season|↪ Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=SFLEU25PLO|matchWidth=190}}
+<span style="line-height:24px;">&ensp;''[[/Playoffs|↪ Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Wolves Esports
+|p1=Hurricane|p1flag=cm|p1team=Wolves Esports
+|p2=Takamura|p2flag=be|p2team=
+|p3=Kusanagi|p3flag=fr|p3team=Team Falcons|p3link=Kusanagi (French Player)
+|p4=Infexious|p4flag=gb|p4team=
+}}
+{{TeamCard
+|team=Ninjas In Pyjamas
+|p1=Phenom|p1flag=no|p1team=Ninjas In Pyjamas
+|p2=Juicyjoe|p2flag=se|p2team=Ninjas In Pyjamas
+|p3=AngryBird|p3flag=ae|p3team=REJECT
+|p4=Big Bird|p4flag=ae|p4team=REJECT
+}}
+{{TeamCard
+|team=AEGIS|link=AEGIS (French Team)
+|p1=Mister Crimson|p1flag=|p1team=AEGIS (French Team)
+|p2=Kilzyou|p2flag=fr|p2team=
+|p3=Valmaster|p3flag=fr|p3team=
+|p4=Gamein99|p4flag=be|p4team=
+}}
+{{TeamCard
+|team=MOUZ
+|p1=Problem X|p1flag=gb|p1team=MOUZ
+|p2=EndingWalker|p2flag=gb|p2team=MOUZ
+|p3=Garnet|p3flag=|p3team=SaveYourGames
+|p4=Lexx|p4flag=|p4team=
+}}
+{{TeamCard
+|team=Solary
+|p1=HeyyPepito|p1flag=fr|p1team=Solary
+|p2=Akainu|p2flag=fr|p2team=
+|p3=vWsym|p3flag=|p3team=Twisted Minds
+|p4=Senor Power|p4flag=|p4team=
+}}
+{{TeamCard
+|team=Goliath Gaming
+|p1=JabhiM|p1flag=za|p1team=Goliath Gaming
+|p2=ChuX|p2flag=ng|p2team=
+|p3=JoKeR JoKeZ|p3flag=|p3team=
+|p4=MarkTheShark|p4flag=|p4team=Illusion Gaming
+}}
+{{TeamCard columns end}}
+
+==Additional Content==
+===Streams=== 
+{{Streams |lang1=usuk |twitch1=Capcomfighters |youtube1=c/CapcomFighters }} 
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=Logan Sama
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator 
+|b1=F-Word|b1flag=
+|b2=Damascus|b2flag=
+|b3=Jammerz
+|b4=Shoryusengan|b4flag=gb
+}} 
+{{box|end|padding=2em}}
+
+==References==
+{{Reflist}}

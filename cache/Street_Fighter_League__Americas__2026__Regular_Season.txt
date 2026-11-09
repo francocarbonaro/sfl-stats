@@ -1,0 +1,778 @@
+{{DISPLAYTITLE:Street Fighter League Pro-Americas 2026: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{tabs static 
+|name1=Overview |link1={{BASEPAGENAME}}
+|name2=Regular Season |link2={{BASEPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{BASEPAGENAME}}/Playoffs 
+}} 
+==Results==
+{{box|start|padding=2em}}
+<onlyinclude>
+{{GroupStandings|title=SFL Pro-Americas 2026 Standings|width=500px
+|tournament=Street Fighter League/Americas/2026/Regular Season
+|bg=1=byeup, 2=seedup, 3-4=up, 5-6=down
+|tiebreakers={{Json|points|rounddiff}}
+
+|{{TeamOpponent|FlyQuest}}
+|{{TeamOpponent|2Game Esports}}
+|{{TeamOpponent|Shopify Rebellion}}
+|{{TeamOpponent|Red Rooster Team}}
+|{{TeamOpponent|BAIT}}
+|{{TeamOpponent|Bandits}}
+
+<!-- Rounds -->
+|round1={{Round|title=Day 1|matchgroups=I5wvWAynCQ}}
+|round2={{Round|title=Day 2|matchgroups=2uKCE723yL}}
+|round3={{Round|title=Day 3|matchgroups=E7o6Oe4650}}
+|round4={{Round|title=Day 4|matchgroups=4dTUqQOiXJ}}
+|round5={{Round|title=Day 5|matchgroups=VD54SDiRBj}}
+
+|points=win=0, draw=0, loss=0, 40-0=40, 30-10=30, 30-20=30, 20-30=20, 10-30=10, 0-40=0
+}}
+</onlyinclude>
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Americas/2026/Regular Season
+|team1=FlyQuest
+|team2=2Game Esports
+|team3=Shopify Rebellion
+|team4=Red Rooster Team
+|team5=BAIT
+|team6=Bandits
+|double=true
+}}
+{{box|break|padding=2em}}
+{{StandingsLegend
+|byeup=Seeded to Playoffs Grand Final
+|seedup=Seeded to Playoffs Semifinals
+|up=Seeded to Playoffs Quarterfinals
+|down=Eliminated
+<br/>
+'''Game''' = Points earned - points conceded<br/>'''RD''' = Battle differential (battles won – battles lost)
+}}
+{{box|end}}
+
+==Details==
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Day 1}}=====
+{{Matchlist |title=Day 1|id=I5wvWAynCQ|collapsed=false|width=325px
+|M1header=October 23, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=10}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=2026-10-23
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=2
+|t2p1=NoahTheProdigy|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Bloo|o1p1={{Chars|deejay}}|score1=0
+|t2p1=Booce_Lee|o2p1={{Chars|terry}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Red Rooster Team|score=0}}
+|opponent2={{TeamOpponent|2Game Esports|score=40}}
+|date=2026-10-23
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=1
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|ken}}|score1=1
+|t2p1=LUGABO|o2p1={{Chars|kimberly}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Crossover|o1p1={{Chars|sagat}}|score1=1
+|t2p1=Blaz|o2p1={{Chars|jamie}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=30}}
+|opponent2={{TeamOpponent|BAIT|score=10}}
+|date=2026-10-23
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Nephew|o1p1={{Chars|juri}}|score1=1
+|t2p1=iDom|o2p1={{Chars|manon}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=2
+|t2p1=ChrisT|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=40}}
+|opponent2={{TeamOpponent|FlyQuest|score=0}}
+|date=2026-10-23
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=LUGABO|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=Bloo|o2p1={{Chars|deejay}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=shaka22|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=Samurai|o2p1={{Chars|akuma|arjun}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|jamie}}|score1=3
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=1
+|winner=1
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|BAIT|score=30}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=20}}
+|date=2026-10-23
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=2
+|t2p1=Crossover|o2p1={{Chars|sagat}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=iDom|o1p1={{Chars|manon}}|score1=2
+|t2p1=Uriel Velorio|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=ChrisT|o1p1={{Chars|ken}}|score1=1
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=JAK|o1p1={{Chars|juri}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=1
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=20}}
+|date=2026-10-23
+|winner=
+|vod=
+|map1={{Map
+|t1p1=NoahTheProdigy|o1p1={{Chars|luke}}|score1=2
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Enzo|o1p1={{Chars|sagat}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Booce_Lee|o1p1={{Chars|terry}}|score1=0
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+====={{HiddenSort|Day 2}}=====
+{{Matchlist |title=Day 2|id=2uKCE723yL|collapsed=false|width=325px
+|M1header=October 24, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Bandits|score=40}}
+|opponent2={{TeamOpponent|2Game Esports|score=0}}
+|date=2026-10-24
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Booce_Lee|o1p1={{Chars|terry}}|score1=2
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=NoahTheProdigy|o1p1={{Chars|luke}}|score1=2
+|t2p1=shaka22|o2p1={{Chars|dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=3
+|t2p1=Blaz|o2p1={{Chars|jamie}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Red Rooster Team|score=0}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=40}}
+|date=2026-10-24
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=0
+|t2p1=NuckleDu|o2p1={{Chars|mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Crossover|o1p1={{Chars|sagat}}|score1=0
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=1
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=30}}
+|opponent2={{TeamOpponent|BAIT|score=10}}
+|date=2026-10-24
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=2
+|t2p1=iDom|o2p1={{Chars|manon}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Samurai|o1p1={{Chars|mai}}|score1=0
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Bloo|o1p1={{Chars|deejay}}|score1=3
+|t2p1=JAK|o2p1={{Chars|juri}}|score2=1
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Red Rooster Team|score=10}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=2026-10-24
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=2
+|t2p1=Enzo|o2p1={{Chars|sagat}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Crossover|o1p1={{Chars|sagat}}|score1=0
+|t2p1=Booce_Lee|o2p1={{Chars|terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=2
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=30}}
+|opponent2={{TeamOpponent|FlyQuest|score=20}}
+|date=2026-10-24
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|guile}}|score1=2
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=1
+|t2p1=Bloo|o2p1={{Chars|deejay}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Nephew|o1p1={{Chars|juri}}|score1=2
+|t2p1=Samurai|o2p1={{Chars|mai}}|score2=1
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=30}}
+|opponent2={{TeamOpponent|BAIT|score=10}}
+|date=2026-10-24
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=shaka22|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=iDom|o2p1={{Chars|manon}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=LUGABO|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=JAK|o2p1={{Chars|juri}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|jamie}}|score1=3
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+====={{HiddenSort|Day 3}}=====
+{{Matchlist |title=Day 3|id=E7o6Oe4650|collapsed=false|width=325px
+|M1header=October 25, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=10}}
+|opponent2={{TeamOpponent|2Game Esports|score=30}}
+|date=2026-10-25
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|guile|mai}}|score1=2
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=1
+|t2p1=LUGABO|o2p1={{Chars|kimberly}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Blaz|o2p1={{Chars|sagat|ken}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|BAIT|score=10}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=2026-10-25
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=iDom|o1p1={{Chars|manon}}|score1=2
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=JAK|o1p1={{Chars|juri}}|score1=0
+|t2p1=NoahTheProdigy|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=0
+|t2p1=Booce_Lee|o2p1={{Chars|terry}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Red Rooster Team|score=10}}
+|opponent2={{TeamOpponent|FlyQuest|score=30}}
+|date=2026-10-25
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Uriel Velorio|o1p1={{Chars|terry}}|score1=1
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=2
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=2
+|t2p1=Bloo|o2p1={{Chars|deejay}}|score2=3
+|winner=2
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|BAIT|score=10}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=30}}
+|date=2026-10-25
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=iDom|o1p1={{Chars|manon}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|mai}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=JAK|o1p1={{Chars|juri}}|score1=1
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=0
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|FlyQuest|score=10}}
+|date=2026-10-25
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=1
+|t2p1=Samurai|o2p1={{Chars|mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Enzo|o1p1={{Chars|sagat}}|score1=2
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Booce_Lee|o1p1={{Chars|terry}}|score1=3
+|t2p1=Bloo|o2p1={{Chars|deejay}}|score2=1
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=40}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=0}}
+|date=2026-10-25
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|deejay}}|score1=2
+|t2p1=Crossover|o2p1={{Chars|luke}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=LUGABO|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|jamie}}|score1=3
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+====={{HiddenSort|Day 4}}=====
+{{Matchlist |title=Day 4|id=4dTUqQOiXJ|collapsed=false|width=325px
+|M1header=November 6, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Red Rooster Team|score=10}}
+|opponent2={{TeamOpponent|BAIT|score=30}}
+|date=2026-11-06
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Crossover|o1p1={{Chars|sagat}}|score1=2
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=0
+|t2p1=ChrisT|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=1
+|t2p1=iDom|o2p1={{Chars|manon}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=30}}
+|opponent2={{TeamOpponent|2Game Esports|score=10}}
+|date=2026-11-06
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=0
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Samurai|o1p1={{Chars|mai}}|score1=2
+|t2p1=LUGABO|o2p1={{Chars|kimberly}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Bloo|o1p1={{Chars|deejay}}|score1=3
+|t2p1=Blaz|o2p1={{Chars|ken|jamie}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=30}}
+|opponent2={{TeamOpponent|Bandits|score=10}}
+|date=2026-11-06
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|mai}}|score1=0
+|t2p1=NoahTheProdigy|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nephew|o1p1={{Chars|juri}}|score1=2
+|t2p1=Booce_Lee|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=Enzo|o2p1={{Chars|sagat}}|score2=2
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|BAIT|score=10}}
+|opponent2={{TeamOpponent|2Game Esports|score=30}}
+|date=2026-11-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=JAK|o1p1={{Chars|juri}}|score1=0
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=ChrisT|o1p1={{Chars|ken}}|score1=2
+|t2p1=LUGABO|o2p1={{Chars|kimberly}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=iDom|o1p1={{Chars|manon}}|score1=1
+|t2p1=Blaz|o2p1={{Chars|luke}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=20}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=30}}
+|date=2026-11-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Samurai|o1p1={{Chars|mai}}|score1=2
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Bloo|o1p1={{Chars|deejay}}|score1=1
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=10}}
+|date=2026-11-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=1
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Enzo|o1p1={{Chars|sagat}}|score1=2
+|t2p1=Uriel Velorio|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=NoahTheProdigy|o1p1={{Chars|luke}}|score1=3
+|t2p1=Crossover|o2p1={{Chars|sagat}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 5}}=====
+{{Matchlist |title=Day 5|id=VD54SDiRBj|collapsed=false|width=325px
+|M1header=November 7, 2026
+|date=2026-11-07 - 18:00 {{Abbr/EST}}
+|M1={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=40}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=0}}
+|date=2026-11-07
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|mai}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Crossover|o2p1={{Chars|sagat}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=Craime|o2p1={{Chars|ryu|bison}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|BAIT|score=30}}
+|opponent2={{TeamOpponent|FlyQuest|score=20}}
+|date=2026-11-07 - 19:00 {{Abbr/EST}}
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=JAK|o1p1={{Chars|juri}}|score1=2
+|t2p1=JB|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=iDom|o1p1={{Chars|manon}}|score1=2
+|t2p1=Samurai|o2p1={{Chars|mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|ed}}|score1=0
+|t2p1=Bloo|o2p1={{Chars|deejay}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=ChrisT|o1p1={{Chars|ken}}|score1=2
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=10}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=2026-11-07 - 20:00 {{Abbr/EST}}
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=LUGABO|o1p1={{Chars|kimberly}}|score1=1
+|t2p1=NoahTheProdigy|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|arjun}}|score1=2
+|t2p1=Booce_Lee|o2p1={{Chars|terry}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|ken|jamie}}|score1=1
+|t2p1=Psycho|o2p1={{Chars|kimberly}}|score2=3
+|winner=2
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=30}}
+|opponent2={{TeamOpponent|Red Rooster Team|score=20}}
+|date=2026-11-07 - 21:00 {{Abbr/EST}}
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=JB|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Caba|o2p1={{Chars|sagat}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=1
+|t2p1=Uriel Velorio|o2p1={{Chars|terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Bloo|o1p1={{Chars|deejay}}|score1=3
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Samurai|o1p1={{Chars|mai}}|score1=2
+|t2p1=Crossover|o2p1={{Chars|sagat}}|score2=1
+|winner=1
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|BAIT|score=10}}
+|date=2026-11-07 - 22:00 {{Abbr/EST}}
+|winner=
+|vod=
+|map1={{Map
+|t1p1=NoahTheProdigy|o1p1={{Chars|luke}}|score1=0
+|t2p1=iDom|o2p1={{Chars|manon}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Booce_Lee|o1p1={{Chars|terry}}|score1=2
+|t2p1=ChrisCCH|o2p1={{Chars|ed}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=3
+|t2p1=JAK|o2p1={{Chars|juri}}|score2=1
+|winner=1
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=30}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=20}}
+|date=2026-11-07 - 23:00 {{Abbr/EST}}
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=LUGABO|o1p1={{Chars|kimberly}}|score1=2
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|deejay}}|score1=2
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|ken|luke}}|score1=0
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=shaka22|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|mai|cammy}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}

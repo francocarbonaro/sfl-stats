@@ -1,0 +1,132 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2022: Playoffs}}{{HDB|phase=2}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2022
+|name2=Regular Season |link2=Street Fighter League/United States/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2022/Playoffs
+|This={{{This}}}
+}}
+==Results==
+{{Bracket|Bracket/4|id=L2S2h8RPUD
+<!-- SEMIFINALS -->
+|R1M1={{Match
+|opponent1={{TeamOpponent|NASR X Bandits}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|date=2023-02-03 |finished=yes
+|map1={{Map
+|t1p1=AngryBird |o1p1={{Chars|ken}} |score1=2
+|t2p1=Samurai |o2p1={{Chars|luke}} |score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Big Bird |o1p1={{Chars|rashid}} |score1=0
+|t2p1=Filipinoman |o2p1={{Chars|rose}} |score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=MenaRD |o1p1={{Chars|luke}} |score1=0
+|t2p1=ChrisCCH |o2p1={{Chars|luke}} |score2=3
+|winner=2
+}}
+|vod=https://www.youtube.com/live/HZ49x6K4IzA?feature=share&t=2306
+}}
+
+|R1M2={{Match
+|opponent1={{TeamOpponent|Endemic}}
+|opponent2={{TeamOpponent|UYU}}
+|date=2023-02-03 |finished=yes
+|map1={{Map
+|t1p1=GamerBee |o1p1={{Chars|lucia}} |score1=0
+|t2p1=Xian |o2p1={{Chars|seth}} |score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Shine |o1p1={{Chars|ibuki}} |score1=1
+|t2p1=DCQ |o2p1={{Chars|urien}} |score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=IDom |o1p1={{Chars|laura}} |score1=1
+|t2p1=NL |o2p1={{Chars|luke}} |score2=3
+|winner=2
+}}
+|vod=https://www.youtube.com/live/HZ49x6K4IzA?feature=share&t=4832
+}}
+
+<!-- FINALS -->
+|R2M1={{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming |score=0}}
+|opponent2={{TeamOpponent|UYU |score=2}}
+<!--
+|date= |finished=
+|map1={{Map
+|t1p1= |o1p1={{Chars|}} |score1=
+|t2p1= |o2p1={{Chars|}} |score2=
+|winner=
+}}
+|map2={{Map
+|t1p1= |o1p1={{Chars|}} |score1=
+|t2p1= |o2p1={{Chars|}} |score2=
+|winner=
+}}
+|map3={{Map
+|t1p1= |o1p1={{Chars|}} |score1=
+|t2p1= |o2p1={{Chars|}} |score2=
+|winner=
+}}
+|map4={{Map
+|t1p1= |o1p1={{Chars|}} |score1=
+|t2p1= |o2p1={{Chars|}} |score2=
+|winner=
+}}
+|map5={{Map
+|t1p1= |o1p1={{Chars|}} |score1=
+|t2p1= |o2p1={{Chars|}} |score2=
+|winner=
+}}
+-->
+}}
+}}
+==Details==
+===Grand Finals===
+{{Matchlist|width=450px|collapsed=false|id=iQ3nlL8zrJ
+|M1={{Match
+|opponent1={{TeamOpponent|UYU}}
+|opponent2={{TeamOpponent|Counter Logic Gaming}}
+|vod=https://www.youtube.com/live/HZ49x6K4IzA?feature=share&t=7513
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|luke}} |score1=2
+|t2p1=Justakid|o2p1={{Chars|juri}} |score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Xian|o1p1={{Chars|seth}} |score1=0
+|t2p1=Samurai|o2p1={{Chars|luke}} |score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|urien}} |score1=3
+|t2p1=ChrisCCH|o2p1={{Chars|luke}} |score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Counter Logic Gaming}}
+|opponent2={{TeamOpponent|UYU}}
+|vod=https://www.youtube.com/live/HZ49x6K4IzA?feature=share&t=10033
+|map1={{Map
+|t1p1=Filipinoman|o1p1={{Chars|rose}} |score1=0
+|t2p1=NL|o2p1={{Chars|luke}} |score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=ChrisCCH|o1p1={{Chars|luke}} |score1=0
+|t2p1=Oil King|o2p1={{Chars|rashid}} |score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Samurai|o1p1={{Chars|luke}} |score1=0
+|t2p1=DCQ|o2p1={{Chars|urien}} |score2=3
+|winner=2
+}}
+}}
+}}

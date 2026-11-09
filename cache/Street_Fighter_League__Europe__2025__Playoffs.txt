@@ -1,0 +1,232 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2025: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{tabs static 
+|name1=Overview |link1={{BASEPAGENAME}}
+|name2=Regular Season |link2={{BASEPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{BASEPAGENAME}}/Playoffs 
+}} 
+==Results==
+{{Bracket|Bracket/2L2D|id=SFLEU25PLO|matchWidth=190
+|R1M1={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=60}}
+|opponent2={{TeamOpponent|Wolves Esports|score=20}}
+|date=November 29, 2025
+|winner=1
+}}
+
+|R2M1={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=40}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=50}}
+|date=November 29, 2025
+|winner=2
+}}
+
+|R3M1={{Match
+|opponent1={{TeamOpponent|Mouz|score=60}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=70}}
+|date=November 29, 2025
+|winner=2
+}}
+}}
+
+==Details==
+===Quarterfinals===
+{{Matchlist|id=SFLEU25PQF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=20}}
+|opponent2={{TeamOpponent|Wolves Esports|score=20}}
+|date=November 29, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Hurricane|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=Takamura|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Kusanagi|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Wolves Esports|score=0}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=40}}
+|date=November 29, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Infexious|o1p1={{Chars|Marisa}}|score1=0
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hurricane|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=BigBird|o2p1={{Chars|Rashid}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kusanagi|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+===Semifinals===
+{{Matchlist|id=SFLEU25PSF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|AEGIS (French team)|score=20}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=20}}
+|winner=
+|date=
+|vod=
+|map1={{Map
+|t1p1=Valmaster|o1p1={{Chars|kim}}|score1=2
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=Big Bird|o2p1={{Chars|Rashid}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kilzyou|o1p1={{Chars|mai}}|score1=0
+|t2p1=AngryBird|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=20}}
+|opponent2={{TeamOpponent|AEGIS (French team)|score=20}}
+|winner=
+|date=
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Gamein99|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Big Bird|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Mister Crimson|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=AngryBird|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Kilzyou|o2p1={{Chars|mai}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=10}}
+|opponent2={{TeamOpponent|AEGIS (French team)|score=0}}
+|winner=
+|date=
+|vod=
+|map1={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|jp}}|score1=2
+|t2p1=Valmaster|o2p1={{Chars|kim}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|finished=skip
+}}
+|map3={{Map
+|finished=skip
+}}
+}}
+}}
+
+===Grand Finals===
+{{Matchlist|id=SFLEU25PGF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|Mouz|score=20}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=20}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Garnet|o1p1={{Chars|Dhalsim}}|score1=0
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=0
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=10}}
+|opponent2={{TeamOpponent|Mouz|score=30}}
+|winner=
+|date=
+|vod=
+|map1={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=1
+|t2p1=Lexx|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Problem X|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Big Bird|o1p1={{Chars|Rashid}}|score1=1
+|t2p1=EndingWalker|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Mouz|score=10}}
+|opponent2={{TeamOpponent|Ninjas in Pyjamas|score=30}}
+|winner=
+|date=
+|vod=
+|map1={{Map
+|t1p1=Problem X|o1p1={{Chars|M. Bison}}|score1=0
+|t2p1=Juicyjoe|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Lexx|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=EndingWalker|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Ninjas in Pyjamas|score=10}}
+|opponent2={{TeamOpponent|Mouz|score=0}}
+|winner=
+|date=
+|vod=
+|map1={{Map
+|t1p1=AngryBird|o1p1={{Chars|akuma}}|score1=2
+|t2p1=EndingWalker|o2p1={{Chars|ryu}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|finished=skip
+}}
+|map3={{Map
+|finished=skip
+}}
+}}
+}}

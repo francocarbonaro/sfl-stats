@@ -1,0 +1,166 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EU 2022}}
+{{Street Fighter League Navbox}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Europe/2022
+|name2=Regular Season |link2=Street Fighter League/Europe/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Europe/2022/Playoffs
+|This={{{This}}}
+}}
+{{Infobox league
+|name=Street Fighter League Pro-EU 2022
+|series=Street Fighter League
+|abbrevation=SFL EU Season 5
+|liquipediatier=1
+|image=Street Fighter League EU 2022 allmode.png
+|icon=Street Fighter League EU 2022 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United Kingdom
+|city=London
+|venue=
+
+|game=sfv
+|version=Champion Edition
+|sdate=2022-10-10
+|edate=2023-02-03
+|format=
+
+|website=https://streetfighterleagueeurope.com/
+|prizepool=75,000
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|smashgg=
+|bracket=
+|rulebook=
+|player_number=24
+|team_number=6
+|previous=
+|next=Street Fighter League/Europe/2023{{!}}SFL Pro-EU 2023
+}}
+
+==Information==
+===Format===
+*The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+*In each battle one team is the home team and the other the away team
+**The away team must declare the player order and character selection before the battle begins
+**The home team is able to choose the players and character selection as the battle progresses
+
+*Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:500px;text-align:center;"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || Best of three || +10 PTS
+|-
+| 2nd Match || Best of three || +10 PTS
+|-
+| 3rd Match || Best of five || +20 PTS
+|-
+| Tie Breaker || Best of one || +5 PTS
+|}
+
+*Top 4 teams advance to the Playoffs
+
+====Playoffs====
+*Head-to-head team matchups determined based on each team's Regular Season placements
+*Grand Finals is a {{Abbr/Bo3}}
+*Winner qualifies to the [[Street_Fighter_League/World_Championship/2022|Street Fighter League World Championship 2022]]
+
+===Broadcast Talent===
+{{broadcasterCard
+|position=Commentator
+|b1=Logan Sama
+|b2=F-Word
+|b3=Jammerz
+}}
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=6
+|qualifies1=Street Fighter League/World Championship/2022|qualifies1name=SFL World Championship 2022
+|{{Slot|place=1|qualified1=yes|usdprize=60,000|{{Opponent|MOUZ|lastvs=BMS ESPORTS|lastvsscore=2-0}}}}
+|{{Slot|place=2|usdprize=15,000|{{Opponent|BMS ESPORTS|lastvs=MOUZ|lastvsscore=0-2}}}}
+|{{Slot|place=3-4|usdprize=0
+|{{Opponent|Team GO|lastvs=BMS ESPORTS|lastvsscore=1-2}}
+|{{Opponent|00 Nation|lastvs=MOUZ|lastvsscore=0-3}}
+}}
+|{{Slot|place=5|usdprize=0|{{Opponent|Reason Gaming|wdl=3/6}}}}
+|{{Slot|place=6|usdprize=0|{{Opponent|Wild Blast|wdl=1/7}}}}
+}}
+
+==Participants==
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=BMS ESPORTS
+|p1=Mister Crimson|p1flag=fr|p1team=
+|p2=Kilzyou|p2flag=fr|p2team=
+|p3=Linkexelo|p3flag=fr|p3team=
+|p4=TKR|p4flag=fr|p4team=
+}}
+{{TeamCard
+|team=Team GO
+|p1=Luffy|p1flag=fr|p1team=team go
+|p2=Akainu|p2flag=fr|p2team=
+|p3=Valmaster|p3flag=fr|p3team=
+|p4=JuniorLéo|p4flag=fr|p4team=
+}}
+{{TeamCard
+|team=00 Nation
+|p1=Phenom|p1flag=no|p1team=00 nation
+|p2=Veggey|p2flag=no|p2team=00 nation
+|p3=Rikemansbarnet|p3flag=se|p3team=
+|p4=DrGulag|p4flag=fi|p4team=
+}}
+{{TeamCard
+|team=MOUZ
+|p1=Problem X|p1flag=|p1team=mouz
+|p2=The4philzz|p2flag=|p2team=
+|p3=Broski|p3flag=|p3team=
+|p4=Shakz|p4flag=|p4team=
+}}
+{{TeamCard
+|team=Reason Gaming
+|p1=MQS|p1flag=uk|p1team=reason gaming
+|p2=Shivs|p2flag=uk|p2team=
+|p3=OneStepLayered|p3flag=uk|p3team=
+|p4=SoundBoi|p4flag=uk|p4team=
+}}
+{{TeamCard
+|team=Wild Blast
+|p1=VegaPatch|p1flag=es|p1team=
+|p2=Takamura|p2flag=be|p2team=
+|p3=Momi|p3flag=nl|p3team=
+|p4=JimmY|p4flag=de|p4team=
+}}
+{{TeamCard columns end}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/Europe/2022/Regular Season}}
+{{LPDB storage|true}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2022/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+
+===Playoffs===
+{{ShowBracket|id=A7MPippqlv}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/Europe/2022/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Additional Content==
+===Videos=== 
+* {{ExternalMediaLink 
+|date=2022-08-28
+|link=https://www.youtube.com/watch?v=TcizY4N6Pfs
+|title=Street Fighter League Pro Europe 2022
+|by=Capcom Fighters
+|of=
+}}
+
+===View Games=== 
+{{Streams |lang1=usuk |twitch1=capcomfighters |youtube1=c/CapcomFighters }} 
+
+==References==
+{{Reflist}}

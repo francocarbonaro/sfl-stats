@@ -1,0 +1,1719 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2026: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{SFL JP 2026 Tabs}}
+==Results==
+===Division S===
+{{box|start|padding=2em}}
+<section begin="Division S"/>
+{{GroupStandings|title=Division S|width=520px
+|bg=1=seedup, 2-3=up, 4-6=down
+|tiebreakers={{Json|points|rounddiff}}
+|points=win=0, draw=0, loss=0, 40-0=40, 30-10=30, 30-20=30, 20-30=20, 10-30=10, 0-40=0
+
+<!-- Rounds -->
+|round1={{Round|title=Week 1|matchgroups=sflj26Rs1S}}
+|round2={{Round|title=Week 2|matchgroups=sflj26Rs2S}}
+|round3={{Round|title=Week 3|matchgroups=sflj26Rs3S}}
+|round4={{Round|title=Week 4|matchgroups=sflj26Rs4S}}
+|round5={{Round|title=Week 5|matchgroups=sflj26Rs5S}}
+|round6={{Round|title=Week 6|matchgroups=sflj26Rs6S}}
+|round7={{Round|title=Week 7|matchgroups=sflj26Rs7S}}
+|round8={{Round|title=Week 8|matchgroups=sflj26Rs8S}}
+|round9={{Round|title=Week 9|matchgroups=sflj26Rs9S}}
+|round10={{Round|title=Week 10|matchgroups=sflj26Rs0S}}
+
+|{{TeamOpponent|FAV gaming}}
+|{{TeamOpponent|Crazy Raccoon}}
+|{{TeamOpponent|Saishunkan Sol Kumamoto}}
+|{{TeamOpponent|ZETA DIVISION}}
+|{{TeamOpponent|Team iXA}}
+|{{TeamOpponent|IBUSHIGIN}}
+}}
+<section end="Division S"/>
+{{box|break|padding=1em}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Japan/2026/Regular Season
+|team1=FAV gaming
+|team2=Crazy Raccoon
+|team3=Saishunkan Sol Kumamoto
+|team4=ZETA DIVISION
+|team5=Team iXA
+|team6=IBUSHIGIN
+|double=true
+}}
+{{box|end}}
+
+===Division F===
+{{box|start|padding=2em}}
+<section begin="Division F"/>
+{{GroupStandings|title=Division F|width=520px
+|bg=1=seedup, 2-3=up, 4-6=down
+|tiebreakers={{Json|points|rounddiff}}
+|points=win=0, draw=0, loss=0, 40-0=40, 30-10=30, 30-20=30, 20-30=20, 10-30=10, 0-40=0
+
+<!-- Rounds -->
+|round1={{Round|title=Week 1|matchgroups=sflj26Rs1F}}
+|round2={{Round|title=Week 2|matchgroups=sflj26Rs2F}}
+|round3={{Round|title=Week 3|matchgroups=sflj26Rs3F}}
+|round4={{Round|title=Week 4|matchgroups=sflj26Rs4F}}
+|round5={{Round|title=Week 5|matchgroups=sflj26Rs5F}}
+|round6={{Round|title=Week 6|matchgroups=sflj26Rs6F}}
+|round7={{Round|title=Week 7|matchgroups=sflj26Rs7F}}
+|round8={{Round|title=Week 8|matchgroups=sflj26Rs8F}}
+|round9={{Round|title=Week 9|matchgroups=sflj26Rs9F}}
+|round10={{Round|title=Week 10|matchgroups=sflj26Rs0F}}
+
+|{{TeamOpponent|VARREL}}
+|{{TeamOpponent|Good 8 Squad}}
+|{{TeamOpponent|DetonatioN FocusMe}}
+|{{TeamOpponent|Nagoya OJA}}
+|{{TeamOpponent|REJECT}}
+|{{TeamOpponent|RIDDLE}}
+}}
+<section end="Division F"/>
+{{box|break|padding=1em}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Japan/2026/Regular Season
+|team1=VARREL
+|team2=Good 8 Squad
+|team3=DetonatioN FocusMe
+|team4=Nagoya OJA
+|team5=REJECT
+|team6=RIDDLE
+|double=true
+}}
+{{box|end}}
+<br/>
+{{box|start|padding=2em}}
+{{StandingsLegend
+|byeup=Seeded to Playoffs Grand Final
+|seedup=Seeded to Playoffs Semifinals
+|up=Seeded to Playoffs Quarterfinals
+|down=Eliminated
+<br/>
+'''Game''' = Points earned - points conceded<br/>'''RD''' = Battle differential (battles won – battles lost)
+}}
+{{box|end}}
+
+==Details==
+{{Toggle group start|state=hide}}
+{{tabs dynamic|hide-showall=true<!--uncertain-->
+|name1=Division S|icon1=results
+|name2=Division F|icon2=results
+}}
+{{tabs dynamic/tab|1}}
+
+===Division S===
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist |title=Week 1|id=sflj26Rs1S|collapsed=false
+|M1header=August 25, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=20}}
+|opponent2={{TeamOpponent|FAV gaming|score=30}}
+|date=2026-08-25
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Yanai|o1p1={{Chars|Sagat}}|score1=0
+|t2p1=Fujimura|o2p1={{Chars|Viper}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=1
+|t2p1=Ryukichi|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=2BASSA|o1p1={{Chars|Juri}}|score1=3
+|t2p1=moke|o2p1={{Chars|Chun-li}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Johnny|o1p1={{Chars|Elena}}|score1=0
+|t2p1=sako|o2p1={{Chars|Elena}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|opponent2={{TeamOpponent|Team iXA|score=10}}
+|date=2026-08-25
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=takepi|o2p1={{Chars|JP}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=kobayan|o1p1={{Chars|Zangief}}|score1=0
+|t2p1=Hibiki|o2p1={{Chars|Lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=kincho|o1p1={{Chars|Terry}}|score1=3
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=40}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=0}}
+|date=2026-08-25
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Shuto|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|Blanka}}|score1=3
+|t2p1=Bonchan|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist |title=Week 2|id=sflj26Rs2S|collapsed=false
+|M1header=September 1, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|opponent2={{TeamOpponent|FAV gaming|score=10}}
+|date=2026-09-01
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Ryukichi|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=cosa|o1p1={{Chars|Ken}}|score1=0
+|t2p1=moke|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kincho|o1p1={{Chars|Terry}}|score1=3
+|t2p1=Fujimura|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Team iXa|score=0}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=40}}
+|date=2026-09-01
+|winner=
+|vod=
+|map1={{Map
+|t1p1=takepi|o1p1={{Chars|JP}}|score1=1
+|t2p1=Yamaguchi|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=ACQUA|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=20}}
+|date=2026-09-01
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=0
+|t2p1=2BASSA|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Viper}}|score1=3
+|t2p1=Yanai|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Bonchan|o1p1={{Chars|Sagat}}|score1=2
+|t2p1=Johnny|o2p1={{Chars|Elena}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist |title=Week 3|id=sflj26Rs3S|collapsed=false
+|M1header=September 8, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=10}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|date=2026-09-08
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=2
+|t2p1=kincho|o2p1={{Chars|Terry}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=cosa|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Viper}}|score1=2
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=40}}
+|opponent2={{TeamOpponent|ZETA Division|score=0}}
+|date=2026-09-08
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=Momochi|o2p1={{Chars|Jamie}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Yanai|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=2BASSA|o1p1={{Chars|Juri}}|score1=3
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=40}}
+|opponent2={{TeamOpponent|Team iXa|score=0}}
+|date=2026-09-08
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=moke|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Hibiki|o2p1={{Chars|Lily}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Fujimura|o1p1={{Chars|Viper}}|score1=2
+|t2p1=ACQUA|o2p1={{Chars|Blanka}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Ken}}|score1=3
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 4}}=====
+{{Matchlist |title=Week 4|id=sflj26Rs4S|collapsed=false
+|M1header=October 16, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|team iXa|score=10}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=30}}
+|date=2026-10-16
+|winner=
+|vod=
+|map1={{Map
+|t1p1=ACQUA|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=2BASSA|o2p1={{Chars|Juri}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Yanai|o2p1={{Chars|Sagat}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=30}}
+|opponent2={{TeamOpponent|FAV gaming|score=20}}
+|date=2026-10-16
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Bonchan|o1p1={{Chars|Sagat}}|score1=0
+|t2p1=moke|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Ryukichi|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Fujimura|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=2
+|t2p1=sako|o2p1={{Chars|Elena}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA Division|score=40}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=0}}
+|date=2026-10-16
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|Mai}}|score1=2
+|t2p1=kincho|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|Luke}}|score1=3
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 5}}=====
+{{Matchlist |title=Week 5|id=sflj26Rs5S|collapsed=false
+|M1header=October 23, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=40}}
+|opponent2={{TeamOpponent|ZETA Division|score=0}}
+|date=2026-10-23
+|winner=
+|vod=
+|map1={{Map
+|t1p1=moke|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Momochi|o2p1={{Chars|Jamie}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fujimura|o1p1={{Chars|Viper}}|score1=3
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=20}}
+|date=2026-10-23
+|winner=
+|vod=
+|map1={{Map
+|t1p1=cosa|o1p1={{Chars|Ken}}|score1=2
+|t2p1=Yanai|o2p1={{Chars|Sagat}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kincho|o1p1={{Chars|Terry}}|score1=0
+|t2p1=2BASSA|o2p1={{Chars|Cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Kobayan|o1p1={{Chars|Zangief}}|score1=2
+|t2p1=Johnny|o2p1={{Chars|Elena}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Team iXa|score=30}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=10}}
+|date=2026-10-23
+|winner=
+|vod=
+|map1={{Map
+|t1p1=ACQUA|o1p1={{Chars|Blanka}}|score1=0
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Taketake-piano|o1p1={{Chars|JP}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|Luke}}|score2=2
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 6}}=====
+{{Matchlist |title=Week 6|id=sflj26Rs6S|collapsed=false
+|M1header=October 30, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=20}}
+|opponent2={{TeamOpponent|ZETA Division|score=30}}
+|date=2026-10-30
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Momochi|o2p1={{Chars|Jamie}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Bonchan|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Luke}}|score1=3
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=1
+|t2p1=Yamaguchi|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Team iXa|score=20}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|date=2026-10-30
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=ACQUA|o1p1={{Chars|Blanka}}|score1=1
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=3
+|t2p1=kincho|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Taketake-piano|o1p1={{Chars|JP}}|score1=1
+|t2p1=cosa|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=10}}
+|date=2026-10-30
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=moke|o1p1={{Chars|mai}}|score1=1
+|t2p1=Torimeshi|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fujimura|o1p1={{Chars|viper}}|score1=2
+|t2p1=Johnny|o2p1={{Chars|elena}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|mai}}|score1=3
+|t2p1=2BASSA|o2p1={{Chars|juri}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}  
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 7}}=====
+{{Matchlist |title=Week 7|id=sflj26Rs7S|collapsed=false
+|M1header=November 6, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|FAV Gaming|score=10}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|date=2026-11-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Fujimura|o1p1={{Chars|Viper}}|score1=1
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Kincho|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=moke|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=10}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=30}}
+|date=2026-11-06
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Yanai|o1p1={{Chars|sagat}}|score1=0
+|t2p1=Dogura|o2p1={{Chars|elena}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=2BASSA|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Shuto|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Torimeshi|o1p1={{Chars|dhalsim}}|score1=0
+|t2p1=Kazunoko|o2p1={{Chars|viper}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA Division|score=40}}
+|opponent2={{TeamOpponent|Team iXa|score=0}}
+|date=2026-11-06
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=MenaRD|o1p1={{Chars|luke}}|score1=2
+|t2p1=Hibiki|o2p1={{Chars|lily}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Yamaguchi|o1p1={{Chars|mai}}|score1=2
+|t2p1=ACQUA|o2p1={{Chars|blanka}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=3
+|t2p1=Akira|o2p1={{Chars|cammy}}|score2=1
+|winner=1
+}}
+}} 
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 8}}=====
+{{Matchlist |title=Week 8|id=sflj26Rs8S|collapsed=false
+|M1header=November 13, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|ZETA Division|score=}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=}}
+|date=2026-11-13
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Team iXa|score=}}
+|opponent2={{TeamOpponent|FAV Gaming|score=}}
+|date=2026-11-13
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=}}
+|date=2026-11-13
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 9}}=====
+{{Matchlist |title=Week 9|id=sflj26Rs9S|collapsed=false
+|M1header=December 1, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=}}
+|opponent2={{TeamOpponent|ZETA Division|score=}}
+|date=2026-12-01
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=}}
+|opponent2={{TeamOpponent|team iXa|score=}}
+|date=2026-12-01
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FAV Gaming|score=}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=}}
+|date=2026-12-01
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 10}}=====
+{{Matchlist |title=Week 10|id=sflj26Rs0S|collapsed=false
+|M1header=December 8, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=}}
+|opponent2={{TeamOpponent|Team iXa|score=}}
+|date=2026-12-08
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|ZETA Division|score=}}
+|opponent2={{TeamOpponent|FAV Gaming|score=}}
+|date=2026-12-08
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=}}
+|date=2026-12-08
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|end|padding=2em}}
+{{tabs dynamic/tab|2}}
+
+===Division F===
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist |title=Week 1|id=sflj26Rs1F|collapsed=false
+|M1header=August 28, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|RIDDLE|score=30}}
+|opponent2={{TeamOpponent|Detonation FocusMe|score=10}}
+|date=2026-08-28
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Jr.|o1p1={{Chars|Zangief}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Takagi|o1p1={{Chars|Blanka}}|score1=0
+|t2p1=Itabashi Zangief|o2p1={{Chars|Zangief}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|AKI}}|score1=3
+|t2p1=John Takeuchi|o2p1={{Chars|Jamie}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=10}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=30}}
+|date=2026-08-28
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=gachikun|o2p1={{Chars|Rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Raoyamu|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Sahara|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Otani|o1p1={{Chars|Elena}}|score1=0
+|t2p1=Kawano|o2p1={{Chars|Luke}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|VARREL|score=10}}
+|opponent2={{TeamOpponent|REJECT|score=30}}
+|date=2026-08-28
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Mizuha|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Hinao|o2p1={{Chars|Sagat}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Tokido|o1p1={{Chars|JP}}|score1=2
+|t2p1=Daigo|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Wabiichi|o1p1={{Chars|Terry}}|score1=0
+|t2p1=YAS|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist |title=Week 2|id=sflj26Rs2F|collapsed=false
+|M1header=September 4, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=10}}
+|opponent2={{TeamOpponent|Detonation FocusMe|score=30}}
+|date=2026-09-04
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Otani|o1p1={{Chars|Ken}}|score1=2
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=John Takeuchi|o2p1={{Chars|Jamie}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Seiya|o1p1={{Chars|Chun-li}}|score1=1
+|t2p1=Itabashi Zangief|o2p1={{Chars|Zangief}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=30}}
+|opponent2={{TeamOpponent|VARREL|score=20}}
+|date=2026-09-04
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Pugera|o1p1={{Chars|Viper}}|score1=2
+|t2p1=Wabiichi|o2p1={{Chars|Terry}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=gachikun|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Mizuha|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kawano|o1p1={{Chars|Luke}}|score1=0
+|t2p1=Tokido|o2p1={{Chars|JP}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Sahara|o1p1={{Chars|ED}}|score1=2
+|t2p1=Mago|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|REJECT|score=10}}
+|opponent2={{TeamOpponent|RIDDLE|score=30}}
+|date=2026-09-04
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=YAS|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Jr.|o2p1={{Chars|Zangief}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hinao|o1p1={{Chars|Sagat}}|score1=1
+|t2p1=Adelie|o2p1={{Chars|ED}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|ED}}|score1=0
+|t2p1=Hikaru|o2p1={{Chars|AKI}}|score2=3
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist |title=Week 3|id=sflj26Rs3F|collapsed=false
+|M1header=October 6, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Detonation FocusMe|score=30}}
+|opponent2={{TeamOpponent|VARREL|score=20}}
+|date=2026-10-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Nauman|o1p1={{Chars|Mai}}|score1=1
+|t2p1=Tokido|o2p1={{Chars|JP}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Wabiichi|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|Jamie}}|score1=3
+|t2p1=Mago|o2p1={{Chars|Juri}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|Zangief}}|score1=2
+|t2p1=Mizuha|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=0}}
+|opponent2={{TeamOpponent|RIDDLE|score=40}}
+|date=2026-10-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Otani|o1p1={{Chars|Luke}}|score1=1
+|t2p1=Adelie|o2p1={{Chars|ED}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Raoyamu|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Jr.|o2p1={{Chars|Zangief}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Takagi|o2p1={{Chars|Blanka}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=30}}
+|opponent2={{TeamOpponent|REJECT|score=10}}
+|date=2026-10-06
+|winner=
+|vod=
+|map1={{Map
+|t1p1=gachikun|o1p1={{Chars|Rashid}}|score1=0
+|t2p1=Daigo|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Pugera|o1p1={{Chars|Viper}}|score1=2
+|t2p1=YAS|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Sahara|o1p1={{Chars|ED}}|score1=3
+|t2p1=Fuudo|o2p1={{Chars|Viper}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 4}}=====
+{{Matchlist |title=Week 4|id=sflj26Rs4F|collapsed=false
+|M1header=October 20, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=0}}
+|opponent2={{TeamOpponent|RIDDLE|score=40}}
+|date=2026-10-20
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Sahara|o1p1={{Chars|ED}}|score1=1
+|t2p1=Adelie|o2p1={{Chars|ED}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=gachikun|o1p1={{Chars|Rashid}}|score1=1
+|t2p1=Hikaru|o2p1={{Chars|AKI}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Kawano|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Jr.|o2p1={{Chars|Zangief}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|REJECT|score=20}}
+|opponent2={{TeamOpponent|Detonation FocusMe|score=30}}
+|date=2026-10-20
+|winner=
+|vod=
+|map1={{Map
+|t1p1=YAS|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=John Takeuchi|o2p1={{Chars|Jamie}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Fuudo|o1p1={{Chars|Viper}}|score1=2
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hinao|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=Itabashi Zangief|o2p1={{Chars|Zangief}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Daigo|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Nauman|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|VARREL|score=10}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=30}}
+|date=2026-10-20
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Mizuha|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Seiya|o2p1={{Chars|Chun-li}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Wabiichi|o1p1={{Chars|Terry}}|score1=2
+|t2p1=Otani|o2p1={{Chars|Luke}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Tokido|o1p1={{Chars|JP}}|score1=1
+|t2p1=Raoyamu|o2p1={{Chars|Bison}}|score2=3
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 5}}=====
+{{Matchlist |title=Week 5|id=sflj26Rs5F|collapsed=false
+|M1header=October 27, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=40}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=0}}
+|date=2026-10-27
+|winner=
+|vod=
+|map1={{Map
+|t1p1=YAS|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Mocchii|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hinao|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Raoyamu|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|Viper}}|score1=3
+|t2p1=Otani|o2p1={{Chars|Luke}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|RIDDLE|score=10}}
+|opponent2={{TeamOpponent|VARREL|score=30}}
+|date=2026-10-27
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Adelie|o1p1={{Chars|ED}}|score1=0
+|t2p1=Mago|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Takagi|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|JP}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Jr.|o1p1={{Chars|Zangief}}|score1=2
+|t2p1=Wabiichi|o2p1={{Chars|Terry}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Detonation FocusMe|score=20}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=30}}
+|date=2026-10-27
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Nauman|o1p1={{Chars|Mai}}|score1=1
+|t2p1=gachikun|o2p1={{Chars|Rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|Zangief}}|score1=0
+|t2p1=Kawano|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Sahara|o2p1={{Chars|ED}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|Jamie}}|score1=0
+|t2p1=Pugera|o2p1={{Chars|Viper}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 6}}=====
+{{Matchlist |title=Week 6|id=sflj26Rs6F|collapsed=false
+|M1header=November 3, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=30}}
+|opponent2={{TeamOpponent|VARREL|score=20}}
+|date=2026-11-03
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Daigo|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Mizuha|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Fuudo|o1p1={{Chars|Viper}}|score1=2
+|t2p1=Mago|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hinao|o1p1={{Chars|Luke}}|score1=1
+|t2p1=Wabiichi|o2p1={{Chars|Terry}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=YAS|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|JP}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=30}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=10}}
+|date=2026-11-03
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Raoyamu|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Seiya|o2p1={{Chars|chun-li}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=pugera|o1p1={{Chars|viper}}|score1=3
+|t2p1=Otani|o2p1={{Chars|ken}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Detonation FocusMe|score=10}}
+|opponent2={{TeamOpponent|RIDDLE|score=30}}
+|date=2026-11-03
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|jamie}}|score1=1
+|t2p1=Hikaru|o2p1={{Chars|aki}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nauman|o1p1={{Chars|mai}}|score1=2
+|t2p1=Jr.|o2p1={{Chars|zangief}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|mai}}|score1=1
+|t2p1=Takagi|o2p1={{Chars|blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 7}}=====
+{{Matchlist |title=Week 7|id=sflj26Rs7F|collapsed=false
+|M1header=November 10, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Detonation Focusme|score=}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=}}
+|date=2026-11-10
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|RIDDLE|score=}}
+|opponent2={{TeamOpponent|REJECT|score=}}
+|date=2026-11-10
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|VARREL|score=}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=}}
+|date=2026-11-10
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 8}}=====
+{{Matchlist |title=Week 8|id=sflj26Rs8F|collapsed=false
+|M1header=November 27, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=}}
+|date=2026-11-27
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|VARREL|score=}}
+|opponent2={{TeamOpponent|Detonation FocusMe|score=}}
+|date=2026-11-27
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|RIDDLE|score=}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=}}
+|date=2026-11-27
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 9}}=====
+{{Matchlist |title=Week 9|id=sflj26Rs9F|collapsed=false
+|M1header=December 4, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=}}
+|opponent2={{TeamOpponent|VARREL|score=}}
+|date=2026-12-04
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|RIDDLE|score=}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=}}
+|date=2026-12-04
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Detonation FocusMe|score=}}
+|opponent2={{TeamOpponent|REJECT|score=}}
+|date=2026-12-04
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 10}}=====
+{{Matchlist |title=Week 10|id=sflj26Rs0F|collapsed=false
+|M1header=December 11, 2026
+|M1={{Match
+|opponent1={{TeamOpponent|VARREL|score=}}
+|opponent2={{TeamOpponent|RIDDLE|score=}}
+|date=2026-12-11
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=}}
+|opponent2={{TeamOpponent|Detonation FocusMe|score=}}
+|date=2026-12-11
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=}}
+|opponent2={{TeamOpponent|REJECT|score=}}
+|date=2026-12-11
+|winner=
+|vod=
+|map1={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map2={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map3={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+|map4={{Map
+|t1p1=|o1p1={{Chars|}}|score1=
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=
+}}
+}}
+}}
+{{box|end|padding=2em}}
+{{tabs dynamic/end}}

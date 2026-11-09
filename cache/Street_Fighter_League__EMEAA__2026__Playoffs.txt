@@ -1,0 +1,191 @@
+{{DISPLAYTITLE:Street Fighter League Pro-EMEAA 2026: {{SUBPAGENAME}}}}{{HDB}}
+{{tabs static 
+|name1=Overview |link1={{BASEPAGENAME}}
+|name2=Regular Season |link2={{BASEPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{BASEPAGENAME}}/Playoffs 
+}} 
+==Results==
+{{Bracket|Bracket/2L2D|id=cFwOiPprT6|matchWidth=190
+|R1M1={{Match
+|opponent1={{TeamOpponent|MVS|score=30}}
+|opponent2={{TeamOpponent|Yesports|score=50}}
+|date=
+|winner=2
+}}
+
+|R2M1={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=60}}
+|opponent2={{TeamOpponent|Yesports|score=20}}
+|date=
+|winner=1
+}}
+
+|R3M1={{Match
+|opponent1={{TeamOpponent|GTW|score=30}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=70}}
+|date=
+|winner=2
+}}
+}}
+
+==Details==
+===Quarterfinals===
+{{Matchlist|id=SFLEU26PQF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|MVS|score=10}}
+|opponent2={{TeamOpponent|Yesports|score=30}}
+|date=
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Mister Crimson|o1p1={{Chars|Viper}}|score1=1
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=NL|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Rainpro|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Luke}}|score1=0
+|t2p1=HotDog29|o2p1={{Chars|Alex}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Yesports|score=20}}
+|opponent2={{TeamOpponent|MVS|score=20}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Keekuma|o1p1={{Chars|Yasmine}}|score1=1
+|t2p1=NL|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=HotDog29|o1p1={{Chars|Alex}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Rainpro|o1p1={{Chars|Guile}}|score1=3
+|t2p1=Kilzyou|o2p1={{Chars|Mai}}|score2=2
+|winner=1
+}}
+}}
+}}
+
+===Semifinals===
+{{Matchlist|id=SFLEU26PSF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=30}}
+|opponent2={{TeamOpponent|Yesports|score=10}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Phenom|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=Keekuma|o2p1={{Chars|Chun-Li}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Big Bird|o1p1={{Chars|Viper}}|score1=3
+|t2p1=HotDog29|o2p1={{Chars|Alex}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Yesports|score=10}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=30}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Rainpro|o1p1={{Chars|Guile}}|score1=1
+|t2p1=AngryBird|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=HotDog29|o1p1={{Chars|Alex}}|score1=0
+|t2p1=Big Bird|o2p1={{Chars|Viper}}|score2=3
+|winner=2
+}}
+}}
+}}
+
+===Grand Finals===
+{{Matchlist|id=SFLEU26PGF|width=450px|collapsed=false
+|M1={{Match
+|opponent1={{TeamOpponent|GTW|score=20}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=20}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|Kimberly}}|score1=2
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hope|o1p1={{Chars|AKI}}|score1=2
+|t2p1=AngryBird|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Big Bird|o2p1={{Chars|Viper}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Red Dunes Esports|score=40}}
+|opponent2={{TeamOpponent|GTW|score=0}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=AngryBird|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Xian|o2p1={{Chars|Kimberly}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Juicyjoe|o1p1={{Chars|JP}}|score1=2
+|t2p1=Bravery|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Big Bird|o1p1={{Chars|Viper}}|score1=3
+|t2p1=Zhen|o2p1={{Chars|Bison}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|GTW|score=10}}
+|opponent2={{TeamOpponent|Red Dunes Esports|score=10}}
+|date=
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|Kimberly}}|score1=2
+|t2p1=Phenom|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=1
+|t2p1=AngryBird|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+}}
+}}

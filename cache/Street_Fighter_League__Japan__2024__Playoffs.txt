@@ -1,0 +1,312 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2024: Playoffs}}{{HDB|phase=2}}
+{{SFL JP 2024 Tabs}}
+==Results==
+===Bracket===
+{{Bracket|Bracket/4L2DS|id=q7vNWjfDIA|matchWidth=180
+|R1M1={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN |score=20}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto |score=70}}
+|date=2025-01-25
+|winner=2
+}}
+|R1M2={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon |score=80}}
+|opponent2={{TeamOpponent|Team iXA |score=0}}
+|date=2025-01-26
+|winner=1
+}}
+|R2M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad |score=70}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto |score=30}}
+|date=2025-01-25
+|winner=1
+}}
+|R2M2={{Match
+|opponent1={{TeamOpponent|REJECT |score=80}}
+|opponent2={{TeamOpponent|Crazy Raccoon |score=0}}
+|date=2025-01-26
+|winner=1
+}}
+|R3M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad |score=90}}
+|opponent2={{TeamOpponent|REJECT |score=40}}
+|winner=1
+}}
+}}
+
+===Details===
+{{Box|start|padding=2em}}
+====Quarterfinals====
+{{Matchlist|title=Quarterfinals|width=450px|collapsed=false|id=XvQXdkOyEG
+|M1header=Division S
+|M1={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=10}}
+|date=2025-01-25
+|winner=1
+|vod=https://www.youtube.com/live/R76O86rPyr0?si=bEqN1Hi6oXVA2TmV&t=2555
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Kakeru|o2p1={{Chars|bison}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Yanai|o2p1={{Chars|bison}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=3
+|t2p1=Sasamo|o2p1={{Chars|ed}}|score2=2|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=10}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|date=2025-01-25
+|winner=2
+|vod=https://www.youtube.com/live/R76O86rPyr0?si=gin9yBt2rM7uJIvO&t=6185
+|map1={{Map
+|t1p1=cosa|o1p1={{Chars|ken}}|score1=2
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Kakeru|o1p1={{Chars|bison}}|score1=1
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Sasamo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|bison}}|score2=3|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=0}}
+|date=2025-01-25
+|winner=1
+|vod=https://www.youtube.com/live/R76O86rPyr0?si=OLB0vQI4F-l6Rh_-&t=9135
+|map1={{Map
+|t1p1=Daigo|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Yanai|o2p1={{Chars|bison}}|score2=0|winner=1
+}}
+}}
+|M4header=Division F
+|M4={{Match
+|opponent1={{TeamOpponent|Team iXA|score=0}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=40}}
+|date=2025-01-26
+|winner=2
+|vod=https://www.youtube.com/live/fPRkfNkvZG8?si=o19H5lcNrwPDGQKV&t=2895
+|map1={{Map
+|t1p1=ACQUA|o1p1={{Chars|blanka}}|score1=1
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|lily}}|score1=0
+|t2p1=Dogura|o2p1={{Chars|bison}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|honda}}|score1=1
+|t2p1=Bonchan|o2p1={{Chars|akuma}}|score2=3|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=40}}
+|opponent2={{TeamOpponent|Team iXA|score=0}}
+|date=2025-01-26
+|winner=1
+|vod=https://www.youtube.com/live/fPRkfNkvZG8?si=0KG_ohQtpvxq2ERv&t=6440
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=2
+|t2p1=ACQUA|o2p1={{Chars|blanka}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Kazunoko|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Hibiki|o2p1={{Chars|lily}}|score2=1|winner=1
+}}
+|map3={{Map
+|t1p1=Bonchan|o1p1={{Chars|akuma|aki}}|score1=3
+|t2p1=Hikaru|o2p1={{Chars|honda}}|score2=1|winner=1
+}}
+}}
+}}
+
+{{Box|break|padding=2em}}
+
+====Semifinals====
+{{Matchlist|title=Semifinals|width=450px|collapsed=false|id=kTwaRSkeQM
+|M1header=Division S
+|M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=30}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|date=2025-01-25
+|winner=1
+|vod=https://www.youtube.com/live/R76O86rPyr0?si=8wFWMWRe_aGGfpVj&t=11764
+|map1={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|bison}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=YHC-Mochi|o1p1={{Chars|dhalsim}}|score1=1
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=1|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=30}}
+|date=2025-01-25
+|winner=2
+|vod=https://www.youtube.com/live/R76O86rPyr0?si=5tFeRgkzZEfSWGWe&t=14955
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=2
+|t2p1=Kawano|o2p1={{Chars|akuma}}|score2=1|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo|o1p1={{Chars|akuma}}|score1=0
+|t2p1=gachikun |o2p1={{Chars|rashid}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|ed}}|score1=2
+|t2p1=Pugera |o2p1={{Chars|juri}}|score2=3|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=10}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|date=2025-01-25
+|winner=1
+|vod=https://www.youtube.com/live/R76O86rPyr0?si=ICsdZ8TOxSTV1daF&t=17504
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Fuudo|o2p1={{Chars|ed}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|bison}}|score2=0|winner=1
+}}
+}}
+|M4header=Division F
+|M4={{Match
+|opponent1={{TeamOpponent|REJECT|score=40}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=0}}
+|date=2025-01-26
+|winner=1
+|vod=https://www.youtube.com/live/fPRkfNkvZG8?si=g_xd-8g_afRuPsp-&t=10812
+|map1={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|cammy}}|score2=0|winner=1
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Shuto|o2p1={{Chars|akuma}}|score2=0|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=3
+|t2p1=Dogura|o2p1={{Chars|bison}}|score2=2|winner=1
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=0}}
+|opponent2={{TeamOpponent|REJECT|score=40}}
+|date=2025-01-26
+|winner=2
+|vod=https://www.youtube.com/live/fPRkfNkvZG8?si=hZLFhaWHv5nR37OL&t=13873
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|bison}}|score1=0
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=2|winner=2
+}}
+|map2={{Map
+|t1p1=Bonchan|o1p1={{Chars|akuma}}|score1=0
+|t2p1=Akira|o2p1={{Chars|cammy}}|score2=2|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|marisa}}|score1=2
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=3|winner=2
+}}
+}}
+}}
+{{Box|end}}
+<br>
+====Grand Final====
+{{Matchlist|width=450px|collapsed=false|id=ywd3IwlzRQ
+|M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=20}}
+|opponent2={{TeamOpponent|REJECT|score=20}}
+|date=
+|winner=
+|vod=https://www.youtube.com/live/vXv97xG8GbQ?si=R5J_tQN62Cj3eQX5&t=3067
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|akuma}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Gachikun|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Akira|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Pugera|o1p1={{Chars|deejay}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|ed}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|REJECT|score=20}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=20}}
+|date=
+|winner=
+|vod=https://www.youtube.com/live/vXv97xG8GbQ?si=xmuGXMStMWPiTBq3&t=5753
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Pugera|o2p1={{Chars|deejay}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Tokido|o1p1={{Chars|ken}}|score1=2
+|t2p1=Gachikun|o2p1={{Chars|rashid}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|ed}}|score1=2
+|t2p1=Kawano|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=40}}
+|opponent2={{TeamOpponent|REJECT|score=0}}
+|date=
+|winner=1
+|vod=https://www.youtube.com/live/vXv97xG8GbQ?si=lZC6xQGkkNxT-xIY&t=10050
+|map1={{Map
+|t1p1=Pugera|o1p1={{Chars|Dee Jay}}|score1=2
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Gachikun|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kawano|o1p1={{Chars|Akuma}}|score1=3
+|t2p1=Leshar|o2p1={{Chars|Ed}}|score2=1
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|REJECT|score=0}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=10}}
+|date=
+|winner=2
+|vod=https://www.youtube.com/live/vXv97xG8GbQ?si=TJ0sAfMTZhUP6GmZ&t=12877
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Pugera|o2p1={{Chars|Dee Jay}}|score2=2
+|winner=2
+}}
+}}
+}}

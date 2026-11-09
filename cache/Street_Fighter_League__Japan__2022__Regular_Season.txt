@@ -1,0 +1,741 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2022: Regular Season}}{{HDB}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/Japan/2022
+|name2=Regular Season |link2=Street Fighter League/Japan/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/Japan/2022/Playoffs
+|name4=Grand Finals |link4=Street Fighter League/Japan/2022/Grand Finals
+|This={{{This}}}
+}}
+==Results==
+<onlyinclude>
+{{GroupTableStart|Street Fighter League Pro-JP 2022 Standings |width=400px}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=1|win_m=10|lose_m=4|points=380|bg=proceed}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=2|win_m=9|lose_m=5|points=360|bg=stay}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=3|win_m=9|lose_m=5|points=355|bg=stay}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=4|win_m=9|lose_m=5|points=330|bg=stay}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=5|win_m=9|lose_m=5|points=325|bg=stay}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=6|win_m=4|lose_m=10|points=275|bg=down}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=7|win_m=5|lose_m=9|points=205|bg=down}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=8|win_m=1|lose_m=13|points=105|bg=down}}
+{{GroupTableEnd}}
+</onlyinclude>
+<br/>
+==Details==
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=4|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|V6 Plus FAV gaming}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=DOBApi3VLF
+|{{Match
+|opponent1={{TeamOpponent|Shinobism Gaming}}
+|opponent2={{TeamOpponent|Good 8 Squad}}
+|winner=2
+|vod=https://youtu.be/PDmFdxTi0VU?t=6954
+|map1={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=0 |t2p1=Dogura|o2p1={{Chars|bison}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Johnny |o1p1={{Chars|g}} |score1=2 |t2p1=Kawano|o2p1={{Chars|kolin}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Fujimura |o1p1={{Chars|luke}} |score1=1 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|GyoGun}}
+|winner=1
+|vod=https://youtu.be/wFwugzlo1aA?t=2573
+|map1={{Map|t1p1=Gunfight |o1p1={{Chars|alex}} |score1=1 |t2p1=Mago|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=0 |t2p1=Machabo|o2p1={{Chars|necalli}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=3 |t2p1=moke|o2p1={{Chars|rashid}} |score2=2 |winner=1}}
+|map4={{Map|t1p1=Gunfight |o1p1={{Chars|oro}} |score1=1 |t2p1=Machabo|o2p1={{Chars|necalli}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|winner=1
+|vod=https://youtu.be/wFwugzlo1aA?t=7701
+|map1={{Map|t1p1=Daigo |o1p1={{Chars|guile}} |score1=2 |t2p1=Nemo|o2p1={{Chars|falke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Narikun |o1p1={{Chars|akira}} |score1=0 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Fuudo |o1p1={{Chars|mika}} |score1=3 |t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV gaming}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=2
+|vod=https://youtu.be/PDmFdxTi0VU?t=2556
+|map1={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=1 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=1 |t2p1=Itabashi Zangief|o2p1={{Chars|g}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Tokido |o1p1={{Chars|urien}} |score1=0 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|SNB}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=4|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|SSK}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=7KOHeM41B5
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=2
+|vod=https://youtu.be/rtAzSeAEZcM?t=2591
+|map1={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|g}} |score1=1 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nauman |o1p1={{Chars|luke}} |score1=0 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=2 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=1
+|vod=https://youtu.be/rtAzSeAEZcM?t=7102
+|map1={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=0 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Moke |o1p1={{Chars|rashid}} |score1=0 |t2p1=Sako|o2p1={{Chars|menat}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Mago |o1p1={{Chars|luke}} |score1=3 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=2 |winner=1}}
+|map4={{Map|t1p1=Mago |o1p1={{Chars|luke}} |score1=1 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=2
+|vod=https://youtu.be/45ZWBv7whZQ?t=2373
+|map1={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=1 |t2p1=Yamaguchi|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=2 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=YHC-Mochi |o1p1={{Chars|dhalsim}} |score1=1 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/45ZWBv7whZQ?t=6924
+|map1={{Map|t1p1=Dogura |o1p1={{Chars|bison}} |score1=2 |t2p1=Crusher|o2p1={{Chars|birdie}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Gachikun |o1p1={{Chars|rashid}} |score1=2 |t2p1=Gunfight|o2p1={{Chars|alex}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Pugera |o1p1={{Chars|bison}} |score1=3 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=1 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|SNB}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=ko9Wo60Bgt
+|{{Match
+|opponent1={{TeamOpponent|SNB}}
+|opponent2={{TeamOpponent|Gyogun}}
+|winner=1
+|vod=https://youtu.be/CdfIuCiv5LQ?t=2111
+|map1={{Map|t1p1=Fujimura |o1p1={{Chars|luke}} |score1=1 |t2p1=Moke|o2p1={{Chars|falke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=2 |t2p1=Mago|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Momochi |o1p1={{Chars|cody}} |score1=3 |t2p1=Mizuha|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=2
+|vod=https://youtu.be/CdfIuCiv5LQ?t=6379
+|map1={{Map|t1p1=Fuudo|o1p1={{Chars|mika}} |score1=2 |t2p1=Sako|o2p1={{Chars|menat}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Narikun|o1p1={{Chars|akira}} |score1=0 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Akira|o1p1={{Chars|cammy}} |score1=2 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SSK}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/cLAfelU4LSA?t=2170
+|map1={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=0 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nemo |o1p1={{Chars|urien}} |score1=1 |t2p1=stormKUBO|o2p1={{Chars|dan}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=3 |t2p1=Gunfight|o2p1={{Chars|oro}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=1
+|vod=https://youtu.be/cLAfelU4LSA?t=6521
+|map1={{Map|t1p1=Gachikun |o1p1={{Chars|rashid}} |score1=0 |t2p1=Itabashi Zangief|o2p1={{Chars|g}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Pugera |o1p1={{Chars|bison}} |score1=2 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Dogura |o1p1={{Chars|bison}} |score1=3 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|G8S}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=4|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|SNB}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=8|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=CvBd6ByLhp
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|SSK}}
+|winner=2
+|vod=https://youtu.be/B6JNaGjIzQk?t=2122
+|map1={{Map|t1p1=Moke |o1p1={{Chars|rashid}} |score1=2 |t2p1=Nemo|o2p1={{Chars|urien}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Mago |o1p1={{Chars|cammy}} |score1=0 |t2p1=Shuto|o2p1={{Chars|urien}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=1 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=2
+|vod=https://youtu.be/B6JNaGjIzQk?t=6730
+|map1={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=2 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=2 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=stormKUBO |o1p1={{Chars|abigail}} |score1=1 |t2p1=Itabashi Zangief|o2p1={{Chars|abigail}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=0 |t2p1=Itabashi Zangief|o2p1={{Chars|abigail}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming}}
+|opponent2={{TeamOpponent|G8S}}
+|winner=2
+|vod=https://youtu.be/TUkRQwjubVg?t=2013
+|map1={{Map|t1p1=Sako |o1p1={{Chars|menat}} |score1=1 |t2p1=Kawano|o2p1={{Chars|kolin}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Tokido |o1p1={{Chars|luke}} |score1=0 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=1 |t2p1=Pugera|o2p1={{Chars|bison}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=1
+|vod=https://youtu.be/TUkRQwjubVg?t=6639
+|map1={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=2 |t2p1=Yamaguchi|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Daigo |o1p1={{Chars|guile}} |score1=1 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Fuudo |o1p1={{Chars|poison}} |score1=3 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|SNB}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=s2YQMUqA0A
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming}}
+|opponent2={{TeamOpponent|SSK}}
+|winner=1
+|vod=https://youtu.be/QVR6kQpq73I?t=2019
+|map1={{Map|t1p1=Tokido |o1p1={{Chars|luke}} |score1=1 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Sako |o1p1={{Chars|menat}} |score1=3 |t2p1=Nemo|o2p1={{Chars|urien}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=1
+|vod=https://youtu.be/QVR6kQpq73I?t=6449
+|map1={{Map|t1p1=Pugera |o1p1={{Chars|balrog}} |score1=1 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Dogura |o1p1={{Chars|bison}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Kawano |o1p1={{Chars|lucia}} |score1=3 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=2
+|vod=
+|map1={{Map|t1p1=Gunfight |o1p1={{Chars|oro}} |score1=0 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=0 |t2p1=Yamaguchi|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=0 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|Gyogun}}
+|winner=2
+|vod=
+|map1={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=1 |t2p1=Mago|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Uryo |o1p1={{Chars|rose}} |score1=1 |t2p1=Moke|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Nauman |o1p1={{Chars|luke}} |score1=2 |t2p1=Machabo|o2p1={{Chars|necalli}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|SNB}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=1gsYt2l7pS
+|{{Match
+|opponent1={{TeamOpponent|SNB}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=1
+|vod=https://youtu.be/kFU4-fCMjg8?t=2049
+|map1={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=2 |t2p1=Bonchan|o2p1={{Chars|sagat}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Momochi |o1p1={{Chars|cody}} |score1=2 |t2p1=Tokido|o2p1={{Chars|urien}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Johnny |o1p1={{Chars|g}} |score1=3 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SSK}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=2
+|vod=https://youtu.be/kFU4-fCMjg8?t=6262
+|map1={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=2 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=shuto |o1p1={{Chars|urien}} |score1=2 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=YHC-Mochi |o1p1={{Chars|dhalsim}} |score1=1 |t2p1=Uryo|o2p1={{Chars|rose}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=0 |t2p1=Uryo|o2p1={{Chars|rose}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|G8S}}
+|winner=2
+|vod=https://youtu.be/rqKtImJKt4Q?t=2078
+|map1={{Map|t1p1=Mago |o1p1={{Chars|luke}} |score1=0 |t2p1=Kawano|o2p1={{Chars|kolin}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Machabo |o1p1={{Chars|necalli}} |score1=0 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=3 |t2p1=Pugera|o2p1={{Chars|balrog}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=0 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=2
+|vod=https://youtu.be/rqKtImJKt4Q?t=6613
+|map1={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=0 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=stormKUBO |o1p1={{Chars|alex}} |score1=1 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=1 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|SNB}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=4|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=UQghbkF68O
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja}}
+|opponent2={{TeamOpponent|Gyogun}}
+|winner=2
+|vod=https://youtu.be/mS7izMA2iRI?t=2041
+|map1={{Map|t1p1=Fuudo |o1p1={{Chars|poison}} |score1=1 |t2p1=Machabo|o2p1={{Chars|necalli}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=1 |t2p1=Mizuha|o2p1={{Chars|cody}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Narikun |o1p1={{Chars|akira}} |score1=1 |t2p1=Mago|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=2
+|vod=https://youtu.be/mS7izMA2iRI?t=6915
+|map1={{Map|t1p1=Uryo |o1p1={{Chars|rose}} |score1=2 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|abigail}} |score1=1 |t2p1=Yamaguchi|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=2 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/rUUIOAclvc4?t=2022
+|map1={{Map|t1p1=Sako |o1p1={{Chars|menat}} |score1=2 |t2p1=Crusher|o2p1={{Chars|birdie}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Bonchan |o1p1={{Chars|sagat}} |score1=2 |t2p1=stormKUBO|o2p1={{Chars|abigail}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=3 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SSK}}
+|opponent2={{TeamOpponent|G8S}}
+|winner=2
+|vod=https://youtu.be/rUUIOAclvc4?t=6610
+|map1={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=1 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nemo |o1p1={{Chars|urien}} |score1=0 |t2p1=Dogura|o2p1={{Chars|bison}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=3 |t2p1=Kawano|o2p1={{Chars|kolin}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=0 |t2p1=Dogura|o2p1={{Chars|bison}} |score2=1 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|SNB}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=4|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|G8S}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=8|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=IrnAzyRgnw
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=2
+|vod=https://youtu.be/lbtke8BBNjc?t=2025
+|map1={{Map|t1p1=Gachikun |o1p1={{Chars|rashid}} |score1=0 |t2p1=Johnny|o2p1={{Chars|g}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Pugera |o1p1={{Chars|balrog}} |score1=2 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Dogura |o1p1={{Chars|bison}} |score1=1 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SSK}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=1
+|vod=https://youtu.be/lbtke8BBNjc?t=6464
+|map1={{Map|t1p1=Nemo |o1p1={{Chars|gill}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=0 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=3 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=2
+|vod=https://youtu.be/WcQmE89axAU?t=2065
+|map1={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|g}} |score1=2 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Uryo |o1p1={{Chars|rose}} |score1=2 |t2p1=Sako|o2p1={{Chars|menat}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=2 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=0 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/WcQmE89axAU?t=7099
+|map1={{Map|t1p1=Machabo |o1p1={{Chars|necalli}} |score1=2 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=2 |t2p1=Gunfight|o2p1={{Chars|alex}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Moke |o1p1={{Chars|rashid}} |score1=3 |t2p1=stormKUBO|o2p1={{Chars|alex}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SNB}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=8|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=b19MeZBlot
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming}}
+|opponent2={{TeamOpponent|Gyogun}}
+|winner=1
+|vod=https://youtu.be/ni0IH8aLm7A?t=2078
+|map1={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=0 |t2p1=Moke|o2p1={{Chars|falke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Mizuha|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Tokido |o1p1={{Chars|luke}} |score1=3 |t2p1=Mago|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=1
+|vod=https://youtu.be/ni0IH8aLm7A?t=6375
+|map1={{Map|t1p1=Daigo |o1p1={{Chars|guile}} |score1=2 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Fuudo |o1p1={{Chars|poison}} |score1=2 |t2p1=Itabashi Zangief|o2p1={{Chars|g}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=3 |t2p1=Uryo|o2p1={{Chars|rose}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|G8S}}
+|winner=2
+|vod=https://youtu.be/epCoE9GXvfY?t=2041
+|map1={{Map|t1p1=stormKUBO |o1p1={{Chars|abigail}} |score1=0 |t2p1=Dogura|o2p1={{Chars|bison}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=2 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=0 |t2p1=Pugera|o2p1={{Chars|balrog}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SNB}}
+|opponent2={{TeamOpponent|SSK}}
+|winner=2
+|vod=https://youtu.be/epCoE9GXvfY?t=6305
+|map1={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=2 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Johnny |o1p1={{Chars|g}} |score1=0 |t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Momochi |o1p1={{Chars|cody}} |score1=2 |t2p1=Shuto|o2p1={{Chars|urien}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|SSK}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|SNB}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=7|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=lGVLz7YBZe
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|G8S}}
+|winner=2
+|vod=https://youtu.be/jEhIbbrzxIw?t=2081
+|map1={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|g}} |score1=1 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=2 |t2p1=Kawano|o2p1={{Chars|kolin}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Uryo |o1p1={{Chars|rose}} |score1=2 |t2p1=Dogura|o2p1={{Chars|bison}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|SSK}}
+|winner=2
+|vod=https://youtu.be/jEhIbbrzxIw?t=6350
+|map1={{Map|t1p1=Gunfight |o1p1={{Chars|oro}} |score1=0 |t2p1=Nemo|o2p1={{Chars|urien}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=1 |t2p1=Shuto|o2p1={{Chars|urien}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=1 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=1
+|vod=https://youtu.be/ZWDqCh03i3E?t=2075
+|map1={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Tokido |o1p1={{Chars|luke}} |score1=3 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Gyogun}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=2
+|vod=https://youtu.be/ZWDqCh03i3E?t=6192
+|map1={{Map|t1p1=Mago |o1p1={{Chars|luke}} |score1=2 |t2p1=Yamaguchi|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=1 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Machabo |o1p1={{Chars|necalli}} |score1=0 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 11===
+{{GroupTableStart|Week 11 Score|width=400px}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|G8S}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|SNB}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=HOIj4BPmxa
+|{{Match
+|opponent1={{TeamOpponent|SNB}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=2
+|vod=https://youtu.be/OxQHDKX-rzU?t=2044
+|map1={{Map|t1p1=Momochi |o1p1={{Chars|cody}} |score1=0 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Fujimura |o1p1={{Chars|luke}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=1 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=2
+|vod=https://youtu.be/OxQHDKX-rzU?t=6619
+|map1={{Map|t1p1=Pugera |o1p1={{Chars|bison}} |score1=0 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Gachikun |o1p1={{Chars|rashid}} |score1=2 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Kawano |o1p1={{Chars|kolin}} |score1=1 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/-Gkps1BM8XE?t=2050
+|map1={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|abigail}} |score1=1 |t2p1=stormKUBO|o2p1={{Chars|alex}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Uryo |o1p1={{Chars|rose}} |score1=2 |t2p1=Crusher|o2p1={{Chars|birdie}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Nauman |o1p1={{Chars|luke}} |score1=3 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SSK}}
+|opponent2={{TeamOpponent|Gyogun}}
+|winner=1
+|vod=https://youtu.be/-Gkps1BM8XE?t=6792
+|map1={{Map|t1p1=YHC-Mochi |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Mizuha|o2p1={{Chars|cody}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Nemo |o1p1={{Chars|urien}} |score1=1 |t2p1=Machabo|o2p1={{Chars|necalli}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=3 |t2p1=Mago|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 12===
+{{GroupTableStart|Week 12 Score|width=400px}}
+{{GroupTableSlot|{{Team|SNB}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=4|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|G8S}}|place=6|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=zubMsIuEh7
+|{{Match
+|opponent1={{TeamOpponent|Gyogun}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=2
+|vod=https://youtu.be/qSV9v0anjq8?t=2067
+|map1={{Map|t1p1=Mago |o1p1={{Chars|luke}} |score1=2 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Machabo |o1p1={{Chars|necalli}} |score1=2 |t2p1=Itabashi Zangief|o2p1={{Chars|g}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=0 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Mizuha |o1p1={{Chars|cody}} |score1=0 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SNB}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/qSV9v0anjq8?t=6917
+|map1={{Map|t1p1=Johnny |o1p1={{Chars|g}} |score1=0 |t2p1=Gunfight|o2p1={{Chars|alex}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Momochi |o1p1={{Chars|cody}} |score1=2 |t2p1=Crusher|o2p1={{Chars|birdie}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Fujimura |o1p1={{Chars|luke}} |score1=3 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|G8S}}
+|winner=1
+|vod=https://youtu.be/BGfJEzWh7hY?t=2072
+|map1={{Map|t1p1=Fuudo |o1p1={{Chars|mika}} |score1=2 |t2p1=Dogura|o2p1={{Chars|bison}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=1 |t2p1=Pugera|o2p1={{Chars|balrog}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Daigo |o1p1={{Chars|guile}} |score1=3 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SSK}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=1
+|vod=https://youtu.be/BGfJEzWh7hY?t=6314
+|map1={{Map|t1p1=Nemo |o1p1={{Chars|gill}} |score1=0 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=2 |t2p1=Sako|o2p1={{Chars|menat}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Shuto |o1p1={{Chars|urien}} |score1=3 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===Week 13===
+{{GroupTableStart|Week 13 Score|width=400px}}
+{{GroupTableSlot|{{Team|SSK}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|G8S}}|place=4|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|SNB}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=aaN5MaqHUq
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/jYhSu3R547E?t=2053
+|map1={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=2 |t2p1=Gunfight|o2p1={{Chars|alex}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Fuudo |o1p1={{Chars|mika}} |score1=2 |t2p1=Inaba|o2p1={{Chars|bison}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Daigo |o1p1={{Chars|guile}} |score1=3 |t2p1=stormKUBO|o2p1={{Chars|abigail}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|Gyogun}}
+|winner=1
+|vod=https://youtu.be/jYhSu3R547E?t=6313
+|map1={{Map|t1p1=Kawano |o1p1={{Chars|kolin}} |score1=0 |t2p1=Mago|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Dogura |o1p1={{Chars|bison}} |score1=2 |t2p1=Mizuha|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Pugera |o1p1={{Chars|balrog}} |score1=3 |t2p1=Machabo|o2p1={{Chars|bison}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Commufa DetonatioN}}
+|opponent2={{TeamOpponent|SSK}}
+|winner=2
+|vod=https://youtu.be/DHEw_Q_hzL0?t=2041
+|map1={{Map|t1p1=Uryo |o1p1={{Chars|rose}} |score1=1 |t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|g}} |score1=1 |t2p1=Shuto|o2p1={{Chars|urien}} |score2= |winner=2}}
+|map3={{Map|t1p1=John Takeuchi |o1p1={{Chars|cody}} |score1=1 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|V6 Plus FAV Gaming}}
+|opponent2={{TeamOpponent|SNB}}
+|winner=1
+|vod=https://youtu.be/DHEw_Q_hzL0?t=6791
+|map1={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Fujimura|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Bonchan |o1p1={{Chars|sagat}} |score1=2 |t2p1=Yamaguchi|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Tokido |o1p1={{Chars|luke}} |score1=3 |t2p1=Momochi|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 14===
+{{GroupTableStart|Week 14 Score|width=400px}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|SNB}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|SSK}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|V6 Plus FAV Gaming}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|G8S}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Commufa DetonatioN}}|place=5|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Gyogun}}|place=8|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=X5k8k4ZwZB
+|{{Match
+|opponent1={{TeamOpponent|G8S}}
+|opponent2={{TeamOpponent|SSK}}
+|winner=2
+|vod=https://youtu.be/SWN0fW2Wwzo?t=2065
+|map1={{Map|t1p1=Pugera |o1p1={{Chars|balrog}} |score1=2 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Gachikun |o1p1={{Chars|rashid}} |score1=2 |t2p1=YHC-Mochi|o2p1={{Chars|dhalsim}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Kawano |o1p1={{Chars|kolin}} |score1=2 |t2p1=Shuto|o2p1={{Chars|urien}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Kawano |o1p1={{Chars|kolin}} |score1=0 |t2p1=Shuto|o2p1={{Chars|urien}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|V6 Plus FAV Gaming}}
+|winner=2
+|vod=https://youtu.be/SWN0fW2Wwzo?t=8170
+|map1={{Map|t1p1=Inaba |o1p1={{Chars|bison}} |score1=2 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Gunfight |o1p1={{Chars|alex}} |score1=2 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Crusher |o1p1={{Chars|birdie}} |score1=2 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=stormKUBO |o1p1={{Chars|abigail}} |score1=0 |t2p1=Tokido|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|SNB}}
+|opponent2={{TeamOpponent|Commufa DetonatioN}}
+|winner=1
+|vod=https://youtu.be/Lo1dKT9oLro?t=2054
+|map1={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=0 |t2p1=Nauman|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Fujimura |o1p1={{Chars|luke}} |score1=1 |t2p1=Itabashi Zangief|o2p1={{Chars|g}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Momochi |o1p1={{Chars|cody}} |score1=3 |t2p1=John Takeuchi|o2p1={{Chars|cody}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Yamaguchi |o1p1={{Chars|luke}} |score1=1 |t2p1=Uryo|o2p1={{Chars|rose}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Gyogun}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=2
+|vod=https://youtu.be/Lo1dKT9oLro?t=7334
+|map1={{Map|t1p1=Machabo |o1p1={{Chars|necalli}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Moke |o1p1={{Chars|rashid}} |score1=1 |t2p1=Daigo|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Mago |o1p1={{Chars|luke}} |score1=1 |t2p1=Fuudo|o2p1={{Chars|poison}} |score2=3 |winner=2}}
+}}
+}}
+{{box|end|padding=2em}}

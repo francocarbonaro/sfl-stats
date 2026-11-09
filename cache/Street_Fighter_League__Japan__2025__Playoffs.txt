@@ -1,0 +1,368 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2025: Playoffs}}{{HDB|phase=2}}
+{{SFL JP 2025 Tabs}}
+==Results==
+===Bracket===
+{{Bracket|Bracket/4L2DS|id=5cDSKLexAG|matchWidth=175
+|R1M1={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=50}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=70}}
+|date=2025-12-13
+|winner=2
+}}
+|R1M2={{Match
+|opponent1={{TeamOpponent|Team iXA|score=70}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=50}}
+|date=2025-12-14
+|winner=1
+}}
+|R2M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=20}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=70}}
+|date=2025-12-13
+|winner=2
+}}
+|R2M2={{Match
+|opponent1={{TeamOpponent|REJECT|score=70}}
+|opponent2={{TeamOpponent|Team iXA|score=20}}
+|date=2025-12-14
+|winner=1
+}}
+|R3M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=20}}
+|opponent2={{TeamOpponent|REJECT|score=100}}
+|winner=2
+}}
+}}
+
+===Details===
+{{Box|start|padding=2em}}
+====Quarterfinals====
+{{Matchlist|title=Quarterfinals|width=450px|collapsed=false|id=WWNpv97JGe
+|M1header=Division S
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=30}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=10}}
+|date=2025-12-13
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Otani|o1p1={{Chars|Ken}}|score1=1
+|t2p1=Bonchan|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Kazunoko|o2p1={{Chars|Viper}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=30}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=10}}
+|date=2025-12-13
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Bonchan|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Seiya|o2p1={{Chars|Chunli}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Viper}}|score1=1
+|t2p1=Mocchii|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=10}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=30}}
+|date=2025-12-13
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Seiya|o1p1={{Chars|Chunli}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=1
+|t2p1=Kazunoko|o2p1={{Chars|Viper}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=3
+|winner=2
+}}
+}}
+|M4header=Division F
+|M4={{Match
+|opponent1={{TeamOpponent|Team iXA|score=10}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=30}}
+|date=2025-12-14
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Akira |o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Higuchi |o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hibiki |o1p1={{Chars|Lily}}|score1=2
+|t2p1=Yamaguchi |o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Adelie |o1p1={{Chars|Ed}}|score1=2
+|t2p1=Momochi |o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=20}}
+|opponent2={{TeamOpponent|Team iXA|score=20}}
+|date=2025-12-14
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Higuchi |o1p1={{Chars|Guile}}|score1=2
+|t2p1=ACQUA |o2p1={{Chars|Blanka}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Yamaguchi |o1p1={{Chars|Mai}}|score1=2
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Hikaru |o1p1={{Chars|Aki}}|score1=2
+|t2p1=Adelie |o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Team iXA|score=40}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=0}}
+|date=2025-12-14
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Hibiki |o1p1={{Chars|Lily}}|score1=2
+|t2p1=Higuchi |o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Akira |o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Yamaguchi |o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Adelie |o1p1={{Chars|Ed}}|score1=3
+|t2p1=Momochi |o2p1={{Chars|Ed}}|score2=2
+|winner=1
+}}
+}}
+}}
+
+{{Box|break|padding=2em}}
+
+====Semifinals====
+{{Matchlist|title=Semifinals|width=450px|collapsed=false|id=jJI1MDgd2b
+|M1header=Division S
+|M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=20}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=20}}
+|date=2025-12-13
+|winner=
+|vod=
+|map1={{Map
+|t1p1=gachikun|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kawano|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Dogura|o2p1={{Chars|Bison}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Sahara|o1p1={{Chars|Ed}}|score1=0
+|t2p1=Shuto|o2p1={{Chars|Ryu}}|score2=3
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=40}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=0}}
+|date=2025-12-13
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Viper}}|score1=2
+|t2p1=Sahara|o2p1={{Chars|Ed}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Bonchan|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Pugera|o2p1={{Chars|Ed}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Kawano|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=0}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=10}}
+|date=2025-12-13
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=2
+|winner=2
+}}
+|map2={{Map|finished=skip}}
+|map3={{Map|finished=skip}}
+}}
+|M4header=Division F
+|M4={{Match
+|opponent1={{TeamOpponent|REJECT|score=20}}
+|opponent2={{TeamOpponent|Team iXA|score=20}}
+|date=2025-12-14
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Tokido |o1p1={{Chars|Ken}}|score1=1
+|t2p1=Akira |o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fuudo |o1p1={{Chars|Ed}}|score1=0
+|t2p1=Hibiki |o2p1={{Chars|Lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Adelie|o2p1={{Chars|Ed}}|score2=2
+|winner=1
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Team iXA|score=0}}
+|opponent2={{TeamOpponent|REJECT|score=40}}
+|date=2025-12-14
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=ACQUA |o1p1={{Chars|Blanka}}|score1=0
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Daigo|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Adelie |o1p1={{Chars|Ed}}|score1=2
+|t2p1=Leshar |o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|REJECT|score=10}}
+|opponent2={{TeamOpponent|Team iXA|score=0}}
+|date=2025-12-14
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Tokido|o1p1={{Chars|Ken}}|score1=2
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{Box|end}}
+<br>
+====Grand Final====
+{{Matchlist|title=Grand Final|width=450px|collapsed=false|id=OyoEE4tXwy
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=30}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=10}}
+|date=
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|C. Viper}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Bonchan|o2p1={{Chars|Sagat}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|Ryu}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=10}}
+|opponent2={{TeamOpponent|REJECT|score=30}}
+|date=
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|C. Viper}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|JP}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|REJECT|score=40}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=0}}
+|date=
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Daigo|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|Sagat}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|C. Viper}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+}}
+}}

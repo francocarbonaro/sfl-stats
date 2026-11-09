@@ -1,0 +1,279 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2026}}
+{{Street Fighter League Navbox}}
+{{SFL JP 2026 Tabs}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-JP 2026
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-JP 2026 allmode.png
+|icon=Street Fighter League Pro-JP 2026 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=Japan
+|city=Tokyo
+|venue=Tokyo Big Sight
+
+|game=sf6
+|sdate=2026-08-25
+|edate=2027-02-23
+|type=Online/Offline
+
+|website=https://sf.esports.capcom.com/sfl/
+|facebook=CapcomFighters
+|twitter=CAPCOM_eSports
+|twitch=capcomfighters_jp
+|twitch2=capcomfighters
+|youtube=c/CapcomFightersJP
+|youtube2=@CapcomFighters
+|rulebook=https://sf.esports.capcom.com/sfl2026/rule/
+|bracket=
+
+|localcurrency=jpy
+|prizepool=
+|player_number=48
+|team_number=12
+
+|previous=Street Fighter League/Japan/2025{{!}}SFL Pro-JP 2025
+|next=
+}}
+'''Street Fighter League Pro-JP 2026''' ('''SFL Pro-JP 2026''') is the 9th season of professional Japanese ''Street Fighter'' team competition.
+
+==Format==
+*'''Game Format''' 
+**The league is made of 12 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 2 || +10 PTS
+|}
+
+* '''Regular Season'''
+** Teams are divided into Division S and Division F
+** Each division plays a double round-robin
+** Top 3 teams from each division advance to their respective divisions Playoffs
+*** 1st place team advance to the Playoffs Finals
+*** 2nd and 3rd teams advance to the Semifinals, with the 2nd place team having home advantage
+
+* '''Playoffs''' (Quarterfinals and Semifinals)
+** Top 3 teams from each division play in a single-elimination bracket
+** All matches are First to 70 points
+*** Each players must play in at least one match between the first round 1st match and the conclusion of the second round 3rd match. 
+** The winner of each division Playoffs (Semifinals) advance to the Grand Finals
+
+* '''Grand Finals'''
+** Grand Finals is a match between the winners of Division S and Division F
+** Grand Finals is First to 90 points
+*** Each players must play in at least one match between the first round 1st match and the conclusion of the second round 3rd match and between the third round 1st match and the conclusion of the fourth round 3rd match.
+** The winner qualifies for the [[Street_Fighter_League/World_Championship/2026|SFL World Championship 2026]]
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=12|localcurrency=jpy|qualifies1=Street Fighter League/World Championship/2026|qualifies1name=SFL World Championship 2026
+<!--|tournament1={{PAGENAME}}/Regular Season-->
+|tournament2={{PAGENAME}}/Playoffs
+|{{Slot|place=1|qualified1=yes|localprize=}}
+|{{Slot|place=2|localprize=}}
+|{{Slot|place=3-4|localprize=
+|{{Opponent|date=}}
+|{{Opponent|date=}}
+}}
+|{{Slot|place=5-6|localprize=
+|{{Opponent|date=}}
+|{{Opponent|date=}}
+}}
+|{{Slot|place=7-8|localprize=
+|{{Opponent||wdl=|date=}}
+|{{Opponent||wdl=|date=}}
+}}
+|{{Slot|place=9-10|localprize=
+|{{Opponent||wdl=|date=}}
+|{{Opponent||wdl=|date=}}
+}}
+|{{Slot|place=11-12|localprize=
+|{{Opponent||wdl=|date=}}
+|{{Opponent||wdl=|date=}}
+}}
+<!--|adjacentContent={{AwardPrizePool|cutafter=10
+|{{Slot|award=Grand Final MVP|{{Opponent||flag=|team=|usdprize=}}}}
+|{{Slot|award=Regular Season MVP
+  |{{Opponent||flag=|team=|usdprize=}}
+  |{{Opponent||flag=|team=|usdprize=}}
+  }}
+|{{Slot|award=Outstanding Rookie|{{Opponent||flag=jp|team=|usdprize=}}}}
+|{{Slot|award=Drive Impact Award|{{Opponent||flag=|team=|usdprize=}}}}
+|{{Slot|award=Drive Gauge Management Award|{{Opponent||flag=|team=|usdprize=}}}}
+}}-->
+}}
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{box|start|padding=1em}}
+====Division S====
+{{#section:Street Fighter League/Japan/2026/Regular Season|Division S}}
+{{box|break|padding=1em}}
+====Division F====
+{{#section:Street Fighter League/Japan/2026/Regular Season|Division F}}
+{{box|end|padding=1em}}
+{{LPDB storage|true}}
+:
+<span style="line-height:24px;">''[[Street Fighter League/Japan/2026/Regular Season|&ensp;↪ Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+<!-- ===Playoffs===
+{{ShowBracket|id=|matchWidth=175}}
+<span style="line-height:24px;">&nbsp;''[[/Playoffs#Details|&ensp; ↪ Click here for detailed information about the '''Playoffs''' matches.]]''
+ -->
+
+==Participants==
+{{TeamParticipants|showplayerinfo=true
+|{{Opponent|VARREL
+  |players={{Persons
+    |{{Person|Mago|flag=jp|team=}}
+	|{{Person|Tokido|flag=jp|team=}}
+    |{{Person|Mizuha|flag=jp|team=}}
+    |{{Person|Wabiichi|flag=jp|team=}}
+  }}
+}}
+|{{Opponent|Good 8 Squad
+  |players={{Persons
+    |{{Person|gachikun|flag=jp|team=}}
+    |{{Person|Kawano|flag=jp|team=}}
+    |{{Person|pugera|flag=jp|team=}}
+    |{{Person|Sahara|flag=jp|team=}}
+  }}
+}}
+|{{Opponent|Crazy Raccoon
+  |players={{Persons
+    |{{Person|Dogura|flag=jp|team=}}
+    |{{Person|Bonchan|flag=jp|team=}}
+    |{{Person|Kazunoko|flag=jp|team=}}
+    |{{Person|Shuto|flag=jp|team=}}
+  }}
+}}
+|{{Opponent|Saishunkan Sol Kumamoto
+  |players={{Persons
+    |{{Person|cosa|flag=jp|team=}}
+    |{{Person|Machabo|flag=jp|team=}}
+    |{{Person|Kobayan|flag=jp|team=}}
+    |{{Person|Kincho|flag=jp|team=SCARZ}}
+    |{{Person|Nemo|flag=jp|role=coach|team=}}
+  }}
+}}
+|{{Opponent|RIDDLE
+  |players={{Persons
+    |{{Person|Takagi|flag=jp|team=}}
+    |{{Person|Adelie|flag=jp|team=}}
+    |{{Person|Jr.|flag=jp|team=}}
+    |{{Person|Hikaru|flag=jp|team=}}
+  }}
+}}
+|{{Opponent|ZETA DIVISION
+  |players={{Persons
+    |{{Person|Momochi|flag=jp|team=}}
+    |{{Person|Higuchi|flag=jp|team=}}
+    |{{Person|Yamaguchi|flag=jp|team=}}
+    |{{Person|MenaRD|flag=do|team=Weibo Gaming}}
+    |{{Person|Jazzy|flag=jp|role=coach|team=}}
+  }}
+}}
+|{{Opponent|DetonatioN FocusMe
+  |players={{Persons
+    |{{Person|Itabashi Zangief|flag=jp|team=︁}}
+	|{{Person|KEI.B|flag=jp|team=︁}}
+    |{{Person|Nauman|flag=jp|team=︁}}
+    |{{Person|John Takeuchi|flag=jp|team=︁}}
+  }}
+}}
+|{{Opponent|Nagoya OJA
+  |players={{Persons
+    |{{Person|Seiya|flag=jp|team=}}
+    |{{Person|Raoyamu|flag=jp|team=}}
+    |{{Person|Otani|flag=jp|team=Burning Core Toyama}}
+    |{{Person|Mocchii|flag=jp|team=JOZ}}
+	|{{Person|popolinlin|flag=jp|role=Analyst|team=}}
+  }}
+}}
+|{{Opponent|TEAM iXA
+  |players={{Persons
+    |{{Person|ACQUA|flag=jp|team=}}
+	|{{Person|Hibiki|flag=jp|team=SBI e-Sports}}
+    |{{Person|Akira|flag=jp|team=}}
+    |{{Person|takepi|flag=jp|team=}}
+  }}
+}}
+|{{Opponent|IBUSHIGIN
+  |players={{Persons
+    |{{Person|Yanai|flag=jp|team=}}
+	|{{Person|Johnny|flag=jp|team=}}
+    |{{Person|Torimeshi|flag=jp|team=}}
+    |{{Person|2BASSA|flag=jp|team=}}
+  }}
+}}
+|{{Opponent|FAV gaming
+  |players={{Persons
+    |{{Person|Ryukichi|flag=jp|team=}}
+    |{{Person|sako|flag=jp|team=}}
+    |{{Person|Fujimura|flag=jp|team=}}
+    |{{Person|moke|flag=jp|team=}}
+	|{{Person|とよまん|flag=jp|team=|role=Head Coach}}
+  }}
+}}
+|{{Opponent|REJECT
+  |players={{Persons
+    |{{Person|Daigo|flag=jp|team=}}
+    |{{Person|Fuudo|flag=jp|team=}}
+	|{{Person|YAS|flag=jp|team=}}
+    |{{Person|Hinao|flag=jp|team=}}
+  }}
+}}
+}}
+
+==Additional Content==
+===Streams=== 
+{{Streams |lang1=jp |twitch1=capcomfighters_jp |youtube1=c/CapcomFightersJP |lang2=usuk |twitch2=capcomfighters |youtube2=@CapcomFighters}}
+===Broadcast Talent===
+{{Tabs dynamic
+|name1=Japanese
+|name2=English
+|This=1
+|content1=
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host|lang=jp
+|b1=|b1flag=
+|b2=|b2flag=
+|b3=|b3flag=
+|b4=|b4flag=
+}}
+{{BroadcasterCard
+|position=Commentator|lang=jp
+|b1=|b1flag=
+|b2=|b2flag=
+|b3=|b3flag=
+|b4=|b4flag=
+}}
+{{box|end|padding=2em}}
+|content2=
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator|lang=en
+|b1=|b1flag=
+|b2=|b2flag=
+|b3=|b3flag=
+|b4=|b4flag=
+}}
+{{box|end|padding=2em}}
+}}
+
+==References==
+{{Reflist}}

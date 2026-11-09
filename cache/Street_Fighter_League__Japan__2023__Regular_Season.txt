@@ -1,0 +1,512 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2023: First Stage}}{{HDB}}
+{{SFL JP 2023 Tabs}}
+==Results==
+<onlyinclude>
+{{GroupTableStart|SFL Pro-JP 2023 First Stage Standings |width=400px}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=1|win_m=5|lose_m=3|points=205|bg=proceed}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=2|win_m=5|lose_m=3|points=205|bg=proceed}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=3|win_m=5|lose_m=3|points=200|bg=proceed}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=4|win_m=4|lose_m=4|points=190|bg=proceed}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=5|win_m=5|lose_m=3|points=180|bg=proceed}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=6|win_m=3|lose_m=5|points=140|bg=proceed}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=7|win_m=3|lose_m=5|points=130|bg=down}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=8|win_m=3|lose_m=5|points=125|bg=down}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=9|win_m=3|lose_m=5|points=100|bg=down}}
+{{GroupTableEnd}}
+</onlyinclude>
+
+==Details==
+{{box|start|padding=2em}}
+===Week 1===
+{{GroupTableStart|Week 1 Score|width=400px}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+<!--{{GroupTableSlot|{{Team|TBD}}|place=|win_m=|lose_m=|points=|bg=}}
+{{GroupTableSlot|{{Team|TBD}}|place=|win_m=|lose_m=|points=|bg=}}
+{{GroupTableSlot|{{Team|TBD}}|place=|win_m=|lose_m=|points=|bg=}}-->
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=9ZRW1QoXFP
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|FAV gaming}}
+|winner=2
+|vod=https://www.youtube.com/live/q5YCMjCKSPM?feature=share&t=2145
+|map1={{Map|t1p1=Kichipa |o1p1={{Chars|zangief}} |score1=1 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=stormKUBO |o1p1={{Chars|honda}} |score1=1 |t2p1=Tokido|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=ACQUA |o1p1={{Chars|jp}} |score1=0 |t2p1=Sako|o2p1={{Chars|chun}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|Shinobism Gaming}}
+|winner=1
+|vod=https://www.youtube.com/live/q5YCMjCKSPM?feature=share&t=6307
+|map1={{Map|t1p1=Nemo |o1p1={{Chars|jp}} |score1=0 |t2p1=Fujimura|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=2 |t2p1=Johnny|o2p1={{Chars|manon}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Shuto |o1p1={{Chars|marisa}} |score1=3 |t2p1=Momochi|o2p1={{Chars|ken}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Good 8 Squad}}
+|opponent2={{TeamOpponent|CYCLOPS athlete gaming}}
+|winner=1
+|vod=https://www.youtube.com/live/q5YCMjCKSPM?feature=share&t=10148
+|map1={{Map|t1p1=gachikun |o1p1={{Chars|manon}} |score1=2 |t2p1=GO1|o2p1={{Chars|chun}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Tachikawa |o1p1={{Chars|luke}} |score1=2 |t2p1=Fenritti|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Pugera |o1p1={{Chars|dee jay}} |score1=2 |t2p1=Kazunoko|o2p1={{Chars|cammy}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Tachikawa |o1p1={{Chars|luke}} |score1=1 |t2p1=GO1|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 2===
+{{GroupTableStart|Week 2 Score|width=400px}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=9SoHzXMTSS
+|{{Match
+|opponent1={{TeamOpponent|Shinobism Gaming}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|winner=1
+|vod=https://www.youtube.com/live/rD_MpIRHCrI?feature=share&t=2134
+|map1={{Map|t1p1=Momochi |o1p1={{Chars|ken}} |score1=2 |t2p1=Itabashi Zangief|o2p1={{Chars|zangief}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Fujimura |o1p1={{Chars|ken}} |score1=2 |t2p1=Fuudo|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Yamaguchi |o1p1={{Chars|dee jay}} |score1=3 |t2p1=John Takeuchi|o2p1={{Chars|jamie}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|CYCLOPS athlete gaming}}
+|winner=2
+|vod=https://www.youtube.com/live/rD_MpIRHCrI?feature=share&t=5892
+|map1={{Map|t1p1=Machabo |o1p1={{Chars|ken}} |score1=2 |t2p1=Kazunoko|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Mago |o1p1={{Chars|juri}} |score1=0 |t2p1=Dogura|o2p1={{Chars|dee jay}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=moke |o1p1={{Chars|chun}} |score1=1 |t2p1=GO1|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|FAV gaming}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=1
+|vod=https://www.youtube.com/live/rD_MpIRHCrI?feature=share&t=9551
+|map1={{Map|t1p1=sako |o1p1={{Chars|chun}} |score1=2 |t2p1=KEI.B|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=2 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Tokido |o1p1={{Chars|ken}} |score1=3 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 3===
+{{GroupTableStart|Week 3 Score|width=400px}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=RvWNdKP86r
+|{{Match
+|opponent1={{TeamOpponent|Good 8 Squad}}
+|opponent2={{TeamOpponent|GyoGun}}
+|winner=1
+|vod=https://www.youtube.com/live/FWEPWzxXhbA?feature=share&t=2108
+|map1={{Map|t1p1=Kawano |o1p1={{Chars|luke}} |score1=1 |t2p1=Mizuha|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Tachikawa |o1p1={{Chars|luke}} |score1=2 |t2p1=Machabo|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Gachikun |o1p1={{Chars|manon}} |score1=3 |t2p1=Moke|o2p1={{Chars|chun}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://www.youtube.com/live/FWEPWzxXhbA?feature=share&t=5520
+|map1={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=2 |t2p1=Jazzy|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Oniki |o1p1={{Chars|kimberly}} |score1=0 |t2p1=ACQUA|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=KEI.B |o1p1={{Chars|jp}} |score1=3 |t2p1=StormKUBO|o2p1={{Chars|honda}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|winner=2
+|vod=https://www.youtube.com/live/FWEPWzxXhbA?feature=share&t=9850
+|map1={{Map|t1p1=John Takeuchi |o1p1={{Chars|jamie}} |score1=0 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nauman |o1p1={{Chars|ken}} |score1=1 |t2p1=Nemo|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Fuudo |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Shuto|o2p1={{Chars|marisa}} |score2=3 |winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 4===
+{{GroupTableStart|Week 4 Score|width=400px}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=e9l7PkBz5T
+|{{Match
+|opponent1={{TeamOpponent|CYCLOPS athlete gaming}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=1
+|vod=https://youtu.be/hENM79zimDo?t=2221
+|map1={{Map|t1p1=Fenritti |o1p1={{Chars|jp}} |score1=0 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Kazunoko |o1p1={{Chars|cammy}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Dogura |o1p1={{Chars|dee jay}} |score1=3 |t2p1=KEI.B|o2p1={{Chars|jp}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Good 8 Squad}}
+|opponent2={{TeamOpponent|FAV Gaming}}
+|winner=2
+|vod=https://youtu.be/hENM79zimDo?t=5832
+|map1={{Map|t1p1=gachikun |o1p1={{Chars|rashid}} |score1=1 |t2p1=Tokido|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Tachikawa |o1p1={{Chars|kimberly}} |score1=2 |t2p1=Ryusei|o2p1={{Chars|jp}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Pugera |o1p1={{Chars|dee jay}} |score1=1 |t2p1=Bonchan|o2p1={{Chars|luke}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://youtu.be/hENM79zimDo?t=9973
+|map1={{Map|t1p1=Moke |o1p1={{Chars|chun}} |score1=0 |t2p1=StormKUBO|o2p1={{Chars|honda}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Mizuha |o1p1={{Chars|cammy}} |score1=2 |t2p1=ACQUA|o2p1={{Chars|jp}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Mago |o1p1={{Chars|cammy}} |score1=3 |t2p1=Kichipa|o2p1={{Chars|zangief}} |score2=1 |winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+===Week 5===
+{{GroupTableStart|Week 5 Score|width=400px}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Detonation FocusMe}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=TfVfoj4Ljv
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|Shinobism Gaming}}
+|winner=1
+|vod=https://www.youtube.com/watch?v=_mwBC_FcYfI&t=2132s
+|map1={{Map|t1p1=Kichipa |o1p1={{Chars|zangief}} |score1=0 |t2p1=Fujimura|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=StormKUBO |o1p1={{Chars|honda}} |score1=1 |t2p1=Yamaguchi|o2p1={{Chars|dee jay}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Jazzy |o1p1={{Chars|luke}} |score1=3 |t2p1=Momochi|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map4={{Map|t1p1=Jazzy |o1p1={{Chars|luke}} |score1=1 |t2p1=Fujimura|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|winner=2
+|vod=https://www.youtube.com/watch?v=_mwBC_FcYfI&t=6316s
+|map1={{Map|t1p1=KEI.B |o1p1={{Chars|jp}} |score1=2 |t2p1=Sasamo|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=1 |t2p1=Nemo|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=1 |t2p1=Shuto|o2p1={{Chars|marisa}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|FAV Gaming}}
+|opponent2={{TeamOpponent|Detonation FocusMe}}
+|winner=1
+|vod=https://www.youtube.com/watch?v=_mwBC_FcYfI&t=10342s
+|map1={{Map|t1p1=Ryusei |o1p1={{Chars|jp}} |score1=0 |t2p1=Nauman|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Tokido |o1p1={{Chars|ken}} |score1=2 |t2p1=John Takeuchi|o2p1={{Chars|rashid}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=3 |t2p1=Fuudo|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 6===
+{{GroupTableStart|Week 6 Score|width=400px}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=2|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=uDinlKtDHi
+|{{Match
+|opponent1={{TeamOpponent|CYCLOPS athlete gaming}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|winner=1
+|vod=https://www.youtube.com/live/8_6T1kWVh40?t=2164s
+|map1={{Map|t1p1=GO1 |o1p1={{Chars|chunli}} |score1=1 |t2p1=Nemo|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Kazunoko |o1p1={{Chars|cammy}} |score1=1 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Fenritti |o1p1={{Chars|jp}} |score1=2 |t2p1=Shuto|o2p1={{Chars|marisa}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Fenritti |o1p1={{Chars|jp}} |score1=1 |t2p1=Sasamo|o2p1={{Chars|dee jay}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|Good 8 Squad}}
+|winner=2
+|vod=https://www.youtube.com/live/8_6T1kWVh40?t=6540s
+|map1={{Map|t1p1=Fuudo |o1p1={{Chars|dee jay}} |score1=0 |t2p1=Tachikawa|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nauman |o1p1={{Chars|ken}} |score1=2 |t2p1=Gachikun|o2p1={{Chars|rashid}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Itabashi Zangief |o1p1={{Chars|zangief}} |score1=0 |t2p1=Pugera|o2p1={{Chars|dee jay}} |score2=3 |winner=2}}
+|t1p4=|t1char4=|t1score4=|t2p4=|t2char4=|t2score4=|win4=
+}}
+|{{Match
+|opponent1={{TeamOpponent|Shinobism Gaming}}
+|opponent2={{TeamOpponent|GyoGun}}
+|winner=2
+|vod=https://www.youtube.com/live/8_6T1kWVh40?t=10680s
+|map1={{Map|t1p1=Johnny |o1p1={{Chars|manon}} |score1=0 |t2p1=Mizuha|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Fujimura |o1p1={{Chars|ken}} |score1=2 |t2p1=Mago|o2p1={{Chars|cammy}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Yamaguchi |o1p1={{Chars|dee jay}} |score1=0 |t2p1=Moke|o2p1={{Chars|chun}} |score2=3 |winner=2}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 7===
+{{GroupTableStart|Week 7 Score|width=400px}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=6w06cNfVVR
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|GyoGun}}
+|winner=2
+|vod=https://www.youtube.com/live/dqOFOZFEjr8?t=2155s
+|map1={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=1 |t2p1=Mago|o2p1={{Chars|cammy}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Oniki |o1p1={{Chars|kimberly}} |score1=0 |t2p1=Machabo|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=1 |t2p1=Moke|o2p1={{Chars|chun}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|Good 8 Squad}}
+|winner=1
+|vod=https://www.youtube.com/live/dqOFOZFEjr8?t=5525s
+|map1={{Map|t1p1=StormKUBO |o1p1={{Chars|honda}} |score1=1 |t2p1=Kawano|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=ACQUA |o1p1={{Chars|jp}} |score1=2 |t2p1=Tachikawa|o2p1={{Chars|kimberly}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Jazzy |o1p1={{Chars|luke}} |score1=3 |t2p1=Pugera|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|FAV gaming}}
+|opponent2={{TeamOpponent|CYCLOPS athlete gaming}}
+|winner=2
+|vod=https://www.youtube.com/live/dqOFOZFEjr8?t=9605s
+|map1={{Map|t1p1=sako |o1p1={{Chars|chun}} |score1=0 |t2p1=Fenritti|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=0 |t2p1=Dogura|o2p1={{Chars|dee jay}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Ryusei |o1p1={{Chars|jp}} |score1=3 |t2p1=GO1|o2p1={{Chars|chun}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Ryusei |o1p1={{Chars|jp}} |score1=0 |t2p1=GO1|o2p1={{Chars|chun}} |score2=1 |winner=2}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 8===
+{{GroupTableStart|Week 8 Score|width=400px}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=1|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=f7HqSRYcWj
+|{{Match
+|opponent1={{TeamOpponent|Shinobism Gaming}}
+|opponent2={{TeamOpponent|FAV gaming}}
+|winner=1
+|vod=https://www.youtube.com/live/5NShssgYt_A?t=2153s
+|map1={{Map|t1p1=Yamaguchi |o1p1={{Chars|dee jay}} |score1=2 |t2p1=Ryusei|o2p1={{Chars|jp}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Momochi |o1p1={{Chars|luke}} |score1=0 |t2p1=Tokido|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Fujimura |o1p1={{Chars|ken}} |score1=3 |t2p1=sako|o2p1={{Chars|chun}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=1
+|vod=https://www.youtube.com/live/5NShssgYt_A?t=5789s
+|map1={{Map|t1p1=Nauman |o1p1={{Chars|ken}} |score1=0 |t2p1=Torimeshi|o2p1={{Chars|dhalsim}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=John Takeuchi |o1p1={{Chars|rashid}} |score1=2 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+|map3={{Map|t1p1=Fuudo |o1p1={{Chars|dee jay}} |score1=3 |t2p1=KEI.B|o2p1={{Chars|jp}} |score2=2 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=2
+|vod=https://www.youtube.com/live/5NShssgYt_A?t=9194s
+|map1={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=2 |t2p1=Jazzy|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map2={{Map|t1p1=Sasamo |o1p1={{Chars|dee jay}} |score1=2 |t2p1=StormKUBO|o2p1={{Chars|honda}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Nemo |o1p1={{Chars|jp}} |score1=2 |t2p1=ACQUA|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Nemo |o1p1={{Chars|jp}} |score1=0 |t2p1=Jazzy|o2p1={{Chars|luke}} |score2=1 |winner=2}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 9===
+{{GroupTableStart|Week 9 Score|width=400px}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=5|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=qgoty15NhZ
+|{{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|Good 8 Squad}}
+|winner=1
+|vod=https://www.youtube.com/live/TXTafjlIDhI?t=2121s
+|map1={{Map|t1p1=Shuto |o1p1={{Chars|marisa}} |score1=2 |t2p1=gachikun|o2p1={{Chars|rashid}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Sasamo |o1p1={{Chars|dee jay}} |score1=0 |t2p1=Kawano|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Higuchi |o1p1={{Chars|guile}} |score1=3 |t2p1=Tachikawa|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|winner=1
+|vod=https://www.youtube.com/live/TXTafjlIDhI?t=5891s
+|map1={{Map|t1p1=Machabo |o1p1={{Chars|ken}} |score1=0 |t2p1=Fuudo|o2p1={{Chars|dee jay}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Mago |o1p1={{Chars|cammy}} |score1=0 |t2p1=John Takeuchi|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Moke |o1p1={{Chars|chun}} |score1=3 |t2p1=Itabashi Zangief|o2p1={{Chars|zangief}} |score2=1 |winner=1}}
+|map4={{Map|t1p1=Mago |o1p1={{Chars|cammy}} |score1=1 |t2p1=Fuudo|o2p1={{Chars|dee jay}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|CYCLOPS athlete gaming}}
+|opponent2={{TeamOpponent|Shinobism Gaming}}
+|winner=2
+|vod=https://www.youtube.com/live/TXTafjlIDhI?t=9671s
+|map1={{Map|t1p1=Dogura |o1p1={{Chars|dee jay}} |score1=1 |t2p1=Momochi|o2p1={{Chars|luke}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Fenritti |o1p1={{Chars|jp}} |score1=0 |t2p1=Yamaguchi|o2p1={{Chars|dee jay}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=GO1 |o1p1={{Chars|chun}} |score1=1 |t2p1=Fujimura|o2p1={{Chars|ken}} |score2=3 |winner=2}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 10===
+{{GroupTableStart|Week 10 Score|width=400px}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=3|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=87ToHnVqnN
+|{{Match
+|opponent1={{TeamOpponent|FAV gaming}}
+|opponent2={{TeamOpponent|GyoGun}}
+|winner=2
+|vod=https://www.youtube.com/live/qRMND8okHQw?t=2134s
+|map1={{Map|t1p1=Bonchan |o1p1={{Chars|luke}} |score1=1 |t2p1=Machabo|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=sako |o1p1={{Chars|chun}} |score1=1 |t2p1=Moke|o2p1={{Chars|chun}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Tokido |o1p1={{Chars|ken}} |score1=1 |t2p1=Mizuha|o2p1={{Chars|cammy}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|CYCLOPS athlete gaming}}
+|opponent2={{TeamOpponent|Team iXA}}
+|winner=1
+|vod=https://www.youtube.com/live/qRMND8okHQw?t=6304s
+|map1={{Map|t1p1=Dogura |o1p1={{Chars|dee jay}} |score1=2 |t2p1=StormKUBO|o2p1={{Chars|lily}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Fenritti |o1p1={{Chars|jp}} |score1=2 |t2p1=ACQUA|o2p1={{Chars|jp}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Kazunoko |o1p1={{Chars|cammy}} |score1=3 |t2p1=Jazzy|o2p1={{Chars|luke}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Good 8 Squad}}
+|opponent2={{TeamOpponent|Nagoya Oja Body Star}}
+|winner=2
+|vod=https://www.youtube.com/live/qRMND8okHQw?t=10504s
+|map1={{Map|t1p1=Pugera |o1p1={{Chars|juri}} |score1=2 |t2p1=Oniki|o2p1={{Chars|kimberly}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=gachikun |o1p1={{Chars|rashid}} |score1=0 |t2p1=KEI.B|o2p1={{Chars|jp}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Kawano |o1p1={{Chars|luke}} |score1=1 |t2p1=Akira|o2p1={{Chars|cammy}} |score2=3 |winner=2}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 11===
+{{GroupTableStart|Week 11 Score|width=400px}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Nagoya Oja Body Star}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=3|win_m=1|lose_m=0|points=25|bg=win}}
+{{GroupTableSlot|{{Team|GyoGun}}|place=4|win_m=0|lose_m=1|points=20|bg=lose}}
+{{GroupTableSlot|{{Team|Team iXA}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=5|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=WRQCdHoTeA
+|{{Match
+|opponent1={{TeamOpponent|Team iXA}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|winner=2
+|vod=https://www.youtube.com/live/1keQPSK4AjQ?t=2130s
+|map1={{Map|t1p1=ACQUA |o1p1={{Chars|jp}} |score1=0 |t2p1=John Takeuchi|o2p1={{Chars|rashid}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Kichipa |o1p1={{Chars|lily}} |score1=1 |t2p1=Nauman|o2p1={{Chars|ken}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Jazzy |o1p1={{Chars|luke}} |score1=1 |t2p1=Fuudo|o2p1={{Chars|dee jay}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Nagoya Oja Body Star}}
+|opponent2={{TeamOpponent|Shinobism Gaming}}
+|winner=1
+|vod=https://www.youtube.com/live/1keQPSK4AjQ?t=6305s
+|map1={{Map|t1p1=KEI.B |o1p1={{Chars|jp}} |score1=2 |t2p1=Johnny|o2p1={{Chars|manon}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Torimeshi |o1p1={{Chars|dhalsim}} |score1=2 |t2p1=Momochi|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Akira |o1p1={{Chars|cammy}} |score1=3 |t2p1=Yamaguchi|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|winner=2
+|vod=https://www.youtube.com/live/1keQPSK4AjQ?t=9906s
+|map1={{Map|t1p1=Mago |o1p1={{Chars|cammy}} |score1=2 |t2p1=Higuchi|o2p1={{Chars|guile}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Moke |o1p1={{Chars|chun}} |score1=2 |t2p1=Nemo|o2p1={{Chars|jp}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Machabo |o1p1={{Chars|ken}} |score1=0 |t2p1=Sasamo|o2p1={{Chars|dee jay}} |score2=3 |winner=2}}
+|map4={{Map|t1p1=Machabo |o1p1={{Chars|ken}} |score1=0 |t2p1=Sasamo|o2p1={{Chars|dee jay}} |score2=1 |winner=2}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===Week 12===
+{{GroupTableStart|Week 12 Score|width=400px}}
+{{GroupTableSlot|{{Team|Shinobism Gaming}}|place=1|win_m=1|lose_m=0|points=40|bg=win}}
+{{GroupTableSlot|{{Team|DetonatioN FocusMe}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|FAV gaming}}|place=2|win_m=1|lose_m=0|points=30|bg=win}}
+{{GroupTableSlot|{{Team|CYCLOPS athlete gaming}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Saishunkan Sol Kumamoto}}|place=4|win_m=0|lose_m=1|points=10|bg=lose}}
+{{GroupTableSlot|{{Team|Good 8 Squad}}|place=6|win_m=0|lose_m=1|points=0|bg=lose}}
+{{GroupTableEnd}}
+{{Matchlist|width=400px|id=q6vsg0BGfC
+|{{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|CYCLOPS athlete gaming}}
+|winner=1
+|vod=https://www.youtube.com/live/Q0ZCoy8T8hQ?t=2111s
+|map1={{Map|t1p1=John Takeuchi |o1p1={{Chars|rashid}} |score1=2 |t2p1=Kazunoko|o2p1={{Chars|cammy}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Nauman |o1p1={{Chars|ken}} |score1=1 |t2p1=GO1|o2p1={{Chars|chun}} |score2=2 |winner=2}}
+|map3={{Map|t1p1=Fuudo |o1p1={{Chars|dee jay}} |score1=3 |t2p1=Fenritti|o2p1={{Chars|jp}} |score2=0 |winner=1}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|FAV gaming}}
+|winner=2
+|vod=https://www.youtube.com/live/Q0ZCoy8T8hQ?t=6058s
+|map1={{Map|t1p1=Sasamo |o1p1={{Chars|dee jay}} |score1=1 |t2p1=sako|o2p1={{Chars|chun}} |score2=2 |winner=2}}
+|map2={{Map|t1p1=Nemo |o1p1={{Chars|jp}} |score1=2 |t2p1=Tokido|o2p1={{Chars|ken}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Shuto |o1p1={{Chars|marisa}} |score1=1 |t2p1=Ryusei|o2p1={{Chars|jp}} |score2=3 |winner=2}}
+}}
+|{{Match
+|opponent1={{TeamOpponent|Shinobism Gaming}}
+|opponent2={{TeamOpponent|Good 8 Squad}}
+|winner=1
+|vod=https://www.youtube.com/live/Q0ZCoy8T8hQ?t=10455s
+|map1={{Map|t1p1=Johnny |o1p1={{Chars|manon}} |score1=2 |t2p1=Pugera|o2p1={{Chars|dee jay}} |score2=1 |winner=1}}
+|map2={{Map|t1p1=Yamaguchi |o1p1={{Chars|dee jay}} |score1=2 |t2p1=Kawano|o2p1={{Chars|luke}} |score2=0 |winner=1}}
+|map3={{Map|t1p1=Fujimura |o1p1={{Chars|ken}} |score1=3 |t2p1=gachikun|o2p1={{Chars|rashid}} |score2=2 |winner=1}}
+}}
+}}
+{{box|end|padding=2em}}

@@ -1,0 +1,243 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2023: Playoffs}}{{HDB}}
+{{SFL JP 2023 Tabs}}
+==Results==
+{{Bracket|Bracket/2L2D|id=cJ9aLQgCF2
+|R1M1={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto |score=70}}
+|opponent2={{TeamOpponent|GyoGun |score=30}}
+|date=2023-12-23
+|vod=https://youtu.be/u9_Jea-WHH8
+}}
+
+|R2M1={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe |score=70}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto |score=60}}
+|date=2023-12-23
+|vod=https://youtu.be/2YVNCsaxPQM
+}}
+
+|R3M1={{Match
+|opponent1={{TeamOpponent|FAV gaming |score=90}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe |score=30}}
+|date=2024-01-20
+|vod=https://youtu.be/kh6HCX8oqG8
+}}
+}}
+
+==Details==
+===Quarterfinals===
+{{Matchlist |width=450px|collapsed=false|id=T5ja8LAOwn
+|M1={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|GyoGun}}
+|date=2023-12-23
+|winner=1
+|vod=https://youtu.be/u9_Jea-WHH8?t=2180s
+|map1={{Map
+|t1p1=Kabe|o1p1={{Chars|ken}}|score1=2
+|t2p1=Mago|o2p1={{Chars|juri}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Shuto|o1p1={{Chars|marisa}}|score1=0
+|t2p1=Moke|o2p1={{Chars|chun}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=3
+|t2p1=Mizuha|o2p1={{Chars|cammy}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|GyoGun}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|date=2023-12-23
+|winner=2
+|vod=https://youtu.be/u9_Jea-WHH8?t=5408s
+|map1={{Map
+|t1p1=Machabo|o1p1={{Chars|ken}}|score1=0
+|t2p1=Nemo|o2p1={{Chars|jp}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Moke|o1p1={{Chars|chun}}|score1=2
+|t2p1=Kabe|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Mizuha|o1p1={{Chars|cammy}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|GyoGun}}
+|date=2023-12-23
+|winner=1
+|vod=https://youtu.be/u9_Jea-WHH8?t=8903s
+|map1={{Map
+|t1p1=Shuto|o1p1={{Chars|marisa}}|score1=0
+|t2p1=Moke|o2p1={{Chars|chun}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nemo|o1p1={{Chars|jp}}|score1=2
+|t2p1=Mizuha|o2p1={{Chars|cammy}}|score2=0
+|winner=1
+}}
+}}
+}}
+
+===Semifinals===
+{{Matchlist |width=450px|collapsed=false|id=iwAJJ1cs2Q
+|M1={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|date=2023-12-23
+|winner=1
+|vod=https://youtu.be/2YVNCsaxPQM?t=1996s
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|dee jay}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|jp}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|marisa}}|score1=1
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|marisa}}|score2=2
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|date=2023-12-23
+|winner=2
+|vod=https://youtu.be/2YVNCsaxPQM?t=5363s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|guile}}|score1=0
+|t2p1=John Takeuchi|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nemo|o1p1={{Chars|jp}}|score1=0
+|t2p1=Itabashi Zangief|o2p1={{Chars|marisa}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|marisa}}|score1=3
+|t2p1=Fuudo|o2p1={{Chars|dee jay}}|score2=2
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|date=2023-12-23
+|winner=2
+|vod=https://youtu.be/2YVNCsaxPQM?t=9162s
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|dee jay}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Kabe|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Nauman|o1p1={{Chars|ken}}|score1=1
+|t2p1=Shuto|o2p1={{Chars|marisa}}|score2=3
+|winner=2
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|date=2023-12-23
+|winner=2
+|vod=https://youtu.be/2YVNCsaxPQM?t=12315s
+|map1={{Map
+|t1p1=Shuto|o1p1={{Chars|marisa}}|score1=0
+|t2p1=Itabashi Zangief|o2p1={{Chars|marisa}}|score2=2
+|winner=2
+}}
+}}
+}}
+
+===Grand Finals===
+{{Matchlist |width=450px|collapsed=false|id=14xLunjNw0
+|M1={{Match
+|opponent1={{TeamOpponent|FAV gaming }}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|date=2024-01-20
+|winner=1
+|vod=https://youtu.be/kh6HCX8oqG8?t=3000
+|map1={{Map
+|t1p1=Ryusei|o1p1={{Chars|jp}}|score1=2
+|t2p1=John Takeuchi|o2p1={{Chars|rashid}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=sako|o1p1={{Chars|chun}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Bonchan|o1p1={{Chars|luke}}|score1=3
+|t2p1=Fuudo|o2p1={{Chars|dj}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|FAV gaming}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe}}
+|date=2024-01-20
+|winner=1
+|vod=https://youtu.be/kh6HCX8oqG8?t=6817
+|map1={{Map
+|t1p1=Ryusei|o1p1={{Chars|jp}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|ken}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=sako|o1p1={{Chars|chun}}|score1=2
+|t2p1=Itabashi Zangief|o2p1={{Chars|marisa}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Bonchan|o1p1={{Chars|luke}}|score1=0
+|t2p1=Fuudo|o2p1={{Chars|dj}}|score2=3
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe}}
+|opponent2={{TeamOpponent|FAV gaming}}
+|date=2024-01-20
+|winner=2
+|vod=https://youtu.be/kh6HCX8oqG8?t=10309
+|map1={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|rashid}}|score1=2
+|t2p1=Ryusei|o2p1={{Chars|jp}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Nauman|o1p1={{Chars|ken}}|score1=0
+|t2p1=sako|o2p1={{Chars|chun}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|dj}}|score1=0
+|t2p1=Bonchan|o2p1={{Chars|luke}}|score2=3
+|winner=2
+}}
+}}
+}}

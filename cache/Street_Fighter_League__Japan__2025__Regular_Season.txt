@@ -1,0 +1,1634 @@
+{{DISPLAYTITLE:Street Fighter League Pro-JP 2025: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{SFL JP 2025 Tabs}}
+==Results==
+===Division S===
+{{box|start|padding=2em}}
+<section begin="Division S"/>
+{{GroupTableLeague|title=Division S
+|width=420px|show_g=false|show_p=true|diff=false
+|tournament=Street Fighter League/Japan/2025/Regular Season
+|pbg1=seedup |pbg2=up |pbg3=up |pbg4=down |pbg5=down |pbg6=down
+|win_p=0 |tie_p=0 |lose_p=0
+|{{TeamOpponent|FAV gaming}}               |temp_p1=|bg1=
+|{{TeamOpponent|Crazy Raccoon}}            |temp_p2=|bg2=
+|{{TeamOpponent|Good 8 Squad}}             |temp_p3=|bg3=
+|{{TeamOpponent|Saishunkan Sol Kumamoto}}  |temp_p4=|bg4=
+|{{TeamOpponent|CAG Osaka}}                |temp_p5=|bg5=
+|{{TeamOpponent|Nagoya OJA}}               |temp_p6=|bg6=
+|40-0_p=40|0-40_p=0|10-30_p=10|30-10_p=30|20-30_p=20|30-20_p=30
+|roundtitle=Week
+|round1edate=2025-09-03|round2edate=2025-09-10|round3edate=2025-09-24
+|round4edate=2025-10-04|round5edate=2025-10-18|round6edate=2025-10-25
+|round7edate=2025-11-05|round8edate=2025-11-12|round9edate=2025-11-19
+|edate=2025-11-26
+}}<section end="Division S"/>
+:
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Japan/2025/Regular Season
+|team1=FAV gaming
+|team2=Crazy Raccoon
+|team3=Good 8 Squad
+|team4=Saishunkan Sol Kumamoto
+|team5=CAG Osaka
+|team6=Nagoya OJA
+|double=true
+}}
+{{box|end}}
+
+===Division F===
+{{box|start|padding=2em}}
+<section begin="Division F"/>
+{{GroupTableLeague|title=Division F
+|width=420px|show_g=false|show_p=true|diff=false
+|tournament=Street Fighter League/Japan/2025/Regular Season
+|pbg1=seedup |pbg2=up |pbg3=up |pbg4=down |pbg5=down |pbg6=down
+|win_p=0 |tie_p=0 |lose_p=0
+|{{TeamOpponent|VARREL}}                  |temp_p1=|bg1=
+|{{TeamOpponent|ZETA DIVISION}}           |temp_p2=|bg2=
+|{{TeamOpponent|DetonatioN FocusMe}}      |temp_p3=|bg3=
+|{{TeamOpponent|TEAM iXA}}                |temp_p4=|bg4=
+|{{TeamOpponent|IBUSHIGIN}}               |temp_p5=|bg5=
+|{{TeamOpponent|REJECT}}                  |temp_p6=|bg6=
+|40-0_p=40|0-40_p=0|10-30_p=10|30-10_p=30|20-30_p=20|30-20_p=30
+|roundtitle=Week
+|round1edate=2025-09-03|round2edate=2025-09-10|round3edate=2025-09-24
+|round4edate=2025-10-04|round5edate=2025-10-18|round6edate=2025-10-25
+|round7edate=2025-11-05|round8edate=2025-11-12|round9edate=2025-11-19
+|edate=2025-11-26
+}}<section end="Division F"/>
+:
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/Japan/2025/Regular Season
+|team1=VARREL
+|team2=ZETA DIVISION
+|team3=DetonatioN FocusMe
+|team4=TEAM iXA
+|team5=IBUSHIGIN
+|team6=REJECT
+|double=true
+}}
+{{box|end}}
+
+==Details==
+{{Toggle group start|state=hide}}
+{{tabs dynamic|hide-showall=true
+|name1=Division S|icon1=results
+|name2=Division F|icon2=results
+}}
+{{tabs dynamic/tab|1}}
+
+===Division S===
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist |title=Week 1|id=wH5e0BC5u8|collapsed=false|width=330px
+|M1header=August 29, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|opponent2={{TeamOpponent|FAV gaming|score=10}}
+|date=August 29, 2025
+|winner=1
+|vod=https://www.youtube.com/live/zomypsk_rCA?si=Dr0HD3hLHNFzF-vC&t=3146
+|map1={{Map
+|t1p1=cosa|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Fujimura|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kobayan|o1p1={{Chars|Zangief}}|score1=0
+|t2p1=Sako|o2p1={{Chars|Elena}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Moke|o2p1={{Chars|Chunli}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=20}}
+|opponent2={{TeamOpponent|CAG Osaka|score=30}}
+|date=August 29, 2025
+|winner=2
+|vod=https://www.youtube.com/live/zomypsk_rCA?si=LTMWcZnBt-1-5m4P&t=7341
+|map1={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Fenritti|o2p1={{Chars|JP}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Seiya|o1p1={{Chars|Chunli}}|score1=2
+|t2p1=Eita|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Otani|o1p1={{Chars|Ken}}|score1=2
+|t2p1=Uryo|o2p1={{Chars|Jamie|chun}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Takagi|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=10}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=30}}
+|date=August 29, 2025
+|winner=2
+|vod=https://www.youtube.com/live/zomypsk_rCA?si=vwRr1PW0VWJoHaXh&t=12227
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Kazunoko|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Gachikun|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Sahara|o1p1={{Chars|Ed}}|score1=1
+|t2p1=Shuto|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist |title=Week 2|id=sflj25Rs2S|collapsed=false|width=330px
+|M1header=September 5, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=30}}
+|opponent2={{TeamOpponent|FAV gaming|score=20}}
+|date=September 5, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=ySg6n-9Pl9U&t=2410s
+|map1={{Map
+|t1p1=Seiya|o1p1={{Chars|Chunli}}|score1=1
+|t2p1=Fujimura|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Ryukichi|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Moke|o2p1={{Chars|Chunli}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Otani|o1p1={{Chars|Ken}}|score1=2
+|t2p1=Sako|o2p1={{Chars|Elena}}|score2=0
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|CAG Osaka|score=0}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=40}}
+|date=September 5, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=ySg6n-9Pl9U&t=6891s
+|map1={{Map
+|t1p1=Fenritti|o1p1={{Chars|JP}}|score1=0
+|t2p1=Kawano|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Sahara|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Uryo|o1p1={{Chars|Jamie}}|score1=1
+|t2p1=Gachikun|o2p1={{Chars|Rashid}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=20}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=30}}
+|date=September 5, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=ySg6n-9Pl9U&t=10484s
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Bonchan|o1p1={{Chars|Sagat}}|score1=1
+|t2p1=Nemo|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Akuma}}|score1=3
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=0
+|t2p1=cosa|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist |title=Week 3|id=sflj25Rs3S|collapsed=false|width=330px
+|M1header=September 19, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=10}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=30}}
+|date=September 19, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=PCHwN7yhTgI&t=2058s
+|map1={{Map
+|t1p1=Bonchan|o1p1={{Chars|Sagat}}|score1=0
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=2
+|t2p1=Otani|o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Mocchii|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=true}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=30}}
+|date=September 19, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=PCHwN7yhTgI&t=6134s&pp=0gcJCdcCDuyUWbzu
+|map1={{Map
+|t1p1=Kobayan|o1p1={{Chars|Zangief}}|score1=1
+|t2p1=Sahara|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Pugera|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Cosa|o1p1={{Chars|Ryu}}|score1=1
+|t2p1=Gachikun|o2p1={{Chars|Rashid}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=30}}
+|opponent2={{TeamOpponent|CAG Osaka|score=10}}
+|date=September 19, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=PCHwN7yhTgI&t=10060s
+|map1={{Map
+|t1p1=Fujimura|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Takagi|o2p1={{Chars|Blanka}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Sako|o1p1={{Chars|Elena}}|score1=0
+|t2p1=Eita|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Fenritti|o2p1={{Chars|Blanka}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 4}}=====
+{{Matchlist |title=Week 4|id=sflj25Rs4S|collapsed=false|width=330px
+|M1header=September 30, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|CAG Osaka|score=30}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=20}}
+|date=September 30, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=JMl5Z74-xH4&t=2398s
+|map1={{Map
+|t1p1=Takagi|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=cosa|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Uryo|o1p1={{Chars|Jamie}}|score1=1
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Fenritti|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=Nemo|o2p1={{Chars|Bison}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=30}}
+|opponent2={{TeamOpponent|FAV gaming|score=10}}
+|date=September 30, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=JMl5Z74-xH4&t=8106s
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Ryukichi|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Bonchan|o1p1={{Chars|Sagat}}|score1=2
+|t2p1=Moke|o2p1={{Chars|Chunli}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=3
+|t2p1=Fujimura|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=30}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=10}}
+|date=September 30, 2025
+|winner=
+|vod=https://www.youtube.com/watch?v=JMl5Z74-xH4&t=11784s
+|map1={{Map
+|t1p1=Sahara|o1p1={{Chars|Ed}}|score1=1
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Gachikun|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Seiya|o2p1={{Chars|Chunli}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Pugera|o1p1={{Chars|Juri}}|score1=3
+|t2p1=Otani|o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 5}}=====
+{{Matchlist |title=Week 5|id=sflj25Rs5S|collapsed=false|width=330px
+|M1header=October 7, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=10}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=30}}
+|date=October 7, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=ktYyfe0OOZg&t=2366s
+|map1={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Mai}}|score1=1
+|t2p1=Kawano|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Fujimura|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Pugera|o2p1={{Chars|Sagat}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Moke|o1p1={{Chars|Chunli}}|score1=1
+|t2p1=Sahara|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=30}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|date=October 7, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=ktYyfe0OOZg&t=6817s
+|map1={{Map
+|t1p1=Seiya|o1p1={{Chars|Chunli}}|score1=0
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Nemo|o2p1={{Chars|Bison}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|CAG Osaka|score=0}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=40}}
+|date=October 7, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=ktYyfe0OOZg&t=10653s&pp=0gcJCdcCDuyUWbzu
+|map1={{Map
+|t1p1=Fenritti|o1p1={{Chars|Blanka}}|score1=1
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Uryo|o1p1={{Chars|Chunli}}|score1=0
+|t2p1=Kazunoko|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Takagi|o1p1={{Chars|Blanka}}|score1=1
+|t2p1=Bonchan|o2p1={{Chars|Sagat}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 6}}=====
+{{Matchlist |title=Week 6|id=sflj25Rs6S|collapsed=false|width=330px
+|M1header=October 21, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=20}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=30}}
+|date=October 21, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=GsYSxaN0Zrg&t=2265s
+|map1={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=0
+|t2p1=Kawano|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Pugera|o2p1={{Chars|Sagat}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Shuto|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Gachikun|o2p1={{Chars|Rashid}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Bonchan|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Sahara|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|CAG Osaka|score=10}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=30}}
+|date=October 21, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=GsYSxaN0Zrg&t=6382s
+|map1={{Map
+|t1p1=Uryo|o1p1={{Chars|Jamie}}|score1=1
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Otani|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fenritti|o1p1={{Chars|Blanka}}|score1=1
+|t2p1=Seiya|o2p1={{Chars|Chunli}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=30}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|date=October 21, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=GsYSxaN0Zrg&t=9995s
+|map1={{Map
+|t1p1=Sako|o1p1={{Chars|Elena}}|score1=0
+|t2p1=Nemo|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Moke|o1p1={{Chars|Chunli}}|score1=2
+|t2p1=Machabo|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 7}}=====
+{{Matchlist |title=Week 7|id=sflj25Rs7S|collapsed=false|width=330px
+|M1header=October 28, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=0}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=40}}
+|date=October 28, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=cOJARJ4zO0c&t=2164s
+|map1={{Map
+|t1p1=Fujimura|o1p1={{Chars|viper}}|score1=1
+|t2p1=Otani|o2p1={{Chars|ken}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Moke|o1p1={{Chars|chunli}}|score1=0
+|t2p1=Mocchii|o2p1={{Chars|akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|mai}}|score1=0
+|t2p1=KEI.B|o2p1={{Chars|mai}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=true}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=30}}
+|date=October 28, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=cOJARJ4zO0c&t=6758s
+|map1={{Map
+|t1p1=Cosa|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|Sagat}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Kobayan|o1p1={{Chars|Zangief}}|score1=1
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|Viper}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=true}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=20}}
+|opponent2={{TeamOpponent|CAG Osaka|score=30}}
+|date=October 28, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=cOJARJ4zO0c&t=11008s
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Takagi|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Gachikun|o1p1={{Chars|Rashid}}|score1=0
+|t2p1=Fenritti|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Sahara|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Eita|o2p1={{Chars|Akuma}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Pugera|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Uryo|o2p1={{Chars|Viper}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 8}}=====
+{{Matchlist |title=Week 8|id=sflj25Rs8S|collapsed=false|width=330px
+|M1header=November 7, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=30}}
+|opponent2={{TeamOpponent|Saishunkan Sol Kumamoto|score=10}}
+|date=November 7, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=odzWuHOmUiE&t=2215s
+|map1={{Map
+|t1p1=Kawano|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=cosa|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Pugera|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Kobayan|o2p1={{Chars|Zangief}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Sahara|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Machabo|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|CAG Osaka|score=20}}
+|opponent2={{TeamOpponent|FAV gaming|score=30}}
+|date=November 7, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=odzWuHOmUiE&t=5685s
+|map1={{Map
+|t1p1=Fenritti|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=Ryukichi|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Eita|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Fujimura|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Takagi|o1p1={{Chars|Blanka}}|score1=1
+|t2p1=Sako|o2p1={{Chars|Elena}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Uryo|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Moke|o2p1={{Chars|Chunli}}|score2=2
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=40}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=0}}
+|date=November 7, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=odzWuHOmUiE&t=10153s
+|map1={{Map
+|t1p1=Otani|o1p1={{Chars|Ken}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|Sagat}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Seiya|o1p1={{Chars|Chunli}}|score1=2
+|t2p1=Kazunoko|o2p1={{Chars|Viper}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Shuto|o2p1={{Chars|Ryu}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 9}}=====
+{{Matchlist |title=Week 9|id=sflj25Rs9S|collapsed=false|width=330px
+|M1header=November 14, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Nagoya OJA|score=0}}
+|opponent2={{TeamOpponent|Good 8 Squad|score=40}}
+|date=November 14, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=C8Xo3pAlxnc&t=6762s&pp=0gcJCd0CDuyUWbzu
+|map1={{Map
+|t1p1=Seiya|o1p1={{Chars|Chunli}}|score1=0
+|t2p1=Sahara|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mocchii|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Pugera|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=KEI.B|o1p1={{Chars|Mai}}|score1=2
+|t2p1=gachikun|o2p1={{Chars|Rashid}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=20}}
+|opponent2={{TeamOpponent|CAG Osaka|score=30}}
+|date=November 14, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=C8Xo3pAlxnc&t=2205s
+|map1={{Map
+|t1p1=Machabo|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=Eita|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nemo|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Fenritti|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=cosa|o1p1={{Chars|Ryu}}|score1=3
+|t2p1=Takagi|o2p1={{Chars|Blanka}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Kobayan|o1p1={{Chars|Zangief}}|score1=1
+|t2p1=Uryo|o2p1={{Chars|Viper}}|score2=2
+|winner=2
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FAV gaming|score=30}}
+|opponent2={{TeamOpponent|Crazy Raccoon|score=10}}
+|date=November 14, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=C8Xo3pAlxnc&t=11150s&pp=0gcJCd0CDuyUWbzu
+|map1={{Map
+|t1p1=Fujimura|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Shuto|o2p1={{Chars|Ryu}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Moke|o1p1={{Chars|Chunli}}|score1=2
+|t2p1=Bonchan|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Ryukichi|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Dogura|o2p1={{Chars|Elena}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 10}}=====
+{{Matchlist |title=Week 10|id=sflj25Rs0S|collapsed=false|width=330px
+|M1header=November 21, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Crazy Raccoon|score=30}}
+|opponent2={{TeamOpponent|CAG Osaka|score=10}}
+|date=November 21, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=ukt8JsZMPJg&t=2259s
+|map1={{Map
+|t1p1=Kazunoko|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Fenritti|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Dogura|o1p1={{Chars|Elena}}|score1=2
+|t2p1=Eita|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Bonchan|o1p1={{Chars|Sagat}}|score1=3
+|t2p1=Uryo|o2p1={{Chars|Viper}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Good 8 Squad|score=40}}
+|opponent2={{TeamOpponent|FAV gaming|score=0}}
+|date=November 21, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=ukt8JsZMPJg&t=7953s
+|map1={{Map
+|t1p1=Kawano |o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Fujimura |o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=gachikun |o1p1={{Chars|Rashid}}|score1=2
+|t2p1=moke |o2p1={{Chars|Chun-Li}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Sahara |o1p1={{Chars|Ed}}|score1=3
+|t2p1=Ryukichi|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Saishunkan Sol Kumamoto|score=20}}
+|opponent2={{TeamOpponent|Nagoya OJA|score=30}}
+|date=November 21, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=ukt8JsZMPJg&t=12261s
+|map1={{Map
+|t1p1=Cosa |o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Otani |o2p1={{Chars|Ken}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Nemo|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=Mocchii|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Kobayan|o1p1={{Chars|Zangief}}|score1=0
+|t2p1=KEI.B|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Machabo |o1p1={{Chars|Ryu}}|score1=0
+|t2p1=Seiya |o2p1={{Chars|Chun-Li}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|end|padding=2em}}
+
+{{tabs dynamic/tab|2}}
+===Division F===
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist |title=Week 1|id=cIwBbP1W2o|collapsed=false|width=330px
+|M1header=September 2, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|TEAM iXA|score=30}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe|score=10}}
+|date=September 2, 2025
+|winner=1
+|vod=https://youtu.be/bJg-W4GGS-g?t=2472
+|map1={{Map
+|t1p1=Acqua|o1p1={{Chars|JP}}|score1=0
+|t2p1=John Takeuchi|o2p1={{Chars|Rashid}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Adelie|o1p1={{Chars|Ed}}|score1=3
+|t2p1=GO1|o2p1={{Chars|Chunli}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=10}}
+|opponent2={{TeamOpponent|VARREL|score=30}}
+|date=September 2, 2025
+|winner=2
+|vod=https://youtu.be/bJg-W4GGS-g?t=6336
+|map1={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=Mizuha|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=2BASSA|o1p1={{Chars|Juri}}|score1=0
+|t2p1=ts|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Yanai|o1p1={{Chars|Bison}}|score1=0
+|t2p1=Mago|o2p1={{Chars|Juri}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=10}}
+|opponent2={{TeamOpponent|REJECT|score=30}}
+|date=September 2, 2025
+|winner=2
+|vod=https://youtu.be/bJg-W4GGS-g?t=10036
+|map1={{Map
+|t1p1=Momochi|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Leshar|o2p1={{Chars|Ed}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=0
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hikaru|o1p1={{Chars|Aki}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|Ken}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist |title=Week 2|id=sflj25Rs2f|collapsed=false|width=330px
+|M1header=September 9, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=30}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe|score=20}}
+|date=September 9, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=dtkAFtVHa6g&t=2845s
+|map1={{Map
+|t1p1=2BASSA|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Nauman|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Johnny|o1p1={{Chars|Manon}}|score1=1
+|t2p1=Itabashi Zangief|o2p1={{Chars|Zangief}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=3
+|t2p1=John Takeuchi|o2p1={{Chars|Rashid}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Yanai|o1p1={{Chars|Bison}}|score1=2
+|t2p1=GO1|o2p1={{Chars|Chunli}}|score2=1
+|winner=1
+}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|VARREL|score=10}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=30}}
+|date=September 9, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=dtkAFtVHa6g&t=6918s
+|map1={{Map
+|t1p1=Mizuha|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Ts|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Momochi|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mago|o1p1={{Chars|Juri}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|Aki}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|REJECT|score=30}}
+|opponent2={{TeamOpponent|TEAM iXA|score=10}}
+|date=September 9, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=dtkAFtVHa6g&t=10848s
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Hibiki|o2p1={{Chars|Lily}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Tokido|o1p1={{Chars|Ken}}|score1=0
+|t2p1=Adelie|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Terry}}|score1=3
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist |title=Week 3|id=sflj25Rs3f|collapsed=false|width=330px
+|M1header=September 23, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe|score=40}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=0}}
+|date=September 23, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=iy8-Tb9VPvs&t=2321s
+|map1={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|Zangief}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|Aki}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|Jamie}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|Chunli}}|score1=3
+|t2p1=Momochi|o2p1={{Chars|Ed}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=0}}
+|opponent2={{TeamOpponent|TEAM iXA|score=40}}
+|date=September 23, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=iy8-Tb9VPvs&t=7572s
+|map1={{Map
+|t1p1=Johnny|o1p1={{Chars|Marisa}}|score1=0
+|t2p1=Adelie|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=2BASSA|o1p1={{Chars|Juri}}|score1=1
+|t2p1=Hibiki|o2p1={{Chars|Lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=1
+|t2p1=Acqua|o2p1={{Chars|Blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|VARREL|score=30}}
+|opponent2={{TeamOpponent|REJECT|score=20}}
+|date=September 23, 2025
+|winner=
+|vod=https://www.youtube.com/watch?v=iy8-Tb9VPvs&t=11058s
+|map1={{Map
+|t1p1=Mizuha|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Tokido|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Ts|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=YHC-Mochi|o1p1={{Chars|dhalsim}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|Terry}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Mago|o1p1={{Chars|Juri}}|score1=2
+|t2p1=Daigo|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 4}}=====
+{{Matchlist |title=Week 4|id=sflj25Rs4f|collapsed=false|width=330px
+|M1header=October 3, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|VARREL|score=0}}
+|opponent2={{TeamOpponent|TEAM iXA|score=40}}
+|date=October 3, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=RbmriseLSwk&t=2379s
+|map1={{Map
+|t1p1=YHC-Mochi|o1p1={{Chars|Dhalsim}}|score1=0
+|t2p1=Acqua|o2p1={{Chars|Blanka}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Mago|o1p1={{Chars|Juri}}|score1=1
+|t2p1=Adelie|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Ts|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|REJECT|score=30}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe|score=10}}
+|date=October 3, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=RbmriseLSwk&t=6569s
+|map1={{Map
+|t1p1=Leshar|o1p1={{Chars|Ed}}|score1=2
+|t2p1=John Takeuchi|o2p1={{Chars|Jamie}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Nauman|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=3
+|t2p1=GO1|o2p1={{Chars|Chunli}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=10}}
+|date=October 3, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=RbmriseLSwk&t=10661s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Johnny|o2p1={{Chars|Marisa}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hikaru|o1p1={{Chars|Blanka}}|score1=0
+|t2p1=Yanai|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 5}}=====
+{{Matchlist |title=Week 5|id=sflj25Rs5f|collapsed=false|width=330px
+|M1header=October 17, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=40}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=0}}
+|date=October 17, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=tkwUk1QdlY8&t=2239s&pp=0gcJCdcCDuyUWbzu
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Johnny|o2p1={{Chars|Marisa}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Tokido|o1p1={{Chars|Ken}}|score1=2
+|t2p1=2BASSA|o2p1={{Chars|Juri}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Terry}}|score1=3
+|t2p1=Yanai|o2p1={{Chars|Bison}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|TEAM iXA|score=30}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=20}}
+|date=October 17, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=tkwUk1QdlY8&t=6598s
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Momochi|o2p1={{Chars|Ed}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Adelie|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|Aki}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Acqua|o1p1={{Chars|Blanka}}|score1=2
+|t2p1=|o2p1={{Chars|}}|score2=
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe|score=30}}
+|opponent2={{TeamOpponent|VARREL|score=10}}
+|date=October 17, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=tkwUk1QdlY8&t=10470s&pp=0gcJCdcCDuyUWbzu
+|map1={{Map
+|t1p1=GO1|o1p1={{Chars|Chunli}}|score1=0
+|t2p1=Mizuha|o2p1={{Chars|Mai}}|score2=2
+|winner=1
+}}
+|map2={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|Jamie}}|score1=2
+|t2p1=Mago|o2p1={{Chars|Juri}}|score2=0
+|winner=2
+}}
+|map3={{Map
+|t1p1=Nauman|o1p1={{Chars|Ken}}|score1=3
+|t2p1=YHC-Mochi|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 6}}=====
+{{Matchlist |title=Week 6|id=sflj25Rs6f|collapsed=false|width=330px
+|M1header=October 24, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=10}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=30}}
+|date=October 24, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=5XW3FQITk8k&t=2304s
+|map1={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|Aki}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Daigo|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Leshar|o1p1={{Chars|Terry}}|score1=0
+|t2p1=Momochi|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=true}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|VARREL|score=10}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=30}}
+|date=October 24, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=5XW3FQITk8k&t=6230s
+|map1={{Map
+|t1p1=Ts|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Mago|o1p1={{Chars|Juri}}|score1=1
+|t2p1=2BASSA|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Mizuha|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Yanai|o2p1={{Chars|Bison}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe|score=0}}
+|opponent2={{TeamOpponent|TEAM iXA|score=40}}
+|date=October 24, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=5XW3FQITk8k&t=10468s
+|map1={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|Jamie}}|score1=1
+|t2p1=Adelie|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nauman|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Hibiki|o2p1={{Chars|Lily}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|Chunli}}|score1=1
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 7}}=====
+{{Matchlist |title=Week 7|id=sflj25Rs7f|collapsed=false|width=330px
+|M1header=November 4, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=10}}
+|date=November 4, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=Jy15HK_lTXA&t=2155s&pp=0gcJCdcCDuyUWbzu
+|map1={{Map
+|t1p1=Itabashi Zangief|o1p1={{Chars|Zangief}}|score1=1
+|t2p1=2BASSA|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nauman|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|Chunli}}|score1=3
+|t2p1=Johnny|o2p1={{Chars|Marisa}}|score2=2
+|winner=1
+}}
+|map4={{Map|skiped=true}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|TEAM iXA|score=0}}
+|opponent2={{TeamOpponent|REJECt|score=40}}
+|date=November 4, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=Jy15HK_lTXA&t=6070s
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=0
+|t2p1=Tokido|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Acqua|o1p1={{Chars|Blanka}}|score1=1
+|t2p1=Leshar|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=0
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+|map4={{Map|skiped=true}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=30}}
+|opponent2={{TeamOpponent|VARREL|score=10}}
+|date=November 4, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=Jy15HK_lTXA&t=9257s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=2
+|t2p1=YHC-Mochi|o2p1={{Chars|Dhalsim}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Hikaru|o1p1={{Chars|Blanka}}|score1=0
+|t2p1=Ts|o2p1={{Chars|Akuma}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Mago|o2p1={{Chars|Juri}}|score2=2
+|winner=1
+}}
+|map4={{Map|skiped=true}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 8}}=====
+{{Matchlist |title=Week 8|id=sflj25Rs8f|collapsed=false|width=330px
+|M1header=November 11, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|REJECT|score=40}}
+|opponent2={{TeamOpponent|VARREL|score=0}}
+|date=November 11, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=5PXj0uSYm6o&t=2177s
+|map1={{Map
+|t1p1=Tokido|o1p1={{Chars|Ken}}|score1=2
+|t2p1=ts|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Leshar|o1p1={{Chars|Terry}}|score1=2
+|t2p1=Mago|o2p1={{Chars|Juri}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Fuudo|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Mizuha|o2p1={{Chars|Mai}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=30}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe|score=10}}
+|date=November 11, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=5PXj0uSYm6o&t=5551s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=0
+|t2p1=GO1|o2p1={{Chars|Chunli}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hikaru|o1p1={{Chars|Aki}}|score1=2
+|t2p1=Itabashi Zangief|o2p1={{Chars|Zangief}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|Ed}}|score1=3
+|t2p1=John Takeuchi|o2p1={{Chars|Jamie}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|TEAM iXA|score=30}}
+|opponent2={{TeamOpponent|IBUSHIGIN|score=10}}
+|date=November 11, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=5PXj0uSYm6o&t=9415s
+|map1={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Johnny|o2p1={{Chars|Marisa}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hibiki|o1p1={{Chars|Lily}}|score1=2
+|t2p1=Yanai|o2p1={{Chars|Bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Adelie|o1p1={{Chars|Ed}}|score1=3
+|t2p1=Torimeshi|o2p1={{Chars|Dhalsim}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 9}}=====
+{{Matchlist |title=Week 9|id=sflj25Rs9f|collapsed=false|width=330px
+|M1header=November 18, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=10}}
+|opponent2={{TeamOpponent|ZETA DIVISION|score=30}}
+|date=November 18, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=3VYTkTWxuys&t=9702s
+|map1={{Map
+|t1p1=2BASSA|o1p1={{Chars|Juri}}|score1=1
+|t2p1=Momochi|o2p1={{Chars|Ed}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=Hikaru|o2p1={{Chars|Aki}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Yanai|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Higuchi|o2p1={{Chars|Guile}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=true}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|TEAM iXA|score=30}}
+|opponent2={{TeamOpponent|VARREl|score=10}}
+|date=November 18, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=3VYTkTWxuys&t=2178s
+|map1={{Map
+|t1p1=Acqua|o1p1={{Chars|Blanka}}|score1=0
+|t2p1=Mizuha|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Akira|o1p1={{Chars|Cammy}}|score1=2
+|t2p1=Mago|o2p1={{Chars|Juri}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Adelie|o1p1={{Chars|Ed}}|score1=3
+|t2p1=YHC-Mochi|o2p1={{Chars|Dhalsim}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=true}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|DetonatioN FocusMe|score=10}}
+|opponent2={{TeamOpponent|REJECT|score=30}}
+|date=November 18, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=3VYTkTWxuys&t=6103s
+|map1={{Map
+|t1p1=Nauman|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Tokido|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=John Takeuchi|o1p1={{Chars|Jamie}}|score1=2
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=GO1|o1p1={{Chars|Chunli}}|score1=1
+|t2p1=Daigo|o2p1={{Chars|Akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=true}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 10}}=====
+{{Matchlist |title=Week 10|id=sflj25Rs0f|collapsed=false|width=330px
+|M1header=November 25, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|VARREL|score=30}}
+|opponent2={{TeamOpponent|DetonatioN FocusMe|score=10}}
+|date=November 25, 2025
+|winner=1
+|vod=https://www.youtube.com/watch?v=hn17tmdaAzQ&t=2230s
+|map1={{Map
+|t1p1=YHC-Mochi|o1p1={{Chars|Dhalsim}}|score1=1
+|t2p1=GO1|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=ts|o1p1={{Chars|Akuma}}|score1=2
+|t2p1=Nauman|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Mizuha|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Itabashi Zangief|o2p1={{Chars|Marisa|Zangief}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|IBUSHIGIN|score=10}}
+|opponent2={{TeamOpponent|REJECT|score=30}}
+|date=November 25, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=hn17tmdaAzQ&t=6931s
+|map1={{Map
+|t1p1=2BASSA|o1p1={{Chars|Juri}}|score1=2
+|t2p1=Daigo|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Torimeshi|o1p1={{Chars|Dhalsim}}|score1=0
+|t2p1=Leshar|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Yanai|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Fuudo|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|ZETA DIVISION|score=0}}
+|opponent2={{TeamOpponent|TEAM iXA|score=40}}
+|date=November 25, 2025
+|winner=2
+|vod=https://www.youtube.com/watch?v=hn17tmdaAzQ&t=11628s
+|map1={{Map
+|t1p1=Higuchi|o1p1={{Chars|Guile}}|score1=1
+|t2p1=Hibiki|o2p1={{Chars|Lily}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Hikaru|o1p1={{Chars|Aki|Blanka}}|score1=1
+|t2p1=Akira|o2p1={{Chars|Cammy}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Momochi|o1p1={{Chars|Ed}}|score1=0
+|t2p1=Adelie|o2p1={{Chars|Ed}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|end|padding=2em}}
+{{tabs dynamic/end}}

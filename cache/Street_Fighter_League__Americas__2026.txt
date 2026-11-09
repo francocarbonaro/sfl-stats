@@ -1,0 +1,181 @@
+{{DISPLAYTITLE:Street Fighter League Pro-Americas 2026}}
+{{Street Fighter League Navbox}}
+{{Infobox league
+|name=Street Fighter League <br/>Pro-Americas 2026
+|series=Street Fighter League
+|liquipediatier=1
+|image=Street Fighter League Pro-Americas 2026 allmode.png
+|icon=Street Fighter League Pro-Americas 2026 allmode.png
+|organizer=Capcom
+|sponsor=
+|country=United States
+|city=Los Angeles, CA
+
+|game=sf6
+|sdate=2026-10-23
+|edate=2026-11-08
+
+|website=https://www.streetfighterleague.com/street-fighter-league-americas/
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+
+|prizepool=100,000
+|player_number=24
+|team_number=6
+
+|previous=Street Fighter League/United States/2025{{!}}SFL Pro-US 2025
+|next=
+}}
+{{tabs static 
+|name1=Overview |link1={{FULLPAGENAME}}
+|name2=Regular Season |link2={{FULLPAGENAME}}/Regular Season 
+|name3=Playoffs |link3={{FULLPAGENAME}}/Playoffs 
+}} 
+'''Street Fighter League Pro-Americas 2026''' ('''SFL Pro-Americas 2026''') is the 8th season of professional American ''Street Fighter'' team competition.
+
+==Format==
+*'''Game Format''' 
+**The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+**In each battle one team is the home team and the other the away team
+***The away team must declare the player order and character selection before the battle begins
+***The home team is able to choose the players and character selection as the battle progresses
+**Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:400px;text-align:center;font-size:88%;margin-left:45px"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || First to 2 || +10 PTS
+|-
+| 2nd Match || First to 2 || +10 PTS
+|-
+| 3rd Match || First to 3 || +20 PTS
+|-
+| Tie Breaker || First to 2 || +10 PTS
+|}
+
+*'''Regular Season'''
+** Double round-robin
+** Top 4 teams advance to the Playoffs
+
+*'''Playoffs'''
+** Quarterfinals and Semifinals are First to 50 points
+** Grand Finals is First to 70 points
+** Winner qualifies to the [[Street_Fighter_League/World_Championship/2026|Street Fighter League World Championship 2026]]
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=7|qualifies1=Street Fighter League/World Championship/2026|qualifies1name=SFL World Championship 2026
+|tournament1={{PAGENAME}}/Regular Season
+|tournament2={{PAGENAME}}/Playoffs
+|{{Slot|place=1|qualified1=yes|usdprize=60000}}
+|{{Slot|place=2|usdprize=30000}}
+|{{Slot|place=3|usdprize=10000}}
+|{{Slot|place=4}}
+|{{Slot|place=5}}
+|{{Slot|place=6}}
+}}
+
+==Results==
+===Regular Season===
+{{LPDB storage|false}}
+{{:Street Fighter League/Americas/2026/Regular Season}}{{LPDB storage|true}}
+<span style="line-height:24px;">&nbsp;''[[/Regular Season|↪ Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+===Playoffs===
+{{ShowBracket|id=q082RIav4g}}
+<span style="line-height:24px;">&nbsp;''[[/Playoffs|↪ Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamParticipants|showplayerinfo=true
+|{{Opponent|FlyQuest
+  |players={{Persons
+    |{{Person|Riddles|flag=|team=}}
+    |{{Person|Samurai|flag=|team=}}
+    |{{Person|JB|flag=|team=}}
+    |{{Person|Bloo|link=Bloo_(Bryan_Aburto)|flag=|team=}}
+  }}
+}}
+|{{Opponent|2Game Esports
+  |players={{Persons
+    |{{Person|Blaz|flag=|team=}}
+    |{{Person|Brayan_Job|flag=|team=}}
+    |{{Person|LUGABO|flag=|team=}}
+    |{{Person|shaka22|flag=|team=}}
+  }}
+}}
+|{{Opponent|Shopify Rebellion
+  |players={{Persons
+    |{{Person|NuckleDu|flag=|team=}}
+    |{{Person|Dual Kevin|flag=|team=}}
+    |{{Person|Punk|flag=|team=}}
+    |{{Person|Nephew|flag=|team=}}
+  }}
+}}
+|{{Opponent|Red Rooster Team
+  |players={{Persons
+    |{{Person|Crossover|flag=|team=}}
+    |{{Person|Craime|flag=|team=}}
+    |{{Person|Caba|flag=|team=}}
+    |{{Person|Uriel Velorio|flag=|team=}}
+  }}
+}}
+|{{Opponent|BAIT
+  |players={{Persons
+    |{{Person|ChrisCCH|flag=|team=}}
+    |{{Person|ChrisT|link=Chris_Tatarian|flag=|team=}}
+    |{{Person|JAK|link=Justakid|flag=|team=}}
+    |{{Person|iDom|flag=|team=}}
+  }}
+}}
+|{{Opponent|Bandits
+  |players={{Persons
+    |{{Person|Enzo|link=EnzoTheHokage|flag=|team=}}
+    |{{Person|NoahTheProdigy|flag=|team=}}
+    |{{Person|Booce_Lee|flag=|team=}}
+    |{{Person|Psycho|flag=|team=}}
+  }}
+}}
+}}
+
+==Additional Content==
+===Streams=== 
+{{Streams |lang1=usuk|lang2=esmx |twitch1=Capcomfighters |youtube1=c/CapcomFighters|twitch2=CapcomLATAM|youtube2=@CapcomLATAM|lang3=jp |twitch3=capcomfighters_jp |youtube3=c/CapcomFightersJP }}
+
+===Broadcast Talent===
+{{Tabs dynamic
+|name1=English
+|name2=Spanish
+|This=1
+|content1=
+{{box|start|padding=2em}}
+{{BroadcasterCard 
+|position=Host 
+|b1=RobTV
+}} 
+{{box|break|padding=2em}}
+{{BroadcasterCard 
+|position=Commentator|lang=usuk
+|b1=Sherryjenix
+|b2=Vicious
+|b3=Rynge
+|b4=Tasty Steve
+}} 
+{{box|end|padding=2em}}
+|content2=
+{{BroadcasterCard 
+|position=Commentator |lang=es
+|b1=DjOn6
+|b2=Lady_Ixel
+|b3=DanteLinkX
+|b4=Tristillo
+|b5=Rebelinsky
+|b6=JorgePo
+|b7=MonBatiliga
+}} 
+{{box|end|padding=2em}}
+}}
+
+==References==
+{{Reflist}}

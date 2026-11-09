@@ -1,0 +1,1121 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2025: {{SUBPAGENAME}}}}{{HDB|phase=1}}
+{{tabs static
+|name1=Overview |link1=Street Fighter League/United States/2025
+|name2=Regular Season |link2=Street Fighter League/United States/2025/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2025/Playoffs
+|This={{{This}}}
+}}
+==Results==
+{{box|start|padding=2em}}
+<onlyinclude>
+{{GroupStandings|title=SFL Pro-US 2025 Standings
+|bg=1=byeup, 2=seedup, 3-4=up, 5-7=down
+|tiebreakers={{Json|points|rounddiff}}
+|points=win=0, draw=0, loss=0, 40-0=40, 30-10=30, 30-20=30, 20-30=20, 10-30=10, 0-40=0
+
+|{{TeamOpponent|FlyQuest}}
+|{{TeamOpponent|Bandits}}
+|{{TeamOpponent|Shopify Rebellion}}
+|{{TeamOpponent|Red Rooster}}
+|{{TeamOpponent|2Game Esports}}
+|{{TeamOpponent|Team Falcons}}
+|{{TeamOpponent|KuaiShou Gaming}}
+
+<!-- Rounds -->
+|round1={{Round|title=Day 1|matchgroups=SFLUS25R11}}
+|round2={{Round|title=Day 2|matchgroups=SFLUS25R12}}
+|round3={{Round|title=Day 3|matchgroups=SFLUS25R13}}
+|round4={{Round|title=Day 4|matchgroups=SFLUS25R14}}
+|round5={{Round|title=Day 5|matchgroups=SFLUS25R21}}
+|round6={{Round|title=Day 6|matchgroups=SFLUS25R22}}
+|round7={{Round|title=Day 7|matchgroups=SFLUS25R23}}
+|round8={{Round|title=Day 8|matchgroups=SFLUS25R24}}
+}}
+</onlyinclude>
+{{box|break}}
+{{CrossTableLeague
+|tournament=Street Fighter League/United States/2025/Regular Season
+|team1=FlyQuest
+|team2=Bandits
+|team3=Shopify Rebellion
+|team4=Red Rooster
+|team5=2Game Esports
+|team6=Team Falcons
+|team7=KuaiShou Gaming
+|double=true
+}}
+{{box|break|padding=2em}}
+{{StandingsLegend
+|byeup=Seeded to Playoffs Grand Final
+|seedup=Seeded to Playoffs Semifinals
+|up=Seeded to Playoffs Quarterfinals
+|down=Eliminated
+<br/>
+'''Game''' = Points earned – points conceded<br/>'''RD''' = Battle differential (battles won – battles lost)
+}}
+{{box|end}}
+<br/>
+
+==Details==
+{{Toggle group start|state=hide}}
+===Round 1===
+{{box|start|padding=2em}}
+====={{HiddenSort|Day 1}}=====
+{{Matchlist |title=Day 1|id=SFLUS25R11|collapsed=false|width=320
+|M1header=November 13, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=10}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=November 13, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Psycho|o1p1={{Chars|kim}}|score1=0
+|t2p1=Booce|o2p1={{Chars|terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=1
+|t2p1=MenaRD|o2p1={{Chars|blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=40}}
+|opponent2={{TeamOpponent|KuaiShou Gaming|score=0}}
+|date=November 13, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|dee jay}}|score1=2
+|t2p1=micky|o2p1={{Chars|cammy|mai}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=JUNINHO-RAS|o1p1={{Chars|luke}}|score1=2
+|t2p1=Vxbao|o2p1={{Chars|bison|mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|Sagat}}|score1=3
+|t2p1=Xiaohai|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=10}}
+|opponent2={{TeamOpponent|Team Falcons|score=30}}
+|date=November 13, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Shine|o1p1={{Chars|kim}}|score1=1
+|t2p1=DCQ|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=NuckleDu|o1p1={{Chars|mai}}|score1=2
+|t2p1=Xian|o2p1={{Chars|dee jay}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=1
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|Red Rooster|score=10}}
+|date=November 13, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Booce|o1p1={{Chars|terry}}|score1=2
+|t2p1=Crossover|o2p1={{Chars|mai}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=ChrisT|o1p1={{Chars|ken}}|score1=0
+|t2p1=Chris Wong|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=3
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|KuaiShou Gaming|score=20}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=30}}
+|date=November 13, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|bison}}|score1=2
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Vxbao|o1p1={{Chars|mai}}|score1=2
+|t2p1=Shine|o2p1={{Chars|kim}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Xiaohai|o1p1={{Chars|mai}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|mai}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=micky|o1p1={{Chars|cammy}}|score1=1
+|t2p1=JAK|o2p1={{Chars|juri}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 2}}=====
+{{Matchlist |title=Day 2|id=SFLUS25R12|collapsed=false|width=320
+|M1header=November 14, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=0}}
+|opponent2={{TeamOpponent|2Game Esports|score=40}}
+|date=November 14, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=Brayan_Job|o2p1={{Chars|Dee Jay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Oil King|o1p1={{Chars|terry}}|score1=1
+|t2p1=JUNINHO-RAS|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=1
+|t2p1=Blaz|o2p1={{Chars|sagat}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=30}}
+|opponent2={{TeamOpponent|FlyQuest|score=20}}
+|date=November 14, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Shine|o1p1={{Chars|kim}}|score1=0
+|t2p1=Psycho|o2p1={{Chars|kim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=0
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=NuckleDu|o1p1={{Chars|mai}}|score1=3
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=JAK|o1p1={{Chars|juri}}|score1=2
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=1
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=30}}
+|opponent2={{TeamOpponent|KuaiShou Gaming|score=10}}
+|date=November 14, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Crossover|o1p1={{Chars|mai}}|score1=2
+|t2p1=Zhen|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Chris Wong|o1p1={{Chars|luke}}|score1=0
+|t2p1=Xiaohai|o2p1={{Chars|mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=3
+|t2p1=Vxbao|o2p1={{Chars|mai|ed}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|Team Falcons|score=20}}
+|date=November 14, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=2
+|t2p1=DCQ|o2p1={{Chars|jp|bison}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Booce|o1p1={{Chars|terry}}|score1=2
+|t2p1=Oil King|o2p1={{Chars|terry}}|score2= 0
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=2
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=ChrisT|o1p1={{Chars|ken}}|score1=2
+|t2p1=Xian|o2p1={{Chars|dee jay}}|score2=0
+|winner=1
+}}
+}}
+|M5={{Match
+|opponent2={{TeamOpponent|2Game Esports|score=20}}
+|opponent1={{TeamOpponent|FlyQuest|score=30}}
+|date=November 14, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Nephew|o1p1={{Chars|juri}}|score1=1
+|t2p1=shaka22|o2p1={{Chars|dhalsim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=1
+|t2p1=Brayan_Job|o2p1={{Chars|dee jay}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Psycho|o1p1={{Chars|kim}}|score1=3
+|t2p1=Blaz|o2p1={{Chars|sagat}}|score2=2
+|winner=1
+}}
+|map4={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=2
+|t2p1=JUNINHO-RAS|o2p1={{Chars|luke}}|score2=1
+|winner=1
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 3}}=====
+{{Matchlist |title=Day 3|id=SFLUS25R13|collapsed=false|width=320
+|M1header=November 15, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=10}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=30}}
+|date=November 15, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Chris Wong|o1p1={{Chars|luke}}|score1=2
+|t2p1=JAK|o2p1={{Chars|juri}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Crossover|o1p1={{Chars|bison}}|score1=0
+|t2p1=Dual Kevin|o2p1={{Chars|rashid}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=0
+|t2p1=NuckleDu|o2p1={{Chars|mai}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Bandits|score=40}}
+|opponent2={{TeamOpponent|2Game Esports|score=0}}
+|date=November 15, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Booce|o1p1={{Chars|terry}}|score1=2
+|t2p1=shaka22|o2p1={{Chars|dhalsim}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=2
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=3
+|t2p1=Blaz|o2p1={{Chars|sagat}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|KuaiShou Gaming|score=10}}
+|opponent2={{TeamOpponent|FlyQuest|score=30}}
+|date=November 15, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Vxbao|o1p1={{Chars|mai}}|score1=0
+|t2p1=Psycho|o2p1={{Chars|kim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Zhen|o1p1={{Chars|bison}}|score1=2
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Xiaohai|o1p1={{Chars|mai}}|score1=1
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=20}}
+|opponent2={{TeamOpponent|Red Rooster|score=30}}
+|date=November 15, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Oil King|o1p1={{Chars|terry}}|score1=1
+|t2p1=Mono|o2p1={{Chars|aki}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=DCQ|o1p1={{Chars|jp}}|score1=0
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=3
+|t2p1=Chris Wong|o2p1={{Chars|luke}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Xian|o1p1={{Chars|dee jay}}|score1=1
+|t2p1=Crossover|o2p1={{Chars|mai}}|score2=2
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=10}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=November 15, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Shine|o1p1={{Chars|chun}}|score1=1
+|t2p1=Booce|o2p1={{Chars|terry}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nuckledu|o1p1={{Chars|mai}}|score1=2
+|t2p1=Caba|o2p1={{Chars|guile}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|Rashid}}|score1=1
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 4}}=====
+{{Matchlist |title=Day 4|id=SFLUS25R14|collapsed=false|width=320
+|M1header=November 16, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=40}}
+|opponent2={{TeamOpponent|Red Rooster|score=0}}
+|date=November 16, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=JUNINHO-RAS|o1p1={{Chars|luke}}|score1=2
+|t2p1=Mono|o2p1={{Chars|aki}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=shaka22|o1p1={{Chars|dhalsim}}|score1=2
+|t2p1=Chris Wong|o2p1={{Chars|luke}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|sagat}}|score1=3
+|t2p1=Crossover|o2p1={{Chars|mai}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=30}}
+|opponent2={{TeamOpponent|Team Falcons|score=20}}
+|date=November 16, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Nephew|o1p1={{Chars|juri}}|score1=1
+|t2p1=Xian|o2p1={{Chars|dee jay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Psycho|o1p1={{Chars|kim}}|score1=0
+|t2p1=DCQ|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|viper}}|score1=3
+|t2p1=NL|o2p1={{Chars|akuma}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=2
+|t2p1=Oil King|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|KuaiShou Gaming|score=20}}
+|date=November 16, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Caba|o1p1={{Chars|guile}}|score1=0
+|t2p1=Zhen|o2p1={{Chars|dee jay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Booce|o1p1={{Chars|terry}}|score1=0
+|t2p1=micky|o2p1={{Chars|mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|blanka}}|score1=3
+|t2p1=Xiaohai|o2p1={{Chars|mai}}|score2=0
+|winner=1
+}}
+|map4={{Map
+|t1p1=ChrisT|o1p1={{Chars|ken}}|score1=2
+|t2p1=Vxbao|o2p1={{Chars|ed}}|score2=1
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=0}}
+|opponent2={{TeamOpponent|FlyQuest|score=40}}
+|date=November 16, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Craime|o1p1={{Chars|ryu}}|score1=1
+|t2p1=Riddles|o2p1={{Chars|terry}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Chris Wong|o1p1={{Chars|luke}}|score1=1
+|t2p1=Nephew|o2p1={{Chars|juri}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Crossover|o1p1={{Chars|mai}}|score1=0
+|t2p1=Punk|o2p1={{Chars|cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=30}}
+|opponent2={{TeamOpponent|2Game Esports|score=10}}
+|date=November 16, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|mai}}|score1=2
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Shine|o1p1={{Chars|kim}}|score1=1
+|t2p1=JUNINHO-RAS|o2p1={{Chars|luke}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|rashid}}|score1=3
+|t2p1=Blaz|o2p1={{Chars|Sagat}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|KuaiShou Gaming|score=30}}
+|opponent2={{TeamOpponent|Team Falcons|score=20}}
+|date=November 16, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=micky|o1p1={{Chars|mai}}|score1=1
+|t2p1=Xian|o2p1={{Chars|deejay}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Zhen|o1p1={{Chars|bison}}|score1=1
+|t2p1=DCQ|o2p1={{Chars|bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Xiaohai|o1p1={{Chars|mai}}|score1=3
+|t2p1=NL|o2p1={{Chars|Akuma}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Vxbao|o1p1={{Chars|mai}}|score1=2
+|t2p1=Oil King|o2p1={{Chars|terry}}|score2=0
+|winner=1
+}}
+}}
+}}
+{{box|end}}
+
+===Round 2===
+{{box|start|padding=2em}}
+====={{HiddenSort|Day 5}}=====
+{{Matchlist |title=Day 5|id=SFLUS25R21|collapsed=false|width=320
+|M1header=December 3, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Bandits|score=30}}
+|opponent2={{TeamOpponent|FlyQuest|score=10}}
+|date=December 3, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Booce|o1p1={{Chars|Terry}}|score1=0
+|t2p1=Psycho|o2p1={{Chars|Kim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Caba|o1p1={{Chars|Guile}}|score1=2
+|t2p1=Nephew|o2p1={{Chars|Juri}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|Blanka}}|score1=3
+|t2p1=Punk|o2p1={{Chars|Cammy|Akuma}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|KuaiShou Gaming|score=40}}
+|opponent2={{TeamOpponent|2Game Esports|score=0}}
+|date=December 3, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Brayan_Job|o2p1={{Chars|Deejay}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Vxbao|o1p1={{Chars|Bison}}|score1=2
+|t2p1=shaka22|o2p1={{Chars|Dhalsim}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Xiaohai|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Blaz|o2p1={{Chars|Sagat}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=10}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=30}}
+|date=December 3, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|Dee Jay}}|score1=1
+|t2p1=JAK|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=DCQ|o1p1={{Chars|Bison}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|Mai}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Dual Kevin|o2p1={{Chars|Rashid}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=20}}
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|date=December 3, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Caba|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Craime|o1p1={{Chars|Ryu}}|score1=2
+|t2p1=Booce|o2p1={{Chars|Terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Crossover|o1p1={{Chars|Mai}}|score1=1
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=Mono|o1p1={{Chars|Aki}}|score1=0
+|t2p1=ChrisT|o2p1={{Chars|Ken}}|score2=2
+|winner=2
+}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|Shopify Rebellion|score=10}}
+|opponent2={{TeamOpponent|KuaiShou Gaming|score=30}}
+|date=December 3, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=JAK|o1p1={{Chars|Juri}}|score1=0
+|t2p1=Zhen|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|Rashid}}|score1=2
+|t2p1=Micky|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=NuckleDu|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Xiaohai|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 6}}=====
+{{Matchlist |title=Day 6|id=SFLUS25R22|collapsed=false|width=320
+|M1header=December 4, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=40}}
+|opponent2={{TeamOpponent|Team Falcons|score=0}}
+|date=December 4, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|Dee Jay}}|score1=2
+|t2p1=Oil King|o2p1={{Chars|Terry}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=JUNINHO-RAS|o1p1={{Chars|Luke}}|score1=2
+|t2p1=DCQ|o2p1={{Chars|Bison}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|Sagat}}|score1=3
+|t2p1=NL|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=30}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=10}}
+|date=December 4, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Riddles|o1p1={{Chars|Terry}}|score1=1
+|t2p1=JAK|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Nephew|o1p1={{Chars|Juri}}|score1=2
+|t2p1=Dual Kevin|o2p1={{Chars|Rashid}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|cammy}}|score1=3
+|t2p1=NuckleDu|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|KuaiShou Gaming|score=40}}
+|opponent2={{TeamOpponent|Red Rooster|score=0}}
+|date=December 4, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=2
+|t2p1=Mono|o2p1={{Chars|aki}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Vxbao|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Crossover|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=Xiaohai|o1p1={{Chars|Mai}}|score1=3
+|t2p1=Craime|o2p1={{Chars|Ryu}}|score2=0
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M4={{Match
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|opponent1={{TeamOpponent|Team Falcons|score=10}}
+|date=December 4, 2025
+|winner=
+|vod=
+|map1={{Map
+|t1p1=Xian|o1p1={{Chars|Dee Jay}}|score1=2
+|t2p1=Caba|o2p1={{Chars|Guile}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=DCQ|o1p1={{Chars|JP}}|score1=0
+|t2p1=Booce|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|Akuma}}|score1=0
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=40}}
+|opponent2={{TeamOpponent|FlyQuest|score=0}}
+|date=December 4, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=JUNINHO-RAS|o1p1={{Chars|Luke}}|score1=2
+|t2p1=Punk|o2p1={{Chars|Cammy}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|Dee Jay}}|score1=2
+|t2p1=Riddles|o2p1={{Chars|Terry}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|Sagat}}|score1=3
+|t2p1=Psycho|o2p1={{Chars|kim}}|score2=2
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 7}}=====
+{{Matchlist |title=Day 7|id=SFLUS25R23|collapsed=false|width=320
+|M1header=December 5, 2025
+|M1={{Match
+|opponent2={{TeamOpponent|Red Rooster|score=30}}
+|opponent1={{TeamOpponent|Shopify Rebellion|score=10}}
+|date=December 5, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=NuckleDu|o1p1={{Chars|Mai}}|score1=2
+|t2p1=Craime|o2p1={{Chars|Ryu}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=JAK|o1p1={{Chars|Juri}}|score1=1
+|t2p1=Crossover|o2p1={{Chars|Mai}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Dual Kevin|o1p1={{Chars|Rashid}}|score1=1
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent2={{TeamOpponent|Bandits|score=30}}
+|opponent1={{TeamOpponent|2Game Esports|score=10}}
+|date=December 5, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Blaz|o1p1={{Chars|Sagat}}|score1=2
+|t2p1=Caba|o2p1={{Chars|Guile}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|Dee Jay}}|score1=0
+|t2p1=Booce|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=JUNINHO-RAS|o1p1={{Chars|Luke}}|score1=0
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=0}}
+|opponent2={{TeamOpponent|KuaiShou Gaming|score=40}}
+|date=December 5, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Nephew|o1p1={{Chars|Juri}}|score1=1
+|t2p1=Zhen|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Psycho|o1p1={{Chars|Kimberly}}|score1=0
+|t2p1=Vxbao|o2p1={{Chars|Bison}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Punk|o1p1={{Chars|Cammy}}|score1=1
+|t2p1=Xiaohai|o2p1={{Chars|Mai}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M4={{Match
+|opponent2={{TeamOpponent|Team Falcons|score=30}}
+|opponent1={{TeamOpponent|Red Rooster|score=10}}
+|date=December 5, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Crossover|o1p1={{Chars|Mai}}|score1=2
+|t2p1=NL|o2p1={{Chars|Akuma}}|score2=0
+|winner=1
+}}
+|map2={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=1
+|t2p1=Xian|o2p1={{Chars|Dee Jay}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Craime|o1p1={{Chars|Ryu}}|score1=0
+|t2p1=DCQ|o2p1={{Chars|Bison}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M5={{Match
+|opponent2={{TeamOpponent|Shopify Rebellion|score=0}}
+|opponent1={{TeamOpponent|Bandits|score=40}}
+|date=December 5, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Caba|o1p1={{Chars|Guile}}|score1=2
+|t2p1=JAK|o2p1={{Chars|Juri}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Booce|o1p1={{Chars|Terry}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|Mai}}|score2=1
+|winner=1
+}}
+|map3={{Map
+|t1p1=MenaRD|o1p1={{Chars|Blanka}}|score1=3
+|t2p1=Dual Kevin|o2p1={{Chars|Rashid}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Day 8}}=====
+{{Matchlist |title=Day 8|id=SFLUS25R24|collapsed=false|width=320
+|M1header=December 6, 2025
+|M1={{Match
+|opponent1={{TeamOpponent|Red Rooster|score=10}}
+|opponent2={{TeamOpponent|2Game Esports|score=30}}
+|date=December 6, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Mono|o1p1={{Chars|Aki}}|score1=2
+|t2p1=shaka22|o2p1={{Chars|Dhalsim}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=CrossoverRD|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Brayan_Job|o2p1={{Chars|Deejay}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Chris Wong|o1p1={{Chars|Luke}}|score1=1
+|t2p1=Blaz|o2p1={{Chars|Sagat}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M2={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=0}}
+|opponent2={{TeamOpponent|FlyQuest|score=40}}
+|date=December 6, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=NL|o1p1={{Chars|Akuma}}|score1=1
+|t2p1=Riddles|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Xian|o1p1={{Chars|Deejay}}|score1=1
+|t2p1=Nephew|o2p1={{Chars|Juri}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=DCQ|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Punk|o2p1={{Chars|Cammy}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M3={{Match
+|opponent1={{TeamOpponent|KuaiShou Gaming|score=30}}
+|opponent2={{TeamOpponent|Bandits|score=20}}
+|date=December 6, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Zhen|o1p1={{Chars|Bison}}|score1=1
+|t2p1=Caba|o2p1={{Chars|Guile}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Micky|o1p1={{Chars|Mai}}|score1=0
+|t2p1=Booce|o2p1={{Chars|Terry}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Xiaohai|o1p1={{Chars|Mai}}|score1=3
+|t2p1=MenaRD|o2p1={{Chars|Blanka}}|score2=1
+|winner=1
+}}
+|map4={{Map
+|t1p1=Vxbao|o1p1={{Chars|Mai}}|score1=2
+|t2p1=ChrisT|o2p1={{Chars|Ken}}|score2=0
+|winner=1
+}}
+}}
+|M4={{Match
+|opponent1={{TeamOpponent|FlyQuest|score=0}}
+|opponent2={{TeamOpponent|Red Rooster|score=40}}
+|date=December 6, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Punk|o1p1={{Chars|Viper}}|score1=0
+|t2p1=Chris Wong|o2p1={{Chars|Luke}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=Riddles|o1p1={{Chars|terry}}|score1=0
+|t2p1=Craime|o2p1={{Chars|ryu}}|score2=2
+|winner=2
+}}
+|map3={{Map
+|t1p1=Nephew|o1p1={{Chars|Juri}}|score1=2
+|t2p1=CrossoverRD|o2p1={{Chars|Mai|Bison}}|score2=3
+|winner=2
+}}
+|map4={{Map|finished=skip}}
+}}
+|M5={{Match
+|opponent1={{TeamOpponent|2Game Esports|score=30}}
+|opponent2={{TeamOpponent|Shopify Rebellion|score=10}}
+|date=December 6, 2025
+|winner=1
+|vod=
+|map1={{Map
+|t1p1=Brayan_Job|o1p1={{Chars|Deejay}}|score1=0
+|t2p1=Shine|o2p1={{Chars|kim}}|score2=2
+|winner=2
+}}
+|map2={{Map
+|t1p1=shaka22|o1p1={{Chars|Dhalsim}}|score1=2
+|t2p1=NuckleDu|o2p1={{Chars|mai|cammy}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=Blaz|o1p1={{Chars|Sagat}}|score1=3
+|t2p1=Dual Kevin|o2p1={{Chars|Rashid}}|score2=1
+|winner=1
+}}
+|map4={{Map|finished=skip}}
+}}
+|M6={{Match
+|opponent1={{TeamOpponent|Team Falcons|score=20}}
+|opponent2={{TeamOpponent|KuaiShou Gaming|score=30}}
+|date=December 6, 2025
+|winner=2
+|vod=
+|map1={{Map
+|t1p1=Oil King|o1p1={{Chars|terry}}|score1=2
+|t2p1=Zhen|o2p1={{Chars|bison}}|score2=1
+|winner=1
+}}
+|map2={{Map
+|t1p1=Xian|o1p1={{Chars|deejay}}|score1=2
+|t2p1=Vxbao|o2p1={{Chars|mai|bison}}|score2=0
+|winner=1
+}}
+|map3={{Map
+|t1p1=NL|o1p1={{Chars|akuma}}|score1=1
+|t2p1=Xiaohai|o2p1={{Chars|mai}}|score2=3
+|winner=2
+}}
+|map4={{Map
+|t1p1=DCQ|o1p1={{Chars|bison}}|score1=1
+|t2p1=Micky|o2p1={{Chars|mai|cammy}}|score2=2
+|winner=2
+}}
+}}
+}}
+{{box|end}}

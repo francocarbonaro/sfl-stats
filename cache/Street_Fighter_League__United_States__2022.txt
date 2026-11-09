@@ -1,0 +1,167 @@
+{{DISPLAYTITLE:Street Fighter League Pro-US 2022}}
+{{Street Fighter League Navbox}}
+{{Tabs static
+|name1=Overview |link1=Street Fighter League/United States/2022
+|name2=Regular Season |link2=Street Fighter League/United States/2022/Regular Season
+|name3=Playoffs |link3=Street Fighter League/United States/2022/Playoffs
+|This={{{This}}}
+}}
+{{Infobox league
+|name=Street Fighter League Pro-US 2022
+|series=Street Fighter League
+|abbrevation=SFL US Season 5
+|liquipediatier=1
+|image=Street Fighter League US 2022 Logo.png
+|icon=Street Fighter League US 2022 Logo.png
+|organizer=Capcom
+|sponsor=
+|country=United States
+|state=
+|venue=
+
+|game=sfv
+|version=Champion Edition
+|sdate=2022-10-10
+|edate=2023-02-03
+|format=
+
+|website=https://streetfighterleague.com/
+|prizepool=75,000
+|facebook=CapcomFighters
+|twitter=CapcomFighters
+|twitch=CapcomFighters
+|youtube=c/CapcomFighters
+|smashgg=
+|bracket=
+|rulebook=
+|player_number=24
+|team_number=6
+|previous=Street Fighter League/United States/2021{{!}}SFL Pro-US Season 4
+|next=Street Fighter League/United States/2023{{!}}SFL Pro-US 2023
+}}
+
+==Information==
+===Format===
+*The league is made of 6 teams of 4 players, where 3 of the 4 players are selected each week to participate in team battles
+*In each battle one team is the home team and the other the away team
+**The away team must declare the player order and character selection before the battle begins
+**The home team is able to choose the players and character selection as the battle progresses
+
+*Battles consist of consecutive matches with each being scored with the following format:
+
+{| class="wikitable" style="width:500px;text-align:center;"
+! Matches 
+! Games
+! Points
+|-
+| 1st Match || {{Abbr/Bo3}} || +10 PTS
+|-
+| 2nd Match || {{Abbr/Bo3}} || +10 PTS
+|-
+| 3rd Match || {{Abbr/Bo5}} || +20 PTS
+|-
+| Tie Breaker || {{Abbr/Bo1}} || +5 PTS
+|}
+
+*Top 4 teams advance to the Playoffs
+
+====Playoffs====
+*Head-to-head team matchups determined based on each team's Regular Season placements
+*Grand Finals is a {{Abbr/Bo3}}
+*Winner qualifies to the [[Street_Fighter_League/World_Championship/2022|Street Fighter League World Championship 2022]]
+
+===Broadcast Talent===
+{{broadcasterCard
+|position=Commentator
+|b1=Vicious
+|b2=Tasty Steve
+|b3=RobTV
+}}
+
+==Prize Pool==
+{{TeamPrizePool|cutafter=6
+|qualifies1=Street Fighter League/World Championship/2022|qualifies1name=SFL World Championship 2022
+|tournament1=Street Fighter League/United States/2022/Playoffs
+|{{Slot|place=1|qualified1=yes|usdprize=60,000}}
+|{{Slot|place=2|usdprize=15,000}}
+|{{Slot|place=3-4|usdprize=0}}
+|{{Slot|place=5|usdprize=0|{{Opponent|Red Rooster Team|wdl=3/7}}}}
+|{{Slot|place=6|usdprize=0|{{Opponent|Panda|wdl=3/7}}}}
+}}
+
+==Results==
+===Regular Season===
+{{:Street Fighter League/United States/2022/Regular Season}}
+<br/>
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/United States/2022/Regular Season|Click here for detailed information about the '''Regular Season''' matches.]]''</span>
+===Playoffs===
+{{ShowBracket|id=L2S2h8RPUD}}
+*<span style="line-height:24px;">&nbsp;''[[Street Fighter League/United States/2022/Playoffs|Click here for detailed information about the '''Playoffs''' matches.]]''</span>
+
+==Participants==
+{{TeamParticipants|showplayerinfo=true
+|{{Opponent|Counter Logic Gaming
+  |players={{Persons
+    |{{Person|ChrisCCH|flag=us|team=TSM}}
+    |{{Person|Justakid|flag=us|team=easternmediagg}}
+    |{{Person|Filipinoman|flag=us|team=}}
+    |{{Person|Samurai|flag=us|team=}}
+  }}
+}}
+|{{Opponent|Endemic
+  |players={{Persons
+    |{{Person|Shine|link=Shine (Sean Simpson)|flag=us|team=endemic esports}}
+    |{{Person|IDom|flag=us|team=xset}}
+    |{{Person|Nuckledu|flag=us|team=}}
+    |{{Person|GamerBee|flag=tw|team=}}
+  }}
+}}
+|{{Opponent|NASR X Bandits
+  |players={{Persons
+    |{{Person|MenaRD|flag=do|team=bandits}}
+    |{{Person|Caba|flag=do|team=bandits}}
+    |{{Person|AngryBird|flag=ae|team=nasr esports}}
+    |{{Person|Big Bird|flag=ae|team=nasr esports}}
+  }}
+}}
+|{{Opponent|Panda
+  |players={{Persons
+    |{{Person|Punk|flag=us|team=Panda}}
+    |{{Person|Nephew|flag=us|team=}}
+    |{{Person|JB|flag=us|team=}}
+    |{{Person|Kami|flag=us|team=uyu}}
+  }}
+}}
+|{{Opponent|Red Rooster
+  |players={{Persons
+    |{{Person|Mono|flag=pr|team=red rooster team}}
+    |{{Person|Ajax Fidelity|flag=pr|team=red rooster team}}
+    |{{Person|HotDog29|flag=hk|team=talon esports}}
+    |{{Person|Smug|flag=us|team=}}
+  }}
+}}
+|{{Opponent|UYU
+  |players={{Persons
+    |{{Person|Oil King|flag=tw|team=UYU}}
+    |{{Person|DCQ|flag=cn|team=UYU}}
+    |{{Person|NL|flag=kr|team=UYU}}
+    |{{Person|Xian|flag=sg|team=team razer}}
+  }}
+}}
+}}
+
+==Additional Content==
+===Videos=== 
+* {{ExternalMediaLink 
+|date=2022-08-06
+|link=https://www.youtube.com/watch?v=1WY2G9KONh0
+|title=Street Fighter League - Season 5 Teaser 
+|by=Capcom Fighters
+|of=
+}}
+
+===View Games=== 
+{{Streams |lang1=usuk |twitch1=capcomfighters |youtube1=c/CapcomFighters }} 
+
+==References==
+{{Reflist}}
