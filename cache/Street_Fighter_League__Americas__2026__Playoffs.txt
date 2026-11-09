@@ -118,25 +118,25 @@
 ===Grand Finals===
 {{Matchlist|id=SFLUS26PGF|width=450px|collapsed=false
 |M1={{Match
-|opponent1={{TeamOpponent|Bandits|score=}}
-|opponent2={{TeamOpponent|2Game Esports|score=}}
+|opponent1={{TeamOpponent|Bandits|score=10}}
+|opponent2={{TeamOpponent|2Game Esports|score=30}}
 |date=
 |winner=
-|vod=
+|vod=2
 |map1={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=Psycho|o1p1={{Chars|kimberly}}|score1=0
+|t2p1=Blaz|o2p1={{Chars|jamie}}|score2=2
+|winner=2
 }}
 |map2={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=Enzo|o1p1={{Chars|sagat}}|score1=2
+|t2p1=LUGABO|o2p1={{Chars|kimberly}}|score2=0
+|winner=1
 }}
 |map3={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=Booce_Lee|o1p1={{Chars|terry}}|score1=1
+|t2p1=Brayan_Job|o2p1={{Chars|deejay}}|score2=3
+|winner=2
 }}
 }}
 |M2={{Match
