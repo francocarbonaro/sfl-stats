@@ -208,6 +208,22 @@ def format_points(overview):
     return pts
 
 
+def series_targets(overview):
+    """Points needed to win a playoff series, per round, from the format section."""
+    t = {}
+    m = re.search(r"Quarterfinals and Semifinals are First to (\d+) points", overview)
+    if m:
+        t["Quarterfinals"] = t["Semifinals"] = int(m.group(1))
+    m = re.search(r"All matches are First to (\d+) points", overview)   # Japan division playoffs
+    if m:
+        t.setdefault("Quarterfinals", int(m.group(1)))
+        t.setdefault("Semifinals", int(m.group(1)))
+    m = re.search(r"Grand Finals is First to (\d+) points", overview)
+    if m:
+        t["Grand Finals"] = int(m.group(1))
+    return t
+
+
 def rosters(overview):
     out = {}
     for m in re.finditer(r"\{\{Opponent\|([^\n]*)\n\s*\|players=\{\{Persons(.*?)\n\s*\}\}", overview, re.S):
@@ -373,7 +389,7 @@ def build_season(cfg, refresh):
         "divisions": {d: sorted(ts) for d, ts in divs.items()},
         "phases": [p for p in dict.fromkeys(ph for _, st, ph in pages if st == "Regular Season") if p],
         "source": "https://liquipedia.net/fighters/" + path,
-        "points": points, "teams": teams,
+        "points": points, "teams": teams, "targets": series_targets(overview),
         "rosters": {t: [p for p, _ in ps] for t, ps in roster.items()},
         "links": {p: l for ps in roster.values() for p, l in ps if l},
         "battles": battles, "bracket": bracket, "champion": champion,

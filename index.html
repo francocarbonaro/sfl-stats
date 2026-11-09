@@ -419,17 +419,44 @@ function viewStandings(S) {
       <div class="scroll">${x.cross}</div></div>`).join("");
 }
 
+// A playoff series is several battles; points add up until a team reaches the target
+// (e.g. first to 50, Grand Final first to 70). One row per battle plus a running total.
+function seriesBattlesOf(s, br) {
+  return s.battles.filter(b => b.stage === "Playoffs" && b.round === br.round && br.t.every(t => !t || b.t.includes(t)));
+}
+function seriesCard(s, br, withRound) {
+  const bs = seriesBattlesOf(s, br);
+  const side = (b, i) => { const k = b.t.indexOf(br.t[i]); return k < 0 ? 0 : b.score[k]; };
+  const total = [0, 1].map(i => bs.reduce((a, b) => a + side(b, i), 0));
+  // Liquipedia's listed series score wins when present; tiny numbers mean battles won (2022 format).
+  const listed = br.score && br.score.every(x => x != null) ? br.score : null;
+  const byBattles = listed && Math.max(...listed) <= 5;
+  const target = byBattles ? null : s.targets?.[br.round];
+  const shown = listed && !byBattles ? listed : total;
+  const cell = (v, win) => `<td class="n" style="${win ? "font-weight:650" : ""}">${v}</td>`;
+  const rows = bs.map((b, n) => {
+    const a = side(b, 0), c = side(b, 1);
+    return `<tr><td class="muted">Battle ${n + 1}</td>${cell(a, a > c)}${cell(c, c > a)}</tr>`;
+  }).join("");
+  let status;
+  if (br.w != null) status = `${esc(br.t[br.w])} won the series${byBattles ? ` ${listed[br.w]}-${listed[1 - br.w]} in battles` : ""}`;
+  else if (target && bs.length) {
+    const lead = shown[0] === shown[1] ? null : shown[0] > shown[1] ? 0 : 1;
+    status = lead == null ? `Level at ${shown[0]}` : `${esc(br.t[lead])} leads, needs ${Math.max(0, target - shown[lead])} more`;
+  } else status = bs.length ? "In progress" : "Not played yet";
+  const head = i => `<th class="n" style="white-space:normal;text-transform:none;letter-spacing:0;font-size:12.5px">${br.w === i ? "🏆 " : ""}${tLink(br.t[i], s.id)}</th>`;
+  return `<div class="battle">
+    ${withRound ? `<div class="muted" style="font-size:12px;margin-bottom:4px">${esc(br.round)}</div>` : ""}
+    <table style="font-size:13px"><thead><tr><th style="text-transform:none;letter-spacing:0">${target ? `First to ${target}` : ""}</th>${head(0)}${head(1)}</tr></thead>
+    <tbody>${rows}
+      <tr style="border-top:2px solid var(--border)"><td><b>Total</b></td>${cell(`<b>${shown[0]}</b>`, br.w === 0)}${cell(`<b>${shown[1]}</b>`, br.w === 1)}</tr></tbody></table>
+    <div class="muted" style="font-size:12px;margin-top:6px">${status}</div>
+    ${bs.length ? `<details style="margin-top:6px"><summary class="note" style="cursor:pointer">Show games</summary>${bs.map(battleCard).join("")}</details>` : ""}</div>`;
+}
+
 function viewPlayoffs(S) {
   const s = SEASON[season];
   const poBattles = s.battles.filter(b => b.stage === "Playoffs");
-  const seriesBattles = br => poBattles.filter(b => b.round === br.round && br.t.every(t => !t || b.t.includes(t)));
-  // Series score: Liquipedia's listed total when given; small numbers are battle wins (2022 format).
-  const seriesScore = br => {
-    const bs = seriesBattles(br);
-    if (br.score && br.score.every(x => x != null)) return { sc: br.score, unit: Math.max(...br.score) <= 5 ? "battles" : "pts" };
-    if (!bs.length) return null;
-    return { sc: br.t.map(t => bs.reduce((a, b) => a + (b.t.indexOf(t) >= 0 ? b.score[b.t.indexOf(t)] : 0), 0)), unit: "pts" };
-  };
   const series = {};   // team → [won, lost]
   s.bracket.forEach(br => br.t.forEach((t, i) => { if (!t || br.w == null) return; (series[t] ??= [0, 0])[br.w === i ? 0 : 1]++; }));
   const poPts = {};
@@ -446,19 +473,12 @@ function viewPlayoffs(S) {
       <td class="n">${ordinal(r.rsRank)} <span class="muted">· ${r.pf} pts</span></td></tr>`).join("");
 
   const rounds = [...new Set(s.bracket.map(b => b.round))].sort((a, b) => (ROUND_ORDER[a] || 0) - (ROUND_ORDER[b] || 0));
-  const bracketHtml = rounds.map(r => `<div><h3 class="sec" style="margin-top:6px">${esc(r)}</h3>${s.bracket.filter(b => b.round === r).map(br => {
-      const ss = seriesScore(br), bs = seriesBattles(br);
-      const side = i => `<div style="display:flex;justify-content:space-between;gap:10px;padding:3px 0;${br.w === i ? "font-weight:650" : br.w != null ? "color:var(--text-muted)" : ""}">
-          <span>${br.w === i ? "🏆 " : ""}${tLink(br.t[i])}</span><span>${ss ? ss.sc[i] : "–"}</span></div>`;
-      return `<div class="battle">${side(0)}${side(1)}
-        <div class="muted" style="font-size:12px;margin-top:4px">${br.w == null ? "Not decided yet" : `${esc(br.t[br.w])} won the series`}${ss ? ` · ${ss.unit === "battles" ? "battles won" : "series points"}` : ""}${bs.length ? ` · ${bs.length} battle${bs.length > 1 ? "s" : ""}` : ""}</div>
-        ${bs.length ? `<details style="margin-top:6px"><summary class="note" style="cursor:pointer">Show games</summary>${bs.map(battleCard).join("")}</details>` : ""}</div>`;
-    }).join("")}</div>`).join("");
+  const bracketHtml = rounds.map(r => `<div><h3 class="sec" style="margin-top:6px">${esc(r)}</h3>${s.bracket.filter(b => b.round === r).map(br => seriesCard(s, br)).join("")}</div>`).join("");
 
   return `<div class="card"><h2>${esc(s.name)} final standings${gameBadge(season)}</h2>
     <p class="sub">${s.champion ? `Champion: <b>${esc(s.champion)}</b>. ` : "Playoffs still in progress. "}Ranked by how far each team went in the playoffs, then by regular-season finish. Playoff points aren't used for ranking: teams that play more rounds simply rack up more.</p>
     <div class="scroll"><table><thead><tr><th>Place</th><th>Team</th><th>Playoff result</th><th class="n" title="Playoff series won-lost">Series</th><th class="n">Battles</th><th class="n" title="Points scored-conceded in playoff battles">Playoff pts</th><th class="n">Regular season</th></tr></thead><tbody>${rows}</tbody></table></div></div>
-    <div class="card"><h2>Bracket</h2><p class="sub">Each series is played as several battles until one team reaches the target score. Click "Show games" for the sets.</p>
+    <div class="card"><h2>Bracket</h2><p class="sub">Each series is several battles; points add up until one team reaches the target. Click "Show games" for the sets.</p>
     <div class="grid2">${bracketHtml || `<p class="muted">No playoff bracket yet.</p>`}</div></div>`;
 }
 
@@ -704,8 +724,18 @@ function viewMatches(S) {
   if (!S.bs.length) return empty;
   const groups = {};
   S.bs.forEach(b => (groups[(isAll() ? SEASON[b.sid].name + " · " : "") + (b.div ? b.div + " · " : "") + b.round] ??= []).push(b));
-  return Object.entries(groups).map(([r, bs]) => `<h3 class="sec">${esc(r)} <span class="muted" style="font-weight:400">${esc(bs[0].date || "")}</span></h3>
-    <div class="grid2">${bs.map(battleCard).join("")}</div>`).join("");
+  return Object.entries(groups).map(([r, bs]) => {
+    // Playoff rounds: show each series with its running total; any stray battles stay as cards.
+    let cards;
+    if (bs[0].stage === "Playoffs") {
+      const s = SEASON[bs[0].sid];
+      const brs = s.bracket.filter(br => br.round === bs[0].round && seriesBattlesOf(s, br).length);
+      const covered = new Set(brs.flatMap(br => seriesBattlesOf(s, br)));
+      cards = brs.map(br => seriesCard(s, br)).join("") + bs.filter(b => !covered.has(b)).map(battleCard).join("");
+    } else cards = bs.map(battleCard).join("");
+    return `<h3 class="sec">${esc(r)} <span class="muted" style="font-weight:400">${esc(bs[0].date || "")}</span></h3>
+    <div class="grid2">${cards}</div>`;
+  }).join("");
 }
 
 // ---------- characters ----------
