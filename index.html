@@ -769,7 +769,7 @@ function render() {
   document.title = `SFL Stats · ${seasonLabel(season)}`;
   const src = isAll() ? "https://liquipedia.net/fighters/Street_Fighter_League" : SEASON[season].source;
   document.querySelector("h1").textContent = "SFL Stats · " + LEAGUES[curLeague()];
-  document.getElementById("foot").innerHTML = `Data: <a href="${src}" target="_blank" rel="noopener">Liquipedia</a> (CC-BY-SA) · updated ${esc(D.updated)} · refresh with <code>python3 update.py</code>`;
+  document.getElementById("foot").innerHTML = `Data: <a href="${src}" target="_blank" rel="noopener">Liquipedia</a> (CC-BY-SA) · updated ${esc(D.updated)}`;
 }
 document.querySelectorAll("#stage button").forEach(b => b.onclick = () => {
   stage = b.dataset.s;
