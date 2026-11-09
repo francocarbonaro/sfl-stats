@@ -3,6 +3,7 @@
 
 Run:  python3 update.py          # refetch each league's newest season, reuse cached older ones
       python3 update.py --all    # refetch everything
+      python3 update.py --league us   # refetch only that league's newest season (others from cache)
 
 Uses the public MediaWiki API (gzip required, a few seconds between requests).
 Raw wikitext is cached in ./cache so older seasons are only downloaded once.
@@ -393,9 +394,13 @@ def unify_players(seasons):
         for n in set(names_in(s)) - {""}:
             page_for[(s["id"], n)] = s["links"].get(n) or n
     titles = sorted(set(page_for.values()))
-    resolved = {}
-    for i in range(0, len(titles), 50):
-        chunk = titles[i:i + 50]
+    # Name lookups are saved between runs; only new names hit the API.
+    names_file = CACHE / "_player_pages.json"
+    known = json.loads(names_file.read_text()) if names_file.exists() else {}
+    resolved = {t: known[t] for t in titles if t in known}
+    todo = [t for t in titles if t not in known]
+    for i in range(0, len(todo), 50):
+        chunk = todo[i:i + 50]
         d = api({"action": "query", "titles": "|".join(chunk), "redirects": 1})["query"]
         m = {x["from"]: x["to"] for x in d.get("normalized", [])}
         r = {x["from"]: x["to"] for x in d.get("redirects", [])}
@@ -404,6 +409,7 @@ def unify_players(seasons):
             a = m.get(t, t)
             b = r.get(a, a)
             resolved[t] = (b if a not in missing and b not in missing else t).lower()
+    names_file.write_text(json.dumps({**known, **resolved}, ensure_ascii=False, indent=0, sort_keys=True))
     # Display name = how the person was written in the newest season they played.
     display = {}
     for s in seasons:  # newest first
@@ -455,10 +461,11 @@ def unify_team_case(seasons):
 
 def main():
     refresh_all = "--all" in sys.argv
+    only = sys.argv[sys.argv.index("--league") + 1] if "--league" in sys.argv else None
     newest = {}
     for cfg in SEASONS:
         newest.setdefault(cfg["league"], cfg["year"])
-    seasons = [build_season(cfg, refresh=refresh_all or cfg["year"] == newest[cfg["league"]]) for cfg in SEASONS]
+    seasons = [build_season(cfg, refresh=refresh_all or (cfg["year"] == newest[cfg["league"]] and only in (None, cfg["league"]))) for cfg in SEASONS]
     unify_team_case(seasons)
     print("Matching player names across seasons…")
     # Newest seasons first so each player keeps the tag they use now.
