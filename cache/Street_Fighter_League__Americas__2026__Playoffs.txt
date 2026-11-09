@@ -21,10 +21,10 @@
 }}
 
 |R3M1={{Match
-|opponent1={{TeamOpponent|Bandits|score=}}
-|opponent2={{TeamOpponent|2Game Esports|score=}}
+|opponent1={{TeamOpponent|Bandits|score=20}}
+|opponent2={{TeamOpponent|2Game Esports|score=70}}
 |date=
-|winner=
+|winner=2
 }}
 }}
 
@@ -162,47 +162,15 @@
 }}
 }}
 |M3={{Match
-|opponent1={{TeamOpponent|Bandits|score=}}
-|opponent2={{TeamOpponent|2Game Esports|score=}}
+|opponent1={{TeamOpponent|Bandits|score=0}}
+|opponent2={{TeamOpponent|2Game Esports|score=10}}
 |date=
-|winner=
+|winner=2
 |vod=
 |map1={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-|map2={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-|map3={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-}}
-|M4={{Match
-|opponent1={{TeamOpponent|2Game Esports|score=}}
-|opponent2={{TeamOpponent|Bandits|score=}}
-|date=
-|winner=
-|vod=
-|map1={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-|map2={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
-}}
-|map3={{Map
-|t1p1=|o1p1={{Chars|}}|score1=
-|t2p1=|o2p1={{Chars|}}|score2=
-|winner=
+|t1p1=Enzo|o1p1={{Chars|sagat}}|score1=0
+|t2p1=LUGABO|o2p1={{Chars|kimberly}}|score2=2
+|winner=2
 }}
 }}
 }}
